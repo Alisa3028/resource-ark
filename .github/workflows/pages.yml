@@ -1,0 +1,45 @@
+name: Deploy to GitHub Pages
+
+# 纯静态站点，无需构建步骤：直接把仓库内容整体发布到 GitHub Pages。
+# 使用方式：仓库 Settings → Pages → Source 选择 "GitHub Actions"，然后推送到 main 分支。
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      # 资源数据一致性检查：确保 data/resources.json 已随 JSON 源文件一起更新
+      - name: Verify data files
+        run: |
+          test -f data/resources.json || (echo "缺少 data/resources.json，请先在本地运行 python tools/build-data.py" && exit 1)
+          test -f assets/js/data-fallback.js || (echo "缺少本地兜底数据，请先运行 python tools/build-data.py" && exit 1)
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
