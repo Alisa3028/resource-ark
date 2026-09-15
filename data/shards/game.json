@@ -5,7 +5,7 @@
       "id": "game-platform-01",
       "name": "Steam",
       "url": "https://store.steampowered.com/",
-      "desc": "全球最大的 PC 游戏数字发行平台，涵盖商店、创意工坊、好友社区与云存档，PC 玩家装机必备。",
+      "desc": "全球最大的 PC 游戏数字发行平台，涵盖商店、创意工坊、好友社区与云存档，PC 玩家装机必备。【CI 构建自测标记】",
       "tags": [
         "游戏平台",
         "数字发行",
