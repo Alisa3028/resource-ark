@@ -2,6 +2,14 @@
 
 > 一站式优质网站资源导航库 · 纯前端单页应用 · 零后端 · 零数据库 · 零依赖 · 零构建
 
+### 🔗 在线站点：https://alisa3028.github.io/resource-ark/
+
+[![在线站点](https://img.shields.io/badge/在线站点-资源方舟-4f7cff?style=for-the-badge)](https://alisa3028.github.io/resource-ark/)
+[![Pages 部署状态](https://github.com/Alisa3028/resource-ark/actions/workflows/pages.yml/badge.svg)](https://github.com/Alisa3028/resource-ark/actions/workflows/pages.yml)
+
+> **只是想用这个站？点上面那个链接就够了，不需要下载任何东西。**
+> 这个仓库是存放代码的地方；真正能浏览的网站在上面那个地址。
+
 收录 **1446 个真实可用网站**，覆盖 **11 大分类 / 66 个子分类**，全部资源信息存放在独立 JSON 文件中，
 页面代码与数据彻底分离 —— **新增、修改资源只需要编辑 JSON，不用改动任何 HTML**。
 
@@ -14,6 +22,13 @@
 ---
 
 ## 一、快速开始
+
+### 方式 0：直接用线上的（什么都不用装）
+
+打开 **https://alisa3028.github.io/resource-ark/** 即可。
+不用 clone、不用下载、不用起服务器 —— 仓库里只有代码，网站是单独部署的那份。
+
+手机浏览器里点「添加到主屏幕」，之后看起来就跟一个 App 一样。
 
 ### 方式 1：本地直接打开（零配置）
 
@@ -214,8 +229,22 @@ vim data/shards/coding.json
 python tools/build-data.py
 
 # 3. 完成
-#    HTTP 部署环境：改完 JSON 就已生效，构建只是为了同步 tags/stats 与本地兜底数据
 ```
+
+> ⚠️ **页面读的是构建产物，不是 `data/shards/*.json`。**
+> HTTP 环境下页面加载 `data/resources.json`，本地 `file://` 打开时加载 `assets/js/data-fallback.js`，
+> 这两个文件都由 `build-data.py` 生成。**只改 shards 而不重新构建，页面显示的还是旧数据。**
+
+### 在 GitHub 网页上改（不用装 Python）
+
+推到 GitHub 后，`.github/workflows/pages.yml` 会在**每次部署前自动跑一遍构建**，
+所以可以直接在仓库网页上编辑 `data/shards/xxx.json`：
+
+1. 进仓库 → `data/shards/` → 挑一个分片 → 右上角 **✏️ 铅笔**
+2. 改完拉到底 **Commit changes**（直接提交到 `main`）
+3. 等 1–2 分钟：主页 **Actions** 里 `Deploy to GitHub Pages` 转绿，站点即更新
+
+构建脚本只用标准库，CI 里不需要安装任何依赖。若构建失败，部署会直接失败并保持旧版本在线，不会上线空站。
 
 新建分类时，编辑 `data/categories.json` 增加大分类与子分类，再跑一次构建脚本 ——
 页面会自动多出一个分类卡片与独立的子页面，**不需要改任何 HTML / JS**。

@@ -26,14 +26,27 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # 关键一步：页面读的是「构建产物」data/resources.json，而不是 data/shards/*.json。
+      # 所以在 GitHub 网页上改完 shards 之后，必须由这里重新构建一次才会真的生效。
+      # 两个脚本都只用标准库（json / os / re / datetime / random），不需要装任何包。
+      - name: Build data from shards
+        run: |
+          python tools/build-data.py
+          python tools/build-changelog.py
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
-      # 资源数据一致性检查：确保 data/resources.json 已随 JSON 源文件一起更新
+      # 构建完的兜底检查：万一 shards 写坏了，宁可部署失败也不要上线一个空站
       - name: Verify data files
         run: |
-          test -f data/resources.json || (echo "缺少 data/resources.json，请先在本地运行 python tools/build-data.py" && exit 1)
-          test -f assets/js/data-fallback.js || (echo "缺少本地兜底数据，请先运行 python tools/build-data.py" && exit 1)
+          test -s data/resources.json || (echo "data/resources.json 为空，构建失败" && exit 1)
+          test -s assets/js/data-fallback.js || (echo "缺少本地兜底数据" && exit 1)
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
