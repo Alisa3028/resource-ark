@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>我的收藏 · 资源方舟</title>
+  <meta name="description" content="收藏的资源，保存在浏览器本地。">
+  <meta name="robots" content="noindex, follow">
+  <link rel="canonical" href="../index.html">
+  <link rel="icon" type="image/svg+xml" href="../assets/img/favicon.svg">
+  <!--
+    兼容壳：站点已改为 SPA（单页应用），本文件不再承载任何页面内容。
+    它只负责把旧地址（例如 pages/category.html?cat=education）
+    重定向到新的哈希路由（../index.html#/category?cat=education）。
+  -->
+  <script>
+    (function () {
+      var q = location.search || '';
+      location.replace('../index.html#/favorites' + q);
+    })();
+  </script>
+  <style>
+    html, body { height: 100%; margin: 0; }
+    body {
+      display: grid; place-items: center;
+      font-family: "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+      background: #f5f6fb; color: #0f172a; text-align: center; padding: 20px;
+    }
+    .box { max-width: 420px; }
+    .box p { color: #4d5a70; font-size: 14px; line-height: 1.7; }
+    .box a { color: #6366f1; font-weight: 600; }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <p>正在前往「我的收藏」…</p>
+    <noscript>
+      <p>本站已升级为单页应用，需要开启 JavaScript。也可以直接点击下面的链接：</p>
+    </noscript>
+    <p><a href="../index.html#/favorites">手动前往 我的收藏</a></p>
+  </div>
+</body>
+</html>

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="light" data-radius="soft" data-motion="on">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>资源方舟 · 一站式优质网站资源导航库</title>
+  <meta name="description" content="资源方舟收录 1400+ 个优质网站，覆盖学习教育、编程开发、设计素材、办公效率、文献学术、工具转换、资讯数据、生活实用、影音素材、开源工具与游戏娱乐十一大领域，支持多级分类、多标签筛选与全文模糊搜索。">
+  <meta name="keywords" content="网站导航,资源库,效率工具,在线工具,学习资源,设计素材,开源软件,游戏网站,娱乐网站">
+  <meta name="author" content="我很能忍11">
+  <meta name="theme-color" content="#f5f6fb">
+  <link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
+  <link rel="apple-touch-icon" href="assets/img/favicon.svg">
+
+  <!-- 样式：变量与主题 → 基础 → 组件 → 布局 → 全局背景 → 动效 -->
+  <link rel="stylesheet" href="assets/css/theme.css">
+  <link rel="stylesheet" href="assets/css/base.css">
+  <link rel="stylesheet" href="assets/css/components.css">
+  <link rel="stylesheet" href="assets/css/layout.css">
+  <link rel="stylesheet" href="assets/css/background.css">
+  <link rel="stylesheet" href="assets/css/animations.css">
+
+  <!-- 首屏主题预设：在 CSS 解析后、JS 加载前立即生效，避免深浅色闪白 -->
+  <script>
+    (function () {
+      function val(k, d) {
+        try {
+          var v = localStorage.getItem(k);
+          if (v === null) return d;
+          try { return JSON.parse(v); } catch (e) { return v; }
+        } catch (e) { return d; }
+      }
+      var root = document.documentElement;
+      root.setAttribute('data-theme', val('ark.theme', 'light'));
+      root.setAttribute('data-radius', val('ark.radius', 'soft'));
+      root.setAttribute('data-motion', val('ark.motion', true) ? 'on' : 'off');
+      var accent = val('ark.accent', null);
+      if (accent) { root.style.setProperty('--accent', accent); }
+    })();
+  </script>
+</head>
+<body data-page="spa" data-route="home">
+
+  <!-- 全局背景插画层：由 assets/js/components/background.js 注入并控制视差 -->
+  <div id="ark-bg" class="bg-figure" aria-hidden="true"></div>
+
+  <!-- 顶部导航：由 assets/js/components/navbar.js 渲染（只在启动时渲染一次） -->
+  <header id="ark-nav"></header>
+
+  <!-- 面包屑：由各页面模块通过 Ark.breadcrumb.render() 填充，未填充时自动隐藏 -->
+  <div class="wrap crumb-wrap"><nav id="ark-crumb"></nav></div>
+
+  <!-- 页面主体：SPA 路由容器，切换页面时只重绘这里 -->
+  <main class="page main" id="ark-content">
+    <div class="wrap" style="padding:68px 0 40px;text-align:center">
+      <div class="sk" style="height:28px;width:260px;margin:0 auto 14px;border-radius:10px"></div>
+      <div class="sk" style="height:14px;width:min(420px,80%);margin:0 auto 30px"></div>
+      <div class="hero-stats" style="max-width:560px;margin:0 auto">
+        <div class="stat"><div class="sk" style="height:26px;width:70%;margin-bottom:8px"></div><div class="sk" style="height:12px;width:50%"></div></div>
+        <div class="stat"><div class="sk" style="height:26px;width:70%;margin-bottom:8px"></div><div class="sk" style="height:12px;width:50%"></div></div>
+        <div class="stat"><div class="sk" style="height:26px;width:70%;margin-bottom:8px"></div><div class="sk" style="height:12px;width:50%"></div></div>
+        <div class="stat"><div class="sk" style="height:26px;width:70%;margin-bottom:8px"></div><div class="sk" style="height:12px;width:50%"></div></div>
+      </div>
+    </div>
+  </main>
+
+  <!-- 页脚：由 assets/js/components/footer.js 渲染 -->
+  <footer id="ark-footer"></footer>
+
+  <noscript>
+    <div class="wrap" style="padding:40px 0">
+      <div class="panel panel-pad">
+        <h2>需要开启 JavaScript</h2>
+        <p class="muted">本站是纯前端单页应用，资源数据存放在 data/*.json，路由、搜索、筛选、虚拟滚动等功能都依赖 JavaScript 渲染，请在浏览器中启用后重试。</p>
+      </div>
+    </div>
+  </noscript>
+
+  <!-- 核心引擎（顺序不可调换：配置 → 工具 → 图标 → 存储 → 主题 → 数据 → 搜索 → 虚拟滚动 → 懒加载 → 路由） -->
+  <script src="assets/js/core/config.js"></script>
+  <script src="assets/js/core/utils.js"></script>
+  <script src="assets/js/core/icons.js"></script>
+  <script src="assets/js/core/store.js"></script>
+  <script src="assets/js/core/theme.js"></script>
+  <script src="assets/js/core/data.js"></script>
+  <script src="assets/js/core/search.js"></script>
+  <script src="assets/js/core/virtual.js"></script>
+  <script src="assets/js/core/lazyload.js"></script>
+  <script src="assets/js/core/router.js"></script>
+
+  <!-- 公共组件 -->
+  <script src="assets/js/components/toast.js"></script>
+  <script src="assets/js/components/skeleton.js"></script>
+  <script src="assets/js/components/card.js"></script>
+  <script src="assets/js/components/backtotop.js"></script>
+  <script src="assets/js/components/quote.js"></script>
+  <script src="assets/js/components/background.js"></script>
+  <script src="assets/js/components/navbar.js"></script>
+  <script src="assets/js/components/footer.js"></script>
+  <script src="assets/js/components/breadcrumb.js"></script>
+  <script src="assets/js/components/pagination.js"></script>
+  <script src="assets/js/components/filterbar.js"></script>
+  <script src="assets/js/components/results.js"></script>
+  <script src="assets/js/components/shortcuts.js"></script>
+
+  <!-- 页面模块：SPA 全部预加载，路由切换时按需调用（无需再请求新页面） -->
+  <script src="assets/js/pages/home.js"></script>
+  <script src="assets/js/pages/category.js"></script>
+  <script src="assets/js/pages/detail.js"></script>
+  <script src="assets/js/pages/search.js"></script>
+  <script src="assets/js/pages/tags.js"></script>
+  <script src="assets/js/pages/changelog.js"></script>
+  <script src="assets/js/pages/about.js"></script>
+  <script src="assets/js/pages/history.js"></script>
+  <script src="assets/js/pages/favorites.js"></script>
+  <script src="assets/js/pages/feedback.js"></script>
+
+  <!-- SPA 启动器 -->
+  <script src="assets/js/main.js"></script>
+</body>
+</html>

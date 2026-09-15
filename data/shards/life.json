@@ -1,0 +1,2420 @@
+{
+  "category": "life",
+  "resources": [
+    {
+      "id": "life-traffic-01",
+      "name": "12306",
+      "url": "https://www.12306.cn/",
+      "desc": "中国铁路官方购票平台，火车票唯一官方渠道，支持余票查询与在线改签。",
+      "tags": [
+        "火车票",
+        "官方",
+        "出行",
+        "购票"
+      ],
+      "cat": "life",
+      "sub": "traffic",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-03-12"
+    },
+    {
+      "id": "life-traffic-02",
+      "name": "携程旅行",
+      "url": "https://www.ctrip.com/",
+      "desc": "综合旅行预订平台，覆盖机票酒店火车票与度假套餐，退改服务成熟。",
+      "tags": [
+        "机票",
+        "酒店",
+        "预订",
+        "综合"
+      ],
+      "cat": "life",
+      "sub": "traffic",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-05-21"
+    },
+    {
+      "id": "life-traffic-03",
+      "name": "飞猪",
+      "url": "https://www.fliggy.com/",
+      "desc": "阿里巴巴旗下旅行平台，主打机票酒店与景区门票，常配合会员权益。",
+      "tags": [
+        "机票",
+        "酒店",
+        "门票",
+        "阿里"
+      ],
+      "cat": "life",
+      "sub": "traffic",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-07-08"
+    },
+    {
+      "id": "life-traffic-04",
+      "name": "高德地图",
+      "url": "https://amap.com/",
+      "desc": "国内主流导航地图，实时路况与公交驾车导航精准，内置打车与周边。",
+      "tags": [
+        "导航",
+        "地图",
+        "路况",
+        "实时"
+      ],
+      "cat": "life",
+      "sub": "traffic",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-02-15"
+    },
+    {
+      "id": "life-traffic-05",
+      "name": "百度地图",
+      "url": "https://map.baidu.com/",
+      "desc": "百度出品地图导航，覆盖全景与街景，支持公交地铁与商户检索。",
+      "tags": [
+        "地图",
+        "导航",
+        "公交",
+        "检索"
+      ],
+      "cat": "life",
+      "sub": "traffic",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-09-30"
+    },
+    {
+      "id": "life-traffic-06",
+      "name": "Google Maps",
+      "url": "https://maps.google.com/",
+      "desc": "全球地图导航服务，海外出行必备，街景与公共交通数据完善。",
+      "tags": [
+        "地图",
+        "导航",
+        "海外",
+        "街景"
+      ],
+      "cat": "life",
+      "sub": "traffic",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-11-11"
+    },
+    {
+      "id": "life-traffic-07",
+      "name": "航旅纵横",
+      "url": "https://www.umetrip.com/",
+      "desc": "中航信官方航旅助手，管理行程与电子登机牌，航班动态权威准确。",
+      "tags": [
+        "航班",
+        "行程",
+        "登机牌",
+        "官方"
+      ],
+      "cat": "life",
+      "sub": "traffic",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-01-19"
+    },
+    {
+      "id": "life-traffic-08",
+      "name": "去哪儿旅行",
+      "url": "https://www.qunar.com/",
+      "desc": "旅行比价预订平台，聚合多家航司与代理报价，便于横向比价。",
+      "tags": [
+        "比价",
+        "机票",
+        "酒店",
+        "预订"
+      ],
+      "cat": "life",
+      "sub": "traffic",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-02-26"
+    },
+    {
+      "id": "life-traffic-09",
+      "name": "同程旅行",
+      "url": "https://www.ly.com/",
+      "desc": "在线旅行平台，火车票机票酒店一站式预订，常推特价与会员权益。",
+      "tags": [
+        "火车票",
+        "机票",
+        "酒店",
+        "特价"
+      ],
+      "cat": "life",
+      "sub": "traffic",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-04-03"
+    },
+    {
+      "id": "life-traffic-10",
+      "name": "马蜂窝",
+      "url": "https://www.mafengwo.com/",
+      "desc": "旅游攻略社区，用户真实游记与目的地点评，适合自由行规划。",
+      "tags": [
+        "攻略",
+        "社区",
+        "自由行",
+        "点评"
+      ],
+      "cat": "life",
+      "sub": "traffic",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-05-17"
+    },
+    {
+      "id": "life-traffic-11",
+      "name": "途牛",
+      "url": "https://www.tuniu.com/",
+      "desc": "跟团与自由行预订平台，主打打包旅游产品与线路规划。",
+      "tags": [
+        "跟团",
+        "线路",
+        "度假",
+        "预订"
+      ],
+      "cat": "life",
+      "sub": "traffic",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-22"
+    },
+    {
+      "id": "life-traffic-12",
+      "name": "滴滴出行",
+      "url": "https://www.didiglobal.com/",
+      "desc": "国内主流网约车平台，快车专车与出租车一键呼叫，覆盖城市广。",
+      "tags": [
+        "打车",
+        "网约车",
+        "出行",
+        "城市"
+      ],
+      "cat": "life",
+      "sub": "traffic",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-08-09"
+    },
+    {
+      "id": "life-traffic-13",
+      "name": "腾讯地图",
+      "url": "https://map.qq.com/",
+      "desc": "腾讯出品地图导航，路况与公交查询稳定，支持位置共享。",
+      "tags": [
+        "地图",
+        "导航",
+        "路况",
+        "共享"
+      ],
+      "cat": "life",
+      "sub": "traffic",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-09-14"
+    },
+    {
+      "id": "life-traffic-14",
+      "name": "飞常准",
+      "url": "https://www.variflight.com/",
+      "desc": "专业航班实时追踪工具，提供起降动态与延误预测，数据精细。",
+      "tags": [
+        "航班",
+        "实时",
+        "追踪",
+        "延误"
+      ],
+      "cat": "life",
+      "sub": "traffic",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-10-28"
+    },
+    {
+      "id": "life-traffic-15",
+      "name": "中国国航",
+      "url": "https://www.airchina.com/",
+      "desc": "中国国际航空官网，机票预订与会员里程管理，官方直营渠道。",
+      "tags": [
+        "机票",
+        "航司",
+        "官方",
+        "里程"
+      ],
+      "cat": "life",
+      "sub": "traffic",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-12-05"
+    },
+    {
+      "id": "life-traffic-16",
+      "name": "东方航空",
+      "url": "https://www.ceair.com/",
+      "desc": "东方航空官方预订，机票与值机服务，常推会员专属优惠。",
+      "tags": [
+        "机票",
+        "航司",
+        "官方",
+        "值机"
+      ],
+      "cat": "life",
+      "sub": "traffic",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2026-01-13"
+    },
+    {
+      "id": "life-traffic-17",
+      "name": "南方航空",
+      "url": "https://www.csair.com/",
+      "desc": "南方航空官网，机票酒店与里程兑换，明珠会员体系完善。",
+      "tags": [
+        "机票",
+        "航司",
+        "官方",
+        "里程"
+      ],
+      "cat": "life",
+      "sub": "traffic",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2026-02-27"
+    },
+    {
+      "id": "life-traffic-18",
+      "name": "春秋航空",
+      "url": "https://www.ch.com/",
+      "desc": "低成本航空官网，特价机票与行李规则清晰，适合省钱出行。",
+      "tags": [
+        "廉航",
+        "特价",
+        "机票",
+        "官方"
+      ],
+      "cat": "life",
+      "sub": "traffic",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2026-04-02"
+    },
+    {
+      "id": "life-traffic-19",
+      "name": "中国民航局",
+      "url": "https://www.caac.gov.cn/",
+      "desc": "民航行业主管官网，发布航班正常性与行业政策权威信息。",
+      "tags": [
+        "民航",
+        "政策",
+        "官方",
+        "行业"
+      ],
+      "cat": "life",
+      "sub": "traffic",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2026-05-19"
+    },
+    {
+      "id": "life-traffic-20",
+      "name": "一嗨租车",
+      "url": "https://www.1hai.cn/",
+      "desc": "全国连锁自驾租车，门店覆盖广，线上预订取还车便捷。",
+      "tags": [
+        "租车",
+        "自驾",
+        "连锁",
+        "出行"
+      ],
+      "cat": "life",
+      "sub": "traffic",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2026-07-01"
+    },
+    {
+      "id": "life-health-01",
+      "name": "国家卫健委",
+      "url": "https://www.nhc.gov.cn/",
+      "desc": "卫生健康行业主管部门官网，发布权威政策与公共卫生指南。",
+      "tags": [
+        "卫健委",
+        "官方",
+        "政策",
+        "公共卫生"
+      ],
+      "cat": "life",
+      "sub": "health",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-01-23"
+    },
+    {
+      "id": "life-health-02",
+      "name": "丁香医生",
+      "url": "https://dxy.com/",
+      "desc": "大众健康科普与在线问诊平台，内容由医生审核，可信度高。",
+      "tags": [
+        "科普",
+        "问诊",
+        "健康",
+        "医生"
+      ],
+      "cat": "life",
+      "sub": "health",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-04-07"
+    },
+    {
+      "id": "life-health-03",
+      "name": "中华医学会",
+      "url": "https://www.cma.org.cn/",
+      "desc": "全国医学学术团体官网，发布临床指南与继续教育资源。",
+      "tags": [
+        "医学",
+        "指南",
+        "学术",
+        "官方"
+      ],
+      "cat": "life",
+      "sub": "health",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-06-18"
+    },
+    {
+      "id": "life-health-04",
+      "name": "Mayo Clinic",
+      "url": "https://www.mayoclinic.org/",
+      "desc": "美国顶尖综合医院健康知识库，疾病与症状科普权威详尽。",
+      "tags": [
+        "健康",
+        "科普",
+        "权威",
+        "英文"
+      ],
+      "cat": "life",
+      "sub": "health",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-08-02"
+    },
+    {
+      "id": "life-health-05",
+      "name": "MedlinePlus",
+      "url": "https://medlineplus.gov/",
+      "desc": "美国国立医学图书馆健康百科，循证医学词条免费查阅。",
+      "tags": [
+        "医学",
+        "百科",
+        "循证",
+        "英文"
+      ],
+      "cat": "life",
+      "sub": "health",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-10-14"
+    },
+    {
+      "id": "life-health-06",
+      "name": "药智数据",
+      "url": "https://www.yaozh.com/",
+      "desc": "医药数据查询平台，药品说明书与一致性评价信息专业全面。",
+      "tags": [
+        "药品",
+        "数据",
+        "说明书",
+        "专业"
+      ],
+      "cat": "life",
+      "sub": "health",
+      "hot": 2,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-12-09"
+    },
+    {
+      "id": "life-health-07",
+      "name": "好大夫在线",
+      "url": "https://www.haodf.com/",
+      "desc": "在线问诊与医生预约平台，覆盖三甲医院专家出诊信息。",
+      "tags": [
+        "问诊",
+        "医生",
+        "预约",
+        "三甲"
+      ],
+      "cat": "life",
+      "sub": "health",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-01-30"
+    },
+    {
+      "id": "life-health-08",
+      "name": "WebMD",
+      "url": "https://www.webmd.com/",
+      "desc": "国际知名健康资讯站，症状自查与用药科普内容体系成熟。",
+      "tags": [
+        "健康",
+        "科普",
+        "自查",
+        "英文"
+      ],
+      "cat": "life",
+      "sub": "health",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-03-11"
+    },
+    {
+      "id": "life-health-09",
+      "name": "世界卫生组织",
+      "url": "https://www.who.int/",
+      "desc": "世界卫生组织官网，全球公共卫生议题与疫情信息权威发布。",
+      "tags": [
+        "WHO",
+        "公共卫生",
+        "全球",
+        "官方"
+      ],
+      "cat": "life",
+      "sub": "health",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-04-25"
+    },
+    {
+      "id": "life-health-10",
+      "name": "中国疾控中心",
+      "url": "https://www.chinacdc.cn/",
+      "desc": "疾控领域权威机构，传染病监测与防控指南官方发布。",
+      "tags": [
+        "疾控",
+        "防疫",
+        "官方",
+        "监测"
+      ],
+      "cat": "life",
+      "sub": "health",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-08"
+    },
+    {
+      "id": "life-health-11",
+      "name": "国家药监局",
+      "url": "https://www.nmpa.gov.cn/",
+      "desc": "药品医疗器械监管官网，批准文号与召回信息公开可查。",
+      "tags": [
+        "药监",
+        "官方",
+        "药品",
+        "监管"
+      ],
+      "cat": "life",
+      "sub": "health",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-07-19"
+    },
+    {
+      "id": "life-health-12",
+      "name": "默沙东诊疗手册",
+      "url": "https://www.msdmanuals.com/",
+      "desc": "经典医学参考书在线版，专业诊疗与用药知识开放查阅。",
+      "tags": [
+        "诊疗",
+        "手册",
+        "医学",
+        "英文"
+      ],
+      "cat": "life",
+      "sub": "health",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-09-02"
+    },
+    {
+      "id": "life-health-13",
+      "name": "美国疾控中心",
+      "url": "https://www.cdc.gov/",
+      "desc": "美国疾控中心官网，传染病防控与疫苗指南权威资料库。",
+      "tags": [
+        "疾控",
+        "防疫",
+        "美国",
+        "官方"
+      ],
+      "cat": "life",
+      "sub": "health",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-10-17"
+    },
+    {
+      "id": "life-health-14",
+      "name": "英国NHS",
+      "url": "https://www.nhs.uk/",
+      "desc": "英国国家医疗服务健康百科，症状与就医指引通俗易懂。",
+      "tags": [
+        "健康",
+        "百科",
+        "英国",
+        "官方"
+      ],
+      "cat": "life",
+      "sub": "health",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-11-29"
+    },
+    {
+      "id": "life-health-15",
+      "name": "丁香园",
+      "url": "https://www.dxy.cn/",
+      "desc": "医生专业社区，论文与临床讨论活跃，面向医疗从业者。",
+      "tags": [
+        "医生",
+        "社区",
+        "学术",
+        "专业"
+      ],
+      "cat": "life",
+      "sub": "health",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-12-21"
+    },
+    {
+      "id": "life-health-16",
+      "name": "微医",
+      "url": "https://www.guahao.com/",
+      "desc": "互联网医院平台，预约挂号与在线复诊，连接实体医疗机构。",
+      "tags": [
+        "问诊",
+        "挂号",
+        "互联网医院",
+        "复诊"
+      ],
+      "cat": "life",
+      "sub": "health",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2026-02-08"
+    },
+    {
+      "id": "life-health-17",
+      "name": "春雨医生",
+      "url": "https://www.chunyuyisheng.com/",
+      "desc": "移动端在线问诊应用，快速咨询执业医师，隐私保护好。",
+      "tags": [
+        "问诊",
+        "移动",
+        "医生",
+        "快速"
+      ],
+      "cat": "life",
+      "sub": "health",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2026-03-15"
+    },
+    {
+      "id": "life-health-18",
+      "name": "阿里健康",
+      "url": "https://www.alijk.com/",
+      "desc": "阿里旗下医药健康平台，在线购药与医典科普结合。",
+      "tags": [
+        "购药",
+        "健康",
+        "阿里",
+        "科普"
+      ],
+      "cat": "life",
+      "sub": "health",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2026-04-27"
+    },
+    {
+      "id": "life-health-19",
+      "name": "中国医药信息查询平台",
+      "url": "https://www.dayi.org.cn/",
+      "desc": "国家卫健委旗下权威医药数据库，药品与机构信息可核验。",
+      "tags": [
+        "医药",
+        "数据库",
+        "官方",
+        "核验"
+      ],
+      "cat": "life",
+      "sub": "health",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2026-06-10"
+    },
+    {
+      "id": "life-health-20",
+      "name": "医脉通",
+      "url": "https://www.medlive.cn/",
+      "desc": "临床医生专业平台，指南文献与用药参考工具齐全。",
+      "tags": [
+        "临床",
+        "文献",
+        "指南",
+        "专业"
+      ],
+      "cat": "life",
+      "sub": "health",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2026-08-03"
+    },
+    {
+      "id": "life-food-01",
+      "name": "下厨房",
+      "url": "https://www.xiachufang.com/",
+      "desc": "热门家常菜谱社区，步骤图解清晰，附食材用量与用户作品。",
+      "tags": [
+        "菜谱",
+        "社区",
+        "家常",
+        "图文"
+      ],
+      "cat": "life",
+      "sub": "food",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-02-09"
+    },
+    {
+      "id": "life-food-02",
+      "name": "豆果美食",
+      "url": "https://www.douguo.com/",
+      "desc": "美食分享社区，菜谱视频与图文齐全，支持按食材检索。",
+      "tags": [
+        "菜谱",
+        "视频",
+        "社区",
+        "食材"
+      ],
+      "cat": "life",
+      "sub": "food",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-03-28"
+    },
+    {
+      "id": "life-food-03",
+      "name": "美食杰",
+      "url": "https://www.meishij.net/",
+      "desc": "菜谱做法大全，分类细致含营养数据与烹饪技巧。",
+      "tags": [
+        "菜谱",
+        "做法",
+        "营养",
+        "分类"
+      ],
+      "cat": "life",
+      "sub": "food",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-05-15"
+    },
+    {
+      "id": "life-food-04",
+      "name": "大众点评",
+      "url": "https://www.dianping.com/",
+      "desc": "本地生活与餐厅点评平台，商户评分与用户评价参考性强。",
+      "tags": [
+        "点评",
+        "餐厅",
+        "商户",
+        "本地"
+      ],
+      "cat": "life",
+      "sub": "food",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-07-01"
+    },
+    {
+      "id": "life-food-05",
+      "name": "Allrecipes",
+      "url": "https://www.allrecipes.com/",
+      "desc": "国际菜谱社区，用户评分与做法讨论活跃，配方可缩放。",
+      "tags": [
+        "菜谱",
+        "社区",
+        "英文",
+        "配方"
+      ],
+      "cat": "life",
+      "sub": "food",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-08-20"
+    },
+    {
+      "id": "life-food-06",
+      "name": "Serious Eats",
+      "url": "https://www.seriouseats.com/",
+      "desc": "深度美食科普与实测菜谱站，技法解析严谨可信。",
+      "tags": [
+        "菜谱",
+        "科普",
+        "实测",
+        "英文"
+      ],
+      "cat": "life",
+      "sub": "food",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-10-05"
+    },
+    {
+      "id": "life-food-07",
+      "name": "美食天下",
+      "url": "https://www.meishichina.com/",
+      "desc": "综合菜谱网站，家常与特色菜谱海量，检索方便。",
+      "tags": [
+        "菜谱",
+        "家常",
+        "综合",
+        "检索"
+      ],
+      "cat": "life",
+      "sub": "food",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-11-22"
+    },
+    {
+      "id": "life-food-08",
+      "name": "好豆网",
+      "url": "https://www.haodou.com/",
+      "desc": "菜谱与美食社区，含视频做法与饮食健康栏目。",
+      "tags": [
+        "菜谱",
+        "视频",
+        "社区",
+        "健康"
+      ],
+      "cat": "life",
+      "sub": "food",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-01-08"
+    },
+    {
+      "id": "life-food-09",
+      "name": "心食谱",
+      "url": "https://www.xinshipu.com/",
+      "desc": "简洁菜谱站，按人群与场景分类，步骤易于上手。",
+      "tags": [
+        "菜谱",
+        "分类",
+        "易做",
+        "家常"
+      ],
+      "cat": "life",
+      "sub": "food",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-02-19"
+    },
+    {
+      "id": "life-food-10",
+      "name": "小红书",
+      "url": "https://www.xiaohongshu.com/",
+      "desc": "生活方式社区，美食探店与自制食谱笔记内容丰富。",
+      "tags": [
+        "探店",
+        "笔记",
+        "社区",
+        "美食"
+      ],
+      "cat": "life",
+      "sub": "food",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-03-30"
+    },
+    {
+      "id": "life-food-11",
+      "name": "美团",
+      "url": "https://www.meituan.com/",
+      "desc": "本地生活平台，外卖与到店餐饮优惠，商户信息全。",
+      "tags": [
+        "外卖",
+        "餐饮",
+        "优惠",
+        "本地"
+      ],
+      "cat": "life",
+      "sub": "food",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-05-12"
+    },
+    {
+      "id": "life-food-12",
+      "name": "饿了么",
+      "url": "https://www.ele.me/",
+      "desc": "主流外卖平台，餐厅配送与会员红包，覆盖城市广。",
+      "tags": [
+        "外卖",
+        "配送",
+        "红包",
+        "餐饮"
+      ],
+      "cat": "life",
+      "sub": "food",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-25"
+    },
+    {
+      "id": "life-food-13",
+      "name": "Yummly",
+      "url": "https://www.yummly.com/",
+      "desc": "个性化菜谱推荐应用，可按忌口与营养定制每日菜单。",
+      "tags": [
+        "菜谱",
+        "推荐",
+        "定制",
+        "英文"
+      ],
+      "cat": "life",
+      "sub": "food",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-08-07"
+    },
+    {
+      "id": "life-food-14",
+      "name": "Epicurious",
+      "url": "https://www.epicurious.com/",
+      "desc": "美食杂志旗下菜谱站，编辑精选与节日菜单质量高。",
+      "tags": [
+        "菜谱",
+        "精选",
+        "节日",
+        "英文"
+      ],
+      "cat": "life",
+      "sub": "food",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-09-21"
+    },
+    {
+      "id": "life-food-15",
+      "name": "Food Network",
+      "url": "https://www.foodnetwork.com/",
+      "desc": "美食电视网菜谱站，视频教程与厨艺节目结合。",
+      "tags": [
+        "菜谱",
+        "视频",
+        "厨艺",
+        "英文"
+      ],
+      "cat": "life",
+      "sub": "food",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-11-03"
+    },
+    {
+      "id": "life-food-16",
+      "name": "BBC Good Food",
+      "url": "https://www.bbcgoodfood.com/",
+      "desc": "BBC美食栏目菜谱库，英式家常与烘焙配方可靠。",
+      "tags": [
+        "菜谱",
+        "烘焙",
+        "英式",
+        "英文"
+      ],
+      "cat": "life",
+      "sub": "food",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-12-16"
+    },
+    {
+      "id": "life-food-17",
+      "name": "Zomato",
+      "url": "https://www.zomato.com/",
+      "desc": "全球餐厅发现平台，商户菜单与评分点评覆盖多国。",
+      "tags": [
+        "餐厅",
+        "点评",
+        "全球",
+        "英文"
+      ],
+      "cat": "life",
+      "sub": "food",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2026-01-28"
+    },
+    {
+      "id": "life-food-18",
+      "name": "Yelp",
+      "url": "https://www.yelp.com/",
+      "desc": "美国商户点评站，餐厅与本地商家口碑评价参考价值高。",
+      "tags": [
+        "点评",
+        "商户",
+        "美国",
+        "英文"
+      ],
+      "cat": "life",
+      "sub": "food",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2026-03-11"
+    },
+    {
+      "id": "life-food-19",
+      "name": "香哈网",
+      "url": "https://www.xiangha.com/",
+      "desc": "家常菜谱与养生食疗站，做法分步图解，适合新手。",
+      "tags": [
+        "菜谱",
+        "食疗",
+        "新手",
+        "图文"
+      ],
+      "cat": "life",
+      "sub": "food",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2026-05-04"
+    },
+    {
+      "id": "life-food-20",
+      "name": "口碑",
+      "url": "https://www.koubei.com/",
+      "desc": "阿里旗下餐饮到店平台，团购与评价结合，主打本地优惠。",
+      "tags": [
+        "餐饮",
+        "团购",
+        "评价",
+        "本地"
+      ],
+      "cat": "life",
+      "sub": "food",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2026-07-19"
+    },
+    {
+      "id": "life-shop-01",
+      "name": "什么值得买",
+      "url": "https://www.smzdm.com/",
+      "desc": "消费决策平台，好价爆料与原创评测，帮用户理性下单。",
+      "tags": [
+        "好价",
+        "评测",
+        "消费",
+        "社区"
+      ],
+      "cat": "life",
+      "sub": "shop",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-01-15"
+    },
+    {
+      "id": "life-shop-02",
+      "name": "慢慢买",
+      "url": "https://www.manmanbuy.com/",
+      "desc": "全网历史价格查询与比价工具，监控降价提醒超实用。",
+      "tags": [
+        "比价",
+        "历史价",
+        "降价",
+        "工具"
+      ],
+      "cat": "life",
+      "sub": "shop",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-03-09"
+    },
+    {
+      "id": "life-shop-03",
+      "name": "京东",
+      "url": "https://www.jd.com/",
+      "desc": "自营电商巨头，家电数码正品快送，PLUS会员权益丰富。",
+      "tags": [
+        "电商",
+        "自营",
+        "数码",
+        "快递"
+      ],
+      "cat": "life",
+      "sub": "shop",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-04-22"
+    },
+    {
+      "id": "life-shop-04",
+      "name": "天猫",
+      "url": "https://www.tmall.com/",
+      "desc": "阿里品牌商城，官方旗舰店集聚，品质与售后较有保障。",
+      "tags": [
+        "电商",
+        "品牌",
+        "旗舰店",
+        "阿里"
+      ],
+      "cat": "life",
+      "sub": "shop",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-06-03"
+    },
+    {
+      "id": "life-shop-05",
+      "name": "Keepa",
+      "url": "https://keepa.com/",
+      "desc": "亚马逊价格追踪插件，商品历史价格波动曲线一目了然。",
+      "tags": [
+        "比价",
+        "亚马逊",
+        "追踪",
+        "英文"
+      ],
+      "cat": "life",
+      "sub": "shop",
+      "hot": 2,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-07-17"
+    },
+    {
+      "id": "life-shop-06",
+      "name": "CamelCamelCamel",
+      "url": "https://camelcamelcamel.com/",
+      "desc": "Amazon历史价格查询站，免费查看降价趋势与提醒。",
+      "tags": [
+        "比价",
+        "亚马逊",
+        "历史价",
+        "英文"
+      ],
+      "cat": "life",
+      "sub": "shop",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-09-01"
+    },
+    {
+      "id": "life-shop-07",
+      "name": "淘宝",
+      "url": "https://www.taobao.com/",
+      "desc": "综合网购平台，海量卖家与商品，适合淘选特色好物。",
+      "tags": [
+        "电商",
+        "网购",
+        "淘货",
+        "综合"
+      ],
+      "cat": "life",
+      "sub": "shop",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-10-13"
+    },
+    {
+      "id": "life-shop-08",
+      "name": "拼多多",
+      "url": "https://www.pinduoduo.com/",
+      "desc": "社交拼团电商，百亿补贴下价格常具优势，日用刚需友好。",
+      "tags": [
+        "拼团",
+        "补贴",
+        "电商",
+        "低价"
+      ],
+      "cat": "life",
+      "sub": "shop",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-11-26"
+    },
+    {
+      "id": "life-shop-09",
+      "name": "苏宁易购",
+      "url": "https://www.suning.com/",
+      "desc": "家电3C电商，线下门店协同，大件配送安装一体。",
+      "tags": [
+        "电商",
+        "家电",
+        "3C",
+        "配送"
+      ],
+      "cat": "life",
+      "sub": "shop",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-01-07"
+    },
+    {
+      "id": "life-shop-10",
+      "name": "国美",
+      "url": "https://www.gome.com.cn/",
+      "desc": "老牌家电零售电商，大家电价格与以旧换新活动稳定。",
+      "tags": [
+        "电商",
+        "家电",
+        "零售",
+        "换新"
+      ],
+      "cat": "life",
+      "sub": "shop",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-02-20"
+    },
+    {
+      "id": "life-shop-11",
+      "name": "亚马逊",
+      "url": "https://www.amazon.com/",
+      "desc": "全球综合电商，海外购与Prime会员体系成熟。",
+      "tags": [
+        "电商",
+        "海外购",
+        "Prime",
+        "综合"
+      ],
+      "cat": "life",
+      "sub": "shop",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-04-04"
+    },
+    {
+      "id": "life-shop-12",
+      "name": "网易严选",
+      "url": "https://you.163.com/",
+      "desc": "ODM模式精选电商，主打高性价比自有品牌好物。",
+      "tags": [
+        "电商",
+        "严选",
+        "性价比",
+        "自有"
+      ],
+      "cat": "life",
+      "sub": "shop",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-05-18"
+    },
+    {
+      "id": "life-shop-13",
+      "name": "小米商城",
+      "url": "https://www.mi.com/",
+      "desc": "小米官方商城，手机与生态链产品首发，米粉社区活跃。",
+      "tags": [
+        "官方",
+        "数码",
+        "生态",
+        "首发"
+      ],
+      "cat": "life",
+      "sub": "shop",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-30"
+    },
+    {
+      "id": "life-shop-14",
+      "name": "唯品会",
+      "url": "https://www.vip.com/",
+      "desc": "品牌特卖电商，服饰美妆折扣集中，会员专享价多。",
+      "tags": [
+        "特卖",
+        "折扣",
+        "服饰",
+        "会员"
+      ],
+      "cat": "life",
+      "sub": "shop",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-08-12"
+    },
+    {
+      "id": "life-shop-15",
+      "name": "返利网",
+      "url": "https://www.fanli.com/",
+      "desc": "网购返利平台，跳转下单返现，叠加优惠更划算。",
+      "tags": [
+        "返利",
+        "优惠",
+        "省钱",
+        "电商"
+      ],
+      "cat": "life",
+      "sub": "shop",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-09-25"
+    },
+    {
+      "id": "life-shop-16",
+      "name": "一淘",
+      "url": "https://www.etao.com/",
+      "desc": "阿里比价返利工具，跨站比价与集分宝返利一体。",
+      "tags": [
+        "比价",
+        "返利",
+        "阿里",
+        "工具"
+      ],
+      "cat": "life",
+      "sub": "shop",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-11-08"
+    },
+    {
+      "id": "life-shop-17",
+      "name": "PriceSpy",
+      "url": "https://pricespy.com/",
+      "desc": "新西兰澳洲比价站，同款商品价格横向对比清晰。",
+      "tags": [
+        "比价",
+        "跨境",
+        "英文",
+        "价格"
+      ],
+      "cat": "life",
+      "sub": "shop",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-12-21"
+    },
+    {
+      "id": "life-shop-18",
+      "name": "Idealo",
+      "url": "https://www.idealo.co.uk/",
+      "desc": "欧洲比价引擎，覆盖多国零售商报价，省钱利器。",
+      "tags": [
+        "比价",
+        "欧洲",
+        "英文",
+        "引擎"
+      ],
+      "cat": "life",
+      "sub": "shop",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2026-02-03"
+    },
+    {
+      "id": "life-shop-19",
+      "name": "eBay",
+      "url": "https://www.ebay.com/",
+      "desc": "全球C2C拍卖购物平台，二手与稀有物品选择丰富。",
+      "tags": [
+        "拍卖",
+        "二手",
+        "全球",
+        "英文"
+      ],
+      "cat": "life",
+      "sub": "shop",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2026-03-19"
+    },
+    {
+      "id": "life-shop-20",
+      "name": "当当",
+      "url": "https://www.dangdang.com/",
+      "desc": "老牌图书电商，正版书与童书品类齐全，常推满减。",
+      "tags": [
+        "图书",
+        "电商",
+        "正版",
+        "满减"
+      ],
+      "cat": "life",
+      "sub": "shop",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2026-05-30"
+    },
+    {
+      "id": "life-weather-01",
+      "name": "中国天气网",
+      "url": "https://www.weather.com.cn/",
+      "desc": "中国气象局官方天气门户，预报与预警权威及时。",
+      "tags": [
+        "天气",
+        "预报",
+        "预警",
+        "官方"
+      ],
+      "cat": "life",
+      "sub": "weather",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-01-09"
+    },
+    {
+      "id": "life-weather-02",
+      "name": "中央气象台",
+      "url": "https://www.nmc.cn/",
+      "desc": "国家级气象预报发布平台，暴雨台风预警一手来源。",
+      "tags": [
+        "气象",
+        "预警",
+        "台风",
+        "官方"
+      ],
+      "cat": "life",
+      "sub": "weather",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-02-28"
+    },
+    {
+      "id": "life-weather-03",
+      "name": "AccuWeather",
+      "url": "https://www.accuweather.com/",
+      "desc": "国际天气预报服务，分钟级降水与长期预报准确。",
+      "tags": [
+        "天气",
+        "预报",
+        "分钟级",
+        "英文"
+      ],
+      "cat": "life",
+      "sub": "weather",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-04-14"
+    },
+    {
+      "id": "life-weather-04",
+      "name": "Windy",
+      "url": "https://www.windy.com/",
+      "desc": "可视化风场与气象地图，台风气流路径动态直观。",
+      "tags": [
+        "气象",
+        "可视化",
+        "风场",
+        "英文"
+      ],
+      "cat": "life",
+      "sub": "weather",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-06-01"
+    },
+    {
+      "id": "life-weather-05",
+      "name": "万年历",
+      "url": "https://www.wannianli.com/",
+      "desc": "农历公历转换与黄历查询，节假日程与宜忌一目了然。",
+      "tags": [
+        "日历",
+        "农历",
+        "黄历",
+        "查询"
+      ],
+      "cat": "life",
+      "sub": "weather",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-07-15"
+    },
+    {
+      "id": "life-weather-06",
+      "name": "时间日期网",
+      "url": "https://www.timeanddate.com/",
+      "desc": "全球时区与日期换算工具，世界时钟与节气详尽。",
+      "tags": [
+        "时区",
+        "日期",
+        "换算",
+        "英文"
+      ],
+      "cat": "life",
+      "sub": "weather",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-08-29"
+    },
+    {
+      "id": "life-weather-07",
+      "name": "天气网",
+      "url": "https://weather.com/",
+      "desc": "The Weather Channel中文站，天气预报与资讯内容全面。",
+      "tags": [
+        "天气",
+        "预报",
+        "资讯",
+        "综合"
+      ],
+      "cat": "life",
+      "sub": "weather",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-10-11"
+    },
+    {
+      "id": "life-weather-08",
+      "name": "和风天气",
+      "url": "https://www.qweather.com/",
+      "desc": "开发者友好的气象API与天气查询，数据精细稳定。",
+      "tags": [
+        "天气",
+        "API",
+        "数据",
+        "开发者"
+      ],
+      "cat": "life",
+      "sub": "weather",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-11-24"
+    },
+    {
+      "id": "life-weather-09",
+      "name": "墨迹天气",
+      "url": "https://www.moji.com/",
+      "desc": "国内常用天气应用，分钟降水与生活指数丰富。",
+      "tags": [
+        "天气",
+        "应用",
+        "降水",
+        "指数"
+      ],
+      "cat": "life",
+      "sub": "weather",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-01-06"
+    },
+    {
+      "id": "life-weather-10",
+      "name": "彩云天气",
+      "url": "https://caiyunapp.com/",
+      "desc": "分钟级降雨预报应用，短临降水预测精准实用。",
+      "tags": [
+        "降雨",
+        "短临",
+        "预报",
+        "精准"
+      ],
+      "cat": "life",
+      "sub": "weather",
+      "hot": 2,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-02-18"
+    },
+    {
+      "id": "life-weather-11",
+      "name": "心知天气",
+      "url": "https://www.seniverse.com/",
+      "desc": "商业气象数据服务，API与行业天气方案成熟。",
+      "tags": [
+        "气象",
+        "API",
+        "商业",
+        "数据"
+      ],
+      "cat": "life",
+      "sub": "weather",
+      "hot": 2,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-03-31"
+    },
+    {
+      "id": "life-weather-12",
+      "name": "Weather Underground",
+      "url": "https://www.wunderground.com/",
+      "desc": "众包气象站网络，本地实时天气数据细致。",
+      "tags": [
+        "天气",
+        "众包",
+        "实时",
+        "英文"
+      ],
+      "cat": "life",
+      "sub": "weather",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-05-13"
+    },
+    {
+      "id": "life-weather-13",
+      "name": "中国气象局",
+      "url": "https://www.cma.gov.cn/",
+      "desc": "气象主管机构官网，气候公报与行业标准发布。",
+      "tags": [
+        "气象",
+        "官方",
+        "气候",
+        "标准"
+      ],
+      "cat": "life",
+      "sub": "weather",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-26"
+    },
+    {
+      "id": "life-weather-14",
+      "name": "weather.gov",
+      "url": "https://www.weather.gov/",
+      "desc": "美国气象局官网，权威预警与雷达图开放查询。",
+      "tags": [
+        "气象",
+        "美国",
+        "预警",
+        "官方"
+      ],
+      "cat": "life",
+      "sub": "weather",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-08-08"
+    },
+    {
+      "id": "life-weather-15",
+      "name": "中国气象数据网",
+      "url": "https://data.cma.cn/",
+      "desc": "气象局开放数据平台，科研级气象资料可下载。",
+      "tags": [
+        "气象",
+        "数据",
+        "科研",
+        "开放"
+      ],
+      "cat": "life",
+      "sub": "weather",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-09-21"
+    },
+    {
+      "id": "life-weather-16",
+      "name": "Ventusky",
+      "url": "https://www.ventusky.com/",
+      "desc": "全球风温气压可视化地图，气象动态美观直观。",
+      "tags": [
+        "气象",
+        "可视化",
+        "全球",
+        "英文"
+      ],
+      "cat": "life",
+      "sub": "weather",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-11-03"
+    },
+    {
+      "id": "life-weather-17",
+      "name": "新华网节假日",
+      "url": "https://www.xinhuanet.com/",
+      "desc": "权威媒体发布的国务院节假日安排，放假调休以此为据。",
+      "tags": [
+        "节假日",
+        "安排",
+        "调休",
+        "权威"
+      ],
+      "cat": "life",
+      "sub": "weather",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-12-16"
+    },
+    {
+      "id": "life-weather-18",
+      "name": "天气后报",
+      "url": "https://www.tianqihoubao.com/",
+      "desc": "历史天气查询站，往期气温降水记录便于回溯。",
+      "tags": [
+        "历史天气",
+        "查询",
+        "回溯",
+        "记录"
+      ],
+      "cat": "life",
+      "sub": "weather",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2026-02-01"
+    },
+    {
+      "id": "life-weather-19",
+      "name": "2345天气",
+      "url": "https://tianqi.2345.com/",
+      "desc": "天气预报查询入口，未来半月趋势与生活指数齐全。",
+      "tags": [
+        "天气",
+        "预报",
+        "趋势",
+        "指数"
+      ],
+      "cat": "life",
+      "sub": "weather",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2026-03-27"
+    },
+    {
+      "id": "life-weather-20",
+      "name": "台风路径",
+      "url": "https://www.tf110.com/",
+      "desc": "专业台风实时路径追踪，中央气象台数据权威。",
+      "tags": [
+        "台风",
+        "路径",
+        "实时",
+        "追踪"
+      ],
+      "cat": "life",
+      "sub": "weather",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2026-06-09"
+    },
+    {
+      "id": "life-service-01",
+      "name": "国家政务服务平台",
+      "url": "https://gjzwfw.www.gov.cn/",
+      "desc": "全国一体化政务入口，跨省通办与电子证照一站办理。",
+      "tags": [
+        "政务",
+        "通办",
+        "证照",
+        "官方"
+      ],
+      "cat": "life",
+      "sub": "service",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-01-18"
+    },
+    {
+      "id": "life-service-02",
+      "name": "中国政府网",
+      "url": "https://www.gov.cn/",
+      "desc": "中央人民政府门户，政策文件与政务公开权威首发。",
+      "tags": [
+        "政府",
+        "政策",
+        "公开",
+        "官方"
+      ],
+      "cat": "life",
+      "sub": "service",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-03-05"
+    },
+    {
+      "id": "life-service-03",
+      "name": "快递100",
+      "url": "https://www.kuaidi100.com/",
+      "desc": "主流快递单号查询聚合，实时轨迹与派送提醒便捷。",
+      "tags": [
+        "快递",
+        "查询",
+        "轨迹",
+        "聚合"
+      ],
+      "cat": "life",
+      "sub": "service",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-04-19"
+    },
+    {
+      "id": "life-service-04",
+      "name": "国家邮政局",
+      "url": "https://www.spb.gov.cn/",
+      "desc": "邮政行业监管官网，快递申诉与服务质量权威渠道。",
+      "tags": [
+        "邮政",
+        "监管",
+        "申诉",
+        "官方"
+      ],
+      "cat": "life",
+      "sub": "service",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-06-02"
+    },
+    {
+      "id": "life-service-05",
+      "name": "交管12123",
+      "url": "https://www.122.gov.cn/",
+      "desc": "公安部交管官方平台，违章处理与驾驶证业务线上办。",
+      "tags": [
+        "交管",
+        "违章",
+        "驾驶证",
+        "官方"
+      ],
+      "cat": "life",
+      "sub": "service",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-07-16"
+    },
+    {
+      "id": "life-service-06",
+      "name": "人力资源社会保障部",
+      "url": "https://www.mohrss.gov.cn/",
+      "desc": "人力资源和社会保障部官网，社保就业政策权威发布。",
+      "tags": [
+        "社保",
+        "人社",
+        "就业",
+        "官方"
+      ],
+      "cat": "life",
+      "sub": "service",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-08-30"
+    },
+    {
+      "id": "life-service-07",
+      "name": "民政部",
+      "url": "https://www.mca.gov.cn/",
+      "desc": "民政事务主管官网，社会组织与救助政策信息公开。",
+      "tags": [
+        "民政",
+        "救助",
+        "政策",
+        "官方"
+      ],
+      "cat": "life",
+      "sub": "service",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-10-12"
+    },
+    {
+      "id": "life-service-08",
+      "name": "国家税务总局",
+      "url": "https://www.chinatax.gov.cn/",
+      "desc": "国家税务总局官网，办税指南与税收政策一手发布。",
+      "tags": [
+        "税务",
+        "办税",
+        "政策",
+        "官方"
+      ],
+      "cat": "life",
+      "sub": "service",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-11-25"
+    },
+    {
+      "id": "life-service-09",
+      "name": "中国领事服务网",
+      "url": "https://cs.mfa.gov.cn/",
+      "desc": "中国领事服务网，海外公民保护与领事认证指南。",
+      "tags": [
+        "领事",
+        "海外",
+        "认证",
+        "官方"
+      ],
+      "cat": "life",
+      "sub": "service",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-01-07"
+    },
+    {
+      "id": "life-service-10",
+      "name": "国家企业信用信息公示系统",
+      "url": "https://www.gsxt.gov.cn/",
+      "desc": "企业信用信息公示系统，工商登记与异常名录可查。",
+      "tags": [
+        "企业",
+        "信用",
+        "公示",
+        "查询"
+      ],
+      "cat": "life",
+      "sub": "service",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-02-19"
+    },
+    {
+      "id": "life-service-11",
+      "name": "学信网",
+      "url": "https://www.chsi.com.cn/",
+      "desc": "学历学位查询认证官方平台，学籍在线验证权威。",
+      "tags": [
+        "学历",
+        "认证",
+        "学籍",
+        "官方"
+      ],
+      "cat": "life",
+      "sub": "service",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-03-31"
+    },
+    {
+      "id": "life-service-12",
+      "name": "国家医保局",
+      "url": "https://www.nhsa.gov.cn/",
+      "desc": "医疗保障主管官网，医保目录与异地结算政策发布。",
+      "tags": [
+        "医保",
+        "政策",
+        "异地",
+        "官方"
+      ],
+      "cat": "life",
+      "sub": "service",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-05-13"
+    },
+    {
+      "id": "life-service-13",
+      "name": "市场监管总局",
+      "url": "https://www.samr.gov.cn/",
+      "desc": "市场监督管理官网，企业登记与消费维权信息发布。",
+      "tags": [
+        "市场监管",
+        "维权",
+        "登记",
+        "官方"
+      ],
+      "cat": "life",
+      "sub": "service",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-26"
+    },
+    {
+      "id": "life-service-14",
+      "name": "海关总署",
+      "url": "https://www.customs.gov.cn/",
+      "desc": "海关官网，进出口政策与通关查询权威渠道。",
+      "tags": [
+        "海关",
+        "进出口",
+        "通关",
+        "官方"
+      ],
+      "cat": "life",
+      "sub": "service",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-08-08"
+    },
+    {
+      "id": "life-service-15",
+      "name": "国家统计局",
+      "url": "https://www.stats.gov.cn/",
+      "desc": "统计数据官方发布平台，宏观与行业数据可查。",
+      "tags": [
+        "统计",
+        "数据",
+        "宏观",
+        "官方"
+      ],
+      "cat": "life",
+      "sub": "service",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-09-21"
+    },
+    {
+      "id": "life-service-16",
+      "name": "教育部",
+      "url": "https://www.moe.gov.cn/",
+      "desc": "教育主管官网，招生政策与学籍管理权威发布。",
+      "tags": [
+        "教育",
+        "政策",
+        "招生",
+        "官方"
+      ],
+      "cat": "life",
+      "sub": "service",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-11-03"
+    },
+    {
+      "id": "life-service-17",
+      "name": "国家知识产权局",
+      "url": "https://www.cnipa.gov.cn/",
+      "desc": "专利商标查询官站，知识产权申请与公告公开。",
+      "tags": [
+        "知识产权",
+        "专利",
+        "商标",
+        "官方"
+      ],
+      "cat": "life",
+      "sub": "service",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-12-16"
+    },
+    {
+      "id": "life-service-18",
+      "name": "17track",
+      "url": "https://www.17track.net/",
+      "desc": "全球包裹物流追踪，支持多国邮政与快递单号查询。",
+      "tags": [
+        "物流",
+        "追踪",
+        "包裹",
+        "英文"
+      ],
+      "cat": "life",
+      "sub": "service",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2026-02-01"
+    },
+    {
+      "id": "life-service-19",
+      "name": "中国法律服务网",
+      "url": "https://www.12348.gov.cn/",
+      "desc": "司法部旗下公共法律服务平台，法援与咨询在线办。",
+      "tags": [
+        "法律",
+        "援助",
+        "咨询",
+        "官方"
+      ],
+      "cat": "life",
+      "sub": "service",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2026-03-27"
+    },
+    {
+      "id": "life-service-20",
+      "name": "国家社保公共服务平台",
+      "url": "https://si.12333.gov.cn/",
+      "desc": "国家社会保险公共服务平台，社保查询与转移网上办。",
+      "tags": [
+        "社保",
+        "查询",
+        "转移",
+        "官方"
+      ],
+      "cat": "life",
+      "sub": "service",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2026-06-09"
+    },
+    {
+      "id": "life-traffic-x01",
+      "name": "高铁网",
+      "url": "https://www.gaotie.cn/",
+      "desc": "提供全国高铁与火车时刻、票价及余票查询，出行购票参考助手。",
+      "tags": [
+        "铁路",
+        "列车查询",
+        "出行"
+      ],
+      "cat": "life",
+      "sub": "traffic",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "life-traffic-x02",
+      "name": "奥维互动地图",
+      "url": "https://www.ovital.com/",
+      "desc": "支持多图源的专业地图导航工具，适合自驾、户外与地理标注。",
+      "tags": [
+        "地图",
+        "导航",
+        "自驾"
+      ],
+      "cat": "life",
+      "sub": "traffic",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "life-traffic-x03",
+      "name": "航班管家",
+      "url": "https://www.ihangban.com/",
+      "desc": "实时航班动态查询与值机助手，覆盖国内外航班延误与登机口信息。",
+      "tags": [
+        "航班",
+        "动态查询",
+        "出行"
+      ],
+      "cat": "life",
+      "sub": "traffic",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "life-traffic-x04",
+      "name": "图吧地图",
+      "url": "https://www.mapbar.com/",
+      "desc": "本土在线地图服务，提供路线规划、公交与自驾导航查询功能。",
+      "tags": [
+        "地图",
+        "路线规划",
+        "导航"
+      ],
+      "cat": "life",
+      "sub": "traffic",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "life-weather-x01",
+      "name": "OpenWeatherMap",
+      "url": "https://openweathermap.org/",
+      "desc": "全球天气预报与历史数据平台，提供 API 与多语言天气查询服务。",
+      "tags": [
+        "天气预报",
+        "数据",
+        "API"
+      ],
+      "cat": "life",
+      "sub": "weather",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "life-weather-x02",
+      "name": "World Air Quality",
+      "url": "https://aqicn.org/",
+      "desc": "全球空气质量指数实时查询平台，覆盖 PM2.5 与污染物监测数据。",
+      "tags": [
+        "空气质量",
+        "环保",
+        "监测"
+      ],
+      "cat": "life",
+      "sub": "weather",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "life-weather-x03",
+      "name": "Tide Forecast",
+      "url": "https://www.tide-forecast.com/",
+      "desc": "全球潮汐与日出日落时刻查询，适合赶海、垂钓与海岸活动规划。",
+      "tags": [
+        "潮汐",
+        "日出日落",
+        "海洋"
+      ],
+      "cat": "life",
+      "sub": "weather",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "life-weather-x04",
+      "name": "香港天文台",
+      "url": "https://www.hko.gov.hk/",
+      "desc": "提供农历、节气、月相与天气预报的权威天文台公共服务网站。",
+      "tags": [
+        "农历",
+        "万年历",
+        "天气预报"
+      ],
+      "cat": "life",
+      "sub": "weather",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "life-service-x01",
+      "name": "信用中国",
+      "url": "https://www.creditchina.gov.cn/",
+      "desc": "全国信用信息共享平台，可查询企业与个人信用信息及行政许可。",
+      "tags": [
+        "政务",
+        "信用查询",
+        "办事"
+      ],
+      "cat": "life",
+      "sub": "service",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "life-service-x02",
+      "name": "菜鸟",
+      "url": "https://www.cainiao.com/",
+      "desc": "阿里旗下物流平台，支持快递查询、裹裹寄件与包裹全程追踪。",
+      "tags": [
+        "快递",
+        "物流",
+        "查询"
+      ],
+      "cat": "life",
+      "sub": "service",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "life-service-x03",
+      "name": "社保查询网",
+      "url": "https://www.shebao5.com/",
+      "desc": "提供社保、公积金政策与查询指南，帮助用户了解五险一金办理。",
+      "tags": [
+        "社保",
+        "公积金",
+        "办事"
+      ],
+      "cat": "life",
+      "sub": "service",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "life-service-x04",
+      "name": "华律网",
+      "url": "https://www.66law.cn/",
+      "desc": "专业在线法律咨询平台，提供律师答疑、文书模板与法规检索。",
+      "tags": [
+        "法律咨询",
+        "律师",
+        "服务"
+      ],
+      "cat": "life",
+      "sub": "service",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "life-service-x05",
+      "name": "中国互联网联合辟谣平台",
+      "url": "https://www.piyao.org.cn/",
+      "desc": "官方网络谣言举报与辟谣平台，权威发布防骗提示与真相核查。",
+      "tags": [
+        "辟谣",
+        "防骗",
+        "权威"
+      ],
+      "cat": "life",
+      "sub": "service",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "life-service-x06",
+      "name": "国家电网",
+      "url": "https://www.sgcc.com.cn/",
+      "desc": "国家电网官网，提供电费查询缴纳、业务办理与用电服务指南。",
+      "tags": [
+        "电费",
+        "生活缴费",
+        "办事"
+      ],
+      "cat": "life",
+      "sub": "service",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "life-service-x07",
+      "name": "39健康网",
+      "url": "https://www.39.net/",
+      "desc": "综合健康资讯门户，提供疾病百科、就医指南与养生科普内容。",
+      "tags": [
+        "健康",
+        "医疗",
+        "科普"
+      ],
+      "cat": "life",
+      "sub": "service",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    }
+  ]
+}

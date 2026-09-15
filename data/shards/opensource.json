@@ -1,0 +1,2931 @@
+{
+  "category": "opensource",
+  "resources": [
+    {
+      "id": "opensource-selfhost-01",
+      "name": "Home Assistant",
+      "url": "https://www.home-assistant.io/",
+      "desc": "开源智能家居中枢，本地部署掌控隐私，支持上千品牌设备与丰富自动化联动场景。",
+      "tags": [
+        "智能家居",
+        "开源",
+        "自建",
+        "隐私",
+        "自动化"
+      ],
+      "cat": "opensource",
+      "sub": "selfhost",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-03-12"
+    },
+    {
+      "id": "opensource-selfhost-02",
+      "name": "Nextcloud",
+      "url": "https://nextcloud.com/",
+      "desc": "自建网盘与协作套件，文件同步日历办公一体化，数据完全掌握在自己手中。",
+      "tags": [
+        "网盘",
+        "开源",
+        "协作",
+        "自建",
+        "隐私"
+      ],
+      "cat": "opensource",
+      "sub": "selfhost",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-07-05"
+    },
+    {
+      "id": "opensource-selfhost-03",
+      "name": "Immich",
+      "url": "https://immich.app/",
+      "desc": "自托管照片视频备份工具，人脸识别与地图相册体验可媲美 Google Photos。",
+      "tags": [
+        "照片",
+        "开源",
+        "AI",
+        "自建",
+        "备份"
+      ],
+      "cat": "opensource",
+      "sub": "selfhost",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-01-20"
+    },
+    {
+      "id": "opensource-selfhost-04",
+      "name": "Jellyfin",
+      "url": "https://jellyfin.org/",
+      "desc": "免费开源媒体中心，把本地影音串流到电视手机全平台，无订阅无追踪。",
+      "tags": [
+        "媒体中心",
+        "开源",
+        "串流",
+        "自建",
+        "免费"
+      ],
+      "cat": "opensource",
+      "sub": "selfhost",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-05-18"
+    },
+    {
+      "id": "opensource-selfhost-05",
+      "name": "Navidrome",
+      "url": "https://www.navidrome.org/",
+      "desc": "轻量自托管音乐服务器，兼容 Subsonic 协议，手机电脑随处听私有曲库。",
+      "tags": [
+        "音乐",
+        "开源",
+        "Subsonic",
+        "自建",
+        "轻量"
+      ],
+      "cat": "opensource",
+      "sub": "selfhost",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-03-09"
+    },
+    {
+      "id": "opensource-selfhost-06",
+      "name": "Vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "desc": "用 Rust 重写的开源密码服务端，极省资源且完全兼容 Bitwarden 各端客户端。",
+      "tags": [
+        "密码",
+        "开源",
+        "Rust",
+        "自建",
+        "Bitwarden"
+      ],
+      "cat": "opensource",
+      "sub": "selfhost",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-09-02"
+    },
+    {
+      "id": "opensource-selfhost-07",
+      "name": "OpenWrt",
+      "url": "https://openwrt.org/",
+      "desc": "可刷写的开源路由器系统，插件化扩展网络功能，轻松打造专属智能网关。",
+      "tags": [
+        "路由器",
+        "开源",
+        "固件",
+        "网络",
+        "插件"
+      ],
+      "cat": "opensource",
+      "sub": "selfhost",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-02-14"
+    },
+    {
+      "id": "opensource-selfhost-08",
+      "name": "Pi-hole",
+      "url": "https://pi-hole.net/",
+      "desc": "全网级 DNS 广告拦截，一次部署全屋去广告与跟踪，还自带可视化统计面板。",
+      "tags": [
+        "广告拦截",
+        "开源",
+        "DNS",
+        "自建",
+        "去跟踪"
+      ],
+      "cat": "opensource",
+      "sub": "selfhost",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-06-21"
+    },
+    {
+      "id": "opensource-selfhost-09",
+      "name": "AdGuard Home",
+      "url": "https://github.com/AdguardTeam/AdGuardHome",
+      "desc": "开源 DNS 广告与隐私防护，支持加密 DoH/DoT，跨平台单文件即可运行。",
+      "tags": [
+        "广告拦截",
+        "开源",
+        "DNS",
+        "隐私",
+        "跨平台"
+      ],
+      "cat": "opensource",
+      "sub": "selfhost",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-02-11"
+    },
+    {
+      "id": "opensource-selfhost-10",
+      "name": "FreshRSS",
+      "url": "https://freshrss.org/",
+      "desc": "自托管 RSS 阅读器，支持全文抓取与扩展，订阅数据私有不依赖第三方。",
+      "tags": [
+        "RSS",
+        "开源",
+        "自建",
+        "阅读器",
+        "私有"
+      ],
+      "cat": "opensource",
+      "sub": "selfhost",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-11-30"
+    },
+    {
+      "id": "opensource-selfhost-11",
+      "name": "PhotoPrism",
+      "url": "https://photoprism.app/",
+      "desc": "基于 AI 的开源照片管理，自动分类标注，适合摄影师整理大型私有图库。",
+      "tags": [
+        "照片",
+        "开源",
+        "AI",
+        "自建",
+        "管理"
+      ],
+      "cat": "opensource",
+      "sub": "selfhost",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-04-15"
+    },
+    {
+      "id": "opensource-selfhost-12",
+      "name": "Syncthing",
+      "url": "https://syncthing.net/",
+      "desc": "去中心化文件实时同步工具，端到端加密保护，无需中心服务器多设备直连。",
+      "tags": [
+        "同步",
+        "开源",
+        "P2P",
+        "加密",
+        "跨平台"
+      ],
+      "cat": "opensource",
+      "sub": "selfhost",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-08-08"
+    },
+    {
+      "id": "opensource-selfhost-13",
+      "name": "Gitea",
+      "url": "https://gitea.io/",
+      "desc": "轻量自托管 Git 服务，安装简单资源低，自带 CI 与工单，可对标 GitHub。",
+      "tags": [
+        "Git",
+        "开源",
+        "自建",
+        "CI",
+        "轻量"
+      ],
+      "cat": "opensource",
+      "sub": "selfhost",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-04-27"
+    },
+    {
+      "id": "opensource-selfhost-14",
+      "name": "Calibre-Web",
+      "url": "https://github.com/janeczku/calibre-web",
+      "desc": "基于 Calibre 的网页电子书库，支持在线阅读与推送，轻松管理私有藏书。",
+      "tags": [
+        "电子书",
+        "开源",
+        "阅读",
+        "自建",
+        "书库"
+      ],
+      "cat": "opensource",
+      "sub": "selfhost",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-05-19"
+    },
+    {
+      "id": "opensource-selfhost-15",
+      "name": "1Panel",
+      "url": "https://1panel.cn/",
+      "desc": "国产开源服务器运维面板，可视化 Docker 与建站，可一键部署各类常见应用。",
+      "tags": [
+        "运维",
+        "国产",
+        "开源",
+        "Docker",
+        "面板"
+      ],
+      "cat": "opensource",
+      "sub": "selfhost",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-10-10"
+    },
+    {
+      "id": "opensource-selfhost-16",
+      "name": "Halo",
+      "url": "https://halo.run/",
+      "desc": "国产开源建站与博客框架，插件主题丰富，适配现代内容发布与创作需求。",
+      "tags": [
+        "建站",
+        "国产",
+        "开源",
+        "博客",
+        "主题"
+      ],
+      "cat": "opensource",
+      "sub": "selfhost",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-22"
+    },
+    {
+      "id": "opensource-selfhost-17",
+      "name": "AList",
+      "url": "https://alist.nn.ci/",
+      "desc": "开源网盘聚合挂载工具，统一管理与直链分享多平台云存储中的文件。",
+      "tags": [
+        "网盘",
+        "开源",
+        "聚合",
+        "挂载",
+        "直链"
+      ],
+      "cat": "opensource",
+      "sub": "selfhost",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-12-03"
+    },
+    {
+      "id": "opensource-selfhost-18",
+      "name": "Cloudreve",
+      "url": "https://cloudreve.org/",
+      "desc": "国产开源网盘系统，支持对象存储与离线下载，可轻松自建个人云盘。",
+      "tags": [
+        "网盘",
+        "国产",
+        "开源",
+        "存储",
+        "自建"
+      ],
+      "cat": "opensource",
+      "sub": "selfhost",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-07-14"
+    },
+    {
+      "id": "opensource-selfhost-19",
+      "name": "DDNS-Go",
+      "url": "https://github.com/jeessy2/ddns-go",
+      "desc": "国产轻量动态域名工具，自动更新公网 IP 到多 DNS 服务商，配置极简。",
+      "tags": [
+        "DDNS",
+        "国产",
+        "开源",
+        "轻量",
+        "部署"
+      ],
+      "cat": "opensource",
+      "sub": "selfhost",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-08-01"
+    },
+    {
+      "id": "opensource-selfhost-20",
+      "name": "Lsky Pro",
+      "url": "https://github.com/lsky-org/lsky-pro",
+      "desc": "国产开源图床系统，支持多存储策略与鉴黄，便于快速自建图片托管。",
+      "tags": [
+        "图床",
+        "国产",
+        "开源",
+        "存储",
+        "自建"
+      ],
+      "cat": "opensource",
+      "sub": "selfhost",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-09-05"
+    },
+    {
+      "id": "opensource-software-01",
+      "name": "LibreOffice",
+      "url": "https://www.libreoffice.org/",
+      "desc": "免费开源办公套件，高度兼容 Word/Excel/PPT，无订阅隐私自主可控。",
+      "tags": [
+        "办公",
+        "开源",
+        "跨平台",
+        "免费",
+        "兼容"
+      ],
+      "cat": "opensource",
+      "sub": "software",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-01-09"
+    },
+    {
+      "id": "opensource-software-02",
+      "name": "GIMP",
+      "url": "https://www.gimp.org/",
+      "desc": "开源图像编辑器，图层滤镜插件齐全，是 Photoshop 的免费替代方案。",
+      "tags": [
+        "图像",
+        "开源",
+        "编辑",
+        "跨平台",
+        "Photoshop替代"
+      ],
+      "cat": "opensource",
+      "sub": "software",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-03-30"
+    },
+    {
+      "id": "opensource-software-03",
+      "name": "Krita",
+      "url": "https://krita.org/",
+      "desc": "开源数字绘画软件，笔刷引擎强大，专为插画与概念设计精心打造。",
+      "tags": [
+        "绘画",
+        "开源",
+        "插画",
+        "跨平台",
+        "笔刷"
+      ],
+      "cat": "opensource",
+      "sub": "software",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-02-18"
+    },
+    {
+      "id": "opensource-software-04",
+      "name": "Blender",
+      "url": "https://www.blender.org/",
+      "desc": "全功能开源 3D 创作套件，建模渲染动画剪辑一体，且完全免费可商用。",
+      "tags": [
+        "3D",
+        "开源",
+        "建模",
+        "渲染",
+        "免费"
+      ],
+      "cat": "opensource",
+      "sub": "software",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-02-22"
+    },
+    {
+      "id": "opensource-software-05",
+      "name": "Inkscape",
+      "url": "https://inkscape.org/",
+      "desc": "开源矢量图形编辑器，支持 SVG 标准，可制作 Logo 与印刷品设计。",
+      "tags": [
+        "矢量",
+        "开源",
+        "设计",
+        "SVG",
+        "跨平台"
+      ],
+      "cat": "opensource",
+      "sub": "software",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-06-11"
+    },
+    {
+      "id": "opensource-software-06",
+      "name": "OBS Studio",
+      "url": "https://obsproject.com/",
+      "desc": "开源直播录屏工具，支持多场景多源采集，是主播与教程制作首选。",
+      "tags": [
+        "直播",
+        "开源",
+        "录屏",
+        "跨平台",
+        "推流"
+      ],
+      "cat": "opensource",
+      "sub": "software",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-04-05"
+    },
+    {
+      "id": "opensource-software-07",
+      "name": "7-Zip",
+      "url": "https://www.7-zip.org/",
+      "desc": "开源高压缩率归档工具，支持 zip/7z 等多种格式，轻量且无广告。",
+      "tags": [
+        "压缩",
+        "开源",
+        "轻量",
+        "跨平台",
+        "免费"
+      ],
+      "cat": "opensource",
+      "sub": "software",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-09-19"
+    },
+    {
+      "id": "opensource-software-08",
+      "name": "KeePassXC",
+      "url": "https://keepassxc.org/",
+      "desc": "本地开源密码库，数据库加密并离线存储，跨平台使用安全可靠，值得一试。",
+      "tags": [
+        "密码",
+        "开源",
+        "本地",
+        "加密",
+        "跨平台"
+      ],
+      "cat": "opensource",
+      "sub": "software",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-01-07"
+    },
+    {
+      "id": "opensource-software-09",
+      "name": "AlternativeTo",
+      "url": "https://alternativeto.net/",
+      "desc": "开源软件发现社区，可按同类替代品与平台筛选，是找轮子的好帮手。",
+      "tags": [
+        "发现",
+        "社区",
+        "替代",
+        "开源",
+        "工具"
+      ],
+      "cat": "opensource",
+      "sub": "software",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-07-28"
+    },
+    {
+      "id": "opensource-software-10",
+      "name": "VLC",
+      "url": "https://www.videolan.org/vlc/",
+      "desc": "开源万能媒体播放器，几乎通吃所有格式与流，且无广告跨平台，值得一试。",
+      "tags": [
+        "播放器",
+        "开源",
+        "万能",
+        "跨平台",
+        "无广告"
+      ],
+      "cat": "opensource",
+      "sub": "software",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-05-14"
+    },
+    {
+      "id": "opensource-software-11",
+      "name": "Audacity",
+      "url": "https://www.audacityteam.org/",
+      "desc": "开源多轨音频编辑器，录制降噪剪辑功能齐全，是播客制作利器，值得一试。",
+      "tags": [
+        "音频",
+        "开源",
+        "录音",
+        "编辑",
+        "播客"
+      ],
+      "cat": "opensource",
+      "sub": "software",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-10-25"
+    },
+    {
+      "id": "opensource-software-12",
+      "name": "Shotcut",
+      "url": "https://shotcut.org/",
+      "desc": "开源跨平台视频编辑器，支持 4K 与多轨道，免费且无浮水印。",
+      "tags": [
+        "视频",
+        "开源",
+        "剪辑",
+        "跨平台",
+        "免费"
+      ],
+      "cat": "opensource",
+      "sub": "software",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-03-12"
+    },
+    {
+      "id": "opensource-software-13",
+      "name": "Thunderbird",
+      "url": "https://www.thunderbird.net/",
+      "desc": "Mozilla 开源邮件客户端，支持多账号日历与加密，对隐私十分友好。",
+      "tags": [
+        "邮件",
+        "开源",
+        "客户端",
+        "隐私",
+        "跨平台"
+      ],
+      "cat": "opensource",
+      "sub": "software",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-08-17"
+    },
+    {
+      "id": "opensource-software-14",
+      "name": "FileZilla",
+      "url": "https://filezilla-project.org/",
+      "desc": "开源 FTP/SFTP 客户端，站点管理稳定高效，可跨平台传输文件。",
+      "tags": [
+        "FTP",
+        "开源",
+        "传输",
+        "跨平台",
+        "客户端"
+      ],
+      "cat": "opensource",
+      "sub": "software",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-12-21"
+    },
+    {
+      "id": "opensource-software-15",
+      "name": "qBittorrent",
+      "url": "https://www.qbittorrent.org/",
+      "desc": "开源 BitTorrent 客户端，无广告且内置搜索引擎，轻量易用。",
+      "tags": [
+        "下载",
+        "开源",
+        "BT",
+        "无广告",
+        "轻量"
+      ],
+      "cat": "opensource",
+      "sub": "software",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-04-09"
+    },
+    {
+      "id": "opensource-software-16",
+      "name": "Notepad++",
+      "url": "https://notepad-plus-plus.org/",
+      "desc": "国产开源代码编辑器，语法高亮轻快，是 Windows 文本处理经典工具。",
+      "tags": [
+        "编辑器",
+        "国产",
+        "开源",
+        "轻量",
+        "语法高亮"
+      ],
+      "cat": "opensource",
+      "sub": "software",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-11-08"
+    },
+    {
+      "id": "opensource-software-17",
+      "name": "Listen 1",
+      "url": "https://listen1.github.io/listen1/",
+      "desc": "国产开源音乐聚合播放器，整合多平台歌单，跨站听歌可一站搞定。",
+      "tags": [
+        "音乐",
+        "国产",
+        "开源",
+        "聚合",
+        "播放器"
+      ],
+      "cat": "opensource",
+      "sub": "software",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-05-23"
+    },
+    {
+      "id": "opensource-software-18",
+      "name": "Kicad",
+      "url": "https://www.kicad.org/",
+      "desc": "开源电子设计自动化工具，原理图与 PCB 布局一体，是硬件入门首选。",
+      "tags": [
+        "硬件",
+        "开源",
+        "PCB",
+        "设计",
+        "EDA"
+      ],
+      "cat": "opensource",
+      "sub": "software",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-03-04"
+    },
+    {
+      "id": "opensource-software-19",
+      "name": "YesPlayMusic",
+      "url": "https://github.com/qier222/YesPlayMusic",
+      "desc": "国产开源网易云第三方播放器，无广告高颜值，支持歌词与桌面歌词。",
+      "tags": [
+        "音乐",
+        "国产",
+        "开源",
+        "网易云",
+        "无广告"
+      ],
+      "cat": "opensource",
+      "sub": "software",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-15"
+    },
+    {
+      "id": "opensource-software-20",
+      "name": "OnlyOffice",
+      "url": "https://www.onlyoffice.com/",
+      "desc": "开源办公与协作套件，高度兼容微软格式，并可私有化部署编辑，值得一试。",
+      "tags": [
+        "办公",
+        "开源",
+        "协作",
+        "兼容",
+        "自建"
+      ],
+      "cat": "opensource",
+      "sub": "software",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-07-29"
+    },
+    {
+      "id": "opensource-cli-01",
+      "name": "Oh My Zsh",
+      "url": "https://ohmyz.sh/",
+      "desc": "流行 Zsh 配置框架，海量插件与主题，提供开箱即用的现代终端体验。",
+      "tags": [
+        "Zsh",
+        "开源",
+        "配置",
+        "主题",
+        "插件"
+      ],
+      "cat": "opensource",
+      "sub": "cli",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-01-15"
+    },
+    {
+      "id": "opensource-cli-02",
+      "name": "fzf",
+      "url": "https://github.com/junegunn/fzf",
+      "desc": "通用模糊查找器，可极速交互筛选文件与命令历史，并能嵌入任意 shell。",
+      "tags": [
+        "模糊搜索",
+        "开源",
+        "终端",
+        "效率",
+        "交互"
+      ],
+      "cat": "opensource",
+      "sub": "cli",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-04-19"
+    },
+    {
+      "id": "opensource-cli-03",
+      "name": "ripgrep",
+      "url": "https://github.com/BurntSushi/ripgrep",
+      "desc": "跨平台递归搜索工具，默认忽略 gitignore，其速度远超传统 grep。",
+      "tags": [
+        "搜索",
+        "开源",
+        "grep",
+        "快速",
+        "递归"
+      ],
+      "cat": "opensource",
+      "sub": "cli",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-09-09"
+    },
+    {
+      "id": "opensource-cli-04",
+      "name": "fd",
+      "url": "https://github.com/sharkdp/fd",
+      "desc": "简洁友好的 find 替代品，语法直观且彩色输出，搜索文件更顺手。",
+      "tags": [
+        "搜索",
+        "开源",
+        "find替代",
+        "快速",
+        "友好"
+      ],
+      "cat": "opensource",
+      "sub": "cli",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-02-26"
+    },
+    {
+      "id": "opensource-cli-05",
+      "name": "bat",
+      "url": "https://github.com/sharkdp/bat",
+      "desc": "带语法高亮与 Git 改动的 cat 替代品，阅读代码差异时更加清晰。",
+      "tags": [
+        "cat替代",
+        "开源",
+        "高亮",
+        "Git",
+        "阅读"
+      ],
+      "cat": "opensource",
+      "sub": "cli",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-06-30"
+    },
+    {
+      "id": "opensource-cli-06",
+      "name": "tmux",
+      "url": "https://github.com/tmux/tmux",
+      "desc": "终端复用器，支持持久化会话与分屏，断线重连后远程工作进度不丢失。",
+      "tags": [
+        "终端复用",
+        "开源",
+        "会话",
+        "分屏",
+        "远程"
+      ],
+      "cat": "opensource",
+      "sub": "cli",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-02-28"
+    },
+    {
+      "id": "opensource-cli-07",
+      "name": "Neovim",
+      "url": "https://neovim.io/",
+      "desc": "现代化 Vim 重构，拥有异步架构与丰富生态，是程序员编辑器首选。",
+      "tags": [
+        "编辑器",
+        "开源",
+        "Vim",
+        "LSP",
+        "现代"
+      ],
+      "cat": "opensource",
+      "sub": "cli",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-05-22"
+    },
+    {
+      "id": "opensource-cli-08",
+      "name": "Starship",
+      "url": "https://starship.rs/",
+      "desc": "极简跨 shell 提示符，可显示 Git 与运行时版本，渲染达毫秒级。",
+      "tags": [
+        "提示符",
+        "开源",
+        "跨shell",
+        "轻量",
+        "美观"
+      ],
+      "cat": "opensource",
+      "sub": "cli",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-03-18"
+    },
+    {
+      "id": "opensource-cli-09",
+      "name": "lazygit",
+      "url": "https://github.com/jesseduffield/lazygit",
+      "desc": "终端图形化 Git 客户端，键盘操作直观，分支与提交一目了然。",
+      "tags": [
+        "Git",
+        "开源",
+        "终端",
+        "可视化",
+        "键盘"
+      ],
+      "cat": "opensource",
+      "sub": "cli",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-10-14"
+    },
+    {
+      "id": "opensource-cli-10",
+      "name": "zoxide",
+      "url": "https://github.com/ajeetdsouza/zoxide",
+      "desc": "智能 cd 替代工具，依据频率排序跳转常用目录，敲 z 一下即可直达。",
+      "tags": [
+        "cd替代",
+        "开源",
+        "跳转",
+        "智能",
+        "终端"
+      ],
+      "cat": "opensource",
+      "sub": "cli",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-01-30"
+    },
+    {
+      "id": "opensource-cli-11",
+      "name": "eza",
+      "url": "https://github.com/eza-community/eza",
+      "desc": "现代 ls 替代品，带彩色图标与树状视图，文件信息呈现更直观。",
+      "tags": [
+        "ls替代",
+        "开源",
+        "彩色",
+        "树状",
+        "现代"
+      ],
+      "cat": "opensource",
+      "sub": "cli",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-07-07"
+    },
+    {
+      "id": "opensource-cli-12",
+      "name": "bottom",
+      "url": "https://github.com/ClementTsang/bottom",
+      "desc": "跨平台系统监控面板，类似 htop 但更美观，资源占用一目了然。",
+      "tags": [
+        "监控",
+        "开源",
+        "系统",
+        "跨平台",
+        "美观"
+      ],
+      "cat": "opensource",
+      "sub": "cli",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-04-02"
+    },
+    {
+      "id": "opensource-cli-13",
+      "name": "htop",
+      "url": "https://htop.dev/",
+      "desc": "交互式进程查看器，以彩色树状展示资源占用，比 top 更直观易用。",
+      "tags": [
+        "进程",
+        "开源",
+        "监控",
+        "彩色",
+        "交互"
+      ],
+      "cat": "opensource",
+      "sub": "cli",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-11-12"
+    },
+    {
+      "id": "opensource-cli-14",
+      "name": "tldr",
+      "url": "https://tldr.sh/",
+      "desc": "社区维护的命令示例手册，摒弃冗长 man 页，直接给出实用用法。",
+      "tags": [
+        "手册",
+        "开源",
+        "命令",
+        "示例",
+        "社区"
+      ],
+      "cat": "opensource",
+      "sub": "cli",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-03-25"
+    },
+    {
+      "id": "opensource-cli-15",
+      "name": "asdf",
+      "url": "https://asdf-vm.com/",
+      "desc": "可扩展版本管理器，统一多语言运行时版本，项目切换不再冲突，值得一试。",
+      "tags": [
+        "版本管理",
+        "开源",
+        "多语言",
+        "运行时",
+        "统一"
+      ],
+      "cat": "opensource",
+      "sub": "cli",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-08-23"
+    },
+    {
+      "id": "opensource-cli-16",
+      "name": "Fish",
+      "url": "https://fishshell.com/",
+      "desc": "智能友好的命令行 shell，带自动补全与语法高亮，可开箱即用。",
+      "tags": [
+        "shell",
+        "开源",
+        "自动补全",
+        "友好",
+        "现代"
+      ],
+      "cat": "opensource",
+      "sub": "cli",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-05-06"
+    },
+    {
+      "id": "opensource-cli-17",
+      "name": "Helix",
+      "url": "https://helix-editor.com/",
+      "desc": "由 Rust 打造的模式化编辑器，内置 LSP 与树状导航，风格现代极简。",
+      "tags": [
+        "编辑器",
+        "开源",
+        "Rust",
+        "LSP",
+        "模式化"
+      ],
+      "cat": "opensource",
+      "sub": "cli",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-09"
+    },
+    {
+      "id": "opensource-cli-18",
+      "name": "yazi",
+      "url": "https://github.com/sxyazi/yazi",
+      "desc": "基于 Rust 的终端文件管理器，可流畅异步预览图片视频，体验顺滑。",
+      "tags": [
+        "文件管理",
+        "开源",
+        "Rust",
+        "终端",
+        "预览"
+      ],
+      "cat": "opensource",
+      "sub": "cli",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-12-16"
+    },
+    {
+      "id": "opensource-cli-19",
+      "name": "btop",
+      "url": "https://github.com/aristocratos/btop",
+      "desc": "美观的系统资源监视器，支持鼠标操作，CPU 内存网络尽收眼底。",
+      "tags": [
+        "监控",
+        "开源",
+        "系统",
+        "美观",
+        "鼠标"
+      ],
+      "cat": "opensource",
+      "sub": "cli",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-07-21"
+    },
+    {
+      "id": "opensource-cli-20",
+      "name": "zellij",
+      "url": "https://zellij.dev/",
+      "desc": "用 Rust 写的终端复用器，布局可插件化，并兼容 tmux 工作流。",
+      "tags": [
+        "终端复用",
+        "开源",
+        "Rust",
+        "布局",
+        "插件"
+      ],
+      "cat": "opensource",
+      "sub": "cli",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-08-12"
+    },
+    {
+      "id": "opensource-extension-01",
+      "name": "uBlock Origin",
+      "url": "https://github.com/gorhill/uBlock",
+      "desc": "高效开源广告与跟踪拦截器，内存占用低且规则可定制，上网更纯净。",
+      "tags": [
+        "广告拦截",
+        "开源",
+        "隐私",
+        "轻量",
+        "跟踪"
+      ],
+      "cat": "opensource",
+      "sub": "extension",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-01-22"
+    },
+    {
+      "id": "opensource-extension-02",
+      "name": "Tampermonkey",
+      "url": "https://www.tampermonkey.net/",
+      "desc": "用户脚本管理器，可安装社区脚本增强网页功能，玩法几乎无限，值得一试。",
+      "tags": [
+        "脚本",
+        "开源",
+        "管理器",
+        "增强",
+        "自定义"
+      ],
+      "cat": "opensource",
+      "sub": "extension",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-03-11"
+    },
+    {
+      "id": "opensource-extension-03",
+      "name": "沉浸式翻译",
+      "url": "https://immersivetranslate.com/",
+      "desc": "国产开源双语对照翻译插件，网页与视频字幕一键翻译，阅读无障碍。",
+      "tags": [
+        "翻译",
+        "国产",
+        "开源",
+        "双语",
+        "字幕"
+      ],
+      "cat": "opensource",
+      "sub": "extension",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-01-15"
+    },
+    {
+      "id": "opensource-extension-04",
+      "name": "Dark Reader",
+      "url": "https://darkreader.org/",
+      "desc": "开源深色模式插件，可为任意网站反转配色护眼，并支持微调亮度。",
+      "tags": [
+        "深色模式",
+        "开源",
+        "护眼",
+        "主题",
+        "适配"
+      ],
+      "cat": "opensource",
+      "sub": "extension",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-04-28"
+    },
+    {
+      "id": "opensource-extension-05",
+      "name": "Bitwarden",
+      "url": "https://bitwarden.com/",
+      "desc": "开源密码管理器扩展，支持端到端加密同步，自动填表并生成强密码。",
+      "tags": [
+        "密码",
+        "开源",
+        "加密",
+        "同步",
+        "自动填充"
+      ],
+      "cat": "opensource",
+      "sub": "extension",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-07-02"
+    },
+    {
+      "id": "opensource-extension-06",
+      "name": "Simple Tab Groups",
+      "url": "https://github.com/Drive4ik/simple-tab-groups",
+      "desc": "火狐标签分组扩展，按项目归类会话，可减少内存占用与页面混乱。",
+      "tags": [
+        "标签",
+        "火狐",
+        "分组",
+        "会话",
+        "整理"
+      ],
+      "cat": "opensource",
+      "sub": "extension",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-09-30"
+    },
+    {
+      "id": "opensource-extension-07",
+      "name": "Violentmonkey",
+      "url": "https://violentmonkey.github.io/",
+      "desc": "轻量开源用户脚本管理器，兼容 GreasyFork，且资源占用更小。",
+      "tags": [
+        "脚本",
+        "开源",
+        "轻量",
+        "管理器",
+        "GreasyFork"
+      ],
+      "cat": "opensource",
+      "sub": "extension",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-11-25"
+    },
+    {
+      "id": "opensource-extension-08",
+      "name": "Stylus",
+      "url": "https://github.com/openstyles/stylus",
+      "desc": "开源用户样式管理器，可自定义网站外观，去除多余元素美化界面。",
+      "tags": [
+        "样式",
+        "开源",
+        "自定义",
+        "美化",
+        "界面"
+      ],
+      "cat": "opensource",
+      "sub": "extension",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-02-08"
+    },
+    {
+      "id": "opensource-extension-09",
+      "name": "React Developer Tools",
+      "url": "https://github.com/facebook/react-devtools",
+      "desc": "官方 React 调试扩展，支持组件树与状态探查，前端开发必备。",
+      "tags": [
+        "调试",
+        "开源",
+        "React",
+        "前端",
+        "组件"
+      ],
+      "cat": "opensource",
+      "sub": "extension",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-05-09"
+    },
+    {
+      "id": "opensource-extension-10",
+      "name": "Privacy Badger",
+      "url": "https://privacybadger.org/",
+      "desc": "EFF 出品的反跟踪扩展，可自动学习屏蔽隐形跟踪器，保护隐私。",
+      "tags": [
+        "隐私",
+        "开源",
+        "反跟踪",
+        "EFF",
+        "拦截"
+      ],
+      "cat": "opensource",
+      "sub": "extension",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-08-14"
+    },
+    {
+      "id": "opensource-extension-11",
+      "name": "uMatrix",
+      "url": "https://github.com/gorhill/uMatrix",
+      "desc": "细粒度请求控制矩阵，可按域名脚本 Cookie 开关，提供高级隐私防护。",
+      "tags": [
+        "隐私",
+        "开源",
+        "请求控制",
+        "高级",
+        "安全"
+      ],
+      "cat": "opensource",
+      "sub": "extension",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-06-19"
+    },
+    {
+      "id": "opensource-extension-12",
+      "name": "Decentraleyes",
+      "url": "https://decentraleyes.org/",
+      "desc": "本地化加载公共 CDN 资源，减少第三方请求防追踪，同时加速页面。",
+      "tags": [
+        "隐私",
+        "开源",
+        "CDN",
+        "加速",
+        "反跟踪"
+      ],
+      "cat": "opensource",
+      "sub": "extension",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-03-27"
+    },
+    {
+      "id": "opensource-extension-13",
+      "name": "SponsorBlock",
+      "url": "https://sponsor.ajay.app/",
+      "desc": "众包跳过 YouTube 赞助与插播片段，可自动快进广告段落。",
+      "tags": [
+        "YouTube",
+        "开源",
+        "广告跳过",
+        "众包",
+        "效率"
+      ],
+      "cat": "opensource",
+      "sub": "extension",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-10-08"
+    },
+    {
+      "id": "opensource-extension-14",
+      "name": "Vimium",
+      "url": "https://vimium.github.io/",
+      "desc": "为浏览器带来 Vim 快捷键，支持纯键盘导航翻页点击，效率倍增。",
+      "tags": [
+        "快捷键",
+        "开源",
+        "Vim",
+        "导航",
+        "效率"
+      ],
+      "cat": "opensource",
+      "sub": "extension",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-12-29"
+    },
+    {
+      "id": "opensource-extension-15",
+      "name": "Tree Style Tab",
+      "url": "https://github.com/piroor/treestyletab",
+      "desc": "火狐纵向树状标签栏，以层级展示标签页，管理大量页面更清晰，值得一试。",
+      "tags": [
+        "标签",
+        "火狐",
+        "树状",
+        "管理",
+        "纵向"
+      ],
+      "cat": "opensource",
+      "sub": "extension",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-04-21"
+    },
+    {
+      "id": "opensource-extension-16",
+      "name": "LanguageTool",
+      "url": "https://languagetool.org/",
+      "desc": "开源多语语法校对扩展，支持拼写风格纠错，达到写作助手级检查。",
+      "tags": [
+        "语法",
+        "开源",
+        "校对",
+        "多语言",
+        "写作"
+      ],
+      "cat": "opensource",
+      "sub": "extension",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-02-17"
+    },
+    {
+      "id": "opensource-extension-17",
+      "name": "Video DownloadHelper",
+      "url": "https://www.downloadhelper.net/",
+      "desc": "网页媒体抓取扩展，可下载视频与音频，并支持批量格式转换，值得一试。",
+      "tags": [
+        "下载",
+        "开源",
+        "媒体",
+        "视频",
+        "抓取"
+      ],
+      "cat": "opensource",
+      "sub": "extension",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-05-30"
+    },
+    {
+      "id": "opensource-extension-18",
+      "name": "Cookie AutoDelete",
+      "url": "https://github.com/Cookie-AutoDelete/Cookie-AutoDelete",
+      "desc": "自动清理闲置站点 Cookie，降低跨站追踪，让浏览隐私更干净。",
+      "tags": [
+        "隐私",
+        "开源",
+        "Cookie",
+        "清理",
+        "反跟踪"
+      ],
+      "cat": "opensource",
+      "sub": "extension",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-07-25"
+    },
+    {
+      "id": "opensource-extension-19",
+      "name": "Tab Session Manager",
+      "url": "https://github.com/sienori/Tab-Session-Manager",
+      "desc": "保存恢复浏览器会话，崩溃或换机不丢标签，并支持云同步，值得一试。",
+      "tags": [
+        "会话",
+        "开源",
+        "恢复",
+        "同步",
+        "标签"
+      ],
+      "cat": "opensource",
+      "sub": "extension",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-extension-20",
+      "name": "沙拉查词",
+      "url": "https://saladict.crimx.com/",
+      "desc": "国产开源划词翻译扩展，多词典聚合与生词本，阅读外文网页利器。",
+      "tags": [
+        "翻译",
+        "国产",
+        "开源",
+        "划词",
+        "词典"
+      ],
+      "cat": "opensource",
+      "sub": "extension",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-08-20"
+    },
+    {
+      "id": "opensource-mirror-01",
+      "name": "清华大学开源镜像站",
+      "url": "https://mirrors.tuna.tsinghua.edu.cn/",
+      "desc": "高校开源镜像站，覆盖系统语言包与 PyPI 等，访问速度快且稳定可靠。",
+      "tags": [
+        "镜像",
+        "高校",
+        "开源",
+        "国内",
+        "稳定"
+      ],
+      "cat": "opensource",
+      "sub": "mirror",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-01-05"
+    },
+    {
+      "id": "opensource-mirror-02",
+      "name": "阿里云镜像",
+      "url": "https://mirrors.aliyun.com/",
+      "desc": "阿里开源镜像站，软件源与容器镜像齐全，国内访问速度极快，值得一试。",
+      "tags": [
+        "镜像",
+        "阿里",
+        "开源",
+        "国内",
+        "快速"
+      ],
+      "cat": "opensource",
+      "sub": "mirror",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-02-09"
+    },
+    {
+      "id": "opensource-mirror-03",
+      "name": "中科大镜像",
+      "url": "https://mirrors.ustc.edu.cn/",
+      "desc": "USTC 开源镜像站，长期稳定维护主流发行版与各类学术数据源。",
+      "tags": [
+        "镜像",
+        "高校",
+        "开源",
+        "国内",
+        "稳定"
+      ],
+      "cat": "opensource",
+      "sub": "mirror",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-03-16"
+    },
+    {
+      "id": "opensource-mirror-04",
+      "name": "npmmirror",
+      "url": "https://npmmirror.com/",
+      "desc": "原淘宝 npm 镜像，提供 Node 包与工具链加速，是国内前端标配。",
+      "tags": [
+        "npm",
+        "镜像",
+        "前端",
+        "国内",
+        "加速"
+      ],
+      "cat": "opensource",
+      "sub": "mirror",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-04-12"
+    },
+    {
+      "id": "opensource-mirror-05",
+      "name": "华为云镜像",
+      "url": "https://mirrors.huaweicloud.com/",
+      "desc": "华为开源镜像站，覆盖常见系统与语言源，拥有企业级带宽保障，值得一试。",
+      "tags": [
+        "镜像",
+        "华为",
+        "开源",
+        "国内",
+        "企业级"
+      ],
+      "cat": "opensource",
+      "sub": "mirror",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-05-28"
+    },
+    {
+      "id": "opensource-mirror-06",
+      "name": "DaoCloud 镜像",
+      "url": "https://docker.m.daocloud.io/",
+      "desc": "公共 Docker 镜像加速服务，拉取海外容器免翻墙，部署更顺畅。",
+      "tags": [
+        "Docker",
+        "镜像",
+        "加速",
+        "容器",
+        "国内"
+      ],
+      "cat": "opensource",
+      "sub": "mirror",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-06-08"
+    },
+    {
+      "id": "opensource-mirror-07",
+      "name": "Speedtest",
+      "url": "https://www.speedtest.net/",
+      "desc": "Ookla 全球网速测速工具，直观查看上下行与延迟，排查网络问题。",
+      "tags": [
+        "测速",
+        "网络",
+        "工具",
+        "全球",
+        "诊断"
+      ],
+      "cat": "opensource",
+      "sub": "mirror",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-07-19"
+    },
+    {
+      "id": "opensource-mirror-08",
+      "name": "腾讯云镜像",
+      "url": "https://mirrors.cloud.tencent.com/",
+      "desc": "腾讯开源软件镜像站，系统与安全源覆盖全面，国内访问低延迟，值得一试。",
+      "tags": [
+        "镜像",
+        "腾讯",
+        "开源",
+        "国内",
+        "低延迟"
+      ],
+      "cat": "opensource",
+      "sub": "mirror",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-08-26"
+    },
+    {
+      "id": "opensource-mirror-09",
+      "name": "北京交通大学镜像",
+      "url": "https://mirror.bjtu.edu.cn/",
+      "desc": "北京交大开源镜像，学术与系统源兼备，对校园网络十分友好，值得一试。",
+      "tags": [
+        "镜像",
+        "高校",
+        "开源",
+        "国内",
+        "学术"
+      ],
+      "cat": "opensource",
+      "sub": "mirror",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-09-14"
+    },
+    {
+      "id": "opensource-mirror-10",
+      "name": "浙江大学镜像",
+      "url": "https://mirrors.zju.edu.cn/",
+      "desc": "浙江大学开源镜像站，主流 Linux 发行版与语言包持续同步。",
+      "tags": [
+        "镜像",
+        "高校",
+        "开源",
+        "国内",
+        "Linux"
+      ],
+      "cat": "opensource",
+      "sub": "mirror",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-10-30"
+    },
+    {
+      "id": "opensource-mirror-11",
+      "name": "南京大学镜像",
+      "url": "https://mirrors.nju.edu.cn/",
+      "desc": "南京大学开源镜像，持续更新系统与各类工具链，访问十分稳定，值得一试。",
+      "tags": [
+        "镜像",
+        "高校",
+        "开源",
+        "国内",
+        "稳定"
+      ],
+      "cat": "opensource",
+      "sub": "mirror",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-11-18"
+    },
+    {
+      "id": "opensource-mirror-12",
+      "name": "上海交大 SJTUG",
+      "url": "https://mirrors.sjtug.sjtu.edu.cn/",
+      "desc": "上海交大开源镜像站，特色化维护多种冷门源，社区氛围活跃，值得一试。",
+      "tags": [
+        "镜像",
+        "高校",
+        "开源",
+        "社区",
+        "冷门源"
+      ],
+      "cat": "opensource",
+      "sub": "mirror",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-12-07"
+    },
+    {
+      "id": "opensource-mirror-13",
+      "name": "重庆大学镜像",
+      "url": "https://mirrors.cqu.edu.cn/",
+      "desc": "重庆大学开源镜像站，提供系统与科研数据源，西部节点优选，值得一试。",
+      "tags": [
+        "镜像",
+        "高校",
+        "开源",
+        "西部",
+        "科研"
+      ],
+      "cat": "opensource",
+      "sub": "mirror",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-01-11"
+    },
+    {
+      "id": "opensource-mirror-14",
+      "name": "兰州大学镜像",
+      "url": "https://mirror.lzu.edu.cn/",
+      "desc": "兰州大学开源镜像，基础系统与语言源覆盖，西北访问速度快，值得一试。",
+      "tags": [
+        "镜像",
+        "高校",
+        "开源",
+        "西北",
+        "系统"
+      ],
+      "cat": "opensource",
+      "sub": "mirror",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-02-23"
+    },
+    {
+      "id": "opensource-mirror-15",
+      "name": "南开大学镜像",
+      "url": "https://mirrors.nankai.edu.cn/",
+      "desc": "南开大学开源镜像站，常规发行版与各类工具链镜像同步更新，值得一试。",
+      "tags": [
+        "镜像",
+        "高校",
+        "开源",
+        "国内",
+        "工具链"
+      ],
+      "cat": "opensource",
+      "sub": "mirror",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-03-15"
+    },
+    {
+      "id": "opensource-mirror-16",
+      "name": "搜狐镜像",
+      "url": "https://mirrors.sohu.com/",
+      "desc": "搜狐开源镜像站，提供常见系统与软件源，属于老牌稳定节点，值得一试。",
+      "tags": [
+        "镜像",
+        "搜狐",
+        "开源",
+        "老牌",
+        "稳定"
+      ],
+      "cat": "opensource",
+      "sub": "mirror",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-04-27"
+    },
+    {
+      "id": "opensource-mirror-17",
+      "name": "火山引擎镜像",
+      "url": "https://mirrors.volces.com/",
+      "desc": "字节旗下开源镜像站，系统与容器源加速，属于新晋高速节点，值得一试。",
+      "tags": [
+        "镜像",
+        "字节",
+        "开源",
+        "高速",
+        "容器"
+      ],
+      "cat": "opensource",
+      "sub": "mirror",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-05-12"
+    },
+    {
+      "id": "opensource-mirror-18",
+      "name": "网易镜像",
+      "url": "https://mirrors.163.com/",
+      "desc": "网易开源软件镜像站，系统与语言源齐全，国内访问十分顺畅，值得一试。",
+      "tags": [
+        "镜像",
+        "网易",
+        "开源",
+        "国内",
+        "顺畅"
+      ],
+      "cat": "opensource",
+      "sub": "mirror",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-25"
+    },
+    {
+      "id": "opensource-mirror-19",
+      "name": "百度镜像",
+      "url": "https://mirror.baidu.com/",
+      "desc": "百度开源镜像站，提供系统与开发工具链加速，覆盖各类常用源，值得一试。",
+      "tags": [
+        "镜像",
+        "百度",
+        "开源",
+        "国内",
+        "工具链"
+      ],
+      "cat": "opensource",
+      "sub": "mirror",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-07-08"
+    },
+    {
+      "id": "opensource-mirror-20",
+      "name": "京东云镜像",
+      "url": "https://mirrors.jd.com/",
+      "desc": "京东云开源镜像站，提供系统与容器源加速，电商级带宽保障，值得一试。",
+      "tags": [
+        "镜像",
+        "京东",
+        "开源",
+        "电商级",
+        "加速"
+      ],
+      "cat": "opensource",
+      "sub": "mirror",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-08-30"
+    },
+    {
+      "id": "opensource-awesome-01",
+      "name": "Awesome",
+      "url": "https://github.com/sindresorhus/awesome",
+      "desc": "由 sindresorhus 维护的终极资源清单合集，涵盖各类技术主题入口。",
+      "tags": [
+        "清单",
+        "开源",
+        "资源",
+        "合集",
+        "索引"
+      ],
+      "cat": "opensource",
+      "sub": "awesome",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-01-18"
+    },
+    {
+      "id": "opensource-awesome-02",
+      "name": "Awesome-Selfhosted",
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+      "desc": "自建服务大全清单，按类别系统罗列可私有部署的开源应用，值得一试。",
+      "tags": [
+        "清单",
+        "开源",
+        "自建",
+        "应用",
+        "索引"
+      ],
+      "cat": "opensource",
+      "sub": "awesome",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-02-26"
+    },
+    {
+      "id": "opensource-awesome-03",
+      "name": "Free Programming Books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "desc": "免费编程书籍清单，多语言多主题，堪称自学资源的宝库，值得一试。",
+      "tags": [
+        "清单",
+        "开源",
+        "书籍",
+        "免费",
+        "学习"
+      ],
+      "cat": "opensource",
+      "sub": "awesome",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-03-22"
+    },
+    {
+      "id": "opensource-awesome-04",
+      "name": "Public APIs",
+      "url": "https://github.com/public-apis/public-apis",
+      "desc": "公开 API 汇总清单，按分类索引可免费调用的各类接口集合。",
+      "tags": [
+        "清单",
+        "开源",
+        "API",
+        "接口",
+        "索引"
+      ],
+      "cat": "opensource",
+      "sub": "awesome",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-04-30"
+    },
+    {
+      "id": "opensource-awesome-05",
+      "name": "HelloGitHub",
+      "url": "https://hellogithub.com/",
+      "desc": "国产开源月刊，挖掘有趣项目并配中文解读，帮你发现好轮子，值得一试。",
+      "tags": [
+        "月刊",
+        "国产",
+        "开源",
+        "发现",
+        "中文"
+      ],
+      "cat": "opensource",
+      "sub": "awesome",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-05-17"
+    },
+    {
+      "id": "opensource-awesome-06",
+      "name": "GitHub Trending",
+      "url": "https://github.com/trending",
+      "desc": "GitHub 官方趋势榜，可实时查看当日热门仓库与技术风向。",
+      "tags": [
+        "趋势",
+        "开源",
+        "GitHub",
+        "热门",
+        "实时"
+      ],
+      "cat": "opensource",
+      "sub": "awesome",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-06-25"
+    },
+    {
+      "id": "opensource-awesome-07",
+      "name": "Awesome Python",
+      "url": "https://github.com/vinta/awesome-python",
+      "desc": "精选 Python 库与框架清单，按用途分类，是选型参考权威。",
+      "tags": [
+        "清单",
+        "开源",
+        "Python",
+        "库",
+        "选型"
+      ],
+      "cat": "opensource",
+      "sub": "awesome",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-07-12"
+    },
+    {
+      "id": "opensource-awesome-08",
+      "name": "Awesome Machine Learning",
+      "url": "https://github.com/josephmisiti/awesome-machine-learning",
+      "desc": "机器学习资源大合集，课程数据集与工具一应俱全，入门宝典，值得一试。",
+      "tags": [
+        "清单",
+        "开源",
+        "机器学习",
+        "资源",
+        "入门"
+      ],
+      "cat": "opensource",
+      "sub": "awesome",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-08-09"
+    },
+    {
+      "id": "opensource-awesome-09",
+      "name": "Free for Dev",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "desc": "面向开发者的免费服务清单，云主机 CI 域名等白嫖资源汇总。",
+      "tags": [
+        "清单",
+        "开源",
+        "免费",
+        "云服务",
+        "开发者"
+      ],
+      "cat": "opensource",
+      "sub": "awesome",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-09-28"
+    },
+    {
+      "id": "opensource-awesome-10",
+      "name": "Build Your Own X",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "desc": "手把手教你从零实现数据库编辑器等技术，源码级学习清单，值得一试。",
+      "tags": [
+        "清单",
+        "开源",
+        "教程",
+        "源码",
+        "学习"
+      ],
+      "cat": "opensource",
+      "sub": "awesome",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-10-16"
+    },
+    {
+      "id": "opensource-awesome-11",
+      "name": "Awesome Vue",
+      "url": "https://github.com/vuejs/awesome-vue",
+      "desc": "Vue 生态精选清单，含组件库与工具索引，供框架开发参考，值得一试。",
+      "tags": [
+        "清单",
+        "开源",
+        "Vue",
+        "组件",
+        "前端"
+      ],
+      "cat": "opensource",
+      "sub": "awesome",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-11-04"
+    },
+    {
+      "id": "opensource-awesome-12",
+      "name": "Awesome React",
+      "url": "https://github.com/enaqx/awesome-react",
+      "desc": "React 生态资源汇总，涵盖库与教程集合，前端选型指南，值得一试。",
+      "tags": [
+        "清单",
+        "开源",
+        "React",
+        "前端",
+        "选型"
+      ],
+      "cat": "opensource",
+      "sub": "awesome",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-12-12"
+    },
+    {
+      "id": "opensource-awesome-13",
+      "name": "CS-Notes",
+      "url": "https://github.com/CyC2018/CS-Notes",
+      "desc": "国产计算机笔试面试笔记，含八股与算法图解，校招备考神器，值得一试。",
+      "tags": [
+        "面试",
+        "国产",
+        "开源",
+        "笔记",
+        "校招"
+      ],
+      "cat": "opensource",
+      "sub": "awesome",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-01-28"
+    },
+    {
+      "id": "opensource-awesome-14",
+      "name": "Project-Based Learning",
+      "url": "https://github.com/practical-tutorials/project-based-learning",
+      "desc": "项目驱动式学习清单，倡导边做边学，助你构建真实可用的应用，值得一试。",
+      "tags": [
+        "清单",
+        "开源",
+        "项目",
+        "学习",
+        "实践"
+      ],
+      "cat": "opensource",
+      "sub": "awesome",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-02-14"
+    },
+    {
+      "id": "opensource-awesome-15",
+      "name": "Awesome Go",
+      "url": "https://github.com/avelino/awesome-go",
+      "desc": "Go 语言精选资源清单，涵盖库与框架索引，后端开发参考，值得一试。",
+      "tags": [
+        "清单",
+        "开源",
+        "Go",
+        "库",
+        "后端"
+      ],
+      "cat": "opensource",
+      "sub": "awesome",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-03-31"
+    },
+    {
+      "id": "opensource-awesome-16",
+      "name": "Tech Interview Handbook",
+      "url": "https://github.com/yangshun/tech-interview-handbook",
+      "desc": "技术面试 handbook，涵盖算法系统设计中英对照，求职必备。",
+      "tags": [
+        "面试",
+        "开源",
+        "手册",
+        "求职",
+        "算法"
+      ],
+      "cat": "opensource",
+      "sub": "awesome",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-04-18"
+    },
+    {
+      "id": "opensource-awesome-17",
+      "name": "掘金",
+      "url": "https://juejin.cn/",
+      "desc": "国产开发者社区，含前端后端干货与开源资讯，技术成长聚集地，值得一试。",
+      "tags": [
+        "社区",
+        "国产",
+        "开源",
+        "前端",
+        "资讯"
+      ],
+      "cat": "opensource",
+      "sub": "awesome",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-05-25"
+    },
+    {
+      "id": "opensource-awesome-18",
+      "name": "开源中国",
+      "url": "https://www.oschina.net/",
+      "desc": "老牌中文开源社区，涵盖项目托管资讯与问答，本土开发者家园，值得一试。",
+      "tags": [
+        "社区",
+        "国产",
+        "开源",
+        "托管",
+        "资讯"
+      ],
+      "cat": "opensource",
+      "sub": "awesome",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-11"
+    },
+    {
+      "id": "opensource-awesome-19",
+      "name": "Gitee",
+      "url": "https://gitee.com/",
+      "desc": "国产代码托管平台，开源项目众多，国内访问快且支持私有仓，值得一试。",
+      "tags": [
+        "托管",
+        "国产",
+        "开源",
+        "代码",
+        "私有仓"
+      ],
+      "cat": "opensource",
+      "sub": "awesome",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-07-30"
+    },
+    {
+      "id": "opensource-awesome-20",
+      "name": "DevDocs",
+      "url": "https://devdocs.io/",
+      "desc": "聚合多语言 API 文档的站点，离线搜索快，开发查阅一站式。",
+      "tags": [
+        "文档",
+        "开源",
+        "API",
+        "离线",
+        "查阅"
+      ],
+      "cat": "opensource",
+      "sub": "awesome",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-08-22"
+    },
+    {
+      "id": "opensource-selfhost-x01",
+      "name": "Passbolt",
+      "url": "https://www.passbolt.com/",
+      "desc": "开源团队密码管理器，基于 GPG 加密，支持自建服务端与安全共享凭据。",
+      "tags": [
+        "密码管理",
+        "团队协作",
+        "自托管"
+      ],
+      "cat": "opensource",
+      "sub": "selfhost",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-selfhost-x02",
+      "name": "Seafile",
+      "url": "https://www.seafile.com/",
+      "desc": "高性能开源网盘与文件同步系统，支持私有部署、版本管理与团队协作。",
+      "tags": [
+        "网盘",
+        "文件同步",
+        "自托管"
+      ],
+      "cat": "opensource",
+      "sub": "selfhost",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-selfhost-x03",
+      "name": "LibrePhotos",
+      "url": "https://librephotos.com/",
+      "desc": "自托管的开源照片管理工具，支持人脸识别、地理定位与智能相册整理。",
+      "tags": [
+        "相册",
+        "照片管理",
+        "自托管"
+      ],
+      "cat": "opensource",
+      "sub": "selfhost",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-selfhost-x04",
+      "name": "Yarr",
+      "url": "https://github.com/nkanaev/yarr",
+      "desc": "轻量级自托管 RSS 阅读器，界面简洁，支持 OPML 导入与离线阅读。",
+      "tags": [
+        "RSS",
+        "阅读器",
+        "自托管"
+      ],
+      "cat": "opensource",
+      "sub": "selfhost",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-selfhost-x05",
+      "name": "HedgeDoc",
+      "url": "https://hedgedoc.org/",
+      "desc": "开源实时协作 Markdown 笔记平台，适合团队文档与会议记录共享。",
+      "tags": [
+        "笔记",
+        "协作文档",
+        "Markdown"
+      ],
+      "cat": "opensource",
+      "sub": "selfhost",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-selfhost-x06",
+      "name": "Gogs",
+      "url": "https://gogs.io/",
+      "desc": "极简开源自建 Git 服务，使用 Go 编写，资源占用低，部署简单快捷。",
+      "tags": [
+        "Git",
+        "代码托管",
+        "自托管"
+      ],
+      "cat": "opensource",
+      "sub": "selfhost",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-software-x01",
+      "name": "Apache OpenOffice",
+      "url": "https://www.openoffice.org/",
+      "desc": "老牌开源办公套件，含文字、表格、演示与绘图，兼容主流文档格式。",
+      "tags": [
+        "办公",
+        "文档处理",
+        "开源软件"
+      ],
+      "cat": "opensource",
+      "sub": "software",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-software-x02",
+      "name": "Audacious",
+      "url": "https://audacious-media-player.org/",
+      "desc": "轻量开源音乐播放器，占用资源少，支持多种音频格式与插件扩展。",
+      "tags": [
+        "音乐播放器",
+        "音频",
+        "开源软件"
+      ],
+      "cat": "opensource",
+      "sub": "software",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-software-x03",
+      "name": "PeaZip",
+      "url": "https://peazip.github.io/",
+      "desc": "开源免费压缩解压工具，支持 200+ 格式与加密分卷，跨平台使用。",
+      "tags": [
+        "压缩解压",
+        "文件工具",
+        "开源软件"
+      ],
+      "cat": "opensource",
+      "sub": "software",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-software-x04",
+      "name": "Flameshot",
+      "url": "https://flameshot.org/",
+      "desc": "强大的开源截图工具，支持标注、模糊、箭头与一键快速分享截图。",
+      "tags": [
+        "截图",
+        "录屏",
+        "开源软件"
+      ],
+      "cat": "opensource",
+      "sub": "software",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-software-x05",
+      "name": "KeePass",
+      "url": "https://keepass.info/",
+      "desc": "经典开源密码管理软件，本地加密数据库存储，支持插件与多平台。",
+      "tags": [
+        "密码管理",
+        "安全",
+        "开源软件"
+      ],
+      "cat": "opensource",
+      "sub": "software",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-software-x06",
+      "name": "Motrix",
+      "url": "https://motrix.app/",
+      "desc": "开源全功能下载管理器，支持 HTTP、BT、磁力与百度网盘等多协议。",
+      "tags": [
+        "下载器",
+        "BT",
+        "开源软件"
+      ],
+      "cat": "opensource",
+      "sub": "software",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-software-x07",
+      "name": "QEMU",
+      "url": "https://www.qemu.org/",
+      "desc": "开源虚拟化模拟器，支持多架构 CPU 仿真与高性能 KVM 加速。",
+      "tags": [
+        "虚拟机",
+        "虚拟化",
+        "开源软件"
+      ],
+      "cat": "opensource",
+      "sub": "software",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-software-x08",
+      "name": "PaddleOCR",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "desc": "百度开源的多语言 OCR 引擎，提供高精度文字识别与表格识别模型。",
+      "tags": [
+        "OCR",
+        "文字识别",
+        "人工智能"
+      ],
+      "cat": "opensource",
+      "sub": "software",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-software-x09",
+      "name": "Calibre",
+      "url": "https://calibre-ebook.com/",
+      "desc": "开源电子书管理神器，支持格式转换、编辑、推送与多设备同步管理。",
+      "tags": [
+        "电子书",
+        "格式转换",
+        "开源软件"
+      ],
+      "cat": "opensource",
+      "sub": "software",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-software-x10",
+      "name": "VSCodium",
+      "url": "https://vscodium.com/",
+      "desc": "去除遥测的 VS Code 开源构建版本，自由免费，体验一致且无追踪。",
+      "tags": [
+        "编辑器",
+        "IDE",
+        "开源软件"
+      ],
+      "cat": "opensource",
+      "sub": "software",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-cli-x01",
+      "name": "Bash-it",
+      "url": "https://github.com/Bash-it/bash-it",
+      "desc": "Bash shell 框架，提供主题、别名与插件，开箱即用的命令行增强。",
+      "tags": [
+        "Shell",
+        "命令行",
+        "框架"
+      ],
+      "cat": "opensource",
+      "sub": "cli",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-cli-x02",
+      "name": "broot",
+      "url": "https://github.com/Canop/broot",
+      "desc": "可视化终端文件树浏览工具，支持模糊搜索、批量操作与快速跳转。",
+      "tags": [
+        "文件查找",
+        "终端",
+        "命令行"
+      ],
+      "cat": "opensource",
+      "sub": "cli",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-cli-x03",
+      "name": "jq",
+      "url": "https://github.com/jqlang/jq",
+      "desc": "轻量命令行 JSON 处理工具，用于格式化、过滤与转换 JSON 数据。",
+      "tags": [
+        "JSON",
+        "数据处理",
+        "命令行"
+      ],
+      "cat": "opensource",
+      "sub": "cli",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-cli-x04",
+      "name": "dvtm",
+      "url": "https://github.com/martanne/dvtm",
+      "desc": "动态虚拟终端复用器，在终端内分割窗格并运行多个 shell 会话。",
+      "tags": [
+        "终端复用",
+        "终端",
+        "命令行"
+      ],
+      "cat": "opensource",
+      "sub": "cli",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-cli-x05",
+      "name": "tig",
+      "url": "https://github.com/jonas/tig",
+      "desc": "Git 仓库的 ncurses 文本界面浏览器，方便查看提交日志与差异。",
+      "tags": [
+        "Git",
+        "版本控制",
+        "命令行"
+      ],
+      "cat": "opensource",
+      "sub": "cli",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-extension-x01",
+      "name": "ClearURLs",
+      "url": "https://github.com/KevinRoebert/ClearURLs",
+      "desc": "开源浏览器扩展，自动清除链接中追踪参数，保护隐私防止跟踪。",
+      "tags": [
+        "隐私",
+        "反追踪",
+        "浏览器扩展"
+      ],
+      "cat": "opensource",
+      "sub": "extension",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-extension-x02",
+      "name": "Screenity",
+      "url": "https://github.com/alyssaxuu/screenity",
+      "desc": "开源屏幕录制与标注扩展，支持注释、计数与导出 GIF 或视频。",
+      "tags": [
+        "录屏",
+        "截图",
+        "浏览器扩展"
+      ],
+      "cat": "opensource",
+      "sub": "extension",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-extension-x03",
+      "name": "Sidebery",
+      "url": "https://github.com/mbnu/sb",
+      "desc": "Firefox 开源标签页管理扩展，支持树状侧边栏与容器分组管理。",
+      "tags": [
+        "标签页管理",
+        "效率",
+        "浏览器扩展"
+      ],
+      "cat": "opensource",
+      "sub": "extension",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-extension-x04",
+      "name": "TWP 翻译",
+      "url": "https://github.com/FilipePS/Traduzir-paginas-web",
+      "desc": "开源网页翻译扩展，支持整页与划线翻译，可离线本地化浏览。",
+      "tags": [
+        "翻译",
+        "语言",
+        "浏览器扩展"
+      ],
+      "cat": "opensource",
+      "sub": "extension",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-extension-x05",
+      "name": "KeePassXC-Browser",
+      "url": "https://github.com/keepassxreboot/keepassxc-browser",
+      "desc": "开源浏览器密码填充扩展，与 KeePassXC 联动自动填表与检索。",
+      "tags": [
+        "密码填充",
+        "安全",
+        "浏览器扩展"
+      ],
+      "cat": "opensource",
+      "sub": "extension",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-awesome-x01",
+      "name": "Awesome Java",
+      "url": "https://github.com/akullpp/awesome-java",
+      "desc": "精选 Java 生态资源清单，汇集库、框架与工具，便于技术选型。",
+      "tags": [
+        "Java",
+        "资源清单",
+        "Awesome"
+      ],
+      "cat": "opensource",
+      "sub": "awesome",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-awesome-x02",
+      "name": "Awesome Rust",
+      "url": "https://github.com/rust-unofficial/awesome-rust",
+      "desc": "Rust 社区精选资源合集，覆盖库、应用、书籍与学习资料。",
+      "tags": [
+        "Rust",
+        "资源清单",
+        "Awesome"
+      ],
+      "cat": "opensource",
+      "sub": "awesome",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-awesome-x03",
+      "name": "Awesome Kubernetes",
+      "url": "https://github.com/ramitsurana/awesome-kubernetes",
+      "desc": "Kubernetes 生态精选列表，含工具、教程与最佳实践资源汇总。",
+      "tags": [
+        "Kubernetes",
+        "云原生",
+        "Awesome"
+      ],
+      "cat": "opensource",
+      "sub": "awesome",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-awesome-x04",
+      "name": "Awesome MCP Servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "desc": "模型上下文协议服务器精选清单，汇总可接入 AI 的开源 MCP 服务。",
+      "tags": [
+        "MCP",
+        "AI",
+        "Awesome"
+      ],
+      "cat": "opensource",
+      "sub": "awesome",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-awesome-x05",
+      "name": "Build Your Own X",
+      "url": "https://github.com/danistefanovic/build-your-own-x",
+      "desc": "教你从零造轮子的免费教程合集，涵盖数据库、操作系统与搜索引擎。",
+      "tags": [
+        "教程",
+        "学习",
+        "免费资源"
+      ],
+      "cat": "opensource",
+      "sub": "awesome",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-awesome-x06",
+      "name": "Coding Interview University",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "desc": "免费系统的编程面试学习路线图，涵盖算法、系统与计算机基础。",
+      "tags": [
+        "面试",
+        "学习路线",
+        "免费资源"
+      ],
+      "cat": "opensource",
+      "sub": "awesome",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-awesome-x07",
+      "name": "OpenAlternative",
+      "url": "https://openalternative.com/",
+      "desc": "开源替代品目录，按品类推荐可自托管的 SaaS 开源平替方案。",
+      "tags": [
+        "开源替代品",
+        "SaaS",
+        "资源清单"
+      ],
+      "cat": "opensource",
+      "sub": "awesome",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-awesome-x08",
+      "name": "Developer Roadmap",
+      "url": "https://github.com/kamranahmedse/developer-roadmap",
+      "desc": "开发者成长路线图合集，前端、后端与 DevOps 技能路径一目了然。",
+      "tags": [
+        "路线图",
+        "职业发展",
+        "学习"
+      ],
+      "cat": "opensource",
+      "sub": "awesome",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-awesome-x09",
+      "name": "Awesome System Design",
+      "url": "https://github.com/ashishps1/awesome-system-design-resources",
+      "desc": "系统设计学习资源清单，汇集文章、视频与面试题，免费可查。",
+      "tags": [
+        "系统设计",
+        "学习",
+        "免费资源"
+      ],
+      "cat": "opensource",
+      "sub": "awesome",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-awesome-x10",
+      "name": "Awesome Sysadmin",
+      "url": "https://github.com/kahun/awesome-sysadmin",
+      "desc": "运维工程师精选清单，涵盖监控、备份、网络与自动化开源工具。",
+      "tags": [
+        "运维",
+        "系统管理",
+        "Awesome"
+      ],
+      "cat": "opensource",
+      "sub": "awesome",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-awesome-x11",
+      "name": "APIs.guru",
+      "url": "https://api.guru/",
+      "desc": "免费开放 API 定义目录，聚合海量公开 Web API 的 OpenAPI 规范。",
+      "tags": [
+        "API",
+        "免费资源",
+        "开发者"
+      ],
+      "cat": "opensource",
+      "sub": "awesome",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "opensource-awesome-x12",
+      "name": "Awesome Creative Coding",
+      "url": "https://github.com/terabaud/awesome-creative-coding",
+      "desc": "创意编程资源精选，汇集生成艺术、着色器与可视化工具清单。",
+      "tags": [
+        "创意编程",
+        "生成艺术",
+        "Awesome"
+      ],
+      "cat": "opensource",
+      "sub": "awesome",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    }
+  ]
+}

@@ -1,0 +1,2863 @@
+{
+  "category": "education",
+  "resources": [
+    {
+      "id": "education-courses-01",
+      "name": "中国大学MOOC",
+      "url": "https://www.icourse163.org/",
+      "desc": "教育部推出的高校在线课程平台，汇聚清华北大等名校公开课，中文慕课免费学习。",
+      "tags": [
+        "慕课",
+        "高校",
+        "免费",
+        "中文",
+        "公开课"
+      ],
+      "cat": "education",
+      "sub": "courses",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-03-12"
+    },
+    {
+      "id": "education-courses-02",
+      "name": "学堂在线",
+      "url": "https://www.xuetangx.com/",
+      "desc": "清华大学发起的MOOC平台，提供大量985高校课程与微学位，支持中文学习认证。",
+      "tags": [
+        "慕课",
+        "清华",
+        "中文",
+        "认证",
+        "免费"
+      ],
+      "cat": "education",
+      "sub": "courses",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-05-20"
+    },
+    {
+      "id": "education-courses-03",
+      "name": "Coursera",
+      "url": "https://www.coursera.org/",
+      "desc": "全球最大国际在线课程平台，联手斯坦福等名校提供专项证书与学位课程。",
+      "tags": [
+        "慕课",
+        "国际",
+        "证书",
+        "英文",
+        "名校"
+      ],
+      "cat": "education",
+      "sub": "courses",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-02-08"
+    },
+    {
+      "id": "education-courses-04",
+      "name": "edX",
+      "url": "https://www.edx.org/",
+      "desc": "哈佛与MIT共建的非营利慕课平台，提供大量名校开放课程与微硕士项目。",
+      "tags": [
+        "慕课",
+        "名校",
+        "英文",
+        "免费",
+        "证书"
+      ],
+      "cat": "education",
+      "sub": "courses",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-07-15"
+    },
+    {
+      "id": "education-courses-05",
+      "name": "可汗学院",
+      "url": "https://zh.khanacademy.org/",
+      "desc": "免费非营利教育平台，覆盖K12数学科学到备考，短视频讲解循序渐进。",
+      "tags": [
+        "免费",
+        "K12",
+        "数学",
+        "短视频",
+        "英文"
+      ],
+      "cat": "education",
+      "sub": "courses",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-01-10"
+    },
+    {
+      "id": "education-courses-06",
+      "name": "哔哩哔哩",
+      "url": "https://www.bilibili.com/",
+      "desc": "视频社区含海量免费学习区UP主课程，从编程到考研复习内容应有尽有。",
+      "tags": [
+        "视频",
+        "免费",
+        "中文",
+        "UP主",
+        "综合"
+      ],
+      "cat": "education",
+      "sub": "courses",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-09-03"
+    },
+    {
+      "id": "education-courses-07",
+      "name": "网易公开课",
+      "url": "https://open.163.com/",
+      "desc": "网易引进TED与名校公开课，免费观看全球顶尖大学公开讲座视频。",
+      "tags": [
+        "公开课",
+        "免费",
+        "英文",
+        "视频",
+        "综合"
+      ],
+      "cat": "education",
+      "sub": "courses",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-04-22"
+    },
+    {
+      "id": "education-courses-08",
+      "name": "Udacity",
+      "url": "https://www.udacity.com/",
+      "desc": "主打纳米学位的硅谷式在线教育，聚焦人工智能与编程实战项目。",
+      "tags": [
+        "编程",
+        "纳米学位",
+        "英文",
+        "实战",
+        "职业"
+      ],
+      "cat": "education",
+      "sub": "courses",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-03-18"
+    },
+    {
+      "id": "education-courses-09",
+      "name": "Udemy",
+      "url": "https://www.udemy.com/",
+      "desc": "海量付费技能课程市场，覆盖编程设计职场，常有折扣与终身访问。",
+      "tags": [
+        "技能",
+        "付费",
+        "英文",
+        "职场",
+        "综合"
+      ],
+      "cat": "education",
+      "sub": "courses",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-11-30"
+    },
+    {
+      "id": "education-courses-10",
+      "name": "FutureLearn",
+      "url": "https://www.futurelearn.com/",
+      "desc": "英国开放大学运营的慕课平台，课程按周推进，重社区讨论式学习。",
+      "tags": [
+        "慕课",
+        "英文",
+        "社区",
+        "名校",
+        "免费"
+      ],
+      "cat": "education",
+      "sub": "courses",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-06-11"
+    },
+    {
+      "id": "education-courses-11",
+      "name": "好大学在线",
+      "url": "https://www.cnmooc.org/",
+      "desc": "上海交通大学牵头的中文慕课联盟，聚合国内高校优质开放课程。",
+      "tags": [
+        "慕课",
+        "高校",
+        "中文",
+        "免费",
+        "联盟"
+      ],
+      "cat": "education",
+      "sub": "courses",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-06-05"
+    },
+    {
+      "id": "education-courses-12",
+      "name": "华文慕课",
+      "url": "https://www.chinesemooc.org/",
+      "desc": "北大出品的中文开放课程平台，汇集名家讲座与系统通识课程。",
+      "tags": [
+        "慕课",
+        "北大",
+        "中文",
+        "通识",
+        "免费"
+      ],
+      "cat": "education",
+      "sub": "courses",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-02-14"
+    },
+    {
+      "id": "education-courses-13",
+      "name": "MIT OpenCourseWare",
+      "url": "https://ocw.mit.edu/",
+      "desc": "麻省理工全部课程免费开放，讲义作业试卷齐全，自学黄金资料库。",
+      "tags": [
+        "名校",
+        "免费",
+        "英文",
+        "讲义",
+        "开放"
+      ],
+      "cat": "education",
+      "sub": "courses",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-01-25"
+    },
+    {
+      "id": "education-courses-14",
+      "name": "爱课程",
+      "url": "https://www.icourses.cn/",
+      "desc": "国家精品课程共享平台，提供中国大学视频公开课与资源共享课。",
+      "tags": [
+        "精品课",
+        "中文",
+        "免费",
+        "高校",
+        "视频"
+      ],
+      "cat": "education",
+      "sub": "courses",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-10-19"
+    },
+    {
+      "id": "education-courses-15",
+      "name": "超星泛雅",
+      "url": "https://www.chaoxing.com/",
+      "desc": "高校广泛使用的网络教学与图书馆系统，含海量电子图书与课程。",
+      "tags": [
+        "高校",
+        "图书",
+        "中文",
+        "系统",
+        "综合"
+      ],
+      "cat": "education",
+      "sub": "courses",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-04-08"
+    },
+    {
+      "id": "education-courses-16",
+      "name": "智慧树",
+      "url": "https://www.zhihuishu.com/",
+      "desc": "高校学分课共享平台，提供跨校选修的优质通识与专业在线课程。",
+      "tags": [
+        "学分课",
+        "高校",
+        "中文",
+        "通识",
+        "综合"
+      ],
+      "cat": "education",
+      "sub": "courses",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-07-22"
+    },
+    {
+      "id": "education-courses-17",
+      "name": "雨课堂",
+      "url": "https://www.yuketang.cn/",
+      "desc": "清华出品的智慧教学工具，将课件直播与互动融入微信课堂。",
+      "tags": [
+        "智慧教学",
+        "中文",
+        "高校",
+        "直播",
+        "工具"
+      ],
+      "cat": "education",
+      "sub": "courses",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-08-17"
+    },
+    {
+      "id": "education-courses-18",
+      "name": "Class Central",
+      "url": "https://www.classcentral.com/",
+      "desc": "全球慕课聚合搜索引擎，汇总各平台课程与评价，找课更高效。",
+      "tags": [
+        "聚合",
+        "搜索",
+        "英文",
+        "免费",
+        "慕课"
+      ],
+      "cat": "education",
+      "sub": "courses",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-05-29"
+    },
+    {
+      "id": "education-courses-19",
+      "name": "Alison",
+      "url": "https://alison.com/",
+      "desc": "提供大量免费职业证书课程，聚焦职场硬技能与软技能提升。",
+      "tags": [
+        "职业",
+        "免费",
+        "证书",
+        "英文",
+        "技能"
+      ],
+      "cat": "education",
+      "sub": "courses",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-12-02"
+    },
+    {
+      "id": "education-courses-20",
+      "name": "我要自学网",
+      "url": "https://www.51zxw.net/",
+      "desc": "老牌免费视频教程站，覆盖办公设计编程到各类软件操作实战。",
+      "tags": [
+        "免费",
+        "教程",
+        "中文",
+        "软件",
+        "实战"
+      ],
+      "cat": "education",
+      "sub": "courses",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-08-13"
+    },
+    {
+      "id": "education-language-01",
+      "name": "多邻国",
+      "url": "https://www.duolingo.com/",
+      "desc": "游戏化外语学习应用，用短关卡每天学一门语言，零基础也能坚持。",
+      "tags": [
+        "外语",
+        "游戏化",
+        "免费",
+        "入门",
+        "英文"
+      ],
+      "cat": "education",
+      "sub": "language",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-02-11"
+    },
+    {
+      "id": "education-language-02",
+      "name": "沪江网校",
+      "url": "https://www.hujiang.com/",
+      "desc": "老牌综合外语学习社区，含日语英语等多语种课程与开心词场。",
+      "tags": [
+        "外语",
+        "中文",
+        "日语",
+        "课程",
+        "综合"
+      ],
+      "cat": "education",
+      "sub": "language",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-06-28"
+    },
+    {
+      "id": "education-language-03",
+      "name": "有道词典",
+      "url": "https://www.youdao.com/",
+      "desc": "网易出品的权威中英词典与翻译工具，释义例句发音一应俱全。",
+      "tags": [
+        "词典",
+        "翻译",
+        "中文",
+        "英文",
+        "工具"
+      ],
+      "cat": "education",
+      "sub": "language",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-09-09"
+    },
+    {
+      "id": "education-language-04",
+      "name": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/",
+      "desc": "剑桥大学官方词典，提供权威英文释义、发音与用法例句查询。",
+      "tags": [
+        "词典",
+        "英文",
+        "权威",
+        "发音",
+        "工具"
+      ],
+      "cat": "education",
+      "sub": "language",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-01-22"
+    },
+    {
+      "id": "education-language-05",
+      "name": "Tatoeba",
+      "url": "https://tatoeba.org/",
+      "desc": "众包多语种例句数据库，用真实语境句子帮你掌握地道用法。",
+      "tags": [
+        "例句",
+        "多语种",
+        "免费",
+        "语境",
+        "学习"
+      ],
+      "cat": "education",
+      "sub": "language",
+      "hot": 2,
+      "lang": "multi",
+      "free": "free",
+      "added": "2024-11-15"
+    },
+    {
+      "id": "education-language-06",
+      "name": "Busuu",
+      "url": "https://www.busuu.com/",
+      "desc": "社交式语言学习平台，可与母语者互评作业提升口语写作。",
+      "tags": [
+        "外语",
+        "社交",
+        "英文",
+        "互动",
+        "付费"
+      ],
+      "cat": "education",
+      "sub": "language",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-03-03"
+    },
+    {
+      "id": "education-language-07",
+      "name": "Babbel",
+      "url": "https://www.babbel.com/",
+      "desc": "注重实用对话的德语等小语种课程，结构化编排适合成人入门。",
+      "tags": [
+        "外语",
+        "付费",
+        "德文",
+        "实用",
+        "成人"
+      ],
+      "cat": "education",
+      "sub": "language",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-07-30"
+    },
+    {
+      "id": "education-language-08",
+      "name": "Memrise",
+      "url": "https://www.memrise.com/",
+      "desc": "用记忆科学与真人视频助记单词，趣味化攻克多国语言词汇。",
+      "tags": [
+        "单词",
+        "记忆",
+        "英文",
+        "趣味",
+        "多语种"
+      ],
+      "cat": "education",
+      "sub": "language",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-05-12"
+    },
+    {
+      "id": "education-language-09",
+      "name": "Rosetta Stone",
+      "url": "https://www.rosettastone.com/",
+      "desc": "沉浸式图像联想教学法的老牌语言软件，零翻译直接建立语感。",
+      "tags": [
+        "沉浸",
+        "付费",
+        "英文",
+        "语感",
+        "软件"
+      ],
+      "cat": "education",
+      "sub": "language",
+      "hot": 0,
+      "lang": "en",
+      "free": "paid",
+      "added": "2024-04-18"
+    },
+    {
+      "id": "education-language-10",
+      "name": "英语流利说",
+      "url": "https://www.liulishuo.com/",
+      "desc": "AI打分纠音的口语练习应用，每日跟读提升英语发音与流利度。",
+      "tags": [
+        "英语",
+        "口语",
+        "AI",
+        "中文",
+        "发音"
+      ],
+      "cat": "education",
+      "sub": "language",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-10-27"
+    },
+    {
+      "id": "education-language-11",
+      "name": "BBC Learning English",
+      "url": "https://www.bbc.co.uk/learningenglish/",
+      "desc": "BBC免费英语教学站，地道新闻音频与语法视频适合听力进阶。",
+      "tags": [
+        "英语",
+        "免费",
+        "听力",
+        "英文",
+        "广播"
+      ],
+      "cat": "education",
+      "sub": "language",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-02-09"
+    },
+    {
+      "id": "education-language-12",
+      "name": "British Council",
+      "url": "https://learnenglish.britishcouncil.org/",
+      "desc": "英国文化协会官方英语学习资源，含游戏与课程覆盖各水平。",
+      "tags": [
+        "英语",
+        "官方",
+        "免费",
+        "英文",
+        "课程"
+      ],
+      "cat": "education",
+      "sub": "language",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-08-06"
+    },
+    {
+      "id": "education-language-13",
+      "name": "Forvo",
+      "url": "https://forvo.com/",
+      "desc": "全球最大真人发音库，母语者录制各语种单词发音即点即听。",
+      "tags": [
+        "发音",
+        "多语种",
+        "免费",
+        "真人",
+        "工具"
+      ],
+      "cat": "education",
+      "sub": "language",
+      "hot": 2,
+      "lang": "multi",
+      "free": "free",
+      "added": "2025-06-21"
+    },
+    {
+      "id": "education-language-14",
+      "name": "Linguee",
+      "url": "https://www.linguee.com/",
+      "desc": "上下文双语词典，提供真实语料翻译对照，查词更懂用法。",
+      "tags": [
+        "词典",
+        "双语",
+        "英文",
+        "语料",
+        "工具"
+      ],
+      "cat": "education",
+      "sub": "language",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-04-30"
+    },
+    {
+      "id": "education-language-15",
+      "name": "Wiktionary",
+      "url": "https://www.wiktionary.org/",
+      "desc": "维基出品的多语种自由词典，含词源发音与多语言释义协作编辑。",
+      "tags": [
+        "词典",
+        "多语种",
+        "免费",
+        "词源",
+        "协作"
+      ],
+      "cat": "education",
+      "sub": "language",
+      "hot": 0,
+      "lang": "multi",
+      "free": "free",
+      "added": "2024-03-14"
+    },
+    {
+      "id": "education-language-16",
+      "name": "海词词典",
+      "url": "https://dict.cn/",
+      "desc": "国内老牌在线词典，提供例句同义词与单词笔记等实用学习功能。",
+      "tags": [
+        "词典",
+        "中文",
+        "英文",
+        "例句",
+        "工具"
+      ],
+      "cat": "education",
+      "sub": "language",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-12-19"
+    },
+    {
+      "id": "education-language-17",
+      "name": "欧路词典",
+      "url": "https://www.eudic.net/",
+      "desc": "支持多词典装载的跨平台查词工具，适合深度英语与法语学习。",
+      "tags": [
+        "词典",
+        "中文",
+        "法语",
+        "跨平台",
+        "工具"
+      ],
+      "cat": "education",
+      "sub": "language",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-07-08"
+    },
+    {
+      "id": "education-language-18",
+      "name": "Tofugu",
+      "url": "https://www.tofugu.com/",
+      "desc": "专注日语学习的英文博客，详解语法文化与JLPT备考干货。",
+      "tags": [
+        "日语",
+        "英文",
+        "语法",
+        "JLPT",
+        "博客"
+      ],
+      "cat": "education",
+      "sub": "language",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-01-17"
+    },
+    {
+      "id": "education-language-19",
+      "name": "NHK日语教学",
+      "url": "https://www.nhk.or.jp/lesson/",
+      "desc": "日本放送协会免费日语课程，配音频课文适合自学标准日语。",
+      "tags": [
+        "日语",
+        "免费",
+        "音频",
+        "官方",
+        "日文"
+      ],
+      "cat": "education",
+      "sub": "language",
+      "hot": 1,
+      "lang": "multi",
+      "free": "free",
+      "added": "2024-05-25"
+    },
+    {
+      "id": "education-language-20",
+      "name": "SpanishDict",
+      "url": "https://www.spanishdict.com/",
+      "desc": "权威英语学西语平台，含词典动词变位与视频课程一站式。",
+      "tags": [
+        "西语",
+        "英文",
+        "词典",
+        "免费",
+        "课程"
+      ],
+      "cat": "education",
+      "sub": "language",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-09-01"
+    },
+    {
+      "id": "education-exam-01",
+      "name": "国家中小学智慧教育平台",
+      "url": "https://basic.smartedu.cn/",
+      "desc": "教育部官方中小学平台，含各年级同步课程与课后服务资源免费学。",
+      "tags": [
+        "中小学",
+        "官方",
+        "免费",
+        "同步",
+        "中文"
+      ],
+      "cat": "education",
+      "sub": "exam",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-03-05"
+    },
+    {
+      "id": "education-exam-02",
+      "name": "学科网",
+      "url": "https://www.zxxk.com/",
+      "desc": "中小学试题教案资源库，覆盖各版本教材与中高考真题下载。",
+      "tags": [
+        "中小学",
+        "试题",
+        "中文",
+        "资源",
+        "备考"
+      ],
+      "cat": "education",
+      "sub": "exam",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-07-12"
+    },
+    {
+      "id": "education-exam-03",
+      "name": "考研帮",
+      "url": "https://www.kaoyan.com/",
+      "desc": "考研一站式社区，提供院校信息经验贴与历年真题复习规划。",
+      "tags": [
+        "考研",
+        "中文",
+        "真题",
+        "社区",
+        "规划"
+      ],
+      "cat": "education",
+      "sub": "exam",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-02-20"
+    },
+    {
+      "id": "education-exam-04",
+      "name": "计算机资格考试网",
+      "url": "https://www.ruankao.org.cn/",
+      "desc": "计算机技术与软件专业技术资格官方报名与考试大纲网站。",
+      "tags": [
+        "软考",
+        "官方",
+        "中文",
+        "职业",
+        "资格"
+      ],
+      "cat": "education",
+      "sub": "exam",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-10-08"
+    },
+    {
+      "id": "education-exam-05",
+      "name": "托福官网",
+      "url": "https://www.toefl.cn/",
+      "desc": "ETS中国托福考试官方站，报名查分与备考资料一站式服务。",
+      "tags": [
+        "托福",
+        "官方",
+        "英文",
+        "留学",
+        "备考"
+      ],
+      "cat": "education",
+      "sub": "exam",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-04-15"
+    },
+    {
+      "id": "education-exam-06",
+      "name": "雅思官网",
+      "url": "https://www.ielts.org/",
+      "desc": "全球雅思考试官方网站，提供报名信息与权威备考资源。",
+      "tags": [
+        "雅思",
+        "官方",
+        "英文",
+        "留学",
+        "备考"
+      ],
+      "cat": "education",
+      "sub": "exam",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-06-22"
+    },
+    {
+      "id": "education-exam-07",
+      "name": "阳光高考",
+      "url": "https://gaokao.chsi.com.cn/",
+      "desc": "教育部高校招生阳光工程平台，权威发布高考政策与志愿填报。",
+      "tags": [
+        "高考",
+        "官方",
+        "中文",
+        "志愿",
+        "招生"
+      ],
+      "cat": "education",
+      "sub": "exam",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-09-17"
+    },
+    {
+      "id": "education-exam-08",
+      "name": "中公教育",
+      "url": "https://www.offcn.com/",
+      "desc": "大型公职考试培训机构，提供公务员事业单位题库与面授课程。",
+      "tags": [
+        "公考",
+        "中文",
+        "题库",
+        "培训",
+        "职业"
+      ],
+      "cat": "education",
+      "sub": "exam",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-01-29"
+    },
+    {
+      "id": "education-exam-09",
+      "name": "粉笔",
+      "url": "https://www.fenbi.com/",
+      "desc": "主打公考与教师编的在线刷题平台，智能题库与直播课体验佳。",
+      "tags": [
+        "公考",
+        "刷题",
+        "中文",
+        "直播",
+        "职业"
+      ],
+      "cat": "education",
+      "sub": "exam",
+      "hot": 2,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-11-03"
+    },
+    {
+      "id": "education-exam-10",
+      "name": "新东方在线",
+      "url": "https://www.koolearn.com/",
+      "desc": "新东方旗下网校，覆盖考研四六级留学语培等系统课程。",
+      "tags": [
+        "语培",
+        "中文",
+        "考研",
+        "留学",
+        "课程"
+      ],
+      "cat": "education",
+      "sub": "exam",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-06-09"
+    },
+    {
+      "id": "education-exam-11",
+      "name": "学而思",
+      "url": "https://www.xueersi.com/",
+      "desc": "好未来旗下中小学辅导品牌，提供数学英语等同步培优课程。",
+      "tags": [
+        "中小学",
+        "培优",
+        "中文",
+        "数学",
+        "辅导"
+      ],
+      "cat": "education",
+      "sub": "exam",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-05-31"
+    },
+    {
+      "id": "education-exam-12",
+      "name": "作业帮",
+      "url": "https://www.zuoyebang.com/",
+      "desc": "拍照搜题与在线答疑工具，覆盖K12各科练习与名师直播。",
+      "tags": [
+        "K12",
+        "搜题",
+        "中文",
+        "答疑",
+        "直播"
+      ],
+      "cat": "education",
+      "sub": "exam",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-08-25"
+    },
+    {
+      "id": "education-exam-13",
+      "name": "猿辅导",
+      "url": "https://www.yuanfudao.com/",
+      "desc": "中小学直播课与练习平台，提供系统班课与个性化的学情报告。",
+      "tags": [
+        "K12",
+        "直播",
+        "中文",
+        "系统",
+        "辅导"
+      ],
+      "cat": "education",
+      "sub": "exam",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-03-27"
+    },
+    {
+      "id": "education-exam-14",
+      "name": "一起作业",
+      "url": "https://www.17zuoye.com/",
+      "desc": "面向中小学的在线作业与英语听说练习平台，家校同步。",
+      "tags": [
+        "中小学",
+        "作业",
+        "中文",
+        "英语",
+        "练习"
+      ],
+      "cat": "education",
+      "sub": "exam",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-12-11"
+    },
+    {
+      "id": "education-exam-15",
+      "name": "考试吧",
+      "url": "https://www.exam8.com/",
+      "desc": "综合考试资讯站，汇总各类职业与学历考试报名时间与真题。",
+      "tags": [
+        "考试",
+        "资讯",
+        "中文",
+        "真题",
+        "综合"
+      ],
+      "cat": "education",
+      "sub": "exam",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-07-04"
+    },
+    {
+      "id": "education-exam-16",
+      "name": "无忧考网",
+      "url": "https://www.51test.net/",
+      "desc": "提供职称计算机资格等考试题库与模拟练习的备考资源站。",
+      "tags": [
+        "题库",
+        "中文",
+        "模拟",
+        "职业",
+        "备考"
+      ],
+      "cat": "education",
+      "sub": "exam",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-04-02"
+    },
+    {
+      "id": "education-exam-17",
+      "name": "中小学教师资格考试网",
+      "url": "https://ntce.neea.edu.cn/",
+      "desc": "教资笔试面试官方报名与成绩查询的唯一指定网站。",
+      "tags": [
+        "教资",
+        "官方",
+        "中文",
+        "资格",
+        "报名"
+      ],
+      "cat": "education",
+      "sub": "exam",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-05-18"
+    },
+    {
+      "id": "education-exam-18",
+      "name": "中国人事考试网",
+      "url": "https://www.cpta.com.cn/",
+      "desc": "各类专业技术人员资格考试官方报名与证书查询平台。",
+      "tags": [
+        "职业",
+        "官方",
+        "中文",
+        "资格",
+        "报名"
+      ],
+      "cat": "education",
+      "sub": "exam",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-02-26"
+    },
+    {
+      "id": "education-exam-19",
+      "name": "Quizlet",
+      "url": "https://quizlet.com/",
+      "desc": "全球流行的单词卡片与记忆工具，自制背诵集高效备考。",
+      "tags": [
+        "记忆",
+        "英文",
+        "卡片",
+        "备考",
+        "单词"
+      ],
+      "cat": "education",
+      "sub": "exam",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-08-22"
+    },
+    {
+      "id": "education-exam-20",
+      "name": "233网校",
+      "url": "https://www.233.com/",
+      "desc": "职业资格与建筑会计等考试培训站，含题库直播与答疑服务。",
+      "tags": [
+        "职业",
+        "中文",
+        "题库",
+        "培训",
+        "直播"
+      ],
+      "cat": "education",
+      "sub": "exam",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-09-30"
+    },
+    {
+      "id": "education-knowledge-01",
+      "name": "维基百科",
+      "url": "https://www.wikipedia.org/",
+      "desc": "全球协作的自由百科全书，覆盖各学科条目且引用来源透明可查。",
+      "tags": [
+        "百科",
+        "免费",
+        "多语",
+        "协作",
+        "权威"
+      ],
+      "cat": "education",
+      "sub": "knowledge",
+      "hot": 1,
+      "lang": "multi",
+      "free": "free",
+      "added": "2024-01-18"
+    },
+    {
+      "id": "education-knowledge-02",
+      "name": "百度百科",
+      "url": "https://baike.baidu.com/",
+      "desc": "中文最大网络百科全书，词条覆盖广，适合快速了解概念。",
+      "tags": [
+        "百科",
+        "中文",
+        "免费",
+        "综合",
+        "概念"
+      ],
+      "cat": "education",
+      "sub": "knowledge",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-05-09"
+    },
+    {
+      "id": "education-knowledge-03",
+      "name": "果壳",
+      "url": "https://www.guokr.com/",
+      "desc": "中文科普社区，用有趣方式解读科学热点与生活中的冷知识。",
+      "tags": [
+        "科普",
+        "中文",
+        "社区",
+        "有趣",
+        "科学"
+      ],
+      "cat": "education",
+      "sub": "knowledge",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-09-21"
+    },
+    {
+      "id": "education-knowledge-04",
+      "name": "知乎",
+      "url": "https://www.zhihu.com/",
+      "desc": "中文问答与知识分享社区，各领域的深度回答与专业讨论聚集地。",
+      "tags": [
+        "问答",
+        "中文",
+        "社区",
+        "深度",
+        "综合"
+      ],
+      "cat": "education",
+      "sub": "knowledge",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-02-13"
+    },
+    {
+      "id": "education-knowledge-05",
+      "name": "大英百科全书",
+      "url": "https://www.britannica.com/",
+      "desc": "百年权威英文百科全书，条目严谨适合查证与系统学习。",
+      "tags": [
+        "百科",
+        "英文",
+        "权威",
+        "严谨",
+        "查证"
+      ],
+      "cat": "education",
+      "sub": "knowledge",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-07-04"
+    },
+    {
+      "id": "education-knowledge-06",
+      "name": "搜狗百科",
+      "url": "https://baike.sogou.com/",
+      "desc": "中文百科平台，词条含图文与短视频，便于快速科普检索。",
+      "tags": [
+        "百科",
+        "中文",
+        "免费",
+        "检索",
+        "综合"
+      ],
+      "cat": "education",
+      "sub": "knowledge",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-04-25"
+    },
+    {
+      "id": "education-knowledge-07",
+      "name": "全历史",
+      "url": "https://www.allhistory.com/",
+      "desc": "以时间轴图谱呈现人类历史文化的知识平台，视角独特。",
+      "tags": [
+        "历史",
+        "中文",
+        "图谱",
+        "免费",
+        "文化"
+      ],
+      "cat": "education",
+      "sub": "knowledge",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-11-17"
+    },
+    {
+      "id": "education-knowledge-08",
+      "name": "科普中国",
+      "url": "https://www.kepuchina.cn/",
+      "desc": "中国科协官方科普平台，权威发布健康科技等科学解读。",
+      "tags": [
+        "科普",
+        "官方",
+        "中文",
+        "权威",
+        "科学"
+      ],
+      "cat": "education",
+      "sub": "knowledge",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-01-08"
+    },
+    {
+      "id": "education-knowledge-09",
+      "name": "科学网",
+      "url": "https://www.sciencenet.cn/",
+      "desc": "面向科研人员的中文科学新闻与博客社区，跟踪学术前沿。",
+      "tags": [
+        "科学",
+        "中文",
+        "学术",
+        "新闻",
+        "社区"
+      ],
+      "cat": "education",
+      "sub": "knowledge",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-03-29"
+    },
+    {
+      "id": "education-knowledge-10",
+      "name": "Quora",
+      "url": "https://www.quora.com/",
+      "desc": "英文问答社区，汇聚各领域从业者分享经验与深度见解。",
+      "tags": [
+        "问答",
+        "英文",
+        "社区",
+        "经验",
+        "深度"
+      ],
+      "cat": "education",
+      "sub": "knowledge",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-02"
+    },
+    {
+      "id": "education-knowledge-11",
+      "name": "Stack Exchange",
+      "url": "https://stackexchange.com/",
+      "desc": "分主题的高质量问答网络，程序员与学者最爱的技术百科。",
+      "tags": [
+        "问答",
+        "英文",
+        "技术",
+        "高质量",
+        "百科"
+      ],
+      "cat": "education",
+      "sub": "knowledge",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-08-13"
+    },
+    {
+      "id": "education-knowledge-12",
+      "name": "360问答",
+      "url": "https://wenda.so.com/",
+      "desc": "中文问答搜索平台，整合海量生活与知识类问答结果。",
+      "tags": [
+        "问答",
+        "中文",
+        "搜索",
+        "生活",
+        "综合"
+      ],
+      "cat": "education",
+      "sub": "knowledge",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-12-06"
+    },
+    {
+      "id": "education-knowledge-13",
+      "name": "维基文库",
+      "url": "https://www.wikisource.org/",
+      "desc": "自由的文献库，收录无版权限制的原文与历史文献全文。",
+      "tags": [
+        "文献",
+        "免费",
+        "多语",
+        "原文",
+        "公共"
+      ],
+      "cat": "education",
+      "sub": "knowledge",
+      "hot": 2,
+      "lang": "multi",
+      "free": "free",
+      "added": "2025-03-21"
+    },
+    {
+      "id": "education-knowledge-14",
+      "name": "中国科普博览",
+      "url": "https://www.kepu.net.cn/",
+      "desc": "中科院出品的数字科普馆，系统展示自然科学前沿成果。",
+      "tags": [
+        "科普",
+        "官方",
+        "中文",
+        "中科院",
+        "自然"
+      ],
+      "cat": "education",
+      "sub": "knowledge",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-06-18"
+    },
+    {
+      "id": "education-knowledge-15",
+      "name": "小木虫",
+      "url": "https://muchong.com/",
+      "desc": "科研人员聚集的中文论坛，分享基金论文与实验技术经验。",
+      "tags": [
+        "科研",
+        "中文",
+        "论坛",
+        "学术",
+        "经验"
+      ],
+      "cat": "education",
+      "sub": "knowledge",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-05-15"
+    },
+    {
+      "id": "education-knowledge-16",
+      "name": "中国知网",
+      "url": "https://www.cnki.net/",
+      "desc": "国内最大学术文献数据库，期刊论文检索与下载的权威入口。",
+      "tags": [
+        "学术",
+        "中文",
+        "数据库",
+        "论文",
+        "权威"
+      ],
+      "cat": "education",
+      "sub": "knowledge",
+      "hot": 0,
+      "lang": "zh",
+      "free": "paid",
+      "added": "2024-10-24"
+    },
+    {
+      "id": "education-knowledge-17",
+      "name": "Encyclopedia.com",
+      "url": "https://www.encyclopedia.com/",
+      "desc": "聚合多部参考书的英文百科全书，条目来源清晰可引用。",
+      "tags": [
+        "百科",
+        "英文",
+        "参考",
+        "免费",
+        "引用"
+      ],
+      "cat": "education",
+      "sub": "knowledge",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-07-29"
+    },
+    {
+      "id": "education-knowledge-18",
+      "name": "HowStuffWorks",
+      "url": "https://www.howstuffworks.com/",
+      "desc": "用英文通俗讲清事物原理的科普站，图文视频并茂。",
+      "tags": [
+        "科普",
+        "英文",
+        "原理",
+        "免费",
+        "通俗"
+      ],
+      "cat": "education",
+      "sub": "knowledge",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-04-12"
+    },
+    {
+      "id": "education-knowledge-19",
+      "name": "Mental Floss",
+      "url": "https://www.mentalfloss.com/",
+      "desc": "分享冷知识与趣味事实的英文站，轻松涨见识开脑洞。",
+      "tags": [
+        "冷知识",
+        "英文",
+        "趣味",
+        "免费",
+        "文化"
+      ],
+      "cat": "education",
+      "sub": "knowledge",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-02-03"
+    },
+    {
+      "id": "education-knowledge-20",
+      "name": "Big Think",
+      "url": "https://bigthink.com/",
+      "desc": "汇聚思想家与专家短讲，探讨思维创新与未来趋势。",
+      "tags": [
+        "思想",
+        "英文",
+        "专家",
+        "趋势",
+        "创新"
+      ],
+      "cat": "education",
+      "sub": "knowledge",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-08-09"
+    },
+    {
+      "id": "education-reading-01",
+      "name": "国家图书馆",
+      "url": "https://www.nlc.cn/",
+      "desc": "国家总书库官网，可检索馆藏并访问大量数字资源与线上展览。",
+      "tags": [
+        "图书馆",
+        "官方",
+        "中文",
+        "数字",
+        "资源"
+      ],
+      "cat": "education",
+      "sub": "reading",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-03-22"
+    },
+    {
+      "id": "education-reading-02",
+      "name": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/",
+      "desc": "最老的公版电子书项目，逾六万本无版权英文经典免费下载。",
+      "tags": [
+        "公版书",
+        "免费",
+        "英文",
+        "电子书",
+        "经典"
+      ],
+      "cat": "education",
+      "sub": "reading",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-07-19"
+    },
+    {
+      "id": "education-reading-03",
+      "name": "Standard Ebooks",
+      "url": "https://standardebooks.org/",
+      "desc": "精心排版的公版电子书站，提供干净无广告的EPUB下载。",
+      "tags": [
+        "公版书",
+        "英文",
+        "排版",
+        "免费",
+        "EPUB"
+      ],
+      "cat": "education",
+      "sub": "reading",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-01-11"
+    },
+    {
+      "id": "education-reading-04",
+      "name": "豆瓣读书",
+      "url": "https://book.douban.com/",
+      "desc": "中文最大读书社区，含评分书评与书单，找书选书必备。",
+      "tags": [
+        "读书",
+        "中文",
+        "评分",
+        "书评",
+        "社区"
+      ],
+      "cat": "education",
+      "sub": "reading",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-09-05"
+    },
+    {
+      "id": "education-reading-05",
+      "name": "微信读书",
+      "url": "https://weread.qq.com/",
+      "desc": "腾讯出品的正版电子书阅读器，社交化阅读与书城资源丰富。",
+      "tags": [
+        "电子书",
+        "中文",
+        "正版",
+        "阅读",
+        "社交"
+      ],
+      "cat": "education",
+      "sub": "reading",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-11-28"
+    },
+    {
+      "id": "education-reading-06",
+      "name": "京东读书",
+      "url": "https://e.jd.com/",
+      "desc": "京东旗下数字阅读平台，正版图书与网文会员畅读体验佳。",
+      "tags": [
+        "电子书",
+        "中文",
+        "正版",
+        "会员",
+        "网文"
+      ],
+      "cat": "education",
+      "sub": "reading",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-03-16"
+    },
+    {
+      "id": "education-reading-07",
+      "name": "掌阅",
+      "url": "https://www.zhangyue.com/",
+      "desc": "老牌数字阅读品牌，海量正版图书与听书资源跨端同步。",
+      "tags": [
+        "电子书",
+        "中文",
+        "正版",
+        "听书",
+        "跨端"
+      ],
+      "cat": "education",
+      "sub": "reading",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-05-14"
+    },
+    {
+      "id": "education-reading-08",
+      "name": "中国哲学书电子化计划",
+      "url": "https://ctext.org/",
+      "desc": "免费收录中国历代古籍原文的可检索数据库，研究必备。",
+      "tags": [
+        "古籍",
+        "中文",
+        "免费",
+        "检索",
+        "经典"
+      ],
+      "cat": "education",
+      "sub": "reading",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-02-27"
+    },
+    {
+      "id": "education-reading-09",
+      "name": "国学网",
+      "url": "https://www.guoxue.com/",
+      "desc": "专注中国传统文化的古籍整理与国学资源在线阅读平台。",
+      "tags": [
+        "国学",
+        "中文",
+        "古籍",
+        "免费",
+        "文化"
+      ],
+      "cat": "education",
+      "sub": "reading",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-08-30"
+    },
+    {
+      "id": "education-reading-10",
+      "name": "书格",
+      "url": "https://www.shuge.org/",
+      "desc": "公益性分享高清中文公共版权古籍与艺术图书的开放图书馆。",
+      "tags": [
+        "古籍",
+        "中文",
+        "公共",
+        "高清",
+        "免费"
+      ],
+      "cat": "education",
+      "sub": "reading",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-12-13"
+    },
+    {
+      "id": "education-reading-11",
+      "name": "Open Library",
+      "url": "https://openlibrary.org/",
+      "desc": "互联网档案馆旗下书目库，可借阅大量扫描版电子图书。",
+      "tags": [
+        "书目",
+        "英文",
+        "借阅",
+        "免费",
+        "档案"
+      ],
+      "cat": "education",
+      "sub": "reading",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-04-09"
+    },
+    {
+      "id": "education-reading-12",
+      "name": "Google Books",
+      "url": "https://books.google.com/",
+      "desc": "全球图书检索与试读平台，可预览海量书目片段与元数据。",
+      "tags": [
+        "图书",
+        "英文",
+        "检索",
+        "试读",
+        "元数"
+      ],
+      "cat": "education",
+      "sub": "reading",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-06-26"
+    },
+    {
+      "id": "education-reading-13",
+      "name": "当当云阅读",
+      "url": "https://e.dangdang.com/",
+      "desc": "当当旗下正版电子书与听书平台，图书品类齐全会员制。",
+      "tags": [
+        "电子书",
+        "中文",
+        "正版",
+        "听书",
+        "会员"
+      ],
+      "cat": "education",
+      "sub": "reading",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "education-reading-14",
+      "name": "国家哲学社会科学文献中心",
+      "url": "https://www.ncpssd.org/",
+      "desc": "免费开放社科类学术文献与期刊全文检索下载平台。",
+      "tags": [
+        "学术",
+        "中文",
+        "免费",
+        "文献",
+        "期刊"
+      ],
+      "cat": "education",
+      "sub": "reading",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-02-21"
+    },
+    {
+      "id": "education-reading-15",
+      "name": "起点读书",
+      "url": "https://www.qidian.com/",
+      "desc": "国内领先网络文学平台，海量原创小说连载与正版阅读。",
+      "tags": [
+        "小说",
+        "中文",
+        "网文",
+        "原创",
+        "阅读"
+      ],
+      "cat": "education",
+      "sub": "reading",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-07-11"
+    },
+    {
+      "id": "education-reading-16",
+      "name": "ManyBooks",
+      "url": "https://manybooks.net/",
+      "desc": "汇集数万本免费公版与独立电子书，分类清晰方便下载。",
+      "tags": [
+        "公版书",
+        "英文",
+        "免费",
+        "电子书",
+        "下载"
+      ],
+      "cat": "education",
+      "sub": "reading",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-10-04"
+    },
+    {
+      "id": "education-reading-17",
+      "name": "Feedbooks",
+      "url": "https://www.feedbooks.com/",
+      "desc": "提供免费公版与自选电子书，按语种分类的EPUB书库。",
+      "tags": [
+        "公版书",
+        "英文",
+        "EPUB",
+        "免费",
+        "分类"
+      ],
+      "cat": "education",
+      "sub": "reading",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-04-29"
+    },
+    {
+      "id": "education-reading-18",
+      "name": "Poetry Foundation",
+      "url": "https://www.poetryfoundation.org/",
+      "desc": "权威诗歌机构站，可检索赏析海量英文诗与诗人简介。",
+      "tags": [
+        "诗歌",
+        "英文",
+        "免费",
+        "赏析",
+        "文学"
+      ],
+      "cat": "education",
+      "sub": "reading",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-05-23"
+    },
+    {
+      "id": "education-reading-19",
+      "name": "Lit2Go",
+      "url": "https://etc.usf.edu/lit2go/",
+      "desc": "佛州大学开放的有声公版文学库，按作者主题收听名著。",
+      "tags": [
+        "有声书",
+        "英文",
+        "公版",
+        "免费",
+        "文学"
+      ],
+      "cat": "education",
+      "sub": "reading",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-08-15"
+    },
+    {
+      "id": "education-reading-20",
+      "name": "Open Culture",
+      "url": "https://www.openculture.com/",
+      "desc": "汇总全球免费课程电子书与有声书的英文文化资源门户。",
+      "tags": [
+        "文化",
+        "英文",
+        "免费",
+        "资源",
+        "门户"
+      ],
+      "cat": "education",
+      "sub": "reading",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-01-09"
+    },
+    {
+      "id": "education-skills-01",
+      "name": "得到",
+      "url": "https://www.dedao.cn/",
+      "desc": "罗辑思维旗下知识服务，音频课程与听书覆盖商业通识与思维。",
+      "tags": [
+        "知识付费",
+        "中文",
+        "音频",
+        "通识",
+        "商业"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-02-14"
+    },
+    {
+      "id": "education-skills-02",
+      "name": "TED",
+      "url": "https://www.ted.com/",
+      "desc": "全球思想演讲平台，各界精英短讲激发创意与跨界思考。",
+      "tags": [
+        "演讲",
+        "英文",
+        "创意",
+        "免费",
+        "思想"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-06-09"
+    },
+    {
+      "id": "education-skills-03",
+      "name": "MasterClass",
+      "url": "https://www.masterclass.com/",
+      "desc": "名人大师授课的优质视频课，向顶尖者学习艺术与技能。",
+      "tags": [
+        "大师课",
+        "英文",
+        "视频",
+        "付费",
+        "艺术"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 0,
+      "lang": "en",
+      "free": "paid",
+      "added": "2025-01-30"
+    },
+    {
+      "id": "education-skills-04",
+      "name": "极客时间",
+      "url": "https://time.geekbang.org/",
+      "desc": "面向开发者的技术通识与实战专栏，体系化IT进阶内容。",
+      "tags": [
+        "IT",
+        "中文",
+        "技术",
+        "专栏",
+        "进阶"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 2,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-09-12"
+    },
+    {
+      "id": "education-skills-05",
+      "name": "慕课网",
+      "url": "https://www.imooc.com/",
+      "desc": "专注编程技能的实战教学平台，前端后端免费视频教程多。",
+      "tags": [
+        "编程",
+        "中文",
+        "免费",
+        "实战",
+        "视频"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-11-06"
+    },
+    {
+      "id": "education-skills-06",
+      "name": "实验楼",
+      "url": "https://www.shiyanlou.com/",
+      "desc": "以在线实验环境学IT技能，动手敲代码掌握开发运维。",
+      "tags": [
+        "IT",
+        "中文",
+        "实验",
+        "实战",
+        "运维"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 2,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-03-24"
+    },
+    {
+      "id": "education-skills-07",
+      "name": "掘金",
+      "url": "https://juejin.cn/",
+      "desc": "国内活跃的技术社区，分享前端后端与AI实战干货文章。",
+      "tags": [
+        "技术",
+        "中文",
+        "社区",
+        "干货",
+        "前端"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-05-03"
+    },
+    {
+      "id": "education-skills-08",
+      "name": "freeCodeCamp",
+      "url": "https://www.freecodecamp.org/",
+      "desc": "完全免费的交互式编程学习平台，做项目拿证书学全栈。",
+      "tags": [
+        "编程",
+        "免费",
+        "英文",
+        "证书",
+        "全栈"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-13"
+    },
+    {
+      "id": "education-skills-09",
+      "name": "Codecademy",
+      "url": "https://www.codecademy.com/",
+      "desc": "浏览器内交互学编程，边写边运行掌握多门语言基础。",
+      "tags": [
+        "编程",
+        "英文",
+        "交互",
+        "免费",
+        "基础"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-07-27"
+    },
+    {
+      "id": "education-skills-10",
+      "name": "菜鸟教程",
+      "url": "https://www.runoob.com/",
+      "desc": "中文编程入门首选，涵盖前端后端数据库的简明实例教程。",
+      "tags": [
+        "编程",
+        "中文",
+        "免费",
+        "入门",
+        "实例"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-12-20"
+    },
+    {
+      "id": "education-skills-11",
+      "name": "W3Schools",
+      "url": "https://www.w3schools.com/",
+      "desc": "老牌英文Web技术教程站，边看示例边练HTML CSS JS。",
+      "tags": [
+        "Web",
+        "英文",
+        "免费",
+        "教程",
+        "示例"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-02-08"
+    },
+    {
+      "id": "education-skills-12",
+      "name": "站酷",
+      "url": "https://www.zcool.com.cn/",
+      "desc": "中文设计师社区，作品欣赏与公开课提升视觉设计能力。",
+      "tags": [
+        "设计",
+        "中文",
+        "社区",
+        "视觉",
+        "公开课"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-03-17"
+    },
+    {
+      "id": "education-skills-13",
+      "name": "LinkedIn Learning",
+      "url": "https://www.linkedin.com/learning/",
+      "desc": "领英旗下职场技能视频课，含商业技术与创意系统课程。",
+      "tags": [
+        "职场",
+        "英文",
+        "视频",
+        "技能",
+        "商业"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 0,
+      "lang": "en",
+      "free": "paid",
+      "added": "2025-04-19"
+    },
+    {
+      "id": "education-skills-14",
+      "name": "Skillshare",
+      "url": "https://www.skillshare.com/",
+      "desc": "创意人士的订阅课平台，手绘设计摄影等短课项目制学习。",
+      "tags": [
+        "创意",
+        "英文",
+        "订阅",
+        "设计",
+        "项目"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-10-11"
+    },
+    {
+      "id": "education-skills-15",
+      "name": "三节课",
+      "url": "https://www.sanjieke.cn/",
+      "desc": "互联网产品运营实战培训，体系课助你转行提升职场力。",
+      "tags": [
+        "互联网",
+        "中文",
+        "产品",
+        "运营",
+        "实战"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-07-26"
+    },
+    {
+      "id": "education-skills-16",
+      "name": "开课吧",
+      "url": "https://www.kkb.com/",
+      "desc": "IT与数字化人才培养平台，提供前沿技术训练营与认证。",
+      "tags": [
+        "IT",
+        "中文",
+        "训练营",
+        "认证",
+        "数字化"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-08-02"
+    },
+    {
+      "id": "education-skills-17",
+      "name": "人人都是产品经理",
+      "url": "https://www.woshipm.com/",
+      "desc": "产品经理中文社区，干货文章与沙龙分享产品运营经验。",
+      "tags": [
+        "产品",
+        "中文",
+        "社区",
+        "运营",
+        "干货"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-05-06"
+    },
+    {
+      "id": "education-skills-18",
+      "name": "一席",
+      "url": "https://yixi.tv/",
+      "desc": "中文演讲视频平台，各界讲者分享有想法的真实故事与洞察。",
+      "tags": [
+        "演讲",
+        "中文",
+        "免费",
+        "故事",
+        "洞察"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-04-25"
+    },
+    {
+      "id": "education-skills-19",
+      "name": "少数派",
+      "url": "https://sspai.com/",
+      "desc": "聚焦效率工具与数字生活的中文社区，教你玩转软硬件技巧。",
+      "tags": [
+        "效率",
+        "中文",
+        "工具",
+        "技巧",
+        "数字生活"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-08-19"
+    },
+    {
+      "id": "education-skills-20",
+      "name": "51CTO",
+      "url": "https://www.51cto.com/",
+      "desc": "IT技术学习与资讯社区，含学院视频与认证备考资源。",
+      "tags": [
+        "IT",
+        "中文",
+        "社区",
+        "认证",
+        "视频"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-01-22"
+    },
+    {
+      "id": "education-courses-x01",
+      "name": "Stanford Online",
+      "url": "https://online.stanford.edu/",
+      "desc": "斯坦福大学官方在线学习平台，提供名校免费公开课、专业证书与研究生课程，覆盖多领域。",
+      "tags": [
+        "名校课程",
+        "免费公开课",
+        "证书课程"
+      ],
+      "cat": "education",
+      "sub": "courses",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "education-courses-x02",
+      "name": "国家开放大学",
+      "url": "https://www.ouchn.edu.cn/",
+      "desc": "国家开放大学官方平台，提供开放教育课程、继续教育与学历资源，面向全民终身学习。",
+      "tags": [
+        "开放教育",
+        "继续教育",
+        "公开课"
+      ],
+      "cat": "education",
+      "sub": "courses",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "education-courses-x03",
+      "name": "DataCamp",
+      "url": "https://www.datacamp.com/",
+      "desc": "专注数据科学与人工智能的在线技能平台，以交互式编程练习帮助职场人掌握数据分析。",
+      "tags": [
+        "数据科学",
+        "编程学习",
+        "职业技能"
+      ],
+      "cat": "education",
+      "sub": "courses",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "education-knowledge-x01",
+      "name": "MathWorld",
+      "url": "https://mathworld.wolfram.com/",
+      "desc": "Wolfram 旗下的数学百科全书，系统收录公式、定理与概念，是深入学习数学的权威资源。",
+      "tags": [
+        "数学百科",
+        "公式查询",
+        "学术参考"
+      ],
+      "cat": "education",
+      "sub": "knowledge",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "education-knowledge-x02",
+      "name": "NASA",
+      "url": "https://www.nasa.gov/",
+      "desc": "美国国家航空航天局官网，提供航天任务、天文影像与科普资料，是探索宇宙的权威窗口。",
+      "tags": [
+        "天文航天",
+        "科普",
+        "官方机构"
+      ],
+      "cat": "education",
+      "sub": "knowledge",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "education-knowledge-x03",
+      "name": "Healthline",
+      "url": "https://www.healthline.com/",
+      "desc": "国际知名健康科普媒体，由医学团队审核内容，提供疾病、营养与保健的可靠知识。",
+      "tags": [
+        "健康科普",
+        "医学",
+        "生活方式"
+      ],
+      "cat": "education",
+      "sub": "knowledge",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "education-knowledge-x04",
+      "name": "中国裁判文书网",
+      "url": "https://wenshu.court.gov.cn/",
+      "desc": "最高人民法院官方的裁判文书公开平台，可检索各级法院判决，是法律研究与实务宝库。",
+      "tags": [
+        "法律文书",
+        "司法公开",
+        "法律检索"
+      ],
+      "cat": "education",
+      "sub": "knowledge",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "education-knowledge-x05",
+      "name": "WikiArt",
+      "url": "https://www.wikiart.org/",
+      "desc": "涵盖古今艺术家的在线视觉艺术百科，提供高清画作与流派介绍，适合艺术鉴赏与学习。",
+      "tags": [
+        "艺术百科",
+        "名画",
+        "艺术鉴赏"
+      ],
+      "cat": "education",
+      "sub": "knowledge",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "education-knowledge-x06",
+      "name": "Scientific American",
+      "url": "https://www.scientificamerican.com/",
+      "desc": "创刊百年的权威科普杂志官网，深入浅出解读前沿科学与科技进展，适合拓展科学视野。",
+      "tags": [
+        "科学科普",
+        "科技前沿",
+        "杂志"
+      ],
+      "cat": "education",
+      "sub": "knowledge",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "education-knowledge-x07",
+      "name": "Wikidata",
+      "url": "https://www.wikidata.org/",
+      "desc": "维基媒体旗下的自由关联知识库，以结构化数据连接各语种百科，是知识图谱的重要来源。",
+      "tags": [
+        "知识图谱",
+        "结构化数据",
+        "Wiki"
+      ],
+      "cat": "education",
+      "sub": "knowledge",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "education-knowledge-x08",
+      "name": "Fandom",
+      "url": "https://www.fandom.com/",
+      "desc": "全球最大的爱好者百科平台，由社区共建影视、游戏、动漫等主题维基，内容极其丰富。",
+      "tags": [
+        "爱好者百科",
+        "社区Wiki",
+        "影视游戏"
+      ],
+      "cat": "education",
+      "sub": "knowledge",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "education-reading-x01",
+      "name": "Internet Archive",
+      "url": "https://archive.org/",
+      "desc": "互联网档案馆，收录海量公版电子书、老电影与网页快照，是数字资源免费获取的宝库。",
+      "tags": [
+        "数字档案",
+        "公版电子书",
+        "资源共享"
+      ],
+      "cat": "education",
+      "sub": "reading",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "education-reading-x02",
+      "name": "WorldCat",
+      "url": "https://www.worldcat.org/",
+      "desc": "全球图书馆联合目录，可检索上万所图书馆的藏书与馆藏位置，查找文献的强力工具。",
+      "tags": [
+        "图书馆目录",
+        "文献检索",
+        "联合目录"
+      ],
+      "cat": "education",
+      "sub": "reading",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "education-reading-x03",
+      "name": "CADAL",
+      "url": "https://cadal.edu.cn/",
+      "desc": "大学数字图书馆国际合作计划，汇集中外文图书、古籍与学位论文，面向高校开放阅读。",
+      "tags": [
+        "数字图书馆",
+        "古籍",
+        "学术资源"
+      ],
+      "cat": "education",
+      "sub": "reading",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "education-reading-x04",
+      "name": "LibriVox",
+      "url": "https://librivox.org/",
+      "desc": "志愿者录制公版书籍的有声书平台，全部免费收听，是通勤与碎片时间听书的好去处。",
+      "tags": [
+        "公版有声书",
+        "免费听书",
+        "志愿者"
+      ],
+      "cat": "education",
+      "sub": "reading",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "education-reading-x05",
+      "name": "Goodreads",
+      "url": "https://www.goodreads.com/",
+      "desc": "全球最大的读书社区，可标记想读清单、写书评并查看好友推荐，发现好书必备平台。",
+      "tags": [
+        "书评社区",
+        "读书清单",
+        "图书推荐"
+      ],
+      "cat": "education",
+      "sub": "reading",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "education-reading-x06",
+      "name": "Planet eBook",
+      "url": "https://www.planetebook.com/",
+      "desc": "专注经典文学的公版电子书站，提供莎士比亚、狄更斯等名著的免费下载与在线阅读。",
+      "tags": [
+        "公版电子书",
+        "经典文学",
+        "免费阅读"
+      ],
+      "cat": "education",
+      "sub": "reading",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "education-reading-x07",
+      "name": "Free-eBooks",
+      "url": "https://www.free-ebooks.net/",
+      "desc": "提供海量公版与原创电子书免费下载，涵盖小说、技术与自我提升，注册即可畅读。",
+      "tags": [
+        "电子书库",
+        "免费下载",
+        "多品类"
+      ],
+      "cat": "education",
+      "sub": "reading",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "education-skills-x01",
+      "name": "The Odin Project",
+      "url": "https://www.theodinproject.com/",
+      "desc": "完全免费的 Web 开发全流程自学课程，项目驱动，适合零基础转行前端与全栈。",
+      "tags": [
+        "Web开发",
+        "免费课程",
+        "项目实战"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "education-skills-x02",
+      "name": "Boot.dev",
+      "url": "https://boot.dev/",
+      "desc": "以命令行交互方式教授后端与计算机科学的编程平台，循序渐进打好工程基础。",
+      "tags": [
+        "后端开发",
+        "编程学习",
+        "计算机科学"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "education-skills-x03",
+      "name": "Scrimba",
+      "url": "https://scrimba.com/",
+      "desc": "可交互播放的代码教学平台，边看视频边改代码，覆盖前端、React 与全栈技能。",
+      "tags": [
+        "前端教程",
+        "交互视频",
+        "全栈"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "education-skills-x04",
+      "name": "Investopedia",
+      "url": "https://www.investopedia.com/",
+      "desc": "权威的投资与理财知识库，详解金融术语、交易策略与财商思维，适合系统学理财。",
+      "tags": [
+        "财商",
+        "投资理财",
+        "金融百科"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "education-skills-x05",
+      "name": "Morningstar",
+      "url": "https://www.morningstar.com/",
+      "desc": "全球知名投资研究机构，提供基金股票评级与投教内容，助你建立理性投资框架。",
+      "tags": [
+        "投资研究",
+        "基金评级",
+        "理财"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "education-skills-x06",
+      "name": "Exceljet",
+      "url": "https://exceljet.net/",
+      "desc": "专注 Excel 技巧的实用教程站，以短视频与示例讲解函数与快捷键，提升办公效率。",
+      "tags": [
+        "Excel",
+        "办公软件",
+        "效率技巧"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "education-skills-x07",
+      "name": "Computer Hope",
+      "url": "https://www.computerhope.com/",
+      "desc": "老牌计算机知识库，覆盖系统、软硬件与命令疑难解答，是免费的电脑百科助手。",
+      "tags": [
+        "电脑百科",
+        "办公软件",
+        "故障排查"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "education-skills-x08",
+      "name": "Digital Photography School",
+      "url": "https://digital-photography-school.com/",
+      "desc": "面向摄影爱好者的教程站点，分享构图、用光与后期技巧，助你拍出更专业的照片。",
+      "tags": [
+        "摄影教程",
+        "构图用光",
+        "后期"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "education-skills-x09",
+      "name": "Photography Life",
+      "url": "https://photographylife.com/",
+      "desc": "深入详实的摄影教学社区，涵盖器材评测、拍摄技法与后期，适合进阶摄影学习。",
+      "tags": [
+        "摄影教学",
+        "器材评测",
+        "后期"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "education-skills-x10",
+      "name": "Justin Guitar",
+      "url": "https://www.justinguitar.com/",
+      "desc": "极受欢迎的免费在线吉他课程，由专业老师系统设计，从入门到进阶循序渐进。",
+      "tags": [
+        "吉他教学",
+        "乐器",
+        "免费课程"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "education-skills-x11",
+      "name": "Pianu",
+      "url": "https://pianu.com/",
+      "desc": "交互式在线钢琴学习平台，通过网页虚拟键盘练习识谱与演奏，零基础也能轻松弹起来。",
+      "tags": [
+        "钢琴教学",
+        "乐器",
+        "交互练习"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "education-skills-x12",
+      "name": "Craftsy",
+      "url": "https://www.craftsy.com/",
+      "desc": "手工艺与烘焙教程平台，提供缝纫、编织、绘画等视频课程，激发动手创造力。",
+      "tags": [
+        "手工艺",
+        "烘焙",
+        "视频课程"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "education-skills-x13",
+      "name": "Toastmasters",
+      "url": "https://www.toastmasters.org/",
+      "desc": "国际演讲会官方站，提供演讲与领导力训练体系，是提升表达与沟通能力的权威组织。",
+      "tags": [
+        "演讲表达",
+        "沟通力",
+        "领导力"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "education-skills-x14",
+      "name": "Six Minutes",
+      "url": "https://sixminutes.dlugan.com/",
+      "desc": "专注公众演讲技巧的博客，拆解 TED 等优秀演讲的结构与方法，干货密度很高。",
+      "tags": [
+        "演讲技巧",
+        "TED解析",
+        "表达"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "education-skills-x15",
+      "name": "Listen Notes",
+      "url": "https://www.listennotes.com/",
+      "desc": "强大的播客搜索引擎，聚合全球节目与单集，可按主题发现优质音频学习资源。",
+      "tags": [
+        "播客搜索",
+        "音频学习",
+        "资源发现"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "education-skills-x16",
+      "name": "HubSpot Academy",
+      "url": "https://academy.hubspot.com/",
+      "desc": "HubSpot 官方提供的免费营销与职场学习学院，涵盖 inbound 营销、SEO 与销售等认证课程。",
+      "tags": [
+        "职场技能",
+        "营销",
+        "免费认证"
+      ],
+      "cat": "education",
+      "sub": "skills",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    }
+  ]
+}

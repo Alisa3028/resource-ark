@@ -1,0 +1,2165 @@
+{
+  "category": "design",
+  "resources": [
+    {
+      "id": "design-color-01",
+      "name": "Coolors",
+      "url": "https://coolors.co/",
+      "desc": "在线调色板生成器，空格一键随机配色并锁定，支持导出与对比度检查。",
+      "tags": [
+        "调色板",
+        "配色生成",
+        "对比度",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "color",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "design-color-02",
+      "name": "Adobe Color",
+      "url": "https://color.adobe.com/",
+      "desc": "Adobe 出品的色彩工具，可基于色轮或图片提取配色，导出到设计软件。",
+      "tags": [
+        "色轮",
+        "取色",
+        "色彩管理",
+        "Adobe"
+      ],
+      "cat": "design",
+      "sub": "color",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-03-12"
+    },
+    {
+      "id": "design-color-03",
+      "name": "Color Hunt",
+      "url": "https://colorhunt.co/",
+      "desc": "精选流行配色合集，每日更新手写风调色板，一键复制十六进制值。",
+      "tags": [
+        "配色合集",
+        "灵感",
+        "复制色值",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "color",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-01-09"
+    },
+    {
+      "id": "design-color-04",
+      "name": "Happy Hues",
+      "url": "https://www.happyhues.co/",
+      "desc": "以真实网页场景展示配色的色板库，教你怎么把颜色用进 UI 设计。",
+      "tags": [
+        "配色参考",
+        "UI色彩",
+        "场景展示",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "color",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-11-22"
+    },
+    {
+      "id": "design-color-05",
+      "name": "中国色",
+      "url": "https://zhongguose.com/",
+      "desc": "收录中国传统颜色的色名与十六进制，古风配色参考，界面雅致。",
+      "tags": [
+        "中国传统色",
+        "古风",
+        "色名",
+        "中文"
+      ],
+      "cat": "design",
+      "sub": "color",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-07-15"
+    },
+    {
+      "id": "design-color-06",
+      "name": "ColorDrop",
+      "url": "https://colordrop.io/",
+      "desc": "极简配色工具，按色相筛选调色板，悬停即可复制色值，清爽高效。",
+      "tags": [
+        "极简",
+        "调色板",
+        "取色",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "color",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-04-03"
+    },
+    {
+      "id": "design-color-07",
+      "name": "Paletton",
+      "url": "https://paletton.com/",
+      "desc": "基于色轮的高级配色方案生成器，支持互补、三角等多套配色逻辑。",
+      "tags": [
+        "色轮",
+        "配色方案",
+        "互补色",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "color",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-09-30"
+    },
+    {
+      "id": "design-color-08",
+      "name": "ColorZilla",
+      "url": "https://www.colorzilla.com/",
+      "desc": "浏览器取色插件，网页任意位置吸色并生成渐变，设计师必备工具。",
+      "tags": [
+        "浏览器插件",
+        "吸色",
+        "渐变",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "color",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-02-17"
+    },
+    {
+      "id": "design-color-09",
+      "name": "SchemeColor",
+      "url": "https://www.schemecolor.com/",
+      "desc": "海量配色方案库，按色系与场景分类，附色彩心理学说明参考。",
+      "tags": [
+        "配色方案",
+        "色系",
+        "场景",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "color",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-05-21"
+    },
+    {
+      "id": "design-color-10",
+      "name": "Material Palette",
+      "url": "https://www.materialpalette.com/",
+      "desc": "为 Material 设计快速生成主色与强调色组合，一键导出代码。",
+      "tags": [
+        "Material",
+        "主色",
+        "强调色",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "color",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-08-11"
+    },
+    {
+      "id": "design-color-11",
+      "name": "ColorKit",
+      "url": "https://colorkit.co/",
+      "desc": "集调色板生成、渐变与对比度检查于一体的在线色彩工具箱。",
+      "tags": [
+        "色彩工具箱",
+        "渐变",
+        "对比度",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "color",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-12-05"
+    },
+    {
+      "id": "design-color-12",
+      "name": "ColorHexa",
+      "url": "https://www.colorhexa.com/",
+      "desc": "输入任意颜色即给出色值转换、近似色与配色方案，资料详尽。",
+      "tags": [
+        "色值转换",
+        "近似色",
+        "配色",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "color",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-03-28"
+    },
+    {
+      "id": "design-color-13",
+      "name": "Huemint",
+      "url": "https://huemint.com/",
+      "desc": "用机器学习生成协调且可区分的配色，适合数据可视化与品牌。",
+      "tags": [
+        "AI配色",
+        "机器学习",
+        "可视化",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "color",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2026-01-14"
+    },
+    {
+      "id": "design-color-14",
+      "name": "ColorSpace",
+      "url": "https://mycolor.space/",
+      "desc": "输入一个颜色自动生成渐变与多色搭配方案，界面直观好用。",
+      "tags": [
+        "渐变生成",
+        "搭配方案",
+        "直观",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "color",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-08-19"
+    },
+    {
+      "id": "design-color-15",
+      "name": "BrandColors",
+      "url": "https://brandcolors.net/",
+      "desc": "收集各大品牌官方标准色值，做竞品分析或复刻风格很方便。",
+      "tags": [
+        "品牌色",
+        "标准色",
+        "参考",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "color",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-05-07"
+    },
+    {
+      "id": "design-color-16",
+      "name": "CSS Gradient",
+      "url": "https://cssgradient.io/",
+      "desc": "可视化编辑 CSS 渐变并生成代码，支持线性与径向渐变。",
+      "tags": [
+        "CSS渐变",
+        "代码生成",
+        "可视化",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "color",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-06-02"
+    },
+    {
+      "id": "design-color-17",
+      "name": "uiGradients",
+      "url": "https://uigradients.com/",
+      "desc": "优质渐变配色合集，点击复制 CSS，常用于背景与按钮美化。",
+      "tags": [
+        "渐变合集",
+        "CSS",
+        "背景",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "color",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-09-23"
+    },
+    {
+      "id": "design-color-18",
+      "name": "配色网",
+      "url": "https://www.peise.net/",
+      "desc": "中文配色社区，提供流行色卡与配色文章，适合国内设计项目参考。",
+      "tags": [
+        "中文配色",
+        "色卡",
+        "社区",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "color",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-10-11"
+    },
+    {
+      "id": "design-color-19",
+      "name": "Pigment",
+      "url": "https://pigment.shapefactory.co/",
+      "desc": "ShapeFactory 出品的智能调色板生成器，可锁定颜色实时调整方案。",
+      "tags": [
+        "智能配色",
+        "调色板",
+        "实时",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "color",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2026-02-26"
+    },
+    {
+      "id": "design-color-20",
+      "name": "ColorBox",
+      "url": "https://colorbox.io/",
+      "desc": "Lyft 开源的渐变与配色生成工具，支持多档位渐变与导出。",
+      "tags": [
+        "渐变",
+        "配色生成",
+        "开源",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "color",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-07-08"
+    },
+    {
+      "id": "design-icon-01",
+      "name": "阿里巴巴矢量图标库",
+      "url": "https://www.iconfont.cn/",
+      "desc": "国内最大矢量图标平台，海量图标可打包下载，支持项目协同管理。",
+      "tags": [
+        "矢量图标",
+        "中文",
+        "项目管理",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "icon",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-04-18"
+    },
+    {
+      "id": "design-icon-02",
+      "name": "Font Awesome",
+      "url": "https://fontawesome.com/",
+      "desc": "最流行的前端图标字体库，含品牌与实心线框图标，文档完善。",
+      "tags": [
+        "图标字体",
+        "前端",
+        "品牌图标",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "icon",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-02-09"
+    },
+    {
+      "id": "design-icon-03",
+      "name": "Iconify",
+      "url": "https://iconify.design/",
+      "desc": "聚合上百套图标集的统一接口，支持多框架调用，一处接入全都有。",
+      "tags": [
+        "图标聚合",
+        "多框架",
+        "API",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "icon",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-09-05"
+    },
+    {
+      "id": "design-icon-04",
+      "name": "Feather",
+      "url": "https://feathericons.com/",
+      "desc": "简洁线条图标集，风格统一轻量，适合现代极简界面设计。",
+      "tags": [
+        "线性图标",
+        "极简",
+        "开源",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "icon",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-05-14"
+    },
+    {
+      "id": "design-icon-05",
+      "name": "Lucide",
+      "url": "https://lucide.dev/",
+      "desc": "Feather 的社区分支，图标更丰富且持续更新，MIT 授权可商用。",
+      "tags": [
+        "线性图标",
+        "开源",
+        "MIT",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "icon",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2026-01-22"
+    },
+    {
+      "id": "design-icon-06",
+      "name": "Tabler Icons",
+      "url": "https://tabler.io/icons",
+      "desc": "两千余枚可定制的线条图标，提供多格式导出与即时预览。",
+      "tags": [
+        "线条图标",
+        "可定制",
+        "预览",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "icon",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-07-28"
+    },
+    {
+      "id": "design-icon-07",
+      "name": "Iconfinder",
+      "url": "https://www.iconfinder.com/",
+      "desc": "全球图标搜索引擎，含免费与付费，可按风格与授权筛选。",
+      "tags": [
+        "图标搜索",
+        "付费",
+        "筛选",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "icon",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-03-11"
+    },
+    {
+      "id": "design-icon-08",
+      "name": "Flaticon",
+      "url": "https://www.flaticon.com/",
+      "desc": "Freepik 旗下扁平图标库，数量庞大，免费需署名可去标订阅。",
+      "tags": [
+        "扁平图标",
+        "海量",
+        "署名",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "icon",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-11-03"
+    },
+    {
+      "id": "design-icon-09",
+      "name": "Icon8",
+      "url": "https://icons8.com/",
+      "desc": "提供图标、插画、3D 多类素材，支持按风格批量下载与编辑。",
+      "tags": [
+        "多类素材",
+        "批量下载",
+        "编辑",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "icon",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-06-19"
+    },
+    {
+      "id": "design-icon-10",
+      "name": "The Noun Project",
+      "url": "https://thenounproject.com/",
+      "desc": "以名词命名的图标库，概念化图标覆盖广，适合信息图形。",
+      "tags": [
+        "概念图标",
+        "信息图",
+        "覆盖广",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "icon",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-02-27"
+    },
+    {
+      "id": "design-icon-11",
+      "name": "Phosphor Icons",
+      "url": "https://phosphoricons.com/",
+      "desc": "风格灵活的图标集，含细粗多字重，动效友好，小众精品。",
+      "tags": [
+        "多字重",
+        "动效",
+        "小众",
+        "开源"
+      ],
+      "cat": "design",
+      "sub": "icon",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2026-03-15"
+    },
+    {
+      "id": "design-icon-12",
+      "name": "Heroicons",
+      "url": "https://heroicons.com/",
+      "desc": "Tailwind 团队出品的极简描边实心图标，适配现代 Web 界面。",
+      "tags": [
+        "极简图标",
+        "Tailwind",
+        "描边",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "icon",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-04-25"
+    },
+    {
+      "id": "design-icon-13",
+      "name": "Bootstrap Icons",
+      "url": "https://icons.getbootstrap.com/",
+      "desc": "Bootstrap 官方图标库，与框架无缝集成，含常用 UI 图标。",
+      "tags": [
+        "Bootstrap",
+        "UI图标",
+        "框架",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "icon",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-08-08"
+    },
+    {
+      "id": "design-icon-14",
+      "name": "Remix Icon",
+      "url": "https://remixicon.com/",
+      "desc": "开源中性风格图标集，覆盖业务与编辑场景，可商用免署名。",
+      "tags": [
+        "开源图标",
+        "中性风",
+        "可商用",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "icon",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-10-02"
+    },
+    {
+      "id": "design-icon-15",
+      "name": "Iconmonstr",
+      "url": "https://iconmonstr.com/",
+      "desc": "个人维护的纯线条图标库，种类齐全，免费可商用无需署名。",
+      "tags": [
+        "线条图标",
+        "齐全",
+        "免署名",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "icon",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-12-20"
+    },
+    {
+      "id": "design-icon-16",
+      "name": "SVG Repo",
+      "url": "https://www.svgrepo.com/",
+      "desc": "海量免费 SVG 图标与插画，支持在线编辑与多格式下载。",
+      "tags": [
+        "SVG",
+        "免费",
+        "在线编辑",
+        "可商用"
+      ],
+      "cat": "design",
+      "sub": "icon",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-01-30"
+    },
+    {
+      "id": "design-icon-17",
+      "name": "IconPark",
+      "url": "https://iconpark.oceanengine.com/",
+      "desc": "字节出品的开源图标库，支持多主题与代码一键复制，质量高。",
+      "tags": [
+        "开源图标",
+        "多主题",
+        "字节",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "icon",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2026-02-09"
+    },
+    {
+      "id": "design-icon-18",
+      "name": "EasyIcon",
+      "url": "https://www.easyicon.net/",
+      "desc": "中文图标搜索引擎，汇集多站资源，可按尺寸与格式查找。",
+      "tags": [
+        "中文搜索",
+        "多格式",
+        "汇集",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "icon",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-06-14"
+    },
+    {
+      "id": "design-icon-19",
+      "name": "Boxicons",
+      "url": "https://boxicons.com/",
+      "desc": "轻量级 SVG 图标集，提供常规与实心两款，体积小易集成。",
+      "tags": [
+        "轻量",
+        "SVG",
+        "实心",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "icon",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-08-27"
+    },
+    {
+      "id": "design-icon-20",
+      "name": "Iconscout",
+      "url": "https://iconscout.com/",
+      "desc": "图标、插画、3D 素材市场，含免费与订阅，支持插件嵌入。",
+      "tags": [
+        "素材市场",
+        "插画",
+        "3D",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "icon",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-10-17"
+    },
+    {
+      "id": "design-image-01",
+      "name": "Unsplash",
+      "url": "https://unsplash.com/",
+      "desc": "免费高清摄影图库，CC0 授权可商用，支持按色彩与关键词检索下载。",
+      "tags": [
+        "高清图库",
+        "CC0",
+        "可商用",
+        "摄影"
+      ],
+      "cat": "design",
+      "sub": "image",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-03-05"
+    },
+    {
+      "id": "design-image-02",
+      "name": "Pexels",
+      "url": "https://www.pexels.com/",
+      "desc": "高质量免费图库，含照片与视频，授权宽松可商用，每周更新精选。",
+      "tags": [
+        "免费图库",
+        "视频",
+        "可商用",
+        "摄影"
+      ],
+      "cat": "design",
+      "sub": "image",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-01-18"
+    },
+    {
+      "id": "design-image-03",
+      "name": "Pixabay",
+      "url": "https://pixabay.com/",
+      "desc": "海量免费图片视频音乐，无署名要求可商用，提供多语言界面。",
+      "tags": [
+        "免费素材",
+        "无署名",
+        "多语言",
+        "可商用"
+      ],
+      "cat": "design",
+      "sub": "image",
+      "hot": 1,
+      "lang": "multi",
+      "free": "free",
+      "added": "2024-09-12"
+    },
+    {
+      "id": "design-image-04",
+      "name": "Freepik",
+      "url": "https://www.freepik.com/",
+      "desc": "免费矢量、插画、PSD 素材站，需署名，另有 Premium 订阅去限制。",
+      "tags": [
+        "矢量",
+        "插画",
+        "PSD",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "image",
+      "hot": 1,
+      "lang": "multi",
+      "free": "freemium",
+      "added": "2025-05-29"
+    },
+    {
+      "id": "design-image-05",
+      "name": "Undraw",
+      "url": "https://undraw.co/",
+      "desc": "可自定义配色的开源 SVG 插画图集，复制即用，无需署名授权。",
+      "tags": [
+        "SVG插画",
+        "开源",
+        "可改色",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "image",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-11-26"
+    },
+    {
+      "id": "design-image-06",
+      "name": "StockSnap",
+      "url": "https://stocksnap.io/",
+      "desc": "每日更新的免费图库，分类清晰，CC0 授权可商用无需署名。",
+      "tags": [
+        "每日更新",
+        "CC0",
+        "分类",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "image",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-02-14"
+    },
+    {
+      "id": "design-image-07",
+      "name": "Burst",
+      "url": "https://burst.shopify.com/",
+      "desc": "Shopify 推出的免费图库，偏电商与商业场景，可商用无版权风险。",
+      "tags": [
+        "电商图库",
+        "商业",
+        "可商用",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "image",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-07-03"
+    },
+    {
+      "id": "design-image-08",
+      "name": "Gratisography",
+      "url": "https://gratisography.com/",
+      "desc": "脑洞大开的创意免费摄影，风格另类小众，CC0 授权可商用。",
+      "tags": [
+        "创意摄影",
+        "另类",
+        "小众",
+        "CC0"
+      ],
+      "cat": "design",
+      "sub": "image",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2026-01-09"
+    },
+    {
+      "id": "design-image-09",
+      "name": "Pngimg",
+      "url": "https://pngimg.com/",
+      "desc": "海量透明背景 PNG 素材库，抠图干净，适合海报与合成设计。",
+      "tags": [
+        "透明背景",
+        "PNG",
+        "抠图",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "image",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-04-21"
+    },
+    {
+      "id": "design-image-10",
+      "name": "Open Peeps",
+      "url": "https://www.openpeeps.com/",
+      "desc": "可自由组合的手绘人物插画系统，MIT 授权，适合产品空状态。",
+      "tags": [
+        "手绘插画",
+        "可组合",
+        "MIT",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "image",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-09-15"
+    },
+    {
+      "id": "design-image-11",
+      "name": "Humaaans",
+      "url": "https://www.humaaans.com/",
+      "desc": "可混搭姿势的扁平人物插画库，自由编辑，免费可商用授权。",
+      "tags": [
+        "人物插画",
+        "可混搭",
+        "扁平",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "image",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2026-03-02"
+    },
+    {
+      "id": "design-image-12",
+      "name": "DrawKit",
+      "url": "https://drawkit.com/",
+      "desc": "精选免费 SVG 插画包，风格现代清新，适合产品与落地页装饰。",
+      "tags": [
+        "SVG插画",
+        "现代",
+        "落地页",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "image",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-12-11"
+    },
+    {
+      "id": "design-image-13",
+      "name": "ManyPixels",
+      "url": "https://www.manypixels.co/",
+      "desc": "免费 SVG 插画库，支持在线改色，可商用且无需署名。",
+      "tags": [
+        "SVG插画",
+        "在线改色",
+        "可商用",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "image",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-08"
+    },
+    {
+      "id": "design-image-14",
+      "name": "Storyset",
+      "url": "https://storyset.com/",
+      "desc": "Freepik 出品的场景插画集，动画静态皆备，免费可商用。",
+      "tags": [
+        "场景插画",
+        "动画",
+        "Freepik",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "image",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-08-25"
+    },
+    {
+      "id": "design-image-15",
+      "name": "Blush",
+      "url": "https://blush.design/",
+      "desc": "可拼装插画的素材平台，与 Figma 等工具集成，免费层可商用。",
+      "tags": [
+        "拼装插画",
+        "Figma",
+        "集成",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "image",
+      "hot": 0,
+      "lang": "multi",
+      "free": "freemium",
+      "added": "2025-03-19"
+    },
+    {
+      "id": "design-image-16",
+      "name": "我图网",
+      "url": "https://www.ooopic.com/",
+      "desc": "中文正版素材图库，图片矢量视频齐全，含免费区与商用授权。",
+      "tags": [
+        "中文素材",
+        "正版图库",
+        "免费区",
+        "商用"
+      ],
+      "cat": "design",
+      "sub": "image",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-06-30"
+    },
+    {
+      "id": "design-image-17",
+      "name": "别样网",
+      "url": "https://www.ssyer.com/",
+      "desc": "国内免费可商用摄影图库，画质高，中文检索方便，更新稳定。",
+      "tags": [
+        "中文图库",
+        "可商用",
+        "高清",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "image",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2026-02-18"
+    },
+    {
+      "id": "design-image-18",
+      "name": "站酷海洛",
+      "url": "https://www.hellorf.com/",
+      "desc": "站酷旗下正版图库，海量授权素材，企业商用与编辑首选。",
+      "tags": [
+        "正版图库",
+        "授权",
+        "企业商用",
+        "中文"
+      ],
+      "cat": "design",
+      "sub": "image",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-04-07"
+    },
+    {
+      "id": "design-image-19",
+      "name": "包图网",
+      "url": "https://ibaotu.com/",
+      "desc": "中文正版设计素材与图库，含免费专区，商用需按授权购买。",
+      "tags": [
+        "中文素材",
+        "模板",
+        "正版",
+        "免费专区"
+      ],
+      "cat": "design",
+      "sub": "image",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-10-29"
+    },
+    {
+      "id": "design-image-20",
+      "name": "千图网",
+      "url": "https://www.58pic.com/",
+      "desc": "海量中文设计素材与图片库，免费区可个人及部分商用场景使用。",
+      "tags": [
+        "中文素材",
+        "图片",
+        "免费区",
+        "设计"
+      ],
+      "cat": "design",
+      "sub": "image",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-07-22"
+    },
+    {
+      "id": "design-font-01",
+      "name": "Google Fonts",
+      "url": "https://fonts.google.com/",
+      "desc": "全球最大免费网络字体库，可在线预览并一键引入网页，支持中文。",
+      "tags": [
+        "网络字体",
+        "免费",
+        "网页",
+        "多语言"
+      ],
+      "cat": "design",
+      "sub": "font",
+      "hot": 1,
+      "lang": "multi",
+      "free": "free",
+      "added": "2024-02-09"
+    },
+    {
+      "id": "design-font-02",
+      "name": "方正字库",
+      "url": "https://www.foundertype.com/",
+      "desc": "国内权威中文字体厂商，字库品质高，含商用授权购买服务。",
+      "tags": [
+        "中文字体",
+        "商用授权",
+        "字库",
+        "中文"
+      ],
+      "cat": "design",
+      "sub": "font",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-09-18"
+    },
+    {
+      "id": "design-font-03",
+      "name": "字体天下",
+      "url": "https://www.fonts.net.cn/",
+      "desc": "中文免费字体下载站，分类齐全，含个人与部分可商用字体。",
+      "tags": [
+        "中文字体",
+        "免费下载",
+        "分类",
+        "中文"
+      ],
+      "cat": "design",
+      "sub": "font",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-01-22"
+    },
+    {
+      "id": "design-font-04",
+      "name": "识字体网",
+      "url": "https://www.likefont.com/",
+      "desc": "上传图片即可识别字体名称，并给出下载来源，找字体高效。",
+      "tags": [
+        "字体识别",
+        "图片识字体",
+        "下载",
+        "中文"
+      ],
+      "cat": "design",
+      "sub": "font",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-11-14"
+    },
+    {
+      "id": "design-font-05",
+      "name": "求字体网",
+      "url": "https://qiuziti.com/",
+      "desc": "图片识别字体并匹配下载链接，支持中文与英文多种字库。",
+      "tags": [
+        "字体识别",
+        "匹配下载",
+        "中英文",
+        "中文"
+      ],
+      "cat": "design",
+      "sub": "font",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-05-03"
+    },
+    {
+      "id": "design-font-06",
+      "name": "猫啃网",
+      "url": "https://www.maoken.com/",
+      "desc": "专注免费商用中文字体的导航站，整理授权清晰，省去踩坑。",
+      "tags": [
+        "免费商用",
+        "中文字体",
+        "授权清晰",
+        "中文"
+      ],
+      "cat": "design",
+      "sub": "font",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2026-02-11"
+    },
+    {
+      "id": "design-font-07",
+      "name": "字由",
+      "url": "https://www.hellofont.cn/",
+      "desc": "设计师字体管理工具，海量字体在线预览试用，含商用授权方案。",
+      "tags": [
+        "字体管理",
+        "预览",
+        "商用授权",
+        "中文"
+      ],
+      "cat": "design",
+      "sub": "font",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-07-09"
+    },
+    {
+      "id": "design-font-08",
+      "name": "汉仪字库",
+      "url": "https://www.hanyi.com.cn/",
+      "desc": "老牌中文书法与创意字体厂商，风格多样，提供商业授权。",
+      "tags": [
+        "中文字体",
+        "书法",
+        "商业授权",
+        "中文"
+      ],
+      "cat": "design",
+      "sub": "font",
+      "hot": 0,
+      "lang": "zh",
+      "free": "paid",
+      "added": "2025-03-27"
+    },
+    {
+      "id": "design-font-09",
+      "name": "字体家",
+      "url": "https://www.ziti163.com/",
+      "desc": "中文免费字体下载站，更新勤快，附字体简介与授权说明。",
+      "tags": [
+        "中文字体",
+        "免费",
+        "更新快",
+        "中文"
+      ],
+      "cat": "design",
+      "sub": "font",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-04-30"
+    },
+    {
+      "id": "design-font-10",
+      "name": "MyFonts",
+      "url": "https://www.myfonts.com/",
+      "desc": "全球最大商业字体商城，含字体预览与 WhatTheFont 识别工具。",
+      "tags": [
+        "商业字体",
+        "字体商城",
+        "识别",
+        "英文"
+      ],
+      "cat": "design",
+      "sub": "font",
+      "hot": 1,
+      "lang": "en",
+      "free": "paid",
+      "added": "2025-08-19"
+    },
+    {
+      "id": "design-font-11",
+      "name": "Font Squirrel",
+      "url": "https://www.fontsquirrel.com/",
+      "desc": "精选 100% 免费商用字体，附 @font-face 生成器，网页友好。",
+      "tags": [
+        "免费商用",
+        "@font-face",
+        "网页",
+        "英文"
+      ],
+      "cat": "design",
+      "sub": "font",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-12-02"
+    },
+    {
+      "id": "design-font-12",
+      "name": "DaFont",
+      "url": "https://www.dafont.com/",
+      "desc": "老牌免费字体下载站，按主题分类，含大量 decorative 字体。",
+      "tags": [
+        "免费字体",
+        "主题分类",
+        "装饰",
+        "英文"
+      ],
+      "cat": "design",
+      "sub": "font",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-02-25"
+    },
+    {
+      "id": "design-font-13",
+      "name": "FontSpace",
+      "url": "https://www.fontspace.com/",
+      "desc": "社区化免费字体平台，超十万款可商用字体，上传下载便捷。",
+      "tags": [
+        "免费字体",
+        "社区",
+        "海量",
+        "英文"
+      ],
+      "cat": "design",
+      "sub": "font",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-06-17"
+    },
+    {
+      "id": "design-font-14",
+      "name": "1001 Fonts",
+      "url": "https://www.1001fonts.com/",
+      "desc": "免费与商用字体合集，分类细致，支持网页与桌面字体下载。",
+      "tags": [
+        "免费字体",
+        "商用",
+        "分类",
+        "英文"
+      ],
+      "cat": "design",
+      "sub": "font",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-06-11"
+    },
+    {
+      "id": "design-font-15",
+      "name": "Befonts",
+      "url": "https://befonts.com/",
+      "desc": "每日更新免费字体，含英文字体与部分中文，界面简洁好找。",
+      "tags": [
+        "免费字体",
+        "每日更新",
+        "简洁",
+        "英文"
+      ],
+      "cat": "design",
+      "sub": "font",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-08-21"
+    },
+    {
+      "id": "design-font-16",
+      "name": "FontMeme",
+      "url": "https://fontmeme.com/",
+      "desc": "在线字体生成器，把文字变成知名 logo 风格，适合做图标题。",
+      "tags": [
+        "字体生成",
+        "logo风",
+        "在线",
+        "英文"
+      ],
+      "cat": "design",
+      "sub": "font",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-09-05"
+    },
+    {
+      "id": "design-font-17",
+      "name": "Lost Type",
+      "url": "https://losttype.com/",
+      "desc": "精品付费字体工坊，复古手写风独特，每款都由独立设计师制作。",
+      "tags": [
+        "精品字体",
+        "复古",
+        "手写",
+        "付费"
+      ],
+      "cat": "design",
+      "sub": "font",
+      "hot": 2,
+      "lang": "en",
+      "free": "paid",
+      "added": "2026-01-28"
+    },
+    {
+      "id": "design-font-18",
+      "name": "FontPalace",
+      "url": "https://fontpalace.com/",
+      "desc": "免费字体下载站，含经典与新颖字体，可在线预览效果。",
+      "tags": [
+        "免费字体",
+        "预览",
+        "经典",
+        "英文"
+      ],
+      "cat": "design",
+      "sub": "font",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-10-07"
+    },
+    {
+      "id": "design-font-19",
+      "name": "字体视界",
+      "url": "https://www.zitivis.com/",
+      "desc": "中文字体下载与资讯站，整理授权范围，方便商用选型。",
+      "tags": [
+        "中文字体",
+        "资讯",
+        "授权",
+        "中文"
+      ],
+      "cat": "design",
+      "sub": "font",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-04-16"
+    },
+    {
+      "id": "design-font-20",
+      "name": "字魂网",
+      "url": "https://izihun.com/",
+      "desc": "中文创意字体平台，提供订阅与商用授权，风格年轻潮流。",
+      "tags": [
+        "中文字体",
+        "创意",
+        "商用",
+        "中文"
+      ],
+      "cat": "design",
+      "sub": "font",
+      "hot": 2,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-03-23"
+    },
+    {
+      "id": "design-ui-01",
+      "name": "Dribbble",
+      "url": "https://dribbble.com/",
+      "desc": "全球设计师作品社区，UI 插画灵感丰富，招聘与接单也很活跃。",
+      "tags": [
+        "设计社区",
+        "UI灵感",
+        "招聘",
+        "英文"
+      ],
+      "cat": "design",
+      "sub": "ui",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-03-19"
+    },
+    {
+      "id": "design-ui-02",
+      "name": "Behance",
+      "url": "https://www.behance.net/",
+      "desc": "Adobe 旗下作品集平台，覆盖设计全品类，适合展示与发现项目。",
+      "tags": [
+        "作品集",
+        "设计平台",
+        "全品类",
+        "英文"
+      ],
+      "cat": "design",
+      "sub": "ui",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-01-12"
+    },
+    {
+      "id": "design-ui-03",
+      "name": "Mobbin",
+      "url": "https://mobbin.com/",
+      "desc": "收录数千款真实 App 与网页界面截图，按元素检索交互灵感。",
+      "tags": [
+        "界面截图",
+        "App参考",
+        "交互",
+        "英文"
+      ],
+      "cat": "design",
+      "sub": "ui",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-09-09"
+    },
+    {
+      "id": "design-ui-04",
+      "name": "Ant Design",
+      "url": "https://ant.design/",
+      "desc": "蚂蚁出品的企业级设计体系，含组件库与规范文档，开箱即用。",
+      "tags": [
+        "设计体系",
+        "组件库",
+        "规范",
+        "中文"
+      ],
+      "cat": "design",
+      "sub": "ui",
+      "hot": 1,
+      "lang": "multi",
+      "free": "free",
+      "added": "2025-05-21"
+    },
+    {
+      "id": "design-ui-05",
+      "name": "Material Design",
+      "url": "https://m3.material.io/",
+      "desc": "Google 的设计语言规范，含组件、动效与色彩系统指南。",
+      "tags": [
+        "设计语言",
+        "规范",
+        "组件",
+        "英文"
+      ],
+      "cat": "design",
+      "sub": "ui",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-11-29"
+    },
+    {
+      "id": "design-ui-06",
+      "name": "Awwwards",
+      "url": "https://www.awwwards.com/",
+      "desc": "网页设计奖项站点，汇聚顶尖创意网站，视觉与交互极具启发。",
+      "tags": [
+        "网页奖项",
+        "创意",
+        "视觉",
+        "英文"
+      ],
+      "cat": "design",
+      "sub": "ui",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-02-07"
+    },
+    {
+      "id": "design-ui-07",
+      "name": "Land-book",
+      "url": "https://land-book.com/",
+      "desc": "精选优质落地页案例库，按行业与风格筛选，做 LP 好参考。",
+      "tags": [
+        "落地页",
+        "案例库",
+        "行业",
+        "英文"
+      ],
+      "cat": "design",
+      "sub": "ui",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-07-16"
+    },
+    {
+      "id": "design-ui-08",
+      "name": "Page Flows",
+      "url": "https://www.pageflows.com/",
+      "desc": "收录 App 用户流程与界面动效录像，研究交互细节很实用。",
+      "tags": [
+        "用户流程",
+        "动效",
+        "交互",
+        "英文"
+      ],
+      "cat": "design",
+      "sub": "ui",
+      "hot": 2,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2026-01-25"
+    },
+    {
+      "id": "design-ui-09",
+      "name": "Collect UI",
+      "url": "https://collectui.com/",
+      "desc": "每日更新的 UI 组件灵感库，按输入框卡片等元素分类整理。",
+      "tags": [
+        "UI组件",
+        "每日更新",
+        "分类",
+        "英文"
+      ],
+      "cat": "design",
+      "sub": "ui",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-12-13"
+    },
+    {
+      "id": "design-ui-10",
+      "name": "UI8",
+      "url": "https://ui8.net/",
+      "desc": "售卖高质量 UI 套件与模板，也提供免费资源，风格现代统一。",
+      "tags": [
+        "UI套件",
+        "模板",
+        "现代",
+        "英文"
+      ],
+      "cat": "design",
+      "sub": "ui",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-06-03"
+    },
+    {
+      "id": "design-ui-11",
+      "name": "Designmodo",
+      "url": "https://designmodo.com/",
+      "desc": "设计灵感与资源博客，兼推 Slides 等工具，内容实用常更。",
+      "tags": [
+        "设计博客",
+        "资源",
+        "工具",
+        "英文"
+      ],
+      "cat": "design",
+      "sub": "ui",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-03-09"
+    },
+    {
+      "id": "design-ui-12",
+      "name": "Cofolios",
+      "url": "https://www.cofolios.com/",
+      "desc": "全球名校学生作品集合集，看顶尖新人的排版与项目思路。",
+      "tags": [
+        "作品集",
+        "学生",
+        "排版",
+        "英文"
+      ],
+      "cat": "design",
+      "sub": "ui",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2026-02-21"
+    },
+    {
+      "id": "design-ui-13",
+      "name": "UI中国",
+      "url": "https://www.ui.cn/",
+      "desc": "中文 UI 设计社区，含教程、作品与比赛，国内设计师聚集地。",
+      "tags": [
+        "中文社区",
+        "UI设计",
+        "教程",
+        "中文"
+      ],
+      "cat": "design",
+      "sub": "ui",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-04-11"
+    },
+    {
+      "id": "design-ui-14",
+      "name": "站酷",
+      "url": "https://www.zcool.com.cn/",
+      "desc": "国内综合创意设计平台，作品海量，含正版素材与设计课程。",
+      "tags": [
+        "创意平台",
+        "作品",
+        "素材",
+        "中文"
+      ],
+      "cat": "design",
+      "sub": "ui",
+      "hot": 2,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-09-12"
+    },
+    {
+      "id": "design-ui-15",
+      "name": "Refero",
+      "url": "https://refero.design/",
+      "desc": "可按组件检索的上万真实产品界面库，找参考直接搜元素。",
+      "tags": [
+        "界面库",
+        "组件检索",
+        "真实产品",
+        "英文"
+      ],
+      "cat": "design",
+      "sub": "ui",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-08-27"
+    },
+    {
+      "id": "design-ui-16",
+      "name": "68design",
+      "url": "https://www.68design.net/",
+      "desc": "中文设计门户，汇集国内外优秀作品与教程，接单招聘信息全。",
+      "tags": [
+        "中文门户",
+        "作品",
+        "教程",
+        "中文"
+      ],
+      "cat": "design",
+      "sub": "ui",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-01-05"
+    },
+    {
+      "id": "design-ui-17",
+      "name": "Muzli",
+      "url": "https://muz.li/",
+      "desc": "设计师灵感聚合阅读器，自动推送 Dribbble 等站最新作品。",
+      "tags": [
+        "灵感聚合",
+        "阅读器",
+        "最新",
+        "英文"
+      ],
+      "cat": "design",
+      "sub": "ui",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-10-23"
+    },
+    {
+      "id": "design-ui-18",
+      "name": "Bestfolios",
+      "url": "https://www.bestfolios.com/",
+      "desc": "精选设计师作品集与简历案例，附机构榜单，求职参考佳。",
+      "tags": [
+        "作品集",
+        "简历",
+        "榜单",
+        "英文"
+      ],
+      "cat": "design",
+      "sub": "ui",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-07-15"
+    },
+    {
+      "id": "design-ui-19",
+      "name": "优设网",
+      "url": "https://www.uisdc.com/",
+      "desc": "中文设计导航与教程站，资源全面，含 PS AI 技巧与素材。",
+      "tags": [
+        "中文教程",
+        "设计导航",
+        "素材",
+        "中文"
+      ],
+      "cat": "design",
+      "sub": "ui",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-06-09"
+    },
+    {
+      "id": "design-ui-20",
+      "name": "花瓣网",
+      "url": "https://huaban.com/",
+      "desc": "中文图片采集与灵感板工具，瀑布流收藏素材，做情绪板方便。",
+      "tags": [
+        "灵感板",
+        "采集",
+        "瀑布流",
+        "中文"
+      ],
+      "cat": "design",
+      "sub": "ui",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-04-29"
+    },
+    {
+      "id": "design-tool-01",
+      "name": "Figma",
+      "url": "https://www.figma.com/",
+      "desc": "云端协作设计工具，矢量与原型一体，多人实时编辑，行业标杆。",
+      "tags": [
+        "协作设计",
+        "原型",
+        "矢量",
+        "免费版"
+      ],
+      "cat": "design",
+      "sub": "tool",
+      "hot": 1,
+      "lang": "multi",
+      "free": "freemium",
+      "added": "2024-02-14"
+    },
+    {
+      "id": "design-tool-02",
+      "name": "Canva",
+      "url": "https://www.canva.com/",
+      "desc": "在线拖拽式设计平台，海量模板，零基础也能快速出图与视频。",
+      "tags": [
+        "在线设计",
+        "模板",
+        "零基础",
+        "免费版"
+      ],
+      "cat": "design",
+      "sub": "tool",
+      "hot": 1,
+      "lang": "multi",
+      "free": "freemium",
+      "added": "2025-01-28"
+    },
+    {
+      "id": "design-tool-03",
+      "name": "稿定设计",
+      "url": "https://www.gaoding.com/",
+      "desc": "中文在线设计工具，含电商新媒体模板，一键生成海报与视频。",
+      "tags": [
+        "中文设计",
+        "电商模板",
+        "一键生成",
+        "免费版"
+      ],
+      "cat": "design",
+      "sub": "tool",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-09-25"
+    },
+    {
+      "id": "design-tool-04",
+      "name": "remove.bg",
+      "url": "https://www.remove.bg/",
+      "desc": "AI 自动抠图去背景，秒级出透明 PNG，无需手动描边。",
+      "tags": [
+        "AI抠图",
+        "去背景",
+        "透明PNG",
+        "免费版"
+      ],
+      "cat": "design",
+      "sub": "tool",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-05-11"
+    },
+    {
+      "id": "design-tool-05",
+      "name": "Photopea",
+      "url": "https://www.photopea.com/",
+      "desc": "浏览器里的免费 PS 替代品，支持 PSD XCF，无需安装即用。",
+      "tags": [
+        "在线PS",
+        "PSD",
+        "免安装",
+        "免费版"
+      ],
+      "cat": "design",
+      "sub": "tool",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-11-18"
+    },
+    {
+      "id": "design-tool-06",
+      "name": "即时设计",
+      "url": "https://js.design/",
+      "desc": "国产云端设计工具，兼容 Figma 文件，团队协作与交付顺畅。",
+      "tags": [
+        "国产设计",
+        "兼容Figma",
+        "协作",
+        "免费版"
+      ],
+      "cat": "design",
+      "sub": "tool",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2026-01-19"
+    },
+    {
+      "id": "design-tool-07",
+      "name": "美图设计室",
+      "url": "https://www.x-design.com/",
+      "desc": "美图旗下 AI 设计工具，智能生成电商与主图，省时省力。",
+      "tags": [
+        "AI设计",
+        "电商",
+        "智能生成",
+        "免费版"
+      ],
+      "cat": "design",
+      "sub": "tool",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-03-04"
+    },
+    {
+      "id": "design-tool-08",
+      "name": "Pixlr",
+      "url": "https://pixlr.com/",
+      "desc": "在线图片编辑器，含 AI 修图与模板，网页端即可精修照片。",
+      "tags": [
+        "在线修图",
+        "AI",
+        "模板",
+        "免费版"
+      ],
+      "cat": "design",
+      "sub": "tool",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-07-22"
+    },
+    {
+      "id": "design-tool-09",
+      "name": "创客贴",
+      "url": "https://www.chuangkit.com/",
+      "desc": "中文在线平面设计平台，模板覆盖海报简历，拖拽即出图。",
+      "tags": [
+        "中文设计",
+        "模板",
+        "拖拽",
+        "免费版"
+      ],
+      "cat": "design",
+      "sub": "tool",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-12-09"
+    },
+    {
+      "id": "design-tool-10",
+      "name": "图怪兽",
+      "url": "https://818ps.com/",
+      "desc": "中文一键设计工具，海量模板套用，适合运营快速出图。",
+      "tags": [
+        "中文设计",
+        "一键套模板",
+        "运营",
+        "免费版"
+      ],
+      "cat": "design",
+      "sub": "tool",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-06-17"
+    },
+    {
+      "id": "design-tool-11",
+      "name": "Fotor",
+      "url": "https://www.fotor.com/",
+      "desc": "在线设计与照片编辑工具，含 AI 增强与拼图，多语言支持。",
+      "tags": [
+        "在线设计",
+        "照片编辑",
+        "AI增强",
+        "免费版"
+      ],
+      "cat": "design",
+      "sub": "tool",
+      "hot": 0,
+      "lang": "multi",
+      "free": "freemium",
+      "added": "2025-02-23"
+    },
+    {
+      "id": "design-tool-12",
+      "name": "Inkscape",
+      "url": "https://inkscape.org/",
+      "desc": "开源矢量图形软件，功能近似 Illustrator，完全免费无授权。",
+      "tags": [
+        "开源",
+        "矢量",
+        "Illustrator替代",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "tool",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-04-27"
+    },
+    {
+      "id": "design-tool-13",
+      "name": "GIMP",
+      "url": "https://www.gimp.org/",
+      "desc": "老牌开源图像编辑软件，图层滤镜齐全，可平替 Photoshop。",
+      "tags": [
+        "开源",
+        "图像编辑",
+        "PS替代",
+        "免费"
+      ],
+      "cat": "design",
+      "sub": "tool",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-08-14"
+    },
+    {
+      "id": "design-tool-14",
+      "name": "蓝湖",
+      "url": "https://lanhuapp.com/",
+      "desc": "产品设计协作与交付平台，自动标注切图，衔接设计与开发。",
+      "tags": [
+        "设计交付",
+        "标注",
+        "切图",
+        "免费版"
+      ],
+      "cat": "design",
+      "sub": "tool",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-09-29"
+    },
+    {
+      "id": "design-tool-15",
+      "name": "墨刀",
+      "url": "https://modao.cc/",
+      "desc": "国产原型与协作设计工具，拖拽画流程图与可交互原型，评审方便。",
+      "tags": [
+        "原型",
+        "协作",
+        "拖拽",
+        "免费版"
+      ],
+      "cat": "design",
+      "sub": "tool",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-10-05"
+    },
+    {
+      "id": "design-tool-16",
+      "name": "Pixso",
+      "url": "https://pixso.cn/",
+      "desc": "国产一体化设计工具，含原型与协作，资源社区丰富可白嫖。",
+      "tags": [
+        "国产设计",
+        "原型协作",
+        "资源社区",
+        "免费版"
+      ],
+      "cat": "design",
+      "sub": "tool",
+      "hot": 2,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2026-03-08"
+    },
+    {
+      "id": "design-tool-17",
+      "name": "Snappa",
+      "url": "https://snappa.com/",
+      "desc": "面向社交媒体与博客的在线图文设计，模板多，出图快。",
+      "tags": [
+        "社交媒体",
+        "在线设计",
+        "模板",
+        "免费版"
+      ],
+      "cat": "design",
+      "sub": "tool",
+      "hot": 2,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-04-21"
+    },
+    {
+      "id": "design-tool-18",
+      "name": "PicMonkey",
+      "url": "https://www.picmonkey.com/",
+      "desc": "在线照片编辑与设计工具，含拼图与特效，订阅制功能全。",
+      "tags": [
+        "照片编辑",
+        "特效",
+        "拼图",
+        "订阅"
+      ],
+      "cat": "design",
+      "sub": "tool",
+      "hot": 0,
+      "lang": "en",
+      "free": "paid",
+      "added": "2024-06-26"
+    },
+    {
+      "id": "design-tool-19",
+      "name": "DesignEvo",
+      "url": "https://www.designevo.com/",
+      "desc": "在线 logo 生成器，海量图标与模板，几分钟做出品牌标识。",
+      "tags": [
+        "logo生成",
+        "图标",
+        "模板",
+        "免费版"
+      ],
+      "cat": "design",
+      "sub": "tool",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-07-09"
+    },
+    {
+      "id": "design-tool-20",
+      "name": "Stencil",
+      "url": "https://getstencil.com/",
+      "desc": "营销向在线图文设计工具，含素材库与排程，小团队友好。",
+      "tags": [
+        "营销设计",
+        "素材库",
+        "排程",
+        "免费版"
+      ],
+      "cat": "design",
+      "sub": "tool",
+      "hot": 2,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-03-30"
+    }
+  ]
+}

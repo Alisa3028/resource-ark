@@ -1,0 +1,2591 @@
+{
+  "category": "office",
+  "resources": [
+    {
+      "id": "office-doc-01",
+      "name": "腾讯文档",
+      "url": "https://docs.qq.com/",
+      "desc": "腾讯出品的在线文档，支持多人实时协作编辑文档表格，微信QQ一键分享免登录查看。",
+      "tags": [
+        "在线",
+        "协作",
+        "腾讯",
+        "免费",
+        "多人"
+      ],
+      "cat": "office",
+      "sub": "doc",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-03-12"
+    },
+    {
+      "id": "office-doc-02",
+      "name": "飞书",
+      "url": "https://feishu.cn/",
+      "desc": "字节一站式办公套件，文档多维表格与即时沟通深度打通，适合团队协同与项目管理。",
+      "tags": [
+        "协作",
+        "团队",
+        "办公",
+        "免费"
+      ],
+      "cat": "office",
+      "sub": "doc",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-05-20"
+    },
+    {
+      "id": "office-doc-03",
+      "name": "语雀",
+      "url": "https://yuque.com/",
+      "desc": "蚂蚁旗下知识库文档工具，结构化沉淀团队文档，支持画板与脑图，适合技术写作。",
+      "tags": [
+        "知识库",
+        "协作",
+        "文档",
+        "阿里"
+      ],
+      "cat": "office",
+      "sub": "doc",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-02-08"
+    },
+    {
+      "id": "office-doc-04",
+      "name": "石墨文档",
+      "url": "https://shimo.im/",
+      "desc": "轻量在线文档表格，界面清爽协作流畅，支持历史版本与多端同步，团队日常常用。",
+      "tags": [
+        "在线",
+        "协作",
+        "轻量",
+        "免费"
+      ],
+      "cat": "office",
+      "sub": "doc",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-04-15"
+    },
+    {
+      "id": "office-doc-05",
+      "name": "Google Docs",
+      "url": "https://docs.google.com/",
+      "desc": "谷歌在线文档套件，协作与插件生态强大，需谷歌账号，海外团队与学术写作常用。",
+      "tags": [
+        "在线",
+        "协作",
+        "谷歌",
+        "插件"
+      ],
+      "cat": "office",
+      "sub": "doc",
+      "hot": 0,
+      "lang": "multi",
+      "free": "free",
+      "added": "2024-01-22"
+    },
+    {
+      "id": "office-doc-06",
+      "name": "Notion",
+      "url": "https://notion.so/",
+      "desc": "模块化笔记与文档空间，块编辑器灵活可搭wiki项目看板，海外个人与团队极受欢迎。",
+      "tags": [
+        "笔记",
+        "数据库",
+        "协作",
+        "模板"
+      ],
+      "cat": "office",
+      "sub": "doc",
+      "hot": 0,
+      "lang": "multi",
+      "free": "freemium",
+      "added": "2024-06-30"
+    },
+    {
+      "id": "office-doc-07",
+      "name": "金山文档",
+      "url": "https://kdocs.cn/",
+      "desc": "WPS旗下在线文档，兼容Office格式，微信小程序可直接编辑，适合个人日常办公。",
+      "tags": [
+        "在线",
+        "WPS",
+        "协作",
+        "免费"
+      ],
+      "cat": "office",
+      "sub": "doc",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-03-05"
+    },
+    {
+      "id": "office-doc-08",
+      "name": "WPS Office",
+      "url": "https://wps.cn/",
+      "desc": "国产办公套件，文字表格演示全覆盖，含模板与PDF，个人版长期免费可日常使用。",
+      "tags": [
+        "办公",
+        "套件",
+        "免费",
+        "模板"
+      ],
+      "cat": "office",
+      "sub": "doc",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-02-18"
+    },
+    {
+      "id": "office-doc-09",
+      "name": "Microsoft 365",
+      "url": "https://office.com/",
+      "desc": "微软在线Office，Word Excel PPT网页版与OneDrive联动，企业协作的事实标准。",
+      "tags": [
+        "办公",
+        "微软",
+        "套件",
+        "云"
+      ],
+      "cat": "office",
+      "sub": "doc",
+      "hot": 0,
+      "lang": "multi",
+      "free": "paid",
+      "added": "2024-07-11"
+    },
+    {
+      "id": "office-doc-10",
+      "name": "钉钉",
+      "url": "https://dingtalk.com/",
+      "desc": "阿里企业办公平台，内置文档与项目协作，IM审批打卡一体，中小企业常用。",
+      "tags": [
+        "办公",
+        "协作",
+        "企业",
+        "阿里"
+      ],
+      "cat": "office",
+      "sub": "doc",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-08-02"
+    },
+    {
+      "id": "office-doc-11",
+      "name": "Coda",
+      "url": "https://coda.io/",
+      "desc": "文档与表格融合的协作文档，可嵌入按钮与自动化，能替代部分项目管理工具。",
+      "tags": [
+        "协作",
+        "自动化",
+        "文档",
+        "表格"
+      ],
+      "cat": "office",
+      "sub": "doc",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-01-09"
+    },
+    {
+      "id": "office-doc-12",
+      "name": "OnlyOffice",
+      "url": "https://onlyoffice.com/",
+      "desc": "开源办公套件，支持自部署文档协作，兼容MS格式，注重隐私与私有化部署。",
+      "tags": [
+        "开源",
+        "自建",
+        "协作",
+        "隐私"
+      ],
+      "cat": "office",
+      "sub": "doc",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-03-14"
+    },
+    {
+      "id": "office-doc-13",
+      "name": "Zoho Docs",
+      "url": "https://zoho.com/",
+      "desc": "Zoho办公套件组件，文档表格演示云端协作，集成CRM等企业管理工具。",
+      "tags": [
+        "协作",
+        "企业",
+        "云",
+        "套件"
+      ],
+      "cat": "office",
+      "sub": "doc",
+      "hot": 0,
+      "lang": "multi",
+      "free": "freemium",
+      "added": "2025-04-22"
+    },
+    {
+      "id": "office-doc-14",
+      "name": "Confluence",
+      "url": "https://atlassian.com/",
+      "desc": "Atlassian企业知识库wiki，强权限与模板，研发团队文档沉淀的事实标准。",
+      "tags": [
+        "知识库",
+        "企业",
+        "wiki",
+        "团队"
+      ],
+      "cat": "office",
+      "sub": "doc",
+      "hot": 0,
+      "lang": "en",
+      "free": "paid",
+      "added": "2025-02-26"
+    },
+    {
+      "id": "office-doc-15",
+      "name": "Dropbox Paper",
+      "url": "https://dropbox.com/",
+      "desc": "Dropbox旗下轻量协作文档，简洁排版适合头脑风暴与会议纪要快速记录。",
+      "tags": [
+        "协作",
+        "轻量",
+        "云盘",
+        "笔记"
+      ],
+      "cat": "office",
+      "sub": "doc",
+      "hot": 0,
+      "lang": "multi",
+      "free": "freemium",
+      "added": "2024-09-17"
+    },
+    {
+      "id": "office-doc-16",
+      "name": "永中Office",
+      "url": "https://yozosoft.com/",
+      "desc": "国产Office套件，独创集成办公环境，单文件容纳多应用，国产替代选项之一。",
+      "tags": [
+        "办公",
+        "国产",
+        "套件",
+        "免费"
+      ],
+      "cat": "office",
+      "sub": "doc",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-11-03"
+    },
+    {
+      "id": "office-doc-17",
+      "name": "Teambition",
+      "url": "https://teambition.com/",
+      "desc": "阿里项目协作平台，网盘文档任务一体，适合产品团队可视化推进项目。",
+      "tags": [
+        "协作",
+        "项目",
+        "网盘",
+        "团队"
+      ],
+      "cat": "office",
+      "sub": "doc",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-05-19"
+    },
+    {
+      "id": "office-doc-18",
+      "name": "亿方云",
+      "url": "https://fangcloud.com/",
+      "desc": "企业文件管理与在线协作网盘，权限细粒度，支持Office在线编辑与审批流。",
+      "tags": [
+        "企业",
+        "网盘",
+        "协作",
+        "安全"
+      ],
+      "cat": "office",
+      "sub": "doc",
+      "hot": 2,
+      "lang": "zh",
+      "free": "paid",
+      "added": "2025-06-08"
+    },
+    {
+      "id": "office-doc-19",
+      "name": "云之家",
+      "url": "https://yunzhijia.com/",
+      "desc": "金蝶旗下移动办公平台，社交化协同与审批报表，制造企业用户基础庞大。",
+      "tags": [
+        "办公",
+        "企业",
+        "协同",
+        "金蝶"
+      ],
+      "cat": "office",
+      "sub": "doc",
+      "hot": 2,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-07-21"
+    },
+    {
+      "id": "office-doc-20",
+      "name": "伙伴云",
+      "url": "https://huoban.com/",
+      "desc": "零代码业务搭建平台，数据表协作与自动化，小团队可自建轻量业务系统。",
+      "tags": [
+        "零代码",
+        "协作",
+        "数据",
+        "自动化"
+      ],
+      "cat": "office",
+      "sub": "doc",
+      "hot": 2,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-08-30"
+    },
+    {
+      "id": "office-mindmap-01",
+      "name": "XMind",
+      "url": "https://xmind.cn/",
+      "desc": "老牌思维导图软件，结构样式丰富，支持大纲与多种图，个人与团队梳理首选。",
+      "tags": [
+        "脑图",
+        "大纲",
+        "国产",
+        "免费"
+      ],
+      "cat": "office",
+      "sub": "mindmap",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-02-11"
+    },
+    {
+      "id": "office-mindmap-02",
+      "name": "ProcessOn",
+      "url": "https://processon.com/",
+      "desc": "在线流程图与脑图工具，海量模板社区，支持多人实时协作绘制。",
+      "tags": [
+        "流程图",
+        "协作",
+        "模板",
+        "在线"
+      ],
+      "cat": "office",
+      "sub": "mindmap",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-03-19"
+    },
+    {
+      "id": "office-mindmap-03",
+      "name": "幕布",
+      "url": "https://mubu.com/",
+      "desc": "大纲笔记一键转思维导图，写作与结构化思考利器，支持主题导出。",
+      "tags": [
+        "大纲",
+        "脑图",
+        "笔记",
+        "轻量"
+      ],
+      "cat": "office",
+      "sub": "mindmap",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-01-30"
+    },
+    {
+      "id": "office-mindmap-04",
+      "name": "draw.io",
+      "url": "https://diagrams.net/",
+      "desc": "免费开源绘图工具，流程图架构图随意画，可存本地与主流云盘，无账号限制。",
+      "tags": [
+        "流程图",
+        "开源",
+        "免费",
+        "白板"
+      ],
+      "cat": "office",
+      "sub": "mindmap",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-05-08"
+    },
+    {
+      "id": "office-mindmap-05",
+      "name": "Excalidraw",
+      "url": "https://excalidraw.com/",
+      "desc": "手绘风白板工具，草图流程图自由画，支持端到端加密与本地优先存储。",
+      "tags": [
+        "白板",
+        "手绘",
+        "开源",
+        "免费"
+      ],
+      "cat": "office",
+      "sub": "mindmap",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-06-25"
+    },
+    {
+      "id": "office-mindmap-06",
+      "name": "Whimsical",
+      "url": "https://whimsical.com/",
+      "desc": "在线流程图线框图工具，操作顺滑，适合产品与团队快速表达想法。",
+      "tags": [
+        "流程图",
+        "白板",
+        "协作",
+        "线框"
+      ],
+      "cat": "office",
+      "sub": "mindmap",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-09-14"
+    },
+    {
+      "id": "office-mindmap-07",
+      "name": "MindMeister",
+      "url": "https://mindmeister.com/",
+      "desc": "云端思维导图工具，演示模式与团队协作强，适合头脑风暴与教学。",
+      "tags": [
+        "脑图",
+        "协作",
+        "演示",
+        "云"
+      ],
+      "cat": "office",
+      "sub": "mindmap",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-10-02"
+    },
+    {
+      "id": "office-mindmap-08",
+      "name": "MindNode",
+      "url": "https://mindnode.com/",
+      "desc": "苹果生态优雅脑图应用，专注模式与iCloud同步，适合个人灵感整理。",
+      "tags": [
+        "脑图",
+        "苹果",
+        "简洁",
+        "同步"
+      ],
+      "cat": "office",
+      "sub": "mindmap",
+      "hot": 0,
+      "lang": "en",
+      "free": "paid",
+      "added": "2025-01-15"
+    },
+    {
+      "id": "office-mindmap-09",
+      "name": "知犀思维导图",
+      "url": "https://zhixi.com/",
+      "desc": "国产全平台脑图工具，模板丰富且支持双向链接，免费版够用。",
+      "tags": [
+        "脑图",
+        "国产",
+        "模板",
+        "免费"
+      ],
+      "cat": "office",
+      "sub": "mindmap",
+      "hot": 2,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-02-20"
+    },
+    {
+      "id": "office-mindmap-10",
+      "name": "迅捷画图",
+      "url": "https://xunjietu.com/",
+      "desc": "在线流程图思维导图工具，模板齐全上手快，适合办公场景快速出图。",
+      "tags": [
+        "流程图",
+        "脑图",
+        "在线",
+        "模板"
+      ],
+      "cat": "office",
+      "sub": "mindmap",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-11-11"
+    },
+    {
+      "id": "office-mindmap-11",
+      "name": "GitMind",
+      "url": "https://gitmind.com/",
+      "desc": "免费在线脑图工具，支持AI生成导图与多人协作，网页端即用即走。",
+      "tags": [
+        "脑图",
+        "免费",
+        "AI",
+        "协作"
+      ],
+      "cat": "office",
+      "sub": "mindmap",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-03-03"
+    },
+    {
+      "id": "office-mindmap-12",
+      "name": "亿图图示",
+      "url": "https://edrawsoft.cn/",
+      "desc": "综合绘图软件，流程图组织架构图平面布置全覆盖，模板库极其庞大。",
+      "tags": [
+        "图示",
+        "流程图",
+        "模板",
+        "国产"
+      ],
+      "cat": "office",
+      "sub": "mindmap",
+      "hot": 2,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-12-09"
+    },
+    {
+      "id": "office-mindmap-13",
+      "name": "Coggle",
+      "url": "https://coggle.it/",
+      "desc": "简洁协作脑图工具，分支自动配色，免费版可建有限图表适合课堂使用。",
+      "tags": [
+        "脑图",
+        "协作",
+        "免费",
+        "简洁"
+      ],
+      "cat": "office",
+      "sub": "mindmap",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-04-18"
+    },
+    {
+      "id": "office-mindmap-14",
+      "name": "Lucidchart",
+      "url": "https://lucidchart.com/",
+      "desc": "企业级图表工具，与主流办公软件集成好，复杂流程与系统架构首选。",
+      "tags": [
+        "流程图",
+        "企业",
+        "协作",
+        "集成"
+      ],
+      "cat": "office",
+      "sub": "mindmap",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-05-27"
+    },
+    {
+      "id": "office-mindmap-15",
+      "name": "Miro",
+      "url": "https://miro.com/",
+      "desc": "大型在线协作白板，便利贴流程图模板丰富，远程团队工作坊常用。",
+      "tags": [
+        "白板",
+        "协作",
+        "远程",
+        "模板"
+      ],
+      "cat": "office",
+      "sub": "mindmap",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-07-16"
+    },
+    {
+      "id": "office-mindmap-16",
+      "name": "MindManager",
+      "url": "https://mindmanager.com/",
+      "desc": "专业思维导图软件，项目管理映射强，企业培训与咨询场景常见。",
+      "tags": [
+        "脑图",
+        "项目",
+        "专业",
+        "付费"
+      ],
+      "cat": "office",
+      "sub": "mindmap",
+      "hot": 0,
+      "lang": "en",
+      "free": "paid",
+      "added": "2025-06-30"
+    },
+    {
+      "id": "office-mindmap-17",
+      "name": "yWorks",
+      "url": "https://yworks.com/",
+      "desc": "yEd等自动布局绘图工具，图算法强大，适合技术类网状结构可视化。",
+      "tags": [
+        "绘图",
+        "自动布局",
+        "技术",
+        "免费"
+      ],
+      "cat": "office",
+      "sub": "mindmap",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-08-22"
+    },
+    {
+      "id": "office-mindmap-18",
+      "name": "博思白板",
+      "url": "https://boardmix.cn/",
+      "desc": "国产在线协作白板，集脑图流程图与文档，AI辅助生成，团队共创好用。",
+      "tags": [
+        "白板",
+        "脑图",
+        "协作",
+        "AI"
+      ],
+      "cat": "office",
+      "sub": "mindmap",
+      "hot": 2,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-07-09"
+    },
+    {
+      "id": "office-mindmap-19",
+      "name": "Mindomo",
+      "url": "https://mindomo.com/",
+      "desc": "多形态导图工具，含演示与时间线，教育版对师生友好。",
+      "tags": [
+        "脑图",
+        "演示",
+        "教育",
+        "协作"
+      ],
+      "cat": "office",
+      "sub": "mindmap",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-08-12"
+    },
+    {
+      "id": "office-mindmap-20",
+      "name": "SimpleMind",
+      "url": "https://simplemind.eu/",
+      "desc": "跨平台极简脑图应用，自动布局清晰，适合移动端随手记录想法。",
+      "tags": [
+        "脑图",
+        "极简",
+        "跨平台",
+        "免费"
+      ],
+      "cat": "office",
+      "sub": "mindmap",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-09-01"
+    },
+    {
+      "id": "office-pdf-01",
+      "name": "Smallpdf",
+      "url": "https://smallpdf.com/",
+      "desc": "网页端PDF全能工具，格式互转压缩合并签署齐全，界面中文友好拖拽即用。",
+      "tags": [
+        "转换",
+        "压缩",
+        "合并",
+        "中文"
+      ],
+      "cat": "office",
+      "sub": "pdf",
+      "hot": 1,
+      "lang": "multi",
+      "free": "freemium",
+      "added": "2024-01-18"
+    },
+    {
+      "id": "office-pdf-02",
+      "name": "iLovePDF",
+      "url": "https://ilovepdf.com/",
+      "desc": "在线PDF处理套装，批量转换与OCR加水印，中文界面且桌面版可用。",
+      "tags": [
+        "转换",
+        "OCR",
+        "批量",
+        "中文"
+      ],
+      "cat": "office",
+      "sub": "pdf",
+      "hot": 1,
+      "lang": "multi",
+      "free": "freemium",
+      "added": "2024-02-27"
+    },
+    {
+      "id": "office-pdf-03",
+      "name": "PDF24",
+      "url": "https://pdf24.org/",
+      "desc": "德国出品的免费PDF工具箱，无需上传本地处理，含合并压缩与编辑器。",
+      "tags": [
+        "免费",
+        "本地",
+        "工具箱",
+        "转换"
+      ],
+      "cat": "office",
+      "sub": "pdf",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-03-09"
+    },
+    {
+      "id": "office-pdf-04",
+      "name": "Stirling PDF",
+      "url": "https://stirlingpdf.com/",
+      "desc": "开源自托管PDF工具，功能极全且可私有部署，注重文件隐私安全。",
+      "tags": [
+        "开源",
+        "自托管",
+        "隐私",
+        "工具箱"
+      ],
+      "cat": "office",
+      "sub": "pdf",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-04-21"
+    },
+    {
+      "id": "office-pdf-05",
+      "name": "Adobe Acrobat",
+      "url": "https://adobe.com/",
+      "desc": "PDF标准制定者的在线工具，转换签署填表齐全，与桌面版生态打通。",
+      "tags": [
+        "PDF",
+        "签署",
+        "标准",
+        "转换"
+      ],
+      "cat": "office",
+      "sub": "pdf",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-05-13"
+    },
+    {
+      "id": "office-pdf-06",
+      "name": "PDF Candy",
+      "url": "https://pdfcandy.com/",
+      "desc": "在线PDF转换器集合，数十种格式互转与OCR，桌面版亦免费提供。",
+      "tags": [
+        "转换",
+        "OCR",
+        "免费",
+        "工具箱"
+      ],
+      "cat": "office",
+      "sub": "pdf",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-06-02"
+    },
+    {
+      "id": "office-pdf-07",
+      "name": "Sejda",
+      "url": "https://sejda.com/",
+      "desc": "网页与桌面PDF编辑器，编辑文本页眉页脚便捷，每日有限免费额度。",
+      "tags": [
+        "编辑",
+        "转换",
+        "桌面",
+        "免费"
+      ],
+      "cat": "office",
+      "sub": "pdf",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-07-08"
+    },
+    {
+      "id": "office-pdf-08",
+      "name": "PDFescape",
+      "url": "https://pdfescape.com/",
+      "desc": "在线PDF填写与标注工具，可表单填字加注释，基础功能免费。",
+      "tags": [
+        "填写",
+        "标注",
+        "表单",
+        "免费"
+      ],
+      "cat": "office",
+      "sub": "pdf",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-08-19"
+    },
+    {
+      "id": "office-pdf-09",
+      "name": "CleverPDF",
+      "url": "https://cleverpdf.com/",
+      "desc": "PDF与Office互转工具，附带图片文档处理，桌面端一次买断可用。",
+      "tags": [
+        "转换",
+        "Office",
+        "桌面",
+        "买断"
+      ],
+      "cat": "office",
+      "sub": "pdf",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-09-25"
+    },
+    {
+      "id": "office-pdf-10",
+      "name": "福昕PDF",
+      "url": "https://foxitsoftware.cn/",
+      "desc": "国产PDF阅读编辑软件，体积小启动快，版式编辑与批注功能成熟。",
+      "tags": [
+        "国产",
+        "编辑",
+        "阅读",
+        "免费"
+      ],
+      "cat": "office",
+      "sub": "pdf",
+      "hot": 2,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-10-30"
+    },
+    {
+      "id": "office-pdf-11",
+      "name": "PDFelement",
+      "url": "https://wondershare.com/",
+      "desc": "万兴出品PDF编辑器，AI识文与表单识别强，界面接近Office易上手。",
+      "tags": [
+        "编辑",
+        "AI",
+        "表单",
+        "国产"
+      ],
+      "cat": "office",
+      "sub": "pdf",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-11-14"
+    },
+    {
+      "id": "office-pdf-12",
+      "name": "PDF Filler",
+      "url": "https://pdffiller.com/",
+      "desc": "在线PDF填表与签署平台，海量表单模板，适合合同与文书电子化。",
+      "tags": [
+        "填表",
+        "签署",
+        "模板",
+        "合同"
+      ],
+      "cat": "office",
+      "sub": "pdf",
+      "hot": 0,
+      "lang": "en",
+      "free": "paid",
+      "added": "2025-01-22"
+    },
+    {
+      "id": "office-pdf-13",
+      "name": "Soda PDF",
+      "url": "https://sodapdf.com/",
+      "desc": "云端PDF编辑器，阅读转换签署一体，桌面与在线版可协同使用。",
+      "tags": [
+        "编辑",
+        "转换",
+        "云",
+        "签署"
+      ],
+      "cat": "office",
+      "sub": "pdf",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-02-11"
+    },
+    {
+      "id": "office-pdf-14",
+      "name": "PDFsam",
+      "url": "https://pdfsam.org/",
+      "desc": "开源PDF拆分合并工具，按页抽取旋转高效，增强版含更多排版功能。",
+      "tags": [
+        "拆分",
+        "合并",
+        "开源",
+        "免费"
+      ],
+      "cat": "office",
+      "sub": "pdf",
+      "hot": 2,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-03-28"
+    },
+    {
+      "id": "office-pdf-15",
+      "name": "NAPS2",
+      "url": "https://naps2.com/",
+      "desc": "免费扫描转PDF工具，支持OCR与批量扫描，本地运行隐私友好。",
+      "tags": [
+        "扫描",
+        "OCR",
+        "免费",
+        "本地"
+      ],
+      "cat": "office",
+      "sub": "pdf",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-04-09"
+    },
+    {
+      "id": "office-pdf-16",
+      "name": "PDF.io",
+      "url": "https://pdf.io/",
+      "desc": "轻量在线PDF转换网站，常用格式互转与水印压缩，无需注册即用。",
+      "tags": [
+        "转换",
+        "压缩",
+        "水印",
+        "免费"
+      ],
+      "cat": "office",
+      "sub": "pdf",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-05-15"
+    },
+    {
+      "id": "office-pdf-17",
+      "name": "Online2PDF",
+      "url": "https://online2pdf.com/",
+      "desc": "老牌在线PDF转换器，支持批量与多种源格式，处理选项细致。",
+      "tags": [
+        "转换",
+        "批量",
+        "免费",
+        "老牌"
+      ],
+      "cat": "office",
+      "sub": "pdf",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-03"
+    },
+    {
+      "id": "office-pdf-18",
+      "name": "PDF2Go",
+      "url": "https://pdf2go.com/",
+      "desc": "在线PDF编辑修复工具，可旋转压缩OCR，附带图片格式转换。",
+      "tags": [
+        "编辑",
+        "OCR",
+        "压缩",
+        "修复"
+      ],
+      "cat": "office",
+      "sub": "pdf",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-07-18"
+    },
+    {
+      "id": "office-pdf-19",
+      "name": "PDF365",
+      "url": "https://pdf365.cn/",
+      "desc": "福昕旗下在线PDF工具，转换编辑签署齐全，按次或会员付费灵活。",
+      "tags": [
+        "转换",
+        "编辑",
+        "签署",
+        "国产"
+      ],
+      "cat": "office",
+      "sub": "pdf",
+      "hot": 2,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-08-22"
+    },
+    {
+      "id": "office-pdf-20",
+      "name": "PDF Room",
+      "url": "https://pdfroom.com/",
+      "desc": "在线PDF查阅与转换平台，可预览合并分割，界面简洁无广告干扰。",
+      "tags": [
+        "查阅",
+        "转换",
+        "合并",
+        "免费"
+      ],
+      "cat": "office",
+      "sub": "pdf",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2026-01-12"
+    },
+    {
+      "id": "office-note-01",
+      "name": "Obsidian",
+      "url": "https://obsidian.md/",
+      "desc": "本地优先双链笔记，Markdown纯文本存储，插件生态强大适合知识管理。",
+      "tags": [
+        "笔记",
+        "双链",
+        "本地",
+        "插件"
+      ],
+      "cat": "office",
+      "sub": "note",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-02-03"
+    },
+    {
+      "id": "office-note-02",
+      "name": "印象笔记",
+      "url": "https://yinxiang.com/",
+      "desc": "国内成熟的笔记应用，网页剪藏与多端同步成熟，资料收集整理老牌选择。",
+      "tags": [
+        "笔记",
+        "剪藏",
+        "同步",
+        "国产"
+      ],
+      "cat": "office",
+      "sub": "note",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-03-16"
+    },
+    {
+      "id": "office-note-03",
+      "name": "滴答清单",
+      "url": "https://dida365.com/",
+      "desc": "国产待办与日程工具，番茄专注日历视图齐全，GTD与时间管理好用。",
+      "tags": [
+        "待办",
+        "日历",
+        "番茄",
+        "国产"
+      ],
+      "cat": "office",
+      "sub": "note",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-01-25"
+    },
+    {
+      "id": "office-note-04",
+      "name": "Todoist",
+      "url": "https://todoist.com/",
+      "desc": "全球流行的任务管理工具，自然语言建任务与项目看板，跨平台同步稳。",
+      "tags": [
+        "待办",
+        "GTD",
+        "跨平台",
+        "协作"
+      ],
+      "cat": "office",
+      "sub": "note",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-04-07"
+    },
+    {
+      "id": "office-note-05",
+      "name": "Flomo",
+      "url": "https://flomoapp.com/",
+      "desc": "碎片化卡片笔记，微信随手记并自动标签，适合日常灵感轻量沉淀。",
+      "tags": [
+        "卡片",
+        "轻量",
+        "灵感",
+        "国产"
+      ],
+      "cat": "office",
+      "sub": "note",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-05-19"
+    },
+    {
+      "id": "office-note-06",
+      "name": "Trello",
+      "url": "https://trello.com/",
+      "desc": "看板式任务协作工具，拖拽卡片管理项目，插件丰富团队入门友好。",
+      "tags": [
+        "看板",
+        "协作",
+        "项目",
+        "免费"
+      ],
+      "cat": "office",
+      "sub": "note",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-06-28"
+    },
+    {
+      "id": "office-note-07",
+      "name": "有道云笔记",
+      "url": "https://youdao.com/",
+      "desc": "网易出品笔记应用，文档表格扫描一体，多端同步与微信备份方便。",
+      "tags": [
+        "笔记",
+        "同步",
+        "扫描",
+        "国产"
+      ],
+      "cat": "office",
+      "sub": "note",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-07-30"
+    },
+    {
+      "id": "office-note-08",
+      "name": "为知笔记",
+      "url": "https://wiz.cn/",
+      "desc": "国产老牌笔记，Markdown与群晖私有部署支持，团队知识库场景实用。",
+      "tags": [
+        "笔记",
+        "Markdown",
+        "私有",
+        "国产"
+      ],
+      "cat": "office",
+      "sub": "note",
+      "hot": 2,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-08-11"
+    },
+    {
+      "id": "office-note-09",
+      "name": "inkdrop",
+      "url": "https://inkdrop.app/",
+      "desc": "Markdown双向链笔记，代码块高亮佳，适合程序员本地优先管理。",
+      "tags": [
+        "Markdown",
+        "双链",
+        "代码",
+        "付费"
+      ],
+      "cat": "office",
+      "sub": "note",
+      "hot": 0,
+      "lang": "en",
+      "free": "paid",
+      "added": "2024-09-05"
+    },
+    {
+      "id": "office-note-10",
+      "name": "Joplin",
+      "url": "https://joplinapp.org/",
+      "desc": "开源端到端加密笔记，支持多云同步与Markdown，隐私控首选。",
+      "tags": [
+        "开源",
+        "加密",
+        "Markdown",
+        "免费"
+      ],
+      "cat": "office",
+      "sub": "note",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-10-17"
+    },
+    {
+      "id": "office-note-11",
+      "name": "Microsoft To Do",
+      "url": "https://microsoft.com/",
+      "desc": "微软待办清单，与Outlook任务打通，智能清单与每日规划清爽。",
+      "tags": [
+        "待办",
+        "微软",
+        "同步",
+        "免费"
+      ],
+      "cat": "office",
+      "sub": "note",
+      "hot": 0,
+      "lang": "multi",
+      "free": "free",
+      "added": "2024-11-23"
+    },
+    {
+      "id": "office-note-12",
+      "name": "Worktile",
+      "url": "https://worktile.com/",
+      "desc": "国产项目协作工具，任务看板与文档工时一体，研发团队常用。",
+      "tags": [
+        "项目",
+        "协作",
+        "看板",
+        "国产"
+      ],
+      "cat": "office",
+      "sub": "note",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-01-08"
+    },
+    {
+      "id": "office-note-13",
+      "name": "Bear",
+      "url": "https://bear.app/",
+      "desc": "苹果生态美观笔记，标签式组织与写作模式，适合文艺写作记录。",
+      "tags": [
+        "笔记",
+        "苹果",
+        "标签",
+        "写作"
+      ],
+      "cat": "office",
+      "sub": "note",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-02-14"
+    },
+    {
+      "id": "office-note-14",
+      "name": "ClickUp",
+      "url": "https://clickup.com/",
+      "desc": "全能项目管理空间，任务文档目标时序全包，替代多工具的一站式。",
+      "tags": [
+        "项目",
+        "文档",
+        "目标",
+        "协作"
+      ],
+      "cat": "office",
+      "sub": "note",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-03-20"
+    },
+    {
+      "id": "office-note-15",
+      "name": "Roam Research",
+      "url": "https://roamresearch.com/",
+      "desc": "双向链接笔记先驱，块引用与每日笔记，适合深度知识网络构建。",
+      "tags": [
+        "双链",
+        "知识",
+        "块引用",
+        "付费"
+      ],
+      "cat": "office",
+      "sub": "note",
+      "hot": 0,
+      "lang": "en",
+      "free": "paid",
+      "added": "2025-04-25"
+    },
+    {
+      "id": "office-note-16",
+      "name": "Logseq",
+      "url": "https://logseq.com/",
+      "desc": "开源大纲双链笔记，本地优先可自托管，白板与查询强大。",
+      "tags": [
+        "开源",
+        "双链",
+        "大纲",
+        "本地"
+      ],
+      "cat": "office",
+      "sub": "note",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-05-30"
+    },
+    {
+      "id": "office-note-17",
+      "name": "Effie",
+      "url": "https://effie.pro/",
+      "desc": "国产写作脑图合一工具，沉浸写作兼大纲导图，适合长文创作。",
+      "tags": [
+        "写作",
+        "脑图",
+        "沉浸",
+        "国产"
+      ],
+      "cat": "office",
+      "sub": "note",
+      "hot": 2,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-06-12"
+    },
+    {
+      "id": "office-note-18",
+      "name": "Lattics",
+      "url": "https://lattics.com/",
+      "desc": "国产结构化知识库，双向链接与图谱视图，写作发布一体适合作者。",
+      "tags": [
+        "知识库",
+        "双链",
+        "写作",
+        "国产"
+      ],
+      "cat": "office",
+      "sub": "note",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-07-03"
+    },
+    {
+      "id": "office-note-19",
+      "name": "我来",
+      "url": "https://wolai.com/",
+      "desc": "国产Notion式协作空间，块编辑器与多维表格，中文体验本土化好。",
+      "tags": [
+        "笔记",
+        "数据库",
+        "协作",
+        "国产"
+      ],
+      "cat": "office",
+      "sub": "note",
+      "hot": 2,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-08-15"
+    },
+    {
+      "id": "office-note-20",
+      "name": "OneNote",
+      "url": "https://onenote.com/",
+      "desc": "微软自由画布笔记，分区页面无限延展，与Office生态无缝衔接。",
+      "tags": [
+        "笔记",
+        "微软",
+        "画布",
+        "免费"
+      ],
+      "cat": "office",
+      "sub": "note",
+      "hot": 0,
+      "lang": "multi",
+      "free": "free",
+      "added": "2025-09-01"
+    },
+    {
+      "id": "office-cloud-01",
+      "name": "阿里云盘",
+      "url": "https://aliyundrive.com/",
+      "desc": "阿里网盘，上传下载不限速且空间大，适合个人备份与影音资源存储。",
+      "tags": [
+        "网盘",
+        "不限速",
+        "备份",
+        "国产"
+      ],
+      "cat": "office",
+      "sub": "cloud",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-01-15"
+    },
+    {
+      "id": "office-cloud-02",
+      "name": "百度网盘",
+      "url": "https://baidu.com/",
+      "desc": "国内用户量最大的网盘，分享生态成熟，会员提速适合长期资源归档。",
+      "tags": [
+        "网盘",
+        "分享",
+        "备份",
+        "国产"
+      ],
+      "cat": "office",
+      "sub": "cloud",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-02-09"
+    },
+    {
+      "id": "office-cloud-03",
+      "name": "蓝奏云",
+      "url": "https://lanzou.com/",
+      "desc": "小文件分享网盘，无需登录直链下载，软件资源分发圈层常用。",
+      "tags": [
+        "网盘",
+        "直链",
+        "分享",
+        "免费"
+      ],
+      "cat": "office",
+      "sub": "cloud",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-03-22"
+    },
+    {
+      "id": "office-cloud-04",
+      "name": "WeTransfer",
+      "url": "https://wetransfer.com/",
+      "desc": "海外大文件传输服务，邮件发送免注册，界面优雅适合临时传件。",
+      "tags": [
+        "传输",
+        "大文件",
+        "免费",
+        "海外"
+      ],
+      "cat": "office",
+      "sub": "cloud",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-04-30"
+    },
+    {
+      "id": "office-cloud-05",
+      "name": "文叔叔",
+      "url": "https://wenshushu.cn/",
+      "desc": "国产临时大文件传输，无需登录免客户端，链接有效期灵活好用。",
+      "tags": [
+        "传输",
+        "大文件",
+        "免登录",
+        "国产"
+      ],
+      "cat": "office",
+      "sub": "cloud",
+      "hot": 2,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-05-11"
+    },
+    {
+      "id": "office-cloud-06",
+      "name": "SM.MS",
+      "url": "https://sm.ms/",
+      "desc": "老牌免费图床，API与Markdown直链友好，写作配图托管常用。",
+      "tags": [
+        "图床",
+        "图片",
+        "API",
+        "免费"
+      ],
+      "cat": "office",
+      "sub": "cloud",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-06-18"
+    },
+    {
+      "id": "office-cloud-07",
+      "name": "坚果云",
+      "url": "https://jianguoyun.com/",
+      "desc": "国产同步网盘，多文件夹增量同步稳定，文档协作与团队盘实用。",
+      "tags": [
+        "同步",
+        "网盘",
+        "协作",
+        "国产"
+      ],
+      "cat": "office",
+      "sub": "cloud",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-07-25"
+    },
+    {
+      "id": "office-cloud-08",
+      "name": "123网盘",
+      "url": "https://123pan.com/",
+      "desc": "新兴网盘，免费空间大且下载体验好，适合个人资源长期存放。",
+      "tags": [
+        "网盘",
+        "免费",
+        "存储",
+        "国产"
+      ],
+      "cat": "office",
+      "sub": "cloud",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-08-30"
+    },
+    {
+      "id": "office-cloud-09",
+      "name": "奶牛快传",
+      "url": "https://cowtransfer.com/",
+      "desc": "国产临时传输工具，大文件免登录直传，取件码分享简单清爽。",
+      "tags": [
+        "传输",
+        "大文件",
+        "免登录",
+        "国产"
+      ],
+      "cat": "office",
+      "sub": "cloud",
+      "hot": 2,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-09-12"
+    },
+    {
+      "id": "office-cloud-10",
+      "name": "腾讯微云",
+      "url": "https://weiyun.com/",
+      "desc": "腾讯个人云盘，微信QQ互通，手机电脑文件互传与备份方便。",
+      "tags": [
+        "网盘",
+        "腾讯",
+        "备份",
+        "同步"
+      ],
+      "cat": "office",
+      "sub": "cloud",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-10-21"
+    },
+    {
+      "id": "office-cloud-11",
+      "name": "MEGA",
+      "url": "https://mega.nz/",
+      "desc": "新西兰加密云盘，免费额度高且端到端加密，隐私取向用户常用。",
+      "tags": [
+        "加密",
+        "网盘",
+        "大容量",
+        "海外"
+      ],
+      "cat": "office",
+      "sub": "cloud",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-11-29"
+    },
+    {
+      "id": "office-cloud-12",
+      "name": "OneDrive",
+      "url": "https://onedrive.com/",
+      "desc": "微软云存储，与Office深度集成，系统级同步适合办公文档流转。",
+      "tags": [
+        "云盘",
+        "微软",
+        "同步",
+        "办公"
+      ],
+      "cat": "office",
+      "sub": "cloud",
+      "hot": 0,
+      "lang": "multi",
+      "free": "freemium",
+      "added": "2025-01-17"
+    },
+    {
+      "id": "office-cloud-13",
+      "name": "pCloud",
+      "url": "https://pcloud.com/",
+      "desc": "保加利亚云盘，终身买断方案与加密区可选，媒体文件管理体验好。",
+      "tags": [
+        "云盘",
+        "买断",
+        "加密",
+        "海外"
+      ],
+      "cat": "office",
+      "sub": "cloud",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-02-25"
+    },
+    {
+      "id": "office-cloud-14",
+      "name": "天翼云盘",
+      "url": "https://189.cn/",
+      "desc": "中国电信网盘，家庭相册与手机号绑定，宽带用户附赠空间。",
+      "tags": [
+        "网盘",
+        "电信",
+        "家庭",
+        "备份"
+      ],
+      "cat": "office",
+      "sub": "cloud",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-03-31"
+    },
+    {
+      "id": "office-cloud-15",
+      "name": "和彩云",
+      "url": "https://139.com/",
+      "desc": "中国移动网盘，手机号直登与微信小程序，手机备份使用方便。",
+      "tags": [
+        "网盘",
+        "移动",
+        "备份",
+        "手机"
+      ],
+      "cat": "office",
+      "sub": "cloud",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-04-14"
+    },
+    {
+      "id": "office-cloud-16",
+      "name": "115网盘",
+      "url": "https://115.com/",
+      "desc": "老牌付费网盘，大容量与离线下载强，影视资源圈层长期用户多。",
+      "tags": [
+        "网盘",
+        "大容量",
+        "离线",
+        "付费"
+      ],
+      "cat": "office",
+      "sub": "cloud",
+      "hot": 2,
+      "lang": "zh",
+      "free": "paid",
+      "added": "2025-05-22"
+    },
+    {
+      "id": "office-cloud-17",
+      "name": "城通网盘",
+      "url": "https://ctfile.com/",
+      "desc": "国产资源分发网盘，外链分享与积分机制，小站长资源托管常用。",
+      "tags": [
+        "网盘",
+        "外链",
+        "分享",
+        "资源"
+      ],
+      "cat": "office",
+      "sub": "cloud",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-06-09"
+    },
+    {
+      "id": "office-cloud-18",
+      "name": "Filen",
+      "url": "https://filen.io/",
+      "desc": "端到端加密云盘，零知识架构与免费额度，注重隐私的欧洲服务。",
+      "tags": [
+        "加密",
+        "云盘",
+        "隐私",
+        "免费"
+      ],
+      "cat": "office",
+      "sub": "cloud",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-07-28"
+    },
+    {
+      "id": "office-cloud-19",
+      "name": "Internxt",
+      "url": "https://internxt.com/",
+      "desc": "开源零知识云盘，强调隐私合规，含 Drive Mail VPN 套件。",
+      "tags": [
+        "加密",
+        "开源",
+        "隐私",
+        "云盘"
+      ],
+      "cat": "office",
+      "sub": "cloud",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-08-19"
+    },
+    {
+      "id": "office-cloud-20",
+      "name": "TeraBox",
+      "url": "https://terabox.com/",
+      "desc": "大容量免费网盘，手机自动备份与在线播放，海外版体验顺畅。",
+      "tags": [
+        "网盘",
+        "大容量",
+        "备份",
+        "免费"
+      ],
+      "cat": "office",
+      "sub": "cloud",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2026-02-03"
+    },
+    {
+      "id": "office-template-01",
+      "name": "iSlide",
+      "url": "https://islide.biz/",
+      "desc": "PPT效率插件，百万级模板图示图标一键插入，做商务演示省时。",
+      "tags": [
+        "PPT",
+        "插件",
+        "模板",
+        "国产"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-01-20"
+    },
+    {
+      "id": "office-template-02",
+      "name": "优品PPT",
+      "url": "https://ypppt.com/",
+      "desc": "免费PPT模板下载站，分类清晰无套路，学生汇报与职场皆可用。",
+      "tags": [
+        "PPT",
+        "模板",
+        "免费",
+        "国产"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-02-14"
+    },
+    {
+      "id": "office-template-03",
+      "name": "Canva",
+      "url": "https://canva.com/",
+      "desc": "在线设计平台，PPT海报简历模板海量，拖拽出图适合零基础用户。",
+      "tags": [
+        "设计",
+        "模板",
+        "在线",
+        "PPT"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 1,
+      "lang": "multi",
+      "free": "freemium",
+      "added": "2024-03-27"
+    },
+    {
+      "id": "office-template-04",
+      "name": "OfficePLUS",
+      "url": "https://officeplus.net/",
+      "desc": "微软官方模板站，PPT Word Excel模板正版免费，质量稳定放心用。",
+      "tags": [
+        "微软",
+        "模板",
+        "免费",
+        "正版"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-04-16"
+    },
+    {
+      "id": "office-template-05",
+      "name": "JustFreeSlide",
+      "url": "https://justfreeslide.com/",
+      "desc": "免费Google Slides与PPT模板站，商务学术风格齐全，无需注册下载。",
+      "tags": [
+        "PPT",
+        "模板",
+        "免费",
+        "Slides"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-05-29"
+    },
+    {
+      "id": "office-template-06",
+      "name": "超级简历",
+      "url": "https://wondercv.com/",
+      "desc": "国产简历制作工具，ATS友好排版与范例，一键导出PDF投递方便。",
+      "tags": [
+        "简历",
+        "模板",
+        "PDF",
+        "国产"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 2,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-06-11"
+    },
+    {
+      "id": "office-template-07",
+      "name": "五百丁",
+      "url": "https://500d.me/",
+      "desc": "老牌在线简历站，海量行业模板与智能填写，求职投递场景成熟。",
+      "tags": [
+        "简历",
+        "模板",
+        "求职",
+        "国产"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 2,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-07-09"
+    },
+    {
+      "id": "office-template-08",
+      "name": "ResumeGenius",
+      "url": "https://resumegenius.com/",
+      "desc": "海外简历生成器，逐步引导填写并自动排版，英文简历制作高效。",
+      "tags": [
+        "简历",
+        "英文",
+        "生成",
+        "模板"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-08-23"
+    },
+    {
+      "id": "office-template-09",
+      "name": "稿定设计",
+      "url": "https://gaoding.com/",
+      "desc": "国产在线设计工具，PPT海报简历模板丰富，电商与新媒體常用。",
+      "tags": [
+        "设计",
+        "模板",
+        "PPT",
+        "电商"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-09-30"
+    },
+    {
+      "id": "office-template-10",
+      "name": "千图网",
+      "url": "https://58pic.com/",
+      "desc": "国内设计素材库，PPT模板插画背景海量，会员可商用下载。",
+      "tags": [
+        "素材",
+        "模板",
+        "PPT",
+        "国产"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-10-15"
+    },
+    {
+      "id": "office-template-11",
+      "name": "包图网",
+      "url": "https://ibaotu.com/",
+      "desc": "正版设计素材平台，PPT海报视频模板齐全，企业商用授权清晰。",
+      "tags": [
+        "素材",
+        "模板",
+        "商用",
+        "国产"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-11-08"
+    },
+    {
+      "id": "office-template-12",
+      "name": "SlidesGo",
+      "url": "https://slidesgo.com/",
+      "desc": "免费Google Slides与PPT模板，配色图标成套，学术汇报颜值高。",
+      "tags": [
+        "PPT",
+        "Slides",
+        "模板",
+        "免费"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-01-26"
+    },
+    {
+      "id": "office-template-13",
+      "name": "PresentationGO",
+      "url": "https://presentationgo.com/",
+      "desc": "免费PPT图表与图示模板库，流程图矩阵图直接套用省去排版。",
+      "tags": [
+        "PPT",
+        "图示",
+        "图表",
+        "免费"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-02-19"
+    },
+    {
+      "id": "office-template-14",
+      "name": "Figma",
+      "url": "https://figma.com/",
+      "desc": "专业UI设计协作工具，社区海量UI与PPT模板可复用，团队设计首选。",
+      "tags": [
+        "设计",
+        "协作",
+        "模板",
+        "UI"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-03-12"
+    },
+    {
+      "id": "office-template-15",
+      "name": "花瓣网",
+      "url": "https://huaban.com/",
+      "desc": "国内设计灵感采集站，PPT配色版式素材丰富，找风格参考很方便。",
+      "tags": [
+        "灵感",
+        "素材",
+        "设计",
+        "国产"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-04-28"
+    },
+    {
+      "id": "office-template-16",
+      "name": "千库网",
+      "url": "https://588ku.com/",
+      "desc": "国产设计素材站，背景字体PPT模板齐全，新手做图素材补给站。",
+      "tags": [
+        "素材",
+        "模板",
+        "PPT",
+        "国产"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-05-17"
+    },
+    {
+      "id": "office-template-17",
+      "name": "Freepik",
+      "url": "https://freepik.com/",
+      "desc": "全球设计素材库，PPT插画PSD模板海量，免费与会员双轨供给。",
+      "tags": [
+        "素材",
+        "模板",
+        "插画",
+        "免费"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-06-25"
+    },
+    {
+      "id": "office-template-18",
+      "name": "Standard Resume",
+      "url": "https://standardresume.co/",
+      "desc": "极简英文简历制作器，实时预览排版优雅，技术岗位投递友好。",
+      "tags": [
+        "简历",
+        "英文",
+        "极简",
+        "模板"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-07-14"
+    },
+    {
+      "id": "office-template-19",
+      "name": "Resume.io",
+      "url": "https://resume.io/",
+      "desc": "在线简历 builder，多套专业模板与求职信，分步填写自动成稿。",
+      "tags": [
+        "简历",
+        "英文",
+        "生成",
+        "模板"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-08-08"
+    },
+    {
+      "id": "office-template-20",
+      "name": "SlidesCarnival",
+      "url": "https://slidescarnival.com/",
+      "desc": "免费Google Slides主题模板，配色字体成套，教师演讲常用。",
+      "tags": [
+        "PPT",
+        "Slides",
+        "主题",
+        "免费"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2026-03-09"
+    },
+    {
+      "id": "office-doc-x01",
+      "name": "HackMD",
+      "url": "https://hackmd.io/",
+      "desc": "支持实时协作的 Markdown 文档工具，团队可共同编辑笔记与文档",
+      "tags": [
+        "Markdown",
+        "协作",
+        "文档"
+      ],
+      "cat": "office",
+      "sub": "doc",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "office-doc-x02",
+      "name": "EtherCalc",
+      "url": "https://ethercalc.org/",
+      "desc": "开源在线协作表格，多人实时编辑电子表格免登录即可使用",
+      "tags": [
+        "在线表格",
+        "协作",
+        "开源"
+      ],
+      "cat": "office",
+      "sub": "doc",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "office-doc-x03",
+      "name": "tldraw",
+      "url": "https://www.tldraw.com/",
+      "desc": "免费在线白板工具，手绘流程图与头脑风暴画布即开即用",
+      "tags": [
+        "白板",
+        "流程图",
+        "画布"
+      ],
+      "cat": "office",
+      "sub": "doc",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "office-doc-x04",
+      "name": "Read the Docs",
+      "url": "https://readthedocs.org/",
+      "desc": "开源项目文档托管站，自动生成 API 与技术文档站点",
+      "tags": [
+        "文档站",
+        "开源",
+        "API"
+      ],
+      "cat": "office",
+      "sub": "doc",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "office-doc-x05",
+      "name": "CryptPad",
+      "url": "https://cryptpad.fr/",
+      "desc": "端到端加密协作套件，含文档表格白板可匿名多人协作",
+      "tags": [
+        "协作",
+        "白板",
+        "加密"
+      ],
+      "cat": "office",
+      "sub": "doc",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "office-note-x01",
+      "name": "RemNote",
+      "url": "https://www.remnote.com/",
+      "desc": "双链笔记与记忆卡片工具，知识管理与复习一体化免费可用",
+      "tags": [
+        "双链笔记",
+        "卡片",
+        "知识管理"
+      ],
+      "cat": "office",
+      "sub": "note",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "office-note-x02",
+      "name": "Wekan",
+      "url": "https://wekan.io/",
+      "desc": "开源看板任务管理工具，类 Trello 可自由部署与协作",
+      "tags": [
+        "看板",
+        "任务",
+        "开源"
+      ],
+      "cat": "office",
+      "sub": "note",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "office-note-x03",
+      "name": "TickTick",
+      "url": "https://ticktick.com/",
+      "desc": "跨平台待办与清单工具，含日历提醒与习惯打卡功能",
+      "tags": [
+        "待办",
+        "清单",
+        "日历"
+      ],
+      "cat": "office",
+      "sub": "note",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "office-note-x04",
+      "name": "Day One",
+      "url": "https://dayoneapp.com/",
+      "desc": "精美的日记记录应用，支持照片定位与多端同步写作",
+      "tags": [
+        "日记",
+        "写作",
+        "同步"
+      ],
+      "cat": "office",
+      "sub": "note",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "office-template-x01",
+      "name": "SlidesMania",
+      "url": "https://slidesmania.com/",
+      "desc": "免费 PPT 与 Google Slides 模板库，教育风格主题丰富可下载",
+      "tags": [
+        "PPT模板",
+        "幻灯片",
+        "教育"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "office-template-x02",
+      "name": "FPPT",
+      "url": "https://www.fppt.com/",
+      "desc": "免费 PowerPoint 模板下载站，按主题分类提供演示文稿版式",
+      "tags": [
+        "PPT模板",
+        "PowerPoint",
+        "演示"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "office-template-x03",
+      "name": "Showeet",
+      "url": "https://showeet.com/",
+      "desc": "免费 PPT 与 Excel 模板资源站，含图表与时间线版式",
+      "tags": [
+        "PPT模板",
+        "Excel模板",
+        "版式"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "office-template-x04",
+      "name": "SlideHunter",
+      "url": "https://slidehunter.com/",
+      "desc": "免费 PowerPoint 模板与背景库，商务教育模板可直接套用",
+      "tags": [
+        "PPT模板",
+        "背景",
+        "商务"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "office-template-x05",
+      "name": "Novorésumé",
+      "url": "https://novoresume.com/",
+      "desc": "免费简历模板制作器，提供多种排版风格可导出 PDF 简历",
+      "tags": [
+        "简历模板",
+        "CV",
+        "PDF"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "office-template-x06",
+      "name": "VisualCV",
+      "url": "https://www.visualcv.com/",
+      "desc": "在线简历模板与作品集工具，多套设计可免费创建简历",
+      "tags": [
+        "简历模板",
+        "作品集",
+        "CV"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "office-template-x07",
+      "name": "Vertex42",
+      "url": "https://www.vertex42.com/",
+      "desc": "免费 Excel 与 Word 模板库，含预算日历日程表可下载",
+      "tags": [
+        "Excel模板",
+        "Word模板",
+        "日程"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "office-template-x08",
+      "name": "Spreadsheet123",
+      "url": "https://www.spreadsheet123.com/",
+      "desc": "免费 Excel 电子表格模板站，含财务预算与记账表格",
+      "tags": [
+        "Excel模板",
+        "财务",
+        "表格"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "office-template-x09",
+      "name": "LawDepot",
+      "url": "https://www.lawdepot.com/",
+      "desc": "免费法律文书模板站，提供合同租赁协议等可在线生成",
+      "tags": [
+        "合同模板",
+        "法律文书",
+        "范文"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "office-template-x10",
+      "name": "Rocket Lawyer",
+      "url": "https://www.rocketlawyer.com/",
+      "desc": "在线法律文档模板平台，含合同与公文范本可定制",
+      "tags": [
+        "合同模板",
+        "法律文书",
+        "公文"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "office-template-x11",
+      "name": "CalendarLabs",
+      "url": "https://www.calendarlabs.com/",
+      "desc": "免费日历与计划表模板库，含 printable 日程与年历可下载",
+      "tags": [
+        "日历模板",
+        "计划表",
+        "日程"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "office-template-x12",
+      "name": "Venngage",
+      "url": "https://venngage.com/",
+      "desc": "在线信息图表制作器，提供图表报告模板可免费设计",
+      "tags": [
+        "信息图表",
+        "图表",
+        "报告"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "office-template-x13",
+      "name": "Piktochart",
+      "url": "https://piktochart.com/",
+      "desc": "信息图表与简报模板工具，拖拽生成可商用可视化图表",
+      "tags": [
+        "信息图表",
+        "简报",
+        "可视化"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "office-template-x14",
+      "name": "Infogram",
+      "url": "https://infogram.com/",
+      "desc": "数据可视化信息图表平台，含图表地图模板可嵌入分享",
+      "tags": [
+        "信息图表",
+        "数据可视化",
+        "图表"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "office-template-x15",
+      "name": "Reveal.js",
+      "url": "https://revealjs.com/",
+      "desc": "开源网页幻灯片框架官网，用 HTML 制作自适应演示文稿",
+      "tags": [
+        "开源框架",
+        "幻灯片",
+        "HTML"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "office-template-x16",
+      "name": "Marp",
+      "url": "https://marp.app/",
+      "desc": "基于 Markdown 的开源幻灯片框架，一键生成 PPT 风格页面",
+      "tags": [
+        "开源框架",
+        "Markdown",
+        "幻灯片"
+      ],
+      "cat": "office",
+      "sub": "template",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="资源方舟">
+  <!--
+    资源方舟站点标识：方形帆 + 船身 ——「方」与「舟」都在这一个图形里。
+    做法是纯色块拼装（没有细描边），16×16 的标签页尺寸下依然是个清楚的「帆船」，
+    不会糊成一团。渐变底保留品牌色，与顶栏 Logo 记的是同一套路径。
+  -->
+  <defs>
+    <linearGradient id="ark-fav-g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="52%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="64" height="64" rx="15" fill="url(#ark-fav-g)"/>
+
+  <!-- 与 core/icons.js 的 arkMark 同源：24 单位网格按 64/24 等比放大 -->
+  <g transform="scale(2.6666667)" fill="#ffffff">
+    <!-- 桅杆 -->
+    <rect x="6.2" y="3.2" width="2" height="12.6" rx="1"/>
+    <!-- 方形帆 -->
+    <rect x="8.6" y="4.4" width="10.4" height="10.4" rx="1.8"/>
+    <!-- 船身 -->
+    <path d="M2.6 15.8h18.8l-2.2 3.4a3.4 3.4 0 0 1-3 1.7H7.8a3.4 3.4 0 0 1-3-1.7Z"/>
+  </g>
+</svg>

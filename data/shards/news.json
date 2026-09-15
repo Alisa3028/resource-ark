@@ -1,0 +1,2471 @@
+{
+  "category": "news",
+  "resources": [
+    {
+      "id": "news-tech-01",
+      "name": "36氪",
+      "url": "https://36kr.com/",
+      "desc": "聚焦创业、科技与创投的一站式新媒体，每日更新新经济公司动态、融资快讯与深度报道。",
+      "tags": [
+        "科技",
+        "创业",
+        "创投",
+        "资讯"
+      ],
+      "cat": "news",
+      "sub": "tech",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-03-12"
+    },
+    {
+      "id": "news-tech-02",
+      "name": "少数派",
+      "url": "https://sspai.com/",
+      "desc": "面向效率与数字生活的科技媒体，提供软件推荐、教程与数字工作流，内容实用且排版精致。",
+      "tags": [
+        "科技",
+        "效率",
+        "数码",
+        "教程"
+      ],
+      "cat": "news",
+      "sub": "tech",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-05-20"
+    },
+    {
+      "id": "news-tech-03",
+      "name": "InfoQ",
+      "url": "https://infoq.cn/",
+      "desc": "面向开发者的技术资讯站，覆盖架构、AI 与云原生，提供高质量技术文章与 QCon 大会内容。",
+      "tags": [
+        "技术",
+        "架构",
+        "开发者",
+        "资讯"
+      ],
+      "cat": "news",
+      "sub": "tech",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-07-08"
+    },
+    {
+      "id": "news-tech-04",
+      "name": "Solidot",
+      "url": "https://solidot.org/",
+      "desc": "中文科技资讯社区，专注开源、安全与科学新闻，由网友投稿，信息密度高且无广告干扰。",
+      "tags": [
+        "科技",
+        "开源",
+        "社区",
+        "极客"
+      ],
+      "cat": "news",
+      "sub": "tech",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-02-15"
+    },
+    {
+      "id": "news-tech-05",
+      "name": "Hacker News",
+      "url": "https://news.ycombinator.com/",
+      "desc": "YC 旗下的技术新闻聚合与讨论平台，创业者与工程师分享前沿科技与创业话题，评论质量高。",
+      "tags": [
+        "科技",
+        "创业",
+        "聚合",
+        "讨论"
+      ],
+      "cat": "news",
+      "sub": "tech",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-01-30"
+    },
+    {
+      "id": "news-tech-06",
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/",
+      "desc": "全球知名科技创业媒体，首发大量硅谷初创公司与融资新闻，是创投圈风向标。",
+      "tags": [
+        "科技",
+        "创业",
+        "资讯",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "tech",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-04-18"
+    },
+    {
+      "id": "news-tech-07",
+      "name": "The Verge",
+      "url": "https://theverge.com/",
+      "desc": "覆盖科技、数码与文化的生活方式媒体，评测深入、视觉出众，兼顾产品与产业深度分析。",
+      "tags": [
+        "科技",
+        "数码",
+        "评测",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "tech",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-06-22"
+    },
+    {
+      "id": "news-tech-08",
+      "name": "掘金",
+      "url": "https://juejin.cn/",
+      "desc": "面向开发者的技术内容社区，汇聚前端、后端与 AI 实战文章，是国内活跃的技术分享平台。",
+      "tags": [
+        "技术",
+        "开发者",
+        "社区",
+        "教程"
+      ],
+      "cat": "news",
+      "sub": "tech",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-03-05"
+    },
+    {
+      "id": "news-tech-09",
+      "name": "爱范儿",
+      "url": "https://ifanr.com/",
+      "desc": "关注消费数码与移动互联网的科技媒体，产品评测与行业观察兼具，内容轻松易读。",
+      "tags": [
+        "科技",
+        "数码",
+        "评测",
+        "资讯"
+      ],
+      "cat": "news",
+      "sub": "tech",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-08-11"
+    },
+    {
+      "id": "news-tech-10",
+      "name": "极客公园",
+      "url": "https://geekpark.net/",
+      "desc": "聚焦科技创新与产品思维的媒体，常做头部公司与创业者深度对话，洞察产品趋势。",
+      "tags": [
+        "科技",
+        "创业",
+        "产品",
+        "访谈"
+      ],
+      "cat": "news",
+      "sub": "tech",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-09-02"
+    },
+    {
+      "id": "news-tech-11",
+      "name": "量子位",
+      "url": "https://qbitai.com/",
+      "desc": "专注人工智能与前沿科技的媒体，及时报道 AI 研究突破与产业落地，技术科普做得好。",
+      "tags": [
+        "人工智能",
+        "科技",
+        "资讯",
+        "研究"
+      ],
+      "cat": "news",
+      "sub": "tech",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-01-19"
+    },
+    {
+      "id": "news-tech-12",
+      "name": "机器之心",
+      "url": "https://jiqizhixin.com/",
+      "desc": "国内权威 AI 媒体与社区，覆盖机器学习论文、产业动态与开发者资源，专业度高。",
+      "tags": [
+        "人工智能",
+        "研究",
+        "社区",
+        "资讯"
+      ],
+      "cat": "news",
+      "sub": "tech",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-02-27"
+    },
+    {
+      "id": "news-tech-13",
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/",
+      "desc": "美国老牌科技媒体，以技术深度解析与政策评论见长，文章严谨且篇幅充足。",
+      "tags": [
+        "科技",
+        "深度",
+        "评论",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "tech",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-10-14"
+    },
+    {
+      "id": "news-tech-14",
+      "name": "Wired",
+      "url": "https://wired.com/",
+      "desc": "聚焦科技与文化的知名杂志，擅长用叙事手法讲述技术如何改变社会与商业世界。",
+      "tags": [
+        "科技",
+        "文化",
+        "深度",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "tech",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-11-03"
+    },
+    {
+      "id": "news-tech-15",
+      "name": "Engadget",
+      "url": "https://engadget.com/",
+      "desc": "全球消费电子与数码评测媒体，新品上手快、视频丰富，是 gadget 爱好者的首选。",
+      "tags": [
+        "数码",
+        "评测",
+        "科技",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "tech",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-03-21"
+    },
+    {
+      "id": "news-tech-16",
+      "name": "The Information",
+      "url": "https://theinformation.com/",
+      "desc": "付费科技商业新闻机构，以独家深度报道硅谷与科技巨头内部动向著称，信源可靠。",
+      "tags": [
+        "科技",
+        "商业",
+        "深度",
+        "付费"
+      ],
+      "cat": "news",
+      "sub": "tech",
+      "hot": 2,
+      "lang": "en",
+      "free": "paid",
+      "added": "2025-04-09"
+    },
+    {
+      "id": "news-tech-17",
+      "name": "MIT Technology Review",
+      "url": "https://technologyreview.com/",
+      "desc": "麻省理工旗下科技评论，跟踪突破性技术与其社会影响，内容权威且具前瞻性。",
+      "tags": [
+        "科技",
+        "研究",
+        "深度",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "tech",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-05-16"
+    },
+    {
+      "id": "news-tech-18",
+      "name": "品玩",
+      "url": "https://pingwest.com/",
+      "desc": "关注科技创新与中国互联网生态的媒体，报道兼具全球视野与本土视角。",
+      "tags": [
+        "科技",
+        "互联网",
+        "资讯",
+        "中文"
+      ],
+      "cat": "news",
+      "sub": "tech",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-30"
+    },
+    {
+      "id": "news-tech-19",
+      "name": "雷峰网",
+      "url": "https://leiphone.com/",
+      "desc": "聚焦人工智能、机器人与智能硬件的垂直媒体，覆盖产业落地与技术应用前沿。",
+      "tags": [
+        "人工智能",
+        "硬件",
+        "产业",
+        "资讯"
+      ],
+      "cat": "news",
+      "sub": "tech",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-07-25"
+    },
+    {
+      "id": "news-tech-20",
+      "name": "钛媒体",
+      "url": "https://tmtpost.com/",
+      "desc": "关注 TMT 与创投的财经科技媒体，提供公司深度、行业数据与品牌活动报道。",
+      "tags": [
+        "科技",
+        "创投",
+        "财经",
+        "资讯"
+      ],
+      "cat": "news",
+      "sub": "tech",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-08-12"
+    },
+    {
+      "id": "news-finance-01",
+      "name": "上海证券交易所",
+      "url": "https://sse.com.cn/",
+      "desc": "A股主板与科创板官方交易所，提供行情、上市公司公告与发行审核等权威一手数据。",
+      "tags": [
+        "交易所",
+        "行情",
+        "公告",
+        "官方"
+      ],
+      "cat": "news",
+      "sub": "finance",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-01-22"
+    },
+    {
+      "id": "news-finance-02",
+      "name": "深圳证券交易所",
+      "url": "https://szse.cn/",
+      "desc": "创业板与深市主板官方平台，实时发布交易数据、上市公司信息与监管披露文件。",
+      "tags": [
+        "交易所",
+        "行情",
+        "披露",
+        "官方"
+      ],
+      "cat": "news",
+      "sub": "finance",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-02-28"
+    },
+    {
+      "id": "news-finance-03",
+      "name": "东方财富",
+      "url": "https://eastmoney.com/",
+      "desc": "国内主流财经门户，集成行情、财经新闻与股吧社区，数据全面且免费易用。",
+      "tags": [
+        "财经",
+        "行情",
+        "数据",
+        "免费"
+      ],
+      "cat": "news",
+      "sub": "finance",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-03-15"
+    },
+    {
+      "id": "news-finance-04",
+      "name": "同花顺",
+      "url": "https://10jqka.com.cn/",
+      "desc": "老牌证券行情与交易软件厂商，提供实时行情、选股工具与财经资讯服务。",
+      "tags": [
+        "行情",
+        "炒股",
+        "数据",
+        "工具"
+      ],
+      "cat": "news",
+      "sub": "finance",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-04-09"
+    },
+    {
+      "id": "news-finance-05",
+      "name": "巨潮资讯",
+      "url": "https://cninfo.com.cn/",
+      "desc": "证监会指定信息披露网站，汇聚沪深北交易所公告与财报，是研报与披露的权威源。",
+      "tags": [
+        "披露",
+        "财报",
+        "公告",
+        "官方"
+      ],
+      "cat": "news",
+      "sub": "finance",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-05-26"
+    },
+    {
+      "id": "news-finance-06",
+      "name": "SEC EDGAR",
+      "url": "https://sec.gov/",
+      "desc": "美国证监会企业披露数据库，可检索上市公司年报、季报与招股书等原始 filing。",
+      "tags": [
+        "监管",
+        "披露",
+        "财报",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "finance",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-06-10"
+    },
+    {
+      "id": "news-finance-07",
+      "name": "新浪财经",
+      "url": "https://finance.sina.com.cn/",
+      "desc": "综合财经频道，覆盖全球股市、外汇与基金行情，并配有实时快讯与图文数据。",
+      "tags": [
+        "财经",
+        "行情",
+        "资讯",
+        "免费"
+      ],
+      "cat": "news",
+      "sub": "finance",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-07-19"
+    },
+    {
+      "id": "news-finance-08",
+      "name": "雪球",
+      "url": "https://xueqiu.com/",
+      "desc": "投资社交平台，用户分享个股研究与组合，兼具行情数据与深度投资者讨论社区。",
+      "tags": [
+        "投资",
+        "社区",
+        "行情",
+        "社交"
+      ],
+      "cat": "news",
+      "sub": "finance",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-08-30"
+    },
+    {
+      "id": "news-finance-09",
+      "name": "证券时报",
+      "url": "https://stcn.com/",
+      "desc": "全国性财经证券报纸官网，报道资本市场政策与公司新闻，信息权威且更新及时。",
+      "tags": [
+        "财经",
+        "证券",
+        "资讯",
+        "新闻"
+      ],
+      "cat": "news",
+      "sub": "finance",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-09-12"
+    },
+    {
+      "id": "news-finance-10",
+      "name": "和讯网",
+      "url": "https://hexun.com/",
+      "desc": "老牌财经资讯站，提供股市、基金与理财内容，并设有财经博客与数据频道。",
+      "tags": [
+        "财经",
+        "理财",
+        "资讯",
+        "数据"
+      ],
+      "cat": "news",
+      "sub": "finance",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-10-05"
+    },
+    {
+      "id": "news-finance-11",
+      "name": "财新网",
+      "url": "https://caixin.com/",
+      "desc": "以深度调查见长的财经媒体，覆盖宏观、金融与公司新闻，专业性与公信力高。",
+      "tags": [
+        "财经",
+        "深度",
+        "新闻",
+        "调查"
+      ],
+      "cat": "news",
+      "sub": "finance",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-11-21"
+    },
+    {
+      "id": "news-finance-12",
+      "name": "第一财经",
+      "url": "https://yicai.com/",
+      "desc": "专业财经媒体集团，提供电视、网站与APP的实时财经新闻与市场数据。",
+      "tags": [
+        "财经",
+        "资讯",
+        "数据",
+        "媒体"
+      ],
+      "cat": "news",
+      "sub": "finance",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-12-08"
+    },
+    {
+      "id": "news-finance-13",
+      "name": "Investing.com",
+      "url": "https://investing.com/",
+      "desc": "全球金融平台，覆盖股票、外汇、商品与加密货币行情，含财经日历与技术分析工具。",
+      "tags": [
+        "行情",
+        "外汇",
+        "数据",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "finance",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-01-14"
+    },
+    {
+      "id": "news-finance-14",
+      "name": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/",
+      "desc": "美国主流财经站点，提供美股行情、新闻与公司基本面数据，免费且覆盖广泛。",
+      "tags": [
+        "财经",
+        "美股",
+        "行情",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "finance",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-02-03"
+    },
+    {
+      "id": "news-finance-15",
+      "name": "Bloomberg",
+      "url": "https://bloomberg.com/",
+      "desc": "全球金融信息巨头，提供市场数据、新闻与分析，终端付费但网站有免费资讯。",
+      "tags": [
+        "财经",
+        "新闻",
+        "数据",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "finance",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-03-11"
+    },
+    {
+      "id": "news-finance-16",
+      "name": "Reuters",
+      "url": "https://reuters.com/",
+      "desc": "国际通讯社财经频道，及时报道全球市场、央行政策与公司重大新闻。",
+      "tags": [
+        "财经",
+        "新闻",
+        "全球",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "finance",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-04-22"
+    },
+    {
+      "id": "news-finance-17",
+      "name": "Nasdaq",
+      "url": "https://nasdaq.com/",
+      "desc": "纳斯达克官网，提供美股实时报价、上市信息与投资者关系数据。",
+      "tags": [
+        "交易所",
+        "美股",
+        "行情",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "finance",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-05-09"
+    },
+    {
+      "id": "news-finance-18",
+      "name": "金融界",
+      "url": "https://jrj.com.cn/",
+      "desc": "综合财经网站，覆盖股票、基金与保险资讯，并提供行情工具与理财内容。",
+      "tags": [
+        "财经",
+        "理财",
+        "行情",
+        "资讯"
+      ],
+      "cat": "news",
+      "sub": "finance",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-17"
+    },
+    {
+      "id": "news-finance-19",
+      "name": "中国证监会",
+      "url": "https://csrc.gov.cn/",
+      "desc": "证券期货监督管理机构官网，发布监管政策、行政许可与行政处罚等权威信息。",
+      "tags": [
+        "监管",
+        "政策",
+        "官方",
+        "披露"
+      ],
+      "cat": "news",
+      "sub": "finance",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-07-28"
+    },
+    {
+      "id": "news-finance-20",
+      "name": "中国人民银行",
+      "url": "https://pbc.gov.cn/",
+      "desc": "中央银行官网，发布货币政策、金融统计与宏观数据，是权威宏观经济指标来源。",
+      "tags": [
+        "央行",
+        "宏观",
+        "数据",
+        "官方"
+      ],
+      "cat": "news",
+      "sub": "finance",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-08-19"
+    },
+    {
+      "id": "news-report-01",
+      "name": "艾瑞咨询",
+      "url": "https://iresearch.com.cn/",
+      "desc": "国内知名互联网研究机构，发布行业白皮书与用户行为报告，数据常被媒体引用。",
+      "tags": [
+        "行业报告",
+        "互联网",
+        "数据",
+        "研究"
+      ],
+      "cat": "news",
+      "sub": "report",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-02-10"
+    },
+    {
+      "id": "news-report-02",
+      "name": "易观分析",
+      "url": "https://analysys.cn/",
+      "desc": "专注数字经济与消费行业的分析机构，提供千帆指数与细分赛道趋势报告。",
+      "tags": [
+        "行业报告",
+        "数据",
+        "分析",
+        "趋势"
+      ],
+      "cat": "news",
+      "sub": "report",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-03-25"
+    },
+    {
+      "id": "news-report-03",
+      "name": "QuestMobile",
+      "url": "https://questmobile.com.cn/",
+      "desc": "移动大数据服务商，发布App活跃、用户画像与全景流量洞察报告，触达数据权威。",
+      "tags": [
+        "移动",
+        "数据",
+        "报告",
+        "用户"
+      ],
+      "cat": "news",
+      "sub": "report",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-04-30"
+    },
+    {
+      "id": "news-report-04",
+      "name": "亿欧",
+      "url": "https://iyiou.com/",
+      "desc": "聚焦科技与产业创新的智库媒体，输出新消费、智能与出海等领域的研究报告。",
+      "tags": [
+        "产业",
+        "研究",
+        "报告",
+        "创新"
+      ],
+      "cat": "news",
+      "sub": "report",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-05-18"
+    },
+    {
+      "id": "news-report-05",
+      "name": "Statista",
+      "url": "https://statista.com/",
+      "desc": "全球统计数据库，聚合各行业权威图表与消费数据，支持一键导出便于引用。",
+      "tags": [
+        "数据",
+        "统计",
+        "报告",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "report",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-06-14"
+    },
+    {
+      "id": "news-report-06",
+      "name": "Gartner",
+      "url": "https://gartner.com/",
+      "desc": "全球IT研究与顾问公司，魔力象限与行业预测极具影响力，是技术采购重要参考。",
+      "tags": [
+        "IT",
+        "研究",
+        "咨询",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "report",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-07-09"
+    },
+    {
+      "id": "news-report-07",
+      "name": "麦肯锡洞察",
+      "url": "https://mckinsey.com/",
+      "desc": "顶级咨询公司研究门户，发布全球经济、战略与数字化深度洞察与报告。",
+      "tags": [
+        "咨询",
+        "研究",
+        "宏观",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "report",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-08-22"
+    },
+    {
+      "id": "news-report-08",
+      "name": "阿里研究院",
+      "url": "https://aliresearch.com/",
+      "desc": "阿里巴巴旗下智库，研究数字经济、电商与平台治理，发布开放研究报告。",
+      "tags": [
+        "电商",
+        "数字",
+        "研究",
+        "报告"
+      ],
+      "cat": "news",
+      "sub": "report",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-09-27"
+    },
+    {
+      "id": "news-report-09",
+      "name": "腾讯研究院",
+      "url": "https://tisi.org/",
+      "desc": "腾讯旗下研究平台，关注科技、社会与产业趋势，产出前沿思考与白皮书。",
+      "tags": [
+        "科技",
+        "产业",
+        "研究",
+        "白皮书"
+      ],
+      "cat": "news",
+      "sub": "report",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-10-16"
+    },
+    {
+      "id": "news-report-10",
+      "name": "中国信通院",
+      "url": "https://caict.ac.cn/",
+      "desc": "工信部下属科研机构，发布ICT与数字经济权威白皮书及行业标准报告。",
+      "tags": [
+        "通信",
+        "政策",
+        "白皮书",
+        "官方"
+      ],
+      "cat": "news",
+      "sub": "report",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-11-11"
+    },
+    {
+      "id": "news-report-11",
+      "name": "艾媒咨询",
+      "url": "https://iimedia.cn/",
+      "desc": "聚焦新经济的数据与咨询机构，提供电商、文娱等行业的调查与榜单报告。",
+      "tags": [
+        "行业报告",
+        "数据",
+        "咨询",
+        "新消费"
+      ],
+      "cat": "news",
+      "sub": "report",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-12-19"
+    },
+    {
+      "id": "news-report-12",
+      "name": "199IT",
+      "url": "https://199it.com/",
+      "desc": "互联网数据资讯博客，翻译整理全球优质报告与数据图表，是找报告的宝藏站点。",
+      "tags": [
+        "数据",
+        "报告",
+        "聚合",
+        "宝藏"
+      ],
+      "cat": "news",
+      "sub": "report",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-01-23"
+    },
+    {
+      "id": "news-report-13",
+      "name": "CB Insights",
+      "url": "https://cbinsights.com/",
+      "desc": "创投研究平台，发布独角兽、融资与行业格局报告，数据图表极具可读性。",
+      "tags": [
+        "创投",
+        "数据",
+        "研究",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "report",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-02-14"
+    },
+    {
+      "id": "news-report-14",
+      "name": "Forrester",
+      "url": "https://forrester.com/",
+      "desc": "全球市场研究与咨询机构，聚焦消费者与技术趋势，发布 Forrester Wave 评测。",
+      "tags": [
+        "咨询",
+        "研究",
+        "评测",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "report",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-03-08"
+    },
+    {
+      "id": "news-report-15",
+      "name": "IDC",
+      "url": "https://idc.com/",
+      "desc": "知名IT市场研究公司，发布全球及中国软硬件市场份额与预测报告。",
+      "tags": [
+        "IT",
+        "市场",
+        "数据",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "report",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-04-17"
+    },
+    {
+      "id": "news-report-16",
+      "name": "Deloitte Insights",
+      "url": "https://deloitte.com/",
+      "desc": "德勤研究门户，覆盖行业趋势、风险与转型洞察，报告专业且体系完整。",
+      "tags": [
+        "咨询",
+        "研究",
+        "行业",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "report",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-05-20"
+    },
+    {
+      "id": "news-report-17",
+      "name": "甲子光年",
+      "url": "https://jazzyear.com/",
+      "desc": "聚焦AI与硬科技的精品智库，深度报道技术产业化的真实进展与案例。",
+      "tags": [
+        "人工智能",
+        "产业",
+        "研究",
+        "宝藏"
+      ],
+      "cat": "news",
+      "sub": "report",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-13"
+    },
+    {
+      "id": "news-report-18",
+      "name": "尼尔森",
+      "url": "https://nielsen.com/",
+      "desc": "全球消费者洞察与媒介监测机构，提供零售与受众市场的权威调研数据。",
+      "tags": [
+        "消费",
+        "数据",
+        "调研",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "report",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-07-04"
+    },
+    {
+      "id": "news-report-19",
+      "name": "Pew Research Center",
+      "url": "https://pewresearch.org/",
+      "desc": "美国无党派民调机构，发布社会、媒体与科技态度的严谨调查研究报告。",
+      "tags": [
+        "调研",
+        "社会",
+        "研究",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "report",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-08-01"
+    },
+    {
+      "id": "news-report-20",
+      "name": "前瞻产业研究院",
+      "url": "https://qianzhan.com/",
+      "desc": "产业研究平台，提供行业前景、竞争格局与招商可行性等深度研究报告。",
+      "tags": [
+        "产业",
+        "研究",
+        "报告",
+        "数据"
+      ],
+      "cat": "news",
+      "sub": "report",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-08-25"
+    },
+    {
+      "id": "news-rank-01",
+      "name": "百度指数",
+      "url": "https://index.baidu.com/",
+      "desc": "基于百度搜索的关键词趋势工具，可查看搜索热度、人群画像与地域分布。",
+      "tags": [
+        "指数",
+        "搜索",
+        "趋势",
+        "中文"
+      ],
+      "cat": "news",
+      "sub": "rank",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-02-05"
+    },
+    {
+      "id": "news-rank-02",
+      "name": "微信指数",
+      "url": "https://index.weixin.qq.com/",
+      "desc": "微信官方关键词热度工具，反映公众号与朋友圈讨论趋势，适合社媒监测。",
+      "tags": [
+        "指数",
+        "微信",
+        "趋势",
+        "官方"
+      ],
+      "cat": "news",
+      "sub": "rank",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-03-19"
+    },
+    {
+      "id": "news-rank-03",
+      "name": "Google Trends",
+      "url": "https://trends.google.com/",
+      "desc": "谷歌官方趋势工具，展示全球搜索热词与地域兴趣，支持对比与实时趋势。",
+      "tags": [
+        "趋势",
+        "搜索",
+        "全球",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "rank",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-04-12"
+    },
+    {
+      "id": "news-rank-04",
+      "name": "七麦数据",
+      "url": "https://qimai.cn/",
+      "desc": "专注App Store与安卓应用榜单的数据平台，提供下载量估算与竞品监测。",
+      "tags": [
+        "应用榜",
+        "数据",
+        "ASO",
+        "工具"
+      ],
+      "cat": "news",
+      "sub": "rank",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-05-27"
+    },
+    {
+      "id": "news-rank-05",
+      "name": "data.ai",
+      "url": "https://data.ai/",
+      "desc": "原App Annie，全球移动应用数据与洞察平台，覆盖下载、收入与使用情况。",
+      "tags": [
+        "应用",
+        "数据",
+        "榜单",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "rank",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-06-23"
+    },
+    {
+      "id": "news-rank-06",
+      "name": "新榜",
+      "url": "https://newrank.cn/",
+      "desc": "新媒体内容榜单平台，监测公众号、抖音等平台的影响力排行与爆文数据。",
+      "tags": [
+        "榜单",
+        "新媒体",
+        "数据",
+        "中文"
+      ],
+      "cat": "news",
+      "sub": "rank",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-07-31"
+    },
+    {
+      "id": "news-rank-07",
+      "name": "微博热搜",
+      "url": "https://weibo.com/",
+      "desc": "实时展示微博平台热门话题与搜索榜，是中文互联网舆论风向的重要窗口。",
+      "tags": [
+        "热搜",
+        "榜单",
+        "舆情",
+        "中文"
+      ],
+      "cat": "news",
+      "sub": "rank",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-08-15"
+    },
+    {
+      "id": "news-rank-08",
+      "name": "360趋势",
+      "url": "https://trends.so.com/",
+      "desc": "360旗下的搜索热度趋势工具，展示关键词的搜索量与相关热门词，适合中文舆情参考。",
+      "tags": [
+        "趋势",
+        "搜索",
+        "舆情",
+        "中文"
+      ],
+      "cat": "news",
+      "sub": "rank",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-09-09"
+    },
+    {
+      "id": "news-rank-09",
+      "name": "抖音热点榜",
+      "url": "https://douyin.com/",
+      "desc": "抖音平台实时热点与话题榜单，展示短视频领域的爆款内容与流行趋势。",
+      "tags": [
+        "热搜",
+        "短视频",
+        "榜单",
+        "中文"
+      ],
+      "cat": "news",
+      "sub": "rank",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-10-21"
+    },
+    {
+      "id": "news-rank-10",
+      "name": "头条热榜",
+      "url": "https://toutiao.com/",
+      "desc": "今日头条聚合的实时热点榜单，覆盖社会、财经与娱乐等多领域热议话题。",
+      "tags": [
+        "热搜",
+        "资讯",
+        "榜单",
+        "中文"
+      ],
+      "cat": "news",
+      "sub": "rank",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-11-26"
+    },
+    {
+      "id": "news-rank-11",
+      "name": "Similarweb",
+      "url": "https://similarweb.com/",
+      "desc": "网站与应用流量分析平台，估算访问量、来源与受众，适合竞品研究。",
+      "tags": [
+        "流量",
+        "数据",
+        "分析",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "rank",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-12-14"
+    },
+    {
+      "id": "news-rank-12",
+      "name": "飞瓜数据",
+      "url": "https://feigua.cn/",
+      "desc": "短视频与直播数据分析平台，覆盖抖音、快手带货与达人榜单监测。",
+      "tags": [
+        "短视频",
+        "数据",
+        "直播",
+        "工具"
+      ],
+      "cat": "news",
+      "sub": "rank",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-01-17"
+    },
+    {
+      "id": "news-rank-13",
+      "name": "卡思数据",
+      "url": "https://caasdata.com/",
+      "desc": "视频内容产业数据平台，提供达人评估、内容榜单与营销趋势洞察。",
+      "tags": [
+        "视频",
+        "数据",
+        "营销",
+        "宝藏"
+      ],
+      "cat": "news",
+      "sub": "rank",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-02-20"
+    },
+    {
+      "id": "news-rank-14",
+      "name": "蝉妈妈",
+      "url": "https://chanmama.com/",
+      "desc": "抖音电商数据分析工具，提供带货榜单、达人库与选品洞察服务。",
+      "tags": [
+        "电商",
+        "数据",
+        "直播",
+        "工具"
+      ],
+      "cat": "news",
+      "sub": "rank",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-03-13"
+    },
+    {
+      "id": "news-rank-15",
+      "name": "西瓜数据",
+      "url": "https://data.xiguaji.com/",
+      "desc": "微信公众号与视频号数据分析平台，提供爆文榜单与账号估值参考。",
+      "tags": [
+        "公众号",
+        "数据",
+        "榜单",
+        "宝藏"
+      ],
+      "cat": "news",
+      "sub": "rank",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-04-06"
+    },
+    {
+      "id": "news-rank-16",
+      "name": "AppTweak",
+      "url": "https://apptweak.com/",
+      "desc": "ASO与增长分析工具，提供应用商店关键词与下载估算，适合出海团队。",
+      "tags": [
+        "ASO",
+        "数据",
+        "应用",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "rank",
+      "hot": 2,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-05-11"
+    },
+    {
+      "id": "news-rank-17",
+      "name": "5118",
+      "url": "https://5118.com/",
+      "desc": "中文站长与SEO数据平台，提供关键词挖掘、需求图谱与行业趋势分析。",
+      "tags": [
+        "SEO",
+        "数据",
+        "关键词",
+        "工具"
+      ],
+      "cat": "news",
+      "sub": "rank",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-06-08"
+    },
+    {
+      "id": "news-rank-18",
+      "name": "千瓜数据",
+      "url": "https://qian-gua.com/",
+      "desc": "小红书数据分析平台，提供达人榜单、笔记热词与品牌投放洞察。",
+      "tags": [
+        "小红书",
+        "数据",
+        "营销",
+        "宝藏"
+      ],
+      "cat": "news",
+      "sub": "rank",
+      "hot": 2,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-07-15"
+    },
+    {
+      "id": "news-rank-19",
+      "name": "抖查查",
+      "url": "https://douchacha.com/",
+      "desc": "抖音直播与短视频数据工具，提供实时大屏、榜单与带货选品分析。",
+      "tags": [
+        "抖音",
+        "数据",
+        "直播",
+        "宝藏"
+      ],
+      "cat": "news",
+      "sub": "rank",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-08-03"
+    },
+    {
+      "id": "news-rank-20",
+      "name": "巨量算数",
+      "url": "https://trendinsight.oceanengine.com/",
+      "desc": "巨量引擎旗下趋势洞察平台，基于抖音等数据输出行业热点与人群洞察。",
+      "tags": [
+        "趋势",
+        "数据",
+        "抖音",
+        "官方"
+      ],
+      "cat": "news",
+      "sub": "rank",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-08-22"
+    },
+    {
+      "id": "news-rss-01",
+      "name": "Feedly",
+      "url": "https://feedly.com/",
+      "desc": "流行的云端RSS阅读器，支持订阅源管理、AI摘要与团队协作，跨端同步流畅。",
+      "tags": [
+        "RSS",
+        "阅读器",
+        "聚合",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "rss",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-01-18"
+    },
+    {
+      "id": "news-rss-02",
+      "name": "Inoreader",
+      "url": "https://inoreader.com/",
+      "desc": "功能强大的RSS订阅工具，支持规则过滤、邮件订阅与自动化，适合重度用户。",
+      "tags": [
+        "RSS",
+        "阅读器",
+        "聚合",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "rss",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-02-27"
+    },
+    {
+      "id": "news-rss-03",
+      "name": "RSSHub",
+      "url": "https://rsshub.app/",
+      "desc": "开源RSS生成器，将各平台动态转为标准订阅源，极大扩展可订阅内容。",
+      "tags": [
+        "RSS",
+        "开源",
+        "工具",
+        "聚合"
+      ],
+      "cat": "news",
+      "sub": "rss",
+      "hot": 1,
+      "lang": "multi",
+      "free": "free",
+      "added": "2024-03-14"
+    },
+    {
+      "id": "news-rss-04",
+      "name": "FreshRSS",
+      "url": "https://freshrss.org/",
+      "desc": "轻量自托管RSS聚合器，可私有部署、无广告，适合注重数据的极客用户。",
+      "tags": [
+        "RSS",
+        "自托管",
+        "开源",
+        "宝藏"
+      ],
+      "cat": "news",
+      "sub": "rss",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-04-29"
+    },
+    {
+      "id": "news-rss-05",
+      "name": "The Old Reader",
+      "url": "https://theoldreader.com/",
+      "desc": "仿Google Reader的社交化RSS阅读器，支持好友共享与评论，界面简洁。",
+      "tags": [
+        "RSS",
+        "阅读器",
+        "社交",
+        "宝藏"
+      ],
+      "cat": "news",
+      "sub": "rss",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-05-22"
+    },
+    {
+      "id": "news-rss-06",
+      "name": "Follow",
+      "url": "https://follow.is/",
+      "desc": "RSSHub团队打造的新一代信息流阅读器，整合RSS、社媒与播客，设计现代。",
+      "tags": [
+        "RSS",
+        "阅读器",
+        "聚合",
+        "宝藏"
+      ],
+      "cat": "news",
+      "sub": "rss",
+      "hot": 2,
+      "lang": "multi",
+      "free": "free",
+      "added": "2024-06-15"
+    },
+    {
+      "id": "news-rss-07",
+      "name": "Readwise",
+      "url": "https://readwise.io/",
+      "desc": "稍后与高亮管理工具，聚合文章、电子书与推文，配合Reader做沉浸阅读。",
+      "tags": [
+        "阅读",
+        "稍后读",
+        "工具",
+        "宝藏"
+      ],
+      "cat": "news",
+      "sub": "rss",
+      "hot": 2,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-07-08"
+    },
+    {
+      "id": "news-rss-08",
+      "name": "Netvibes",
+      "url": "https://netvibes.com/",
+      "desc": "老牌个性化信息仪表盘，可拖拽组合RSS、社交与数据源，适合信息监控。",
+      "tags": [
+        "RSS",
+        "仪表盘",
+        "聚合",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "rss",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-08-19"
+    },
+    {
+      "id": "news-rss-09",
+      "name": "NewsBlur",
+      "url": "https://newsblur.com/",
+      "desc": "带社交与机器学习排序的RSS阅读器，可高亮原文并训练个人兴趣模型。",
+      "tags": [
+        "RSS",
+        "阅读器",
+        "智能",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "rss",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-09-03"
+    },
+    {
+      "id": "news-rss-10",
+      "name": "Feedbin",
+      "url": "https://feedbin.com/",
+      "desc": "极简付费RSS服务，专注稳定的订阅与搜索，可与多种第三方客户端配合。",
+      "tags": [
+        "RSS",
+        "服务",
+        "阅读",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "rss",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-10-11"
+    },
+    {
+      "id": "news-rss-11",
+      "name": "Reeder",
+      "url": "https://reeder.app/",
+      "desc": "iOS与Mac上广受好评的RSS阅读客户端，手势流畅、排版优雅，体验出众。",
+      "tags": [
+        "RSS",
+        "客户端",
+        "阅读",
+        "宝藏"
+      ],
+      "cat": "news",
+      "sub": "rss",
+      "hot": 2,
+      "lang": "en",
+      "free": "paid",
+      "added": "2024-11-25"
+    },
+    {
+      "id": "news-rss-12",
+      "name": "Fluent Reader",
+      "url": "https://fluentreader.com/",
+      "desc": "开源桌面RSS阅读器，界面现代、支持订阅管理与过滤，可本地或自托管。",
+      "tags": [
+        "RSS",
+        "开源",
+        "桌面",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "rss",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-12-09"
+    },
+    {
+      "id": "news-rss-13",
+      "name": "Miniflux",
+      "url": "https://miniflux.app/",
+      "desc": "极简自托管RSS阅读器，专注阅读体验与轻量部署，无多余花哨功能。",
+      "tags": [
+        "RSS",
+        "自托管",
+        "极简",
+        "宝藏"
+      ],
+      "cat": "news",
+      "sub": "rss",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-01-12"
+    },
+    {
+      "id": "news-rss-14",
+      "name": "Feeder",
+      "url": "https://feeder.co/",
+      "desc": "跨平台RSS阅读器，主打移动端与浏览器扩展，订阅与离线阅读便捷。",
+      "tags": [
+        "RSS",
+        "阅读器",
+        "移动",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "rss",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-02-16"
+    },
+    {
+      "id": "news-rss-15",
+      "name": "CommaFeed",
+      "url": "https://commafeed.com/",
+      "desc": "开源RSS聚合器，界面类似Google Reader，可自托管且支持键盘操作。",
+      "tags": [
+        "RSS",
+        "开源",
+        "自托管",
+        "宝藏"
+      ],
+      "cat": "news",
+      "sub": "rss",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-03-21"
+    },
+    {
+      "id": "news-rss-16",
+      "name": "BazQux Reader",
+      "url": "https://bazqux.com/",
+      "desc": "小众付费RSS阅读器，稳定支持社交源与全文抓取，长期口碑好。",
+      "tags": [
+        "RSS",
+        "阅读器",
+        "社交",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "rss",
+      "hot": 0,
+      "lang": "en",
+      "free": "paid",
+      "added": "2025-04-14"
+    },
+    {
+      "id": "news-rss-17",
+      "name": "FeedHQ",
+      "url": "https://feedhq.org/",
+      "desc": "开源RSS阅读服务，强调隐私与自托管，提供清爽的订阅与分类管理。",
+      "tags": [
+        "RSS",
+        "开源",
+        "隐私",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "rss",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-05-19"
+    },
+    {
+      "id": "news-rss-18",
+      "name": "Tiny Tiny RSS",
+      "url": "https://tt-rss.org/",
+      "desc": "成熟的开源自托管RSS平台，功能齐全、插件丰富，适合技术用户长期运营。",
+      "tags": [
+        "RSS",
+        "自托管",
+        "开源",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "rss",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-24"
+    },
+    {
+      "id": "news-rss-19",
+      "name": "Nextcloud News",
+      "url": "https://nextcloud.com/",
+      "desc": "网盘生态内的RSS应用，订阅源与私有云同步，兼顾数据与隐私自主。",
+      "tags": [
+        "RSS",
+        "自托管",
+        "网盘",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "rss",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-07-29"
+    },
+    {
+      "id": "news-rss-20",
+      "name": "Selfoss",
+      "url": "https://selfoss.aditu.de/",
+      "desc": "轻量开源自托管RSS聚合器，占用资源少，支持全文抓取与移动端浏览。",
+      "tags": [
+        "RSS",
+        "自托管",
+        "开源",
+        "宝藏"
+      ],
+      "cat": "news",
+      "sub": "rss",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-08-11"
+    },
+    {
+      "id": "news-community-01",
+      "name": "V2EX",
+      "url": "https://v2ex.com/",
+      "desc": "创意工作者的小众社区，话题涵盖编程、设计与生活，氛围友好、讨论克制。",
+      "tags": [
+        "社区",
+        "技术",
+        "创意",
+        "中文"
+      ],
+      "cat": "news",
+      "sub": "community",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-01-25"
+    },
+    {
+      "id": "news-community-02",
+      "name": "SegmentFault",
+      "url": "https://segmentfault.com/",
+      "desc": "中文技术问答与专栏社区，聚焦编程开发与实战，是工程师交流的重要平台。",
+      "tags": [
+        "技术",
+        "问答",
+        "开发者",
+        "中文"
+      ],
+      "cat": "news",
+      "sub": "community",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-02-22"
+    },
+    {
+      "id": "news-community-03",
+      "name": "Stack Overflow",
+      "url": "https://stackoverflow.com/",
+      "desc": "全球最大编程问答社区，海量已解决问题，是开发者排错与查资料首选。",
+      "tags": [
+        "技术",
+        "问答",
+        "开发者",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "community",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-03-28"
+    },
+    {
+      "id": "news-community-04",
+      "name": "Reddit",
+      "url": "https://reddit.com/",
+      "desc": "美国综合兴趣社区，按话题分版的论坛聚合，覆盖极广且讨论活跃。",
+      "tags": [
+        "社区",
+        "论坛",
+        "兴趣",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "community",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-04-16"
+    },
+    {
+      "id": "news-community-05",
+      "name": "知乎",
+      "url": "https://zhihu.com/",
+      "desc": "中文问答与内容社区，汇聚专业回答与深度长文，覆盖科技、商业与生活方式。",
+      "tags": [
+        "问答",
+        "社区",
+        "知识",
+        "中文"
+      ],
+      "cat": "news",
+      "sub": "community",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-05-30"
+    },
+    {
+      "id": "news-community-06",
+      "name": "CSDN",
+      "url": "https://csdn.net/",
+      "desc": "老牌中文IT技术社区，博客、论坛与下载资源丰富，是程序员常用站点。",
+      "tags": [
+        "技术",
+        "博客",
+        "开发者",
+        "中文"
+      ],
+      "cat": "news",
+      "sub": "community",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-06-26"
+    },
+    {
+      "id": "news-community-07",
+      "name": "博客园",
+      "url": "https://cnblogs.com/",
+      "desc": "面向.NET与全栈开发者的技术博客社区，文章偏实战，纯净无干扰。",
+      "tags": [
+        "技术",
+        "博客",
+        "开发者",
+        "中文"
+      ],
+      "cat": "news",
+      "sub": "community",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-07-17"
+    },
+    {
+      "id": "news-community-08",
+      "name": "开源中国",
+      "url": "https://oschina.net/",
+      "desc": "中文开源技术社区，提供代码托管、资讯与问答，推动国内开源生态。",
+      "tags": [
+        "开源",
+        "技术",
+        "社区",
+        "中文"
+      ],
+      "cat": "news",
+      "sub": "community",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-08-13"
+    },
+    {
+      "id": "news-community-09",
+      "name": "吾爱破解",
+      "url": "https://52pojie.cn/",
+      "desc": "专注软件安全与逆向的中文论坛，分享脱壳、汉化与安全技术，干货密集。",
+      "tags": [
+        "安全",
+        "逆向",
+        "论坛",
+        "中文"
+      ],
+      "cat": "news",
+      "sub": "community",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-09-05"
+    },
+    {
+      "id": "news-community-10",
+      "name": "看雪学院",
+      "url": "https://kanxue.com/",
+      "desc": "老牌安全研究社区，聚焦二进制安全与漏洞分析，是安全从业者宝藏论坛。",
+      "tags": [
+        "安全",
+        "研究",
+        "论坛",
+        "宝藏"
+      ],
+      "cat": "news",
+      "sub": "community",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-10-28"
+    },
+    {
+      "id": "news-community-11",
+      "name": "Lobsters",
+      "url": "https://lobste.rs/",
+      "desc": "技术新闻聚合社区，邀请制提交，讨论理性深入，是Hacker News的精品替代。",
+      "tags": [
+        "技术",
+        "聚合",
+        "社区",
+        "宝藏"
+      ],
+      "cat": "news",
+      "sub": "community",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-11-19"
+    },
+    {
+      "id": "news-community-12",
+      "name": "Product Hunt",
+      "url": "https://producthunt.com/",
+      "desc": "全球新产品发现社区，每日评选新App与工具，是创客与早期用户聚集地。",
+      "tags": [
+        "产品",
+        "发现",
+        "社区",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "community",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-12-23"
+    },
+    {
+      "id": "news-community-13",
+      "name": "豆瓣",
+      "url": "https://douban.com/",
+      "desc": "中文文化社区，覆盖书影音评分、小组讨论与日记，文艺气息浓厚。",
+      "tags": [
+        "社区",
+        "文化",
+        "书影音",
+        "中文"
+      ],
+      "cat": "news",
+      "sub": "community",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-01-15"
+    },
+    {
+      "id": "news-community-14",
+      "name": "天涯社区",
+      "url": "https://tianya.cn/",
+      "desc": "早期知名中文综合论坛，涵盖情感、八卦与文史，承载一代网民记忆。",
+      "tags": [
+        "论坛",
+        "综合",
+        "社区",
+        "中文"
+      ],
+      "cat": "news",
+      "sub": "community",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-02-11"
+    },
+    {
+      "id": "news-community-15",
+      "name": "虎扑",
+      "url": "https://hupu.com/",
+      "desc": "以体育与男性兴趣著称的社区，篮球讨论活跃，也涵盖汽车与数码话题。",
+      "tags": [
+        "社区",
+        "体育",
+        "论坛",
+        "中文"
+      ],
+      "cat": "news",
+      "sub": "community",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-03-09"
+    },
+    {
+      "id": "news-community-16",
+      "name": "什么值得买",
+      "url": "https://smzdm.com/",
+      "desc": "消费决策社区，用户分享好价与晒单，是网购优惠与选购参考平台。",
+      "tags": [
+        "消费",
+        "优惠",
+        "社区",
+        "中文"
+      ],
+      "cat": "news",
+      "sub": "community",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-04-18"
+    },
+    {
+      "id": "news-community-17",
+      "name": "果壳",
+      "url": "https://guokr.com/",
+      "desc": "科普与文化社区，用通俗语言讲科学，涵盖健康、自然与科技趣闻。",
+      "tags": [
+        "科普",
+        "社区",
+        "科学",
+        "中文"
+      ],
+      "cat": "news",
+      "sub": "community",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-05-22"
+    },
+    {
+      "id": "news-community-18",
+      "name": "小众软件",
+      "url": "https://appinn.com/",
+      "desc": "专注推荐实用小众软件的站点，长期分享效率工具与技巧，是工具的宝藏库。",
+      "tags": [
+        "软件",
+        "工具",
+        "推荐",
+        "宝藏"
+      ],
+      "cat": "news",
+      "sub": "community",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-27"
+    },
+    {
+      "id": "news-community-19",
+      "name": "Dev.to",
+      "url": "https://dev.to/",
+      "desc": "面向开发者的写作与讨论社区，涵盖Web、AI等热点，氛围友善易入门。",
+      "tags": [
+        "技术",
+        "博客",
+        "开发者",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "community",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-07-30"
+    },
+    {
+      "id": "news-community-20",
+      "name": "GitHub",
+      "url": "https://github.com/",
+      "desc": "全球最大代码托管与协作平台，承载开源项目与Discussions技术讨论。",
+      "tags": [
+        "开源",
+        "代码",
+        "协作",
+        "英文"
+      ],
+      "cat": "news",
+      "sub": "community",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-08-21"
+    },
+    {
+      "id": "news-tech-x01",
+      "name": "The New Stack",
+      "url": "https://thenewstack.io/",
+      "desc": "聚焦云原生、容器与开发者生态的技术媒体，深度报道开源与 DevOps 一线实践。",
+      "tags": [
+        "云原生",
+        "开发者",
+        "开源"
+      ],
+      "cat": "news",
+      "sub": "tech",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "news-tech-x02",
+      "name": "Linux Foundation",
+      "url": "https://www.linuxfoundation.org/",
+      "desc": "Linux 基金会官网，发布开源项目动态、培训与行业报告，是开源世界的枢纽。",
+      "tags": [
+        "开源",
+        "基金会",
+        "行业报告"
+      ],
+      "cat": "news",
+      "sub": "tech",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "news-tech-x03",
+      "name": "The Batch",
+      "url": "https://www.deeplearning.ai/the-batch/",
+      "desc": "吴恩达团队出品的 AI 周报 The Batch，梳理人工智能前沿研究与产业动态，质量极高。",
+      "tags": [
+        "AI资讯",
+        "机器学习",
+        "周报"
+      ],
+      "cat": "news",
+      "sub": "tech",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "news-tech-x04",
+      "name": "TechPowerUp",
+      "url": "https://www.techpowerup.com/",
+      "desc": "硬件评测与显卡数据库社区，提供详尽硬件参数、跑分与评测，DIY 玩家必看。",
+      "tags": [
+        "硬件评测",
+        "显卡",
+        "数码"
+      ],
+      "cat": "news",
+      "sub": "tech",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "news-tech-x05",
+      "name": "Hashnode",
+      "url": "https://hashnode.com/",
+      "desc": "面向开发者的写作与博客社区，可搭建技术博客并参与讨论，聚集优质工程内容。",
+      "tags": [
+        "开发者博客",
+        "技术社区",
+        "写作"
+      ],
+      "cat": "news",
+      "sub": "tech",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "news-tech-x06",
+      "name": "Software Engineering Daily",
+      "url": "https://softwareengineeringdaily.com/",
+      "desc": "每日更新的软件工程播客与文章，访谈业界专家，覆盖架构、数据与基础设施。",
+      "tags": [
+        "软件工程",
+        "技术播客",
+        "架构"
+      ],
+      "cat": "news",
+      "sub": "tech",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "news-community-x01",
+      "name": "CodeProject",
+      "url": "https://www.codeproject.com/",
+      "desc": "老牌程序员技术社区，拥有大量源码教程与问答，覆盖桌面、Web 与移动开发。",
+      "tags": [
+        "编程社区",
+        "源码",
+        "技术问答"
+      ],
+      "cat": "news",
+      "sub": "community",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "news-community-x02",
+      "name": "SitePoint",
+      "url": "https://www.sitepoint.com/",
+      "desc": "面向 Web 开发者的社区与教程站，讨论前端、设计与产品，配套书籍与课程。",
+      "tags": [
+        "Web开发",
+        "技术社区",
+        "设计"
+      ],
+      "cat": "news",
+      "sub": "community",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "news-community-x03",
+      "name": "ArtStation",
+      "url": "https://www.artstation.com/",
+      "desc": "全球知名数字艺术与概念设计社区，汇聚游戏影视美术作品，是设计师展示平台。",
+      "tags": [
+        "设计师社区",
+        "数字艺术",
+        "作品集"
+      ],
+      "cat": "news",
+      "sub": "community",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "news-community-x04",
+      "name": "Coroflot",
+      "url": "https://www.coroflot.com/",
+      "desc": "设计与创意职业社区，汇集作品集与招聘信息，连接设计师与雇主资源。",
+      "tags": [
+        "设计师社区",
+        "作品集",
+        "招聘"
+      ],
+      "cat": "news",
+      "sub": "community",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "news-community-x05",
+      "name": "Mind the Product",
+      "url": "https://www.mindtheproduct.com/",
+      "desc": "产品经理国际社区，提供文章、培训与线下活动，是 PM 成长与交流的阵地。",
+      "tags": [
+        "产品经理",
+        "PM社区",
+        "职场"
+      ],
+      "cat": "news",
+      "sub": "community",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "news-community-x06",
+      "name": "ResearchSquare",
+      "url": "https://www.researchsquare.com/",
+      "desc": "学术预印本与协作社区，支持论文预发布与同行交流，加速科研传播。",
+      "tags": [
+        "学术社区",
+        "预印本",
+        "科研"
+      ],
+      "cat": "news",
+      "sub": "community",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "news-community-x07",
+      "name": "PubPeer",
+      "url": "https://pubpeer.com/",
+      "desc": "专注于科研诚信的匿名同行评议社区，对论文进行公开讨论与纠错。",
+      "tags": [
+        "学术社区",
+        "科研诚信",
+        "同行评议"
+      ],
+      "cat": "news",
+      "sub": "community",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "news-community-x08",
+      "name": "Indie Hackers",
+      "url": "https://www.indiehackers.com/",
+      "desc": "独立开发者与创业者社区，分享产品从 0 到盈利的经验，互相鼓励与协作。",
+      "tags": [
+        "独立开发者",
+        "创业",
+        "协作"
+      ],
+      "cat": "news",
+      "sub": "community",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "news-community-x09",
+      "name": "BetaList",
+      "url": "https://betalist.com/",
+      "desc": "发现早期初创产品与独立项目的社区，可抢先体验 Beta 版并获取创业灵感。",
+      "tags": [
+        "独立产品",
+        "初创",
+        "发现"
+      ],
+      "cat": "news",
+      "sub": "community",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "news-community-x10",
+      "name": "GitConnected",
+      "url": "https://gitconnected.com/",
+      "desc": "开发者职业与学习社区，提供技术文章、岗位与学习路径，助力工程师成长。",
+      "tags": [
+        "开发者社区",
+        "职业",
+        "学习路径"
+      ],
+      "cat": "news",
+      "sub": "community",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "news-community-x11",
+      "name": "Codementor",
+      "url": "https://www.codementor.io/",
+      "desc": "连接开发者与导师的问答平台，可一对一请教编程难题，也可接单做自由职业。",
+      "tags": [
+        "技术问答",
+        "导师",
+        "自由职业"
+      ],
+      "cat": "news",
+      "sub": "community",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "news-community-x12",
+      "name": "Designer News",
+      "url": "https://www.designernews.co/",
+      "desc": "设计师专属新闻与讨论社区，聚合设计工具、趋势与作品，由社区投票精选。",
+      "tags": [
+        "设计师社区",
+        "设计资讯",
+        "讨论"
+      ],
+      "cat": "news",
+      "sub": "community",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    }
+  ]
+}

@@ -1,0 +1,2165 @@
+{
+  "category": "game",
+  "resources": [
+    {
+      "id": "game-platform-01",
+      "name": "Steam",
+      "url": "https://store.steampowered.com/",
+      "desc": "全球最大的 PC 游戏数字发行平台，涵盖商店、创意工坊、好友社区与云存档，PC 玩家装机必备。",
+      "tags": [
+        "游戏平台",
+        "数字发行",
+        "PC游戏",
+        "创意工坊"
+      ],
+      "cat": "game",
+      "sub": "platform",
+      "hot": 1,
+      "lang": "multi",
+      "free": "freemium",
+      "added": "2024-05-08"
+    },
+    {
+      "id": "game-platform-02",
+      "name": "Epic Games Store",
+      "url": "https://store.epicgames.com/",
+      "desc": "Epic 旗下游戏商店，以每周免费送游戏和 12% 低分成著称，独占作品与虚幻引擎生态入口。",
+      "tags": [
+        "游戏平台",
+        "数字发行",
+        "每周免费",
+        "独占"
+      ],
+      "cat": "game",
+      "sub": "platform",
+      "hot": 1,
+      "lang": "multi",
+      "free": "freemium",
+      "added": "2024-05-08"
+    },
+    {
+      "id": "game-platform-03",
+      "name": "GOG.com",
+      "url": "https://www.gog.com/",
+      "desc": "主打无 DRM 加密与老游戏修复的数字商店，买到的游戏可离线安装、自由备份，支持 30 天退款。",
+      "tags": [
+        "游戏平台",
+        "无DRM",
+        "老游戏",
+        "波兰"
+      ],
+      "cat": "game",
+      "sub": "platform",
+      "hot": 1,
+      "lang": "en",
+      "free": "paid",
+      "added": "2024-06-21"
+    },
+    {
+      "id": "game-platform-04",
+      "name": "itch.io",
+      "url": "https://itch.io/",
+      "desc": "独立游戏与实验作品的发布平台，大量免费与「按你愿意的价格」付费的小体量游戏，独立开发者首选。",
+      "tags": [
+        "独立游戏",
+        "游戏平台",
+        "免费",
+        "创意作品"
+      ],
+      "cat": "game",
+      "sub": "platform",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-06-21"
+    },
+    {
+      "id": "game-platform-05",
+      "name": "Xbox 官方商城",
+      "url": "https://www.xbox.com/",
+      "desc": "微软 Xbox 生态官网，包含主机与 PC 游戏商店、Game Pass 订阅库、云游戏与手柄配件。",
+      "tags": [
+        "主机游戏",
+        "微软",
+        "订阅制",
+        "Xbox"
+      ],
+      "cat": "game",
+      "sub": "platform",
+      "hot": 1,
+      "lang": "multi",
+      "free": "freemium",
+      "added": "2024-07-03"
+    },
+    {
+      "id": "game-platform-06",
+      "name": "PlayStation Store",
+      "url": "https://store.playstation.com/",
+      "desc": "索尼 PlayStation 官方商店，PS5 / PS4 数字版游戏、会员订阅与独占大作的购买入口。",
+      "tags": [
+        "主机游戏",
+        "索尼",
+        "独占",
+        "PS5"
+      ],
+      "cat": "game",
+      "sub": "platform",
+      "hot": 1,
+      "lang": "multi",
+      "free": "paid",
+      "added": "2024-07-03"
+    },
+    {
+      "id": "game-platform-07",
+      "name": "Nintendo 官方商城",
+      "url": "https://www.nintendo.com/store/",
+      "desc": "任天堂官方商店，Switch 游戏、Nintendo Switch Online 会员与经典复刻作品的官方渠道。",
+      "tags": [
+        "主机游戏",
+        "任天堂",
+        "Switch",
+        "独占"
+      ],
+      "cat": "game",
+      "sub": "platform",
+      "hot": 1,
+      "lang": "multi",
+      "free": "paid",
+      "added": "2024-07-18"
+    },
+    {
+      "id": "game-platform-08",
+      "name": "EA 官方平台",
+      "url": "https://www.ea.com/",
+      "desc": "EA 旗下游戏与 EA Play 订阅入口，涵盖 FIFA、战地、模拟人生等系列作品的官方购买与启动渠道。",
+      "tags": [
+        "游戏平台",
+        "EA",
+        "订阅制",
+        "体育游戏"
+      ],
+      "cat": "game",
+      "sub": "platform",
+      "hot": 0,
+      "lang": "multi",
+      "free": "paid",
+      "added": "2024-08-02"
+    },
+    {
+      "id": "game-platform-09",
+      "name": "Ubisoft 育碧",
+      "url": "https://www.ubisoft.com/",
+      "desc": "育碧官方平台，刺客信条、彩虹六号、孤岛惊魂等系列作品的商店、启动器与 Ubisoft+ 订阅。",
+      "tags": [
+        "游戏平台",
+        "育碧",
+        "3A大作",
+        "订阅制"
+      ],
+      "cat": "game",
+      "sub": "platform",
+      "hot": 0,
+      "lang": "multi",
+      "free": "paid",
+      "added": "2024-08-02"
+    },
+    {
+      "id": "game-platform-10",
+      "name": "暴雪战网 Battle.net",
+      "url": "https://www.blizzard.com/",
+      "desc": "暴雪娱乐官方平台，魔兽世界、守望先锋、暗黑破坏神与炉石传说的统一账号与游戏启动入口。",
+      "tags": [
+        "游戏平台",
+        "暴雪",
+        "网游",
+        "竞技"
+      ],
+      "cat": "game",
+      "sub": "platform",
+      "hot": 1,
+      "lang": "multi",
+      "free": "paid",
+      "added": "2024-08-19"
+    },
+    {
+      "id": "game-platform-11",
+      "name": "Riot Games",
+      "url": "https://www.riotgames.com/",
+      "desc": "英雄联盟、无畏契约与云顶之弈的开发商官网，赛事、游戏下载与账号体系的总入口。",
+      "tags": [
+        "游戏平台",
+        "电竞",
+        "英雄联盟",
+        "开发商"
+      ],
+      "cat": "game",
+      "sub": "platform",
+      "hot": 1,
+      "lang": "multi",
+      "free": "free",
+      "added": "2024-08-19"
+    },
+    {
+      "id": "game-platform-12",
+      "name": "Rockstar Games",
+      "url": "https://www.rockstargames.com/",
+      "desc": "GTA 与荒野大镖客系列的官方站点，作品下载、官方启动器与社会俱乐部社区入口。",
+      "tags": [
+        "游戏平台",
+        "GTA",
+        "开放世界",
+        "开发商"
+      ],
+      "cat": "game",
+      "sub": "platform",
+      "hot": 1,
+      "lang": "en",
+      "free": "paid",
+      "added": "2024-09-05"
+    },
+    {
+      "id": "game-platform-13",
+      "name": "Humble Bundle",
+      "url": "https://www.humblebundle.com/",
+      "desc": "以「按意愿付费」打包售卖游戏并捐赠公益为特色的平台，常有限时慈善包与超值游戏合集。",
+      "tags": [
+        "游戏平台",
+        "游戏包",
+        "慈善",
+        "折扣"
+      ],
+      "cat": "game",
+      "sub": "platform",
+      "hot": 0,
+      "lang": "en",
+      "free": "paid",
+      "added": "2024-09-05"
+    },
+    {
+      "id": "game-platform-14",
+      "name": "Fanatical",
+      "url": "https://www.fanatical.com/",
+      "desc": "老牌正版游戏折扣商城，Steam 激活码长期低价，每日闪购与自选捆绑包性价比较高。",
+      "tags": [
+        "游戏平台",
+        "折扣",
+        "激活码",
+        "正版"
+      ],
+      "cat": "game",
+      "sub": "platform",
+      "hot": 0,
+      "lang": "en",
+      "free": "paid",
+      "added": "2024-09-22"
+    },
+    {
+      "id": "game-platform-15",
+      "name": "Green Man Gaming",
+      "url": "https://www.greenmangaming.com/",
+      "desc": "英国老牌游戏零售商，正版激活码优惠力度稳定，覆盖 PC 与主机平台的多数新作与经典作品。",
+      "tags": [
+        "游戏平台",
+        "折扣",
+        "激活码",
+        "英国"
+      ],
+      "cat": "game",
+      "sub": "platform",
+      "hot": 0,
+      "lang": "en",
+      "free": "paid",
+      "added": "2024-09-22"
+    },
+    {
+      "id": "game-platform-16",
+      "name": "WeGame",
+      "url": "https://www.wegame.com.cn/",
+      "desc": "腾讯旗下 PC 游戏平台，国产单机与网游的发行、下载、加速与社区服务一站式入口。",
+      "tags": [
+        "游戏平台",
+        "腾讯",
+        "国产游戏",
+        "启动器"
+      ],
+      "cat": "game",
+      "sub": "platform",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-10-11"
+    },
+    {
+      "id": "game-platform-17",
+      "name": "杉果游戏",
+      "url": "https://www.sonkwo.com/",
+      "desc": "国内较早的正版游戏数字发行平台，以单机大作的正版激活码与定期促销活动为主。",
+      "tags": [
+        "游戏平台",
+        "国产平台",
+        "正版",
+        "折扣"
+      ],
+      "cat": "game",
+      "sub": "platform",
+      "hot": 0,
+      "lang": "zh",
+      "free": "paid",
+      "added": "2024-10-11"
+    },
+    {
+      "id": "game-platform-18",
+      "name": "方块游戏",
+      "url": "https://www.cubejoy.com/",
+      "desc": "国内单机游戏发行平台，代理发行多款国产独立作品与经典老游戏的高清重制版本。",
+      "tags": [
+        "游戏平台",
+        "国产平台",
+        "独立游戏",
+        "单机"
+      ],
+      "cat": "game",
+      "sub": "platform",
+      "hot": 2,
+      "lang": "zh",
+      "free": "paid",
+      "added": "2024-10-28"
+    },
+    {
+      "id": "game-platform-19",
+      "name": "TapTap",
+      "url": "https://www.taptap.cn/",
+      "desc": "国内最大的手游发现与下载社区，真实评分与玩家评价驱动，独立手游与测试服的集中地。",
+      "tags": [
+        "手游",
+        "游戏社区",
+        "评分",
+        "下载"
+      ],
+      "cat": "game",
+      "sub": "platform",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-10-28"
+    },
+    {
+      "id": "game-platform-20",
+      "name": "好游快爆",
+      "url": "https://www.3839.com/",
+      "desc": "国内手游资讯与下载平台，主打新品测试、礼包领取与玩家攻略，移动游戏发现渠道之一。",
+      "tags": [
+        "手游",
+        "资讯",
+        "礼包",
+        "社区"
+      ],
+      "cat": "game",
+      "sub": "platform",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-11-14"
+    },
+    {
+      "id": "game-play-01",
+      "name": "Poki",
+      "url": "https://poki.com/",
+      "desc": "免安装网页游戏平台，上千款免费小游戏按类型分类，打开即玩、无需注册，手机端体验同样流畅。",
+      "tags": [
+        "在线游戏",
+        "免安装",
+        "免费",
+        "即点即玩"
+      ],
+      "cat": "game",
+      "sub": "play",
+      "hot": 1,
+      "lang": "multi",
+      "free": "free",
+      "added": "2024-05-15"
+    },
+    {
+      "id": "game-play-02",
+      "name": "CrazyGames",
+      "url": "https://www.crazygames.com/",
+      "desc": "欧洲团队运营的网页游戏站点，3D 与多人联机小游戏品类齐全，全部基于浏览器直接运行。",
+      "tags": [
+        "在线游戏",
+        "免安装",
+        "3D",
+        "联机"
+      ],
+      "cat": "game",
+      "sub": "play",
+      "hot": 1,
+      "lang": "multi",
+      "free": "free",
+      "added": "2024-05-15"
+    },
+    {
+      "id": "game-play-03",
+      "name": "Y8 游戏",
+      "url": "https://www.y8.com/",
+      "desc": "老牌网页游戏门户，收录上万款 Flash 与 HTML5 小游戏，涵盖动作、益智、体育等十余个分类。",
+      "tags": [
+        "在线游戏",
+        "小游戏",
+        "HTML5",
+        "老牌"
+      ],
+      "cat": "game",
+      "sub": "play",
+      "hot": 0,
+      "lang": "multi",
+      "free": "free",
+      "added": "2024-06-06"
+    },
+    {
+      "id": "game-play-04",
+      "name": "4399 小游戏",
+      "url": "https://www.4399.com/",
+      "desc": "国内知名度最高的在线小游戏站，动作、射击、双人、女生向等分类齐全，陪伴了一整代人的课间时光。",
+      "tags": [
+        "在线游戏",
+        "小游戏",
+        "国产",
+        "双人"
+      ],
+      "cat": "game",
+      "sub": "play",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-06-06"
+    },
+    {
+      "id": "game-play-05",
+      "name": "7k7k 小游戏",
+      "url": "https://www.7k7k.com/",
+      "desc": "国内老牌休闲小游戏平台，以动作冒险与益智类见长，无需下载直接在浏览器中畅玩。",
+      "tags": [
+        "在线游戏",
+        "小游戏",
+        "国产",
+        "休闲"
+      ],
+      "cat": "game",
+      "sub": "play",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-06-27"
+    },
+    {
+      "id": "game-play-06",
+      "name": "Kongregate",
+      "url": "https://www.kongregate.com/",
+      "desc": "历史悠久的独立网页游戏社区，孕育过多款知名独立作品，带成就系统与开发者分成机制。",
+      "tags": [
+        "在线游戏",
+        "独立游戏",
+        "成就系统",
+        "社区"
+      ],
+      "cat": "game",
+      "sub": "play",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-06-27"
+    },
+    {
+      "id": "game-play-07",
+      "name": "Newgrounds",
+      "url": "https://www.newgrounds.com/",
+      "desc": "互联网早期独立创作社区，游戏、动画与音乐并存，无数网络亚文化的发源地，至今仍在活跃更新。",
+      "tags": [
+        "在线游戏",
+        "独立创作",
+        "动画",
+        "社区"
+      ],
+      "cat": "game",
+      "sub": "play",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-07-09"
+    },
+    {
+      "id": "game-play-08",
+      "name": "Miniclip",
+      "url": "https://www.miniclip.com/",
+      "desc": "老牌在线游戏门户，八球台球、高尔夫等体育休闲类小游戏经典耐玩，支持游客直接试玩。",
+      "tags": [
+        "在线游戏",
+        "体育",
+        "休闲",
+        "老牌"
+      ],
+      "cat": "game",
+      "sub": "play",
+      "hot": 0,
+      "lang": "multi",
+      "free": "free",
+      "added": "2024-07-09"
+    },
+    {
+      "id": "game-play-09",
+      "name": "Armor Games",
+      "url": "https://armorgames.com/",
+      "desc": "专注精品网页游戏的发行平台，塔防、策略与叙事类作品质量稳定，多数可直接免费游玩。",
+      "tags": [
+        "在线游戏",
+        "策略",
+        "塔防",
+        "精品"
+      ],
+      "cat": "game",
+      "sub": "play",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-07-25"
+    },
+    {
+      "id": "game-play-10",
+      "name": "Silvergames",
+      "url": "https://www.silvergames.com/",
+      "desc": "分类清晰的网页游戏站点，益智、赛车、模拟经营等品类覆盖全面，页面轻量加载快。",
+      "tags": [
+        "在线游戏",
+        "益智",
+        "赛车",
+        "轻量"
+      ],
+      "cat": "game",
+      "sub": "play",
+      "hot": 0,
+      "lang": "multi",
+      "free": "free",
+      "added": "2024-07-25"
+    },
+    {
+      "id": "game-play-11",
+      "name": "Coolmath Games",
+      "url": "https://www.coolmathgames.com/",
+      "desc": "把逻辑与数学思维融进小游戏的站点，解题、跑酷与建造类作品兼具趣味与脑力训练。",
+      "tags": [
+        "在线游戏",
+        "益智",
+        "数学",
+        "逻辑"
+      ],
+      "cat": "game",
+      "sub": "play",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-08-08"
+    },
+    {
+      "id": "game-play-12",
+      "name": "Slither.io",
+      "url": "https://slither.io/",
+      "desc": "一局几分钟的多人贪吃蛇页游，全球同服实时对战，输入昵称即可开玩，是网页联机的经典案例。",
+      "tags": [
+        "在线游戏",
+        "多人联机",
+        "休闲",
+        "即时"
+      ],
+      "cat": "game",
+      "sub": "play",
+      "hot": 1,
+      "lang": "multi",
+      "free": "free",
+      "added": "2024-08-08"
+    },
+    {
+      "id": "game-play-13",
+      "name": "Agar.io",
+      "url": "https://agar.io/",
+      "desc": "吞噬类多人对战网页游戏的鼻祖，控制细胞吞噬比自己小的玩家成长，规则简单节奏紧张。",
+      "tags": [
+        "在线游戏",
+        "多人联机",
+        "休闲",
+        "即时"
+      ],
+      "cat": "game",
+      "sub": "play",
+      "hot": 1,
+      "lang": "multi",
+      "free": "free",
+      "added": "2024-08-22"
+    },
+    {
+      "id": "game-play-14",
+      "name": "Krunker",
+      "url": "https://krunker.io/",
+      "desc": "纯浏览器运行的第一人称射击游戏，低配置也能流畅对战，支持自定义地图与大量玩家自制模组。",
+      "tags": [
+        "在线游戏",
+        "FPS",
+        "多人联机",
+        "低配置"
+      ],
+      "cat": "game",
+      "sub": "play",
+      "hot": 1,
+      "lang": "multi",
+      "free": "free",
+      "added": "2024-08-22"
+    },
+    {
+      "id": "game-play-15",
+      "name": "Skribbl.io",
+      "url": "https://skribbl.io/",
+      "desc": "你画我猜的在线多人版，建房间拉朋友即可开玩，支持自定义词库，聚会与线上团建的气氛担当。",
+      "tags": [
+        "在线游戏",
+        "派对",
+        "你画我猜",
+        "多人"
+      ],
+      "cat": "game",
+      "sub": "play",
+      "hot": 1,
+      "lang": "multi",
+      "free": "free",
+      "added": "2024-09-11"
+    },
+    {
+      "id": "game-play-16",
+      "name": "Gartic Phone",
+      "url": "https://garticphone.com/",
+      "desc": "电话接龙式的绘画传话游戏，人数越多越爆笑，无需注册即可开房间，非常适合线上聚会。",
+      "tags": [
+        "在线游戏",
+        "派对",
+        "绘画",
+        "聚会"
+      ],
+      "cat": "game",
+      "sub": "play",
+      "hot": 2,
+      "lang": "multi",
+      "free": "free",
+      "added": "2024-09-11"
+    },
+    {
+      "id": "game-play-17",
+      "name": "Board Game Arena",
+      "url": "https://boardgamearena.com/",
+      "desc": "把上千款桌面游戏搬到浏览器的平台，自动结算规则、支持实时与异步对局，桌游爱好者必备。",
+      "tags": [
+        "在线游戏",
+        "桌游",
+        "多人联机",
+        "规则自动化"
+      ],
+      "cat": "game",
+      "sub": "play",
+      "hot": 1,
+      "lang": "multi",
+      "free": "freemium",
+      "added": "2024-09-26"
+    },
+    {
+      "id": "game-play-18",
+      "name": "Chess.com",
+      "url": "https://www.chess.com/",
+      "desc": "全球用户量最大的国际象棋对弈与学习平台，含 AI 复盘、残局题库、开局库与好友对局功能。",
+      "tags": [
+        "在线游戏",
+        "棋类",
+        "国际象棋",
+        "复盘"
+      ],
+      "cat": "game",
+      "sub": "play",
+      "hot": 1,
+      "lang": "multi",
+      "free": "freemium",
+      "added": "2024-09-26"
+    },
+    {
+      "id": "game-play-19",
+      "name": "Lichess",
+      "url": "https://lichess.org/",
+      "desc": "完全免费开源的国际象棋平台，无广告无付费墙，提供引擎分析、开局数据库与公开源码。",
+      "tags": [
+        "在线游戏",
+        "棋类",
+        "开源",
+        "免广告"
+      ],
+      "cat": "game",
+      "sub": "play",
+      "hot": 1,
+      "lang": "multi",
+      "free": "free",
+      "added": "2024-10-09"
+    },
+    {
+      "id": "game-play-20",
+      "name": "GeoGuessr",
+      "url": "https://www.geoguessr.com/",
+      "desc": "把玩家丢到街景里靠细节推断地理位置的地理竞猜游戏，既上瘾又能顺便长见识。",
+      "tags": [
+        "在线游戏",
+        "地理",
+        "竞猜",
+        "街景"
+      ],
+      "cat": "game",
+      "sub": "play",
+      "hot": 1,
+      "lang": "multi",
+      "free": "freemium",
+      "added": "2024-10-09"
+    },
+    {
+      "id": "game-guide-01",
+      "name": "IGDB",
+      "url": "https://www.igdb.com/",
+      "desc": "结构化的游戏数据库，按类型、平台、发行时间与厂商多维检索，也是多家游戏工具的公共数据源。",
+      "tags": [
+        "数据库",
+        "游戏资料",
+        "检索",
+        "英文"
+      ],
+      "cat": "game",
+      "sub": "guide",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-05-22"
+    },
+    {
+      "id": "game-guide-02",
+      "name": "灰机 Wiki",
+      "url": "https://www.huijiwiki.com/",
+      "desc": "国内成熟的维基托管服务，大量国产游戏与动漫的中文 Wiki 建站于此，手机端阅读体验良好。",
+      "tags": [
+        "攻略",
+        "Wiki",
+        "中文",
+        "游戏百科"
+      ],
+      "cat": "game",
+      "sub": "guide",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-05-22"
+    },
+    {
+      "id": "game-guide-03",
+      "name": "游民星空",
+      "url": "https://www.gamersky.com/",
+      "desc": "国内老牌游戏门户，图文与视频攻略、评测、资讯与下载资源齐全，单机大作的攻略覆盖度高。",
+      "tags": [
+        "攻略",
+        "游戏媒体",
+        "单机",
+        "中文"
+      ],
+      "cat": "game",
+      "sub": "guide",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-06-13"
+    },
+    {
+      "id": "game-guide-04",
+      "name": "3DM 游戏网",
+      "url": "https://www.3dmgame.com/",
+      "desc": "国内资历很深的单机游戏站点，攻略专区、汉化补丁与 MOD 资源是众多玩家的常用入口。",
+      "tags": [
+        "攻略",
+        "游戏媒体",
+        "MOD",
+        "汉化"
+      ],
+      "cat": "game",
+      "sub": "guide",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-06-13"
+    },
+    {
+      "id": "game-guide-05",
+      "name": "游侠网",
+      "url": "https://www.ali213.net/",
+      "desc": "老牌单机游戏综合站，攻略、图鉴、补丁与修改器资源丰富，经典游戏的资料沉淀比较完整。",
+      "tags": [
+        "攻略",
+        "单机",
+        "图鉴",
+        "补丁"
+      ],
+      "cat": "game",
+      "sub": "guide",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-07-01"
+    },
+    {
+      "id": "game-guide-06",
+      "name": "17173",
+      "url": "https://www.17173.com/",
+      "desc": "国内网游时代的代表性门户，如今覆盖端游手游资讯、专区攻略与排行榜，偏向网络游戏方向。",
+      "tags": [
+        "攻略",
+        "网游",
+        "资讯",
+        "专区"
+      ],
+      "cat": "game",
+      "sub": "guide",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-07-01"
+    },
+    {
+      "id": "game-guide-07",
+      "name": "电玩巴士",
+      "url": "https://www.tgbus.com/",
+      "desc": "以主机游戏为核心的中文站点，硬件资讯、游戏攻略与下载资源并重，主机玩家常逛的老站。",
+      "tags": [
+        "攻略",
+        "主机",
+        "资讯",
+        "中文"
+      ],
+      "cat": "game",
+      "sub": "guide",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-07-16"
+    },
+    {
+      "id": "game-guide-08",
+      "name": "游戏时光 VGtime",
+      "url": "https://www.vgtime.com/",
+      "desc": "偏严肃向的中文游戏媒体，评测、专栏与怀旧内容质量稳定，社区讨论氛围相对理性。",
+      "tags": [
+        "评测",
+        "游戏媒体",
+        "专栏",
+        "深度"
+      ],
+      "cat": "game",
+      "sub": "guide",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-07-16"
+    },
+    {
+      "id": "game-guide-09",
+      "name": "机核 GCORES",
+      "url": "https://www.gcores.com/",
+      "desc": "以播客和长文见长的游戏文化社区，从游戏延伸至科幻、历史与亚文化，内容深度著称。",
+      "tags": [
+        "播客",
+        "游戏文化",
+        "社区",
+        "长文"
+      ],
+      "cat": "game",
+      "sub": "guide",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-07-30"
+    },
+    {
+      "id": "game-guide-10",
+      "name": "触乐",
+      "url": "https://www.chuapp.com/",
+      "desc": "专注游戏行业与玩家生态的深度报道媒体，用特稿视角记录游戏圈的人和事。",
+      "tags": [
+        "游戏媒体",
+        "深度报道",
+        "行业",
+        "特稿"
+      ],
+      "cat": "game",
+      "sub": "guide",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-07-30"
+    },
+    {
+      "id": "game-guide-11",
+      "name": "游研社",
+      "url": "https://www.yystv.cn/",
+      "desc": "擅长挖掘老游戏与行业冷知识的游戏文化媒体，考据类长文与怀旧专题辨识度很高。",
+      "tags": [
+        "游戏文化",
+        "考据",
+        "怀旧",
+        "媒体"
+      ],
+      "cat": "game",
+      "sub": "guide",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-08-14"
+    },
+    {
+      "id": "game-guide-12",
+      "name": "IGN 中国",
+      "url": "https://www.ign.com.cn/",
+      "desc": "国际游戏媒体 IGN 的中文站点，评测、前瞻与攻略同步更新，评分体系为全球通行参考之一。",
+      "tags": [
+        "评测",
+        "游戏媒体",
+        "前瞻",
+        "评分"
+      ],
+      "cat": "game",
+      "sub": "guide",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-08-14"
+    },
+    {
+      "id": "game-guide-13",
+      "name": "Metacritic",
+      "url": "https://www.metacritic.com/",
+      "desc": "汇总全球媒体评分的权威聚合站，游戏、影视与音乐均有综合评分，选购前的重要参考。",
+      "tags": [
+        "评分",
+        "聚合",
+        "媒体评分",
+        "英文"
+      ],
+      "cat": "game",
+      "sub": "guide",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-08-28"
+    },
+    {
+      "id": "game-guide-14",
+      "name": "OpenCritic",
+      "url": "https://opencritic.com/",
+      "desc": "只做游戏评分的聚合站，评分口径透明、更新及时，界面比同类站点干净，适合快速判断口碑。",
+      "tags": [
+        "评分",
+        "聚合",
+        "游戏评分",
+        "英文"
+      ],
+      "cat": "game",
+      "sub": "guide",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-08-28"
+    },
+    {
+      "id": "game-guide-15",
+      "name": "SteamDB",
+      "url": "https://steamdb.info/",
+      "desc": "Steam 数据库站，追踪价格历史、在线人数、更新记录与后台改动，买前查价与查更新的利器。",
+      "tags": [
+        "数据",
+        "Steam",
+        "价格追踪",
+        "统计"
+      ],
+      "cat": "game",
+      "sub": "guide",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-09-16"
+    },
+    {
+      "id": "game-guide-16",
+      "name": "HowLongToBeat",
+      "url": "https://howlongtobeat.com/",
+      "desc": "统计一款游戏通关需要多少小时，分主线、主支线与全收集三个口径，安排时间很有用。",
+      "tags": [
+        "数据",
+        "通关时长",
+        "统计",
+        "英文"
+      ],
+      "cat": "game",
+      "sub": "guide",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-09-16"
+    },
+    {
+      "id": "game-guide-17",
+      "name": "PCGamingWiki",
+      "url": "https://www.pcgamingwiki.com/",
+      "desc": "专治 PC 游戏各种疑难杂症的 Wiki，存档位置、宽屏修复、帧率解锁与手柄支持一查便知。",
+      "tags": [
+        "攻略",
+        "Wiki",
+        "PC优化",
+        "故障排查"
+      ],
+      "cat": "game",
+      "sub": "guide",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-09-30"
+    },
+    {
+      "id": "game-guide-18",
+      "name": "MobyGames",
+      "url": "https://www.mobygames.com/",
+      "desc": "覆盖数十年的游戏资料库，收录开发者、发行商、平台与封面版本信息，游戏考古必查。",
+      "tags": [
+        "数据库",
+        "游戏资料",
+        "怀旧",
+        "英文"
+      ],
+      "cat": "game",
+      "sub": "guide",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-09-30"
+    },
+    {
+      "id": "game-guide-19",
+      "name": "Nexus Mods",
+      "url": "https://www.nexusmods.com/",
+      "desc": "全球最大的游戏 MOD 社区，单机大作的画质、功能与剧情模组几乎都能在这里找到。",
+      "tags": [
+        "MOD",
+        "社区",
+        "单机",
+        "扩展"
+      ],
+      "cat": "game",
+      "sub": "guide",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-10-15"
+    },
+    {
+      "id": "game-guide-20",
+      "name": "GameFAQs",
+      "url": "https://gamefaqs.gamespot.com/",
+      "desc": "互联网上最早的攻略资料站之一，大量纯文本全流程攻略与金手指至今仍无人替代。",
+      "tags": [
+        "攻略",
+        "图文攻略",
+        "老站",
+        "英文"
+      ],
+      "cat": "game",
+      "sub": "guide",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-10-15"
+    },
+    {
+      "id": "game-live-01",
+      "name": "斗鱼直播",
+      "url": "https://www.douyu.com/",
+      "desc": "国内头部游戏直播平台，电竞赛事、主机单机与娱乐分区齐全，赛事版权覆盖较为全面。",
+      "tags": [
+        "直播",
+        "游戏直播",
+        "电竞",
+        "国产"
+      ],
+      "cat": "game",
+      "sub": "live",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-05-29"
+    },
+    {
+      "id": "game-live-02",
+      "name": "虎牙直播",
+      "url": "https://www.huya.com/",
+      "desc": "国内另一大游戏直播平台，以电竞赛事、手游与弹幕互动见长，蓝光画质与延迟表现稳定。",
+      "tags": [
+        "直播",
+        "游戏直播",
+        "电竞",
+        "国产"
+      ],
+      "cat": "game",
+      "sub": "live",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-05-29"
+    },
+    {
+      "id": "game-live-03",
+      "name": "哔哩哔哩直播",
+      "url": "https://live.bilibili.com/",
+      "desc": "B 站直播区，虚拟主播、游戏与知识分区共荣，弹幕文化与二次元氛围在同类平台中独树一帜。",
+      "tags": [
+        "直播",
+        "虚拟主播",
+        "弹幕",
+        "二次元"
+      ],
+      "cat": "game",
+      "sub": "live",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-06-19"
+    },
+    {
+      "id": "game-live-04",
+      "name": "快手直播",
+      "url": "https://live.kuaishou.com/",
+      "desc": "短视频平台快手旗下的直播板块，游戏、才艺与生活分区并行，移动端观看体验优先。",
+      "tags": [
+        "直播",
+        "短视频",
+        "移动端",
+        "国产"
+      ],
+      "cat": "game",
+      "sub": "live",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-06-19"
+    },
+    {
+      "id": "game-live-05",
+      "name": "抖音直播",
+      "url": "https://live.douyin.com/",
+      "desc": "抖音的直播入口，以电商与泛娱乐直播为主，游戏直播同样具备可观流量与互动形式。",
+      "tags": [
+        "直播",
+        "短视频",
+        "泛娱乐",
+        "国产"
+      ],
+      "cat": "game",
+      "sub": "live",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-07-08"
+    },
+    {
+      "id": "game-live-06",
+      "name": "网易 CC 直播",
+      "url": "https://cc.163.com/",
+      "desc": "网易旗下的游戏直播平台，深度绑定自家游戏生态，赛事与公会体系相对完整。",
+      "tags": [
+        "直播",
+        "网易",
+        "游戏直播",
+        "电竞"
+      ],
+      "cat": "game",
+      "sub": "live",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-07-08"
+    },
+    {
+      "id": "game-live-07",
+      "name": "Twitch",
+      "url": "https://www.twitch.tv/",
+      "desc": "全球最大的游戏直播平台，几乎所有国际电竞赛事与知名主播的首播地，聊天文化浓厚。",
+      "tags": [
+        "直播",
+        "游戏直播",
+        "国际",
+        "电竞"
+      ],
+      "cat": "game",
+      "sub": "live",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-07-23"
+    },
+    {
+      "id": "game-live-08",
+      "name": "Kick",
+      "url": "https://kick.com/",
+      "desc": "近年崛起的新兴直播平台，以更高的主播分成与宽松规则吸引创作者，游戏分区增长迅速。",
+      "tags": [
+        "直播",
+        "新兴平台",
+        "国际",
+        "创作者"
+      ],
+      "cat": "game",
+      "sub": "live",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-07-23"
+    },
+    {
+      "id": "game-live-09",
+      "name": "Trovo",
+      "url": "https://trovo.live/",
+      "desc": "腾讯参与投资的海外直播平台，界面轻量、移动端友好，在拉美与东南亚地区用户较多。",
+      "tags": [
+        "直播",
+        "国际",
+        "移动端",
+        "腾讯"
+      ],
+      "cat": "game",
+      "sub": "live",
+      "hot": 2,
+      "lang": "multi",
+      "free": "free",
+      "added": "2024-08-06"
+    },
+    {
+      "id": "game-live-10",
+      "name": "Discord",
+      "url": "https://discord.com/",
+      "desc": "游戏玩家最常用的语音与社群工具，频道、语音房与机器人生态构成大量游戏社区的基础设施。",
+      "tags": [
+        "社区",
+        "语音",
+        "社群工具",
+        "游戏"
+      ],
+      "cat": "game",
+      "sub": "live",
+      "hot": 1,
+      "lang": "multi",
+      "free": "freemium",
+      "added": "2024-08-06"
+    },
+    {
+      "id": "game-live-11",
+      "name": "NGA 玩家社区",
+      "url": "https://bbs.nga.cn/",
+      "desc": "国内高质量的游戏玩家论坛，职业攻略与数据分析帖质量突出，各游戏版块的自净能力较强。",
+      "tags": [
+        "社区",
+        "论坛",
+        "攻略",
+        "中文"
+      ],
+      "cat": "game",
+      "sub": "live",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-08-20"
+    },
+    {
+      "id": "game-live-12",
+      "name": "米游社",
+      "url": "https://www.miyoushe.com/",
+      "desc": "米哈游官方玩家社区，原神、崩坏与绝区零的攻略、同人与版本讨论的官方集散地。",
+      "tags": [
+        "社区",
+        "米哈游",
+        "玩家论坛",
+        "官方"
+      ],
+      "cat": "game",
+      "sub": "live",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-08-20"
+    },
+    {
+      "id": "game-live-13",
+      "name": "Steam 社区",
+      "url": "https://steamcommunity.com/",
+      "desc": "Steam 官方社区中心，创意工坊、评测、截图与组群功能构成 PC 玩家最常用的社交层。",
+      "tags": [
+        "社区",
+        "Steam",
+        "创意工坊",
+        "评测"
+      ],
+      "cat": "game",
+      "sub": "live",
+      "hot": 1,
+      "lang": "multi",
+      "free": "free",
+      "added": "2024-09-03"
+    },
+    {
+      "id": "game-live-14",
+      "name": "玩加电竞",
+      "url": "https://www.wanplus.com/",
+      "desc": "国内电竞赛事数据与资讯平台，赛程、比分与选手数据整理清晰，覆盖主流竞技项目。",
+      "tags": [
+        "电竞",
+        "赛事数据",
+        "赛程",
+        "中文"
+      ],
+      "cat": "game",
+      "sub": "live",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-09-03"
+    },
+    {
+      "id": "game-live-15",
+      "name": "5EPlay",
+      "url": "https://www.5eplay.com/",
+      "desc": "国内 CS 系列的核心对战与资讯平台，匹配、约战、赛事与战报一体化，玩家基数大。",
+      "tags": [
+        "电竞",
+        "CS",
+        "对战平台",
+        "赛事"
+      ],
+      "cat": "game",
+      "sub": "live",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-09-19"
+    },
+    {
+      "id": "game-live-16",
+      "name": "Liquipedia",
+      "url": "https://liquipedia.net/",
+      "desc": "由社区维护的电竞百科，赛事结果、选手转会、战队历史与赛制规则记录极其详尽。",
+      "tags": [
+        "电竞",
+        "Wiki",
+        "赛事记录",
+        "英文"
+      ],
+      "cat": "game",
+      "sub": "live",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-09-19"
+    },
+    {
+      "id": "game-live-17",
+      "name": "VLR.gg",
+      "url": "https://www.vlr.gg/",
+      "desc": "无畏契约赛事与战队的专业数据库，赛程、比分、选手数据与赛事讨论做得相当细致。",
+      "tags": [
+        "电竞",
+        "无畏契约",
+        "赛程",
+        "数据"
+      ],
+      "cat": "game",
+      "sub": "live",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-10-02"
+    },
+    {
+      "id": "game-live-18",
+      "name": "FACEIT",
+      "url": "https://www.faceit.com/",
+      "desc": "国际主流的高水平竞技对战平台，反作弊机制较强，是 CS 与无畏契约进阶玩家的常用选择。",
+      "tags": [
+        "电竞",
+        "对战平台",
+        "竞技",
+        "国际"
+      ],
+      "cat": "game",
+      "sub": "live",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-10-02"
+    },
+    {
+      "id": "game-live-19",
+      "name": "ESL",
+      "url": "https://www.esl.com/",
+      "desc": "全球规模最大的电竞赛事组织方之一，运营 ESL Pro League 等顶级系列赛事并提供直播入口。",
+      "tags": [
+        "电竞",
+        "赛事",
+        "国际",
+        "主办方"
+      ],
+      "cat": "game",
+      "sub": "live",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-10-21"
+    },
+    {
+      "id": "game-live-20",
+      "name": "LoL Esports",
+      "url": "https://lolesports.com/",
+      "desc": "英雄联盟官方赛事平台，全球各赛区赛程、直播、VOD 与赛事资讯的统一入口。",
+      "tags": [
+        "电竞",
+        "英雄联盟",
+        "官方赛事",
+        "直播"
+      ],
+      "cat": "game",
+      "sub": "live",
+      "hot": 1,
+      "lang": "multi",
+      "free": "free",
+      "added": "2024-10-21"
+    },
+    {
+      "id": "game-video-01",
+      "name": "豆瓣",
+      "url": "https://www.douban.com/",
+      "desc": "中文互联网最有影响力的书影音评分社区，评分与短评体系成熟，选片与选书的重要参考。",
+      "tags": [
+        "评分",
+        "书影音",
+        "社区",
+        "中文"
+      ],
+      "cat": "game",
+      "sub": "video",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-06-03"
+    },
+    {
+      "id": "game-video-02",
+      "name": "猫眼电影",
+      "url": "https://www.maoyan.com/",
+      "desc": "国内主要的电影票务与数据平台，实时票房、排片与观众评分一应俱全，购票可直接下单。",
+      "tags": [
+        "票务",
+        "电影",
+        "票房数据",
+        "中文"
+      ],
+      "cat": "game",
+      "sub": "video",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-06-03"
+    },
+    {
+      "id": "game-video-03",
+      "name": "淘票票",
+      "url": "https://www.taopiaopiao.com/",
+      "desc": "阿里旗下的电影票务平台，与影院排片实时同步，常有大额补贴与会员优惠可叠加。",
+      "tags": [
+        "票务",
+        "电影",
+        "优惠",
+        "中文"
+      ],
+      "cat": "game",
+      "sub": "video",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-06-25"
+    },
+    {
+      "id": "game-video-04",
+      "name": "时光网",
+      "url": "https://www.mtime.com/",
+      "desc": "老牌中文电影资料库与媒体，影片资料、影讯与专业影评沉淀丰富，适合查资料。",
+      "tags": [
+        "电影",
+        "资料库",
+        "影评",
+        "中文"
+      ],
+      "cat": "game",
+      "sub": "video",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-06-25"
+    },
+    {
+      "id": "game-video-05",
+      "name": "IMDb",
+      "url": "https://www.imdb.com/",
+      "desc": "全球最权威的影视资料库，演职员、发行信息与评分数据覆盖极广，查片绕不开的站点。",
+      "tags": [
+        "影视",
+        "资料库",
+        "评分",
+        "英文"
+      ],
+      "cat": "game",
+      "sub": "video",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-07-11"
+    },
+    {
+      "id": "game-video-06",
+      "name": "TMDB",
+      "url": "https://www.themoviedb.org/",
+      "desc": "开放的电影电视数据库，数据可自由调用 API，界面清爽且支持中文，是影视工具的常用数据源。",
+      "tags": [
+        "影视",
+        "数据库",
+        "API",
+        "多语言"
+      ],
+      "cat": "game",
+      "sub": "video",
+      "hot": 1,
+      "lang": "multi",
+      "free": "free",
+      "added": "2024-07-11"
+    },
+    {
+      "id": "game-video-07",
+      "name": "AcFun",
+      "url": "https://www.acfun.cn/",
+      "desc": "国内最早的弹幕视频网站，硬核科普与鬼畜文化底蕴深厚，社区气质与同类平台差异明显。",
+      "tags": [
+        "视频",
+        "弹幕",
+        "二次元",
+        "社区"
+      ],
+      "cat": "game",
+      "sub": "video",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-07-26"
+    },
+    {
+      "id": "game-video-08",
+      "name": "腾讯视频",
+      "url": "https://v.qq.com/",
+      "desc": "国内头部长视频平台，剧集、综艺、动漫与体育版权储备雄厚，自制内容产量较高。",
+      "tags": [
+        "视频",
+        "剧集",
+        "综艺",
+        "正版"
+      ],
+      "cat": "game",
+      "sub": "video",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-07-26"
+    },
+    {
+      "id": "game-video-09",
+      "name": "爱奇艺",
+      "url": "https://www.iqiyi.com/",
+      "desc": "国内主流视频平台之一，剧集与综艺自制能力突出，动漫版权覆盖同样较全。",
+      "tags": [
+        "视频",
+        "剧集",
+        "综艺",
+        "正版"
+      ],
+      "cat": "game",
+      "sub": "video",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-08-12"
+    },
+    {
+      "id": "game-video-10",
+      "name": "优酷",
+      "url": "https://www.youku.com/",
+      "desc": "阿里系长视频平台，港剧、老剧与纪录片资源相对丰富，会员常与电商权益打包。",
+      "tags": [
+        "视频",
+        "剧集",
+        "纪录片",
+        "正版"
+      ],
+      "cat": "game",
+      "sub": "video",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-08-12"
+    },
+    {
+      "id": "game-video-11",
+      "name": "芒果 TV",
+      "url": "https://www.mgtv.com/",
+      "desc": "湖南广电旗下视频平台，综艺自制能力顶尖，热门季播综艺多为独播内容。",
+      "tags": [
+        "视频",
+        "综艺",
+        "独播",
+        "正版"
+      ],
+      "cat": "game",
+      "sub": "video",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-08-26"
+    },
+    {
+      "id": "game-video-12",
+      "name": "西瓜视频",
+      "url": "https://www.ixigua.com/",
+      "desc": "字节跳动旗下的中长视频平台，知识科普、影视解说与生活纪实类内容体量较大。",
+      "tags": [
+        "视频",
+        "中长视频",
+        "科普",
+        "中文"
+      ],
+      "cat": "game",
+      "sub": "video",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-08-26"
+    },
+    {
+      "id": "game-video-13",
+      "name": "Netflix",
+      "url": "https://www.netflix.com/",
+      "desc": "全球最大的流媒体平台，原创剧集与电影产量高，多语言字幕与推荐算法体验成熟。",
+      "tags": [
+        "流媒体",
+        "剧集",
+        "原创",
+        "国际"
+      ],
+      "cat": "game",
+      "sub": "video",
+      "hot": 1,
+      "lang": "multi",
+      "free": "paid",
+      "added": "2024-09-09"
+    },
+    {
+      "id": "game-video-14",
+      "name": "Disney+",
+      "url": "https://www.disneyplus.com/",
+      "desc": "迪士尼旗下流媒体平台，漫威、星战、皮克斯与国家地理的完整内容库集中于此。",
+      "tags": [
+        "流媒体",
+        "迪士尼",
+        "漫威",
+        "国际"
+      ],
+      "cat": "game",
+      "sub": "video",
+      "hot": 1,
+      "lang": "multi",
+      "free": "paid",
+      "added": "2024-09-09"
+    },
+    {
+      "id": "game-video-15",
+      "name": "Prime Video",
+      "url": "https://www.primevideo.com/",
+      "desc": "亚马逊的流媒体服务，会员权益打包在 Prime 订阅内，原创剧集与影视版权覆盖广。",
+      "tags": [
+        "流媒体",
+        "亚马逊",
+        "订阅制",
+        "国际"
+      ],
+      "cat": "game",
+      "sub": "video",
+      "hot": 0,
+      "lang": "multi",
+      "free": "paid",
+      "added": "2024-09-24"
+    },
+    {
+      "id": "game-video-16",
+      "name": "网易云音乐",
+      "url": "https://music.163.com/",
+      "desc": "国内主流音乐平台，歌单与评论文化是最大特色，独立音乐人与小众曲库相对丰富。",
+      "tags": [
+        "音乐",
+        "歌单",
+        "社区",
+        "中文"
+      ],
+      "cat": "game",
+      "sub": "video",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-09-24"
+    },
+    {
+      "id": "game-video-17",
+      "name": "QQ 音乐",
+      "url": "https://y.qq.com/",
+      "desc": "腾讯旗下音乐平台，正版曲库体量最大，与社交账号打通，版权覆盖是其主要优势。",
+      "tags": [
+        "音乐",
+        "曲库",
+        "正版",
+        "中文"
+      ],
+      "cat": "game",
+      "sub": "video",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-10-07"
+    },
+    {
+      "id": "game-video-18",
+      "name": "酷狗音乐",
+      "url": "https://www.kugou.com/",
+      "desc": "国内老牌音乐平台，音效调节与本地音乐管理功能完善，K 歌与铃声生态较为成熟。",
+      "tags": [
+        "音乐",
+        "音效",
+        "老牌",
+        "中文"
+      ],
+      "cat": "game",
+      "sub": "video",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-10-07"
+    },
+    {
+      "id": "game-video-19",
+      "name": "Spotify",
+      "url": "https://open.spotify.com/",
+      "desc": "全球用户量最大的音乐流媒体，推荐算法与歌单生态领先，跨设备接续播放体验顺滑。",
+      "tags": [
+        "音乐",
+        "流媒体",
+        "推荐算法",
+        "国际"
+      ],
+      "cat": "game",
+      "sub": "video",
+      "hot": 1,
+      "lang": "multi",
+      "free": "freemium",
+      "added": "2024-10-23"
+    },
+    {
+      "id": "game-video-20",
+      "name": "小宇宙",
+      "url": "https://www.xiaoyuzhoufm.com/",
+      "desc": "中文播客收听与发现平台，界面克制、时间戳评论体验好，中文播客生态的主要阵地。",
+      "tags": [
+        "播客",
+        "音频",
+        "中文",
+        "社区"
+      ],
+      "cat": "game",
+      "sub": "video",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-10-23"
+    },
+    {
+      "id": "game-anime-01",
+      "name": "Niconico 动画",
+      "url": "https://www.nicovideo.jp/",
+      "desc": "日本弹幕视频网站的开山鼻祖，番剧、音乐、舞蹈与游戏实况投稿生态完整，二次元文化的源头之一。",
+      "tags": [
+        "弹幕",
+        "视频",
+        "二次元",
+        "日本"
+      ],
+      "cat": "game",
+      "sub": "anime",
+      "hot": 1,
+      "lang": "multi",
+      "free": "freemium",
+      "added": "2024-06-11"
+    },
+    {
+      "id": "game-anime-02",
+      "name": "萌娘百科",
+      "url": "https://zh.moegirl.org.cn/",
+      "desc": "中文二次元百科，以幽默的条目文风记录动漫、游戏与网络梗，考据与玩梗并存。",
+      "tags": [
+        "百科",
+        "二次元",
+        "梗文化",
+        "中文"
+      ],
+      "cat": "game",
+      "sub": "anime",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-06-11"
+    },
+    {
+      "id": "game-anime-03",
+      "name": "Bangumi 番组计划",
+      "url": "https://bgm.tv/",
+      "desc": "中文圈最认真的动漫、游戏与书籍收藏评分站，条目资料与用户评分的可信度较高。",
+      "tags": [
+        "动漫",
+        "评分",
+        "收藏管理",
+        "社区"
+      ],
+      "cat": "game",
+      "sub": "anime",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-06-28"
+    },
+    {
+      "id": "game-anime-04",
+      "name": "AniList",
+      "url": "https://anilist.co/",
+      "desc": "现代化的动漫与漫画追踪平台，界面美观、支持自定义列表与统计图表，国际用户为主。",
+      "tags": [
+        "动漫",
+        "追踪",
+        "统计",
+        "国际"
+      ],
+      "cat": "game",
+      "sub": "anime",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-06-28"
+    },
+    {
+      "id": "game-anime-05",
+      "name": "MyAnimeList",
+      "url": "https://myanimelist.net/",
+      "desc": "历史最久的动漫数据库与收藏站，条目与排名数据被广泛引用，是国际动漫圈的基础设施。",
+      "tags": [
+        "动漫",
+        "数据库",
+        "排名",
+        "英文"
+      ],
+      "cat": "game",
+      "sub": "anime",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-07-14"
+    },
+    {
+      "id": "game-anime-06",
+      "name": "AniDB",
+      "url": "https://anidb.net/",
+      "desc": "以严谨著称的动漫数据库，剧集级别、制作人员与发行版信息记录粒度极细，资料党首选。",
+      "tags": [
+        "动漫",
+        "数据库",
+        "资料",
+        "英文"
+      ],
+      "cat": "game",
+      "sub": "anime",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-07-14"
+    },
+    {
+      "id": "game-anime-07",
+      "name": "Anime-Planet",
+      "url": "https://www.anime-planet.com/",
+      "desc": "动漫与漫画推荐站点，标签体系细致，按题材与心情找番比通用榜单更实用。",
+      "tags": [
+        "动漫",
+        "推荐",
+        "标签",
+        "英文"
+      ],
+      "cat": "game",
+      "sub": "anime",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-07-31"
+    },
+    {
+      "id": "game-anime-08",
+      "name": "Kitsu",
+      "url": "https://kitsu.app/",
+      "desc": "开源风格的动漫追踪社区，移动端体验良好，支持导入主流平台的收藏列表。",
+      "tags": [
+        "动漫",
+        "追踪",
+        "社区",
+        "国际"
+      ],
+      "cat": "game",
+      "sub": "anime",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-07-31"
+    },
+    {
+      "id": "game-anime-09",
+      "name": "Anime News Network",
+      "url": "https://www.animenewsnetwork.com/",
+      "desc": "英文世界最具影响力的动漫新闻媒体，行业动态、新番情报与长篇访谈更新及时。",
+      "tags": [
+        "资讯",
+        "动漫媒体",
+        "新番",
+        "英文"
+      ],
+      "cat": "game",
+      "sub": "anime",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-08-15"
+    },
+    {
+      "id": "game-anime-10",
+      "name": "Pixiv",
+      "url": "https://www.pixiv.net/",
+      "desc": "日本最大的插画创作与交流社区，二次元同人插画的核心阵地，也是找画师的重要入口。",
+      "tags": [
+        "插画",
+        "同人",
+        "创作社区",
+        "日本"
+      ],
+      "cat": "game",
+      "sub": "anime",
+      "hot": 1,
+      "lang": "multi",
+      "free": "freemium",
+      "added": "2024-08-15"
+    },
+    {
+      "id": "game-anime-11",
+      "name": "Lofter",
+      "url": "https://www.lofter.com/",
+      "desc": "国内知名的兴趣创作社区，同人文、同人图与摄影内容集中，二次元创作的活跃阵地。",
+      "tags": [
+        "同人",
+        "创作",
+        "社区",
+        "中文"
+      ],
+      "cat": "game",
+      "sub": "anime",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-08-30"
+    },
+    {
+      "id": "game-anime-12",
+      "name": "米画师",
+      "url": "https://www.mihuashi.com/",
+      "desc": "国内美术约稿与接单平台，画师主页、稿件企划与担保交易流程相对规范。",
+      "tags": [
+        "约稿",
+        "画师",
+        "接单",
+        "中文"
+      ],
+      "cat": "game",
+      "sub": "anime",
+      "hot": 2,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-08-30"
+    },
+    {
+      "id": "game-anime-13",
+      "name": "触站",
+      "url": "https://www.huashi6.com/",
+      "desc": "国内二次元插画分享与画师社区，作品分类清晰，也提供约稿与素材相关服务。",
+      "tags": [
+        "插画",
+        "画师",
+        "社区",
+        "中文"
+      ],
+      "cat": "game",
+      "sub": "anime",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-09-13"
+    },
+    {
+      "id": "game-anime-14",
+      "name": "快看漫画",
+      "url": "https://www.kuaikanmanhua.com/",
+      "desc": "国内头部条漫平台，国漫原创作品产量高，竖屏阅读体验为移动端优化得比较彻底。",
+      "tags": [
+        "漫画",
+        "条漫",
+        "国漫",
+        "正版"
+      ],
+      "cat": "game",
+      "sub": "anime",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-09-13"
+    },
+    {
+      "id": "game-anime-15",
+      "name": "腾讯动漫",
+      "url": "https://ac.qq.com/",
+      "desc": "国内主要的正版网络漫画平台，签约作品与 IP 改编资源丰富，与腾讯内容生态联动紧密。",
+      "tags": [
+        "漫画",
+        "正版",
+        "国漫",
+        "IP"
+      ],
+      "cat": "game",
+      "sub": "anime",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-09-27"
+    },
+    {
+      "id": "game-anime-16",
+      "name": "哔哩哔哩漫画",
+      "url": "https://manga.bilibili.com/",
+      "desc": "B 站旗下的正版漫画平台，日漫与国漫版权覆盖较全，与站内番剧内容形成联动。",
+      "tags": [
+        "漫画",
+        "正版",
+        "日漫",
+        "中文"
+      ],
+      "cat": "game",
+      "sub": "anime",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-09-27"
+    },
+    {
+      "id": "game-anime-17",
+      "name": "Comic Walker",
+      "url": "https://comic-walker.com/",
+      "desc": "KADOKAWA 官方免费漫画站，大量作品提供免费试读，日文原版新作更新速度较快。",
+      "tags": [
+        "漫画",
+        "官方",
+        "免费试读",
+        "日本"
+      ],
+      "cat": "game",
+      "sub": "anime",
+      "hot": 2,
+      "lang": "multi",
+      "free": "free",
+      "added": "2024-10-12"
+    },
+    {
+      "id": "game-anime-18",
+      "name": "Holodex",
+      "url": "https://holodex.net/",
+      "desc": "虚拟主播直播聚合工具，多频道同屏、翻译与时间轴切片功能齐全，VTuber 观众的效率工具。",
+      "tags": [
+        "虚拟主播",
+        "聚合",
+        "直播工具",
+        "二次元"
+      ],
+      "cat": "game",
+      "sub": "anime",
+      "hot": 2,
+      "lang": "multi",
+      "free": "free",
+      "added": "2024-10-12"
+    },
+    {
+      "id": "game-anime-19",
+      "name": "VGMdb",
+      "url": "https://vgmdb.net/",
+      "desc": "动漫与游戏音乐的权威资料库，原声带、制作人员与曲目信息记录得非常完整。",
+      "tags": [
+        "音乐",
+        "数据库",
+        "原声带",
+        "资料"
+      ],
+      "cat": "game",
+      "sub": "anime",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-10-29"
+    },
+    {
+      "id": "game-anime-20",
+      "name": "trace.moe",
+      "url": "https://trace.moe/",
+      "desc": "上传一张动漫截图即可反查出自哪部作品第几集第几秒，找番神器，完全免费无需注册。",
+      "tags": [
+        "工具",
+        "找番",
+        "以图搜番",
+        "免费"
+      ],
+      "cat": "game",
+      "sub": "anime",
+      "hot": 1,
+      "lang": "multi",
+      "free": "free",
+      "added": "2024-10-29"
+    }
+  ]
+}

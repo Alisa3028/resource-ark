@@ -1,0 +1,3270 @@
+{
+  "category": "tools",
+  "resources": [
+    {
+      "id": "tools-convert-01",
+      "name": "Convertio",
+      "url": "https://convertio.co/",
+      "desc": "支持300多种格式的在线文档转换器，上传即转无需安装，支持批量与云端存储。",
+      "tags": [
+        "格式转换",
+        "在线",
+        "批量",
+        "免登录"
+      ],
+      "cat": "tools",
+      "sub": "convert",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-03-11"
+    },
+    {
+      "id": "tools-convert-02",
+      "name": "CloudConvert",
+      "url": "https://cloudconvert.com/",
+      "desc": "基于API的高质量文件转换服务，覆盖音视频文档电子书，可对接云盘自动转。",
+      "tags": [
+        "格式转换",
+        "API",
+        "音视频",
+        "文档"
+      ],
+      "cat": "tools",
+      "sub": "convert",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-07-22"
+    },
+    {
+      "id": "tools-convert-03",
+      "name": "Zamzar",
+      "url": "https://www.zamzar.com/",
+      "desc": "老牌在线格式转换站，支持文档图片音视频互转，邮件通知下载链接很省心。",
+      "tags": [
+        "格式转换",
+        "文档",
+        "音视频",
+        "邮件通知"
+      ],
+      "cat": "tools",
+      "sub": "convert",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-01-15"
+    },
+    {
+      "id": "tools-convert-04",
+      "name": "Aconvert",
+      "url": "https://www.aconvert.com/",
+      "desc": "免费在线转换文档图片音视频压缩包，界面朴素但格式全、无需注册。",
+      "tags": [
+        "格式转换",
+        "免费",
+        "免注册",
+        "文档"
+      ],
+      "cat": "tools",
+      "sub": "convert",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-05-09"
+    },
+    {
+      "id": "tools-convert-05",
+      "name": "iLovePDF",
+      "url": "https://www.ilovepdf.com/",
+      "desc": "专注PDF的在线工具集，合并分割压缩转Word/PPT，操作直观一键完成。",
+      "tags": [
+        "PDF",
+        "合并",
+        "压缩",
+        "转换"
+      ],
+      "cat": "tools",
+      "sub": "convert",
+      "hot": 1,
+      "lang": "multi",
+      "free": "freemium",
+      "added": "2024-11-03"
+    },
+    {
+      "id": "tools-convert-06",
+      "name": "Smallpdf",
+      "url": "https://smallpdf.com/",
+      "desc": "流行的PDF在线处理套件，转换压缩签署编辑齐全，拖拽即用体验流畅。",
+      "tags": [
+        "PDF",
+        "编辑",
+        "压缩",
+        "签名"
+      ],
+      "cat": "tools",
+      "sub": "convert",
+      "hot": 1,
+      "lang": "multi",
+      "free": "freemium",
+      "added": "2025-04-18"
+    },
+    {
+      "id": "tools-convert-07",
+      "name": "PDF24",
+      "url": "https://tools.pdf24.org/",
+      "desc": "德国出品的全免费PDF工具箱，桌面版与网页版兼备，无广告无文件大小限制。",
+      "tags": [
+        "PDF",
+        "免费",
+        "无广告",
+        "工具箱"
+      ],
+      "cat": "tools",
+      "sub": "convert",
+      "hot": 1,
+      "lang": "multi",
+      "free": "free",
+      "added": "2024-09-27"
+    },
+    {
+      "id": "tools-convert-08",
+      "name": "FreeConvert",
+      "url": "https://www.freeconvert.com/",
+      "desc": "免费文件转换器，支持文档图片音视频与单位换算，可调用API批量处理。",
+      "tags": [
+        "格式转换",
+        "免费",
+        "API",
+        "批量"
+      ],
+      "cat": "tools",
+      "sub": "convert",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-02-14"
+    },
+    {
+      "id": "tools-convert-09",
+      "name": "ConvertCSV",
+      "url": "https://www.convertcsv.com/",
+      "desc": "专门处理CSV的在线工具，CSV互转JSON/SQL/Excel并支持筛选与去重。",
+      "tags": [
+        "CSV",
+        "JSON",
+        "SQL",
+        "数据"
+      ],
+      "cat": "tools",
+      "sub": "convert",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-06-30"
+    },
+    {
+      "id": "tools-convert-10",
+      "name": "CSVJSON",
+      "url": "https://csvjson.com/",
+      "desc": "轻量CSV与JSON互转工具，支持列映射和嵌套输出，适合开发调试数据。",
+      "tags": [
+        "CSV",
+        "JSON",
+        "数据",
+        "开发"
+      ],
+      "cat": "tools",
+      "sub": "convert",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-05-21"
+    },
+    {
+      "id": "tools-convert-11",
+      "name": "TableConvert",
+      "url": "https://tableconvert.com/",
+      "desc": "表格数据在线互转神器，CSV/JSON/Markdown/Excel一键转换并支持公式。",
+      "tags": [
+        "表格",
+        "CSV",
+        "JSON",
+        "Markdown"
+      ],
+      "cat": "tools",
+      "sub": "convert",
+      "hot": 2,
+      "lang": "multi",
+      "free": "free",
+      "added": "2024-12-08"
+    },
+    {
+      "id": "tools-convert-12",
+      "name": "JSON Formatter",
+      "url": "https://jsonformatter.org/",
+      "desc": "在线JSON格式化与校验工具，折叠高亮树状预览，支持压缩与转CSV。",
+      "tags": [
+        "JSON",
+        "格式化",
+        "校验",
+        "开发"
+      ],
+      "cat": "tools",
+      "sub": "convert",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-08-02"
+    },
+    {
+      "id": "tools-convert-13",
+      "name": "toEPUB",
+      "url": "https://toepub.com/",
+      "desc": "专注电子书格式互转，EPUB/MOBI/PDF/KF8在线转换，适合阅读器迁移书库。",
+      "tags": [
+        "电子书",
+        "EPUB",
+        "MOBI",
+        "转换"
+      ],
+      "cat": "tools",
+      "sub": "convert",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-02-19"
+    },
+    {
+      "id": "tools-convert-14",
+      "name": "迅捷PDF转换器",
+      "url": "https://app.xunjiepdf.com/",
+      "desc": "国产PDF格式转换工具，文档图片CAD互转，批量处理且保留排版。",
+      "tags": [
+        "PDF",
+        "国产",
+        "批量",
+        "办公"
+      ],
+      "cat": "tools",
+      "sub": "convert",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-03-26"
+    },
+    {
+      "id": "tools-convert-15",
+      "name": "PDF365",
+      "url": "https://www.pdf365.cn/",
+      "desc": "福昕旗下在线PDF工具，转换编辑签名OCR齐全，企业级稳定可靠。",
+      "tags": [
+        "PDF",
+        "福昕",
+        "OCR",
+        "编辑"
+      ],
+      "cat": "tools",
+      "sub": "convert",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-10-05"
+    },
+    {
+      "id": "tools-convert-16",
+      "name": "HiPDF",
+      "url": "https://www.hipdf.com/",
+      "desc": "万兴出品的PDF在线处理平台，转换压缩合并外还有OCR文字识别。",
+      "tags": [
+        "PDF",
+        "万兴",
+        "OCR",
+        "转换"
+      ],
+      "cat": "tools",
+      "sub": "convert",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-06-17"
+    },
+    {
+      "id": "tools-convert-17",
+      "name": "LightPDF",
+      "url": "https://lightpdf.com/",
+      "desc": "网页版PDF全能工具，格式转换批注表单填写，免安装跨平台使用。",
+      "tags": [
+        "PDF",
+        "在线",
+        "批注",
+        "表单"
+      ],
+      "cat": "tools",
+      "sub": "convert",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-08-13"
+    },
+    {
+      "id": "tools-convert-18",
+      "name": "WPS",
+      "url": "https://www.wps.cn/",
+      "desc": "金山WPS内置PDF与文档转换能力，套件一站式处理办公格式互转。",
+      "tags": [
+        "办公",
+        "文档",
+        "WPS",
+        "转换"
+      ],
+      "cat": "tools",
+      "sub": "convert",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-07-29"
+    },
+    {
+      "id": "tools-convert-19",
+      "name": "永中Office",
+      "url": "https://www.yozosoft.com/",
+      "desc": "国产办公套件在线转换，文档表格演示格式互转，兼容主流格式。",
+      "tags": [
+        "办公",
+        "文档",
+        "永中",
+        "转换"
+      ],
+      "cat": "tools",
+      "sub": "convert",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-04-02"
+    },
+    {
+      "id": "tools-convert-20",
+      "name": "亿图图示",
+      "url": "https://www.edrawmax.cn/",
+      "desc": "图形与文档转换工具，支持导出多种格式并与Office Visio互通。",
+      "tags": [
+        "图示",
+        "Visio",
+        "导出",
+        "转换"
+      ],
+      "cat": "tools",
+      "sub": "convert",
+      "hot": 2,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2026-01-12"
+    },
+    {
+      "id": "tools-image-01",
+      "name": "TinyPNG",
+      "url": "https://tinypng.com/",
+      "desc": "智能有损压缩PNG/JPG，肉眼无损体积骤减，拖拽即压无需注册。",
+      "tags": [
+        "压缩",
+        "PNG",
+        "JPG",
+        "免注册"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-01-20"
+    },
+    {
+      "id": "tools-image-02",
+      "name": "Squoosh",
+      "url": "https://squoosh.app/",
+      "desc": "Google出品的图片压缩对比工具，多种算法实时预览画质与体积权衡。",
+      "tags": [
+        "压缩",
+        "对比",
+        "算法",
+        "免费"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-03-15"
+    },
+    {
+      "id": "tools-image-03",
+      "name": "iLoveIMG",
+      "url": "https://www.iloveimg.com/",
+      "desc": "在线图片批量处理，压缩裁剪旋转水印转换一站式，支持ZIP打包。",
+      "tags": [
+        "图片",
+        "批量",
+        "压缩",
+        "水印"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 1,
+      "lang": "multi",
+      "free": "free",
+      "added": "2024-06-08"
+    },
+    {
+      "id": "tools-image-04",
+      "name": "remove.bg",
+      "url": "https://www.remove.bg/",
+      "desc": "AI一键自动抠图去背景，人像商品精准识别，导出透明PNG省时。",
+      "tags": [
+        "抠图",
+        "AI",
+        "背景",
+        "PNG"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-09-30"
+    },
+    {
+      "id": "tools-image-05",
+      "name": "waifu2x",
+      "url": "https://waifu2x.udp.jp/",
+      "desc": "开源动漫图片放大降噪工具，二倍超分保留线条，二次元福音。",
+      "tags": [
+        "放大",
+        "动漫",
+        "降噪",
+        "开源"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-02-11"
+    },
+    {
+      "id": "tools-image-06",
+      "name": "改图鸭",
+      "url": "https://www.gaituya.com/",
+      "desc": "国产在线图片工具，压缩格式转换抠图证件照排版都能一键搞定。",
+      "tags": [
+        "图片",
+        "国产",
+        "压缩",
+        "抠图"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-05-17"
+    },
+    {
+      "id": "tools-image-07",
+      "name": "Compressor.io",
+      "url": "https://compressor.io/",
+      "desc": "高质量图片无损/有损压缩，支持JPG/PNG/WebP/GIF，效果直观。",
+      "tags": [
+        "压缩",
+        "无损",
+        "WebP",
+        "GIF"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-11-22"
+    },
+    {
+      "id": "tools-image-08",
+      "name": "Photopea",
+      "url": "https://www.photopea.com/",
+      "desc": "浏览器里的免费Photoshop，图层滤镜钢笔齐全，打开PSD直接编辑。",
+      "tags": [
+        "修图",
+        "PSD",
+        "图层",
+        "免费"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 1,
+      "lang": "multi",
+      "free": "free",
+      "added": "2025-01-09"
+    },
+    {
+      "id": "tools-image-09",
+      "name": "Pixlr",
+      "url": "https://pixlr.com/",
+      "desc": "在线照片编辑器，AI抠图与模板丰富，无需下载即可精修图片。",
+      "tags": [
+        "修图",
+        "AI抠图",
+        "模板",
+        "在线"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-07-14"
+    },
+    {
+      "id": "tools-image-10",
+      "name": "Canva",
+      "url": "https://www.canva.com/",
+      "desc": "海量模板的在线设计平台，图片编辑海报社交图拖拽生成超方便。",
+      "tags": [
+        "设计",
+        "模板",
+        "海报",
+        "在线"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 1,
+      "lang": "multi",
+      "free": "freemium",
+      "added": "2025-03-03"
+    },
+    {
+      "id": "tools-image-11",
+      "name": "Fotor",
+      "url": "https://www.fotor.com/",
+      "desc": "在线图片编辑与设计工具，修图拼图海报模板齐全，新手友好。",
+      "tags": [
+        "修图",
+        "拼图",
+        "滤镜",
+        "设计"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 0,
+      "lang": "multi",
+      "free": "freemium",
+      "added": "2024-10-28"
+    },
+    {
+      "id": "tools-image-12",
+      "name": "BigJPG",
+      "url": "https://bigjpg.com/",
+      "desc": "AI智能放大图片，卡通照片二倍四倍超分降噪，放大不糊。",
+      "tags": [
+        "放大",
+        "AI",
+        "降噪",
+        "超分"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 2,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-05-19"
+    },
+    {
+      "id": "tools-image-13",
+      "name": "BulkResizePhotos",
+      "url": "https://bulkresizephotos.com/",
+      "desc": "本地批量改尺寸加水印，浏览器内处理不上传，隐私安全。",
+      "tags": [
+        "批量",
+        "改尺寸",
+        "水印",
+        "本地"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-12-15"
+    },
+    {
+      "id": "tools-image-14",
+      "name": "即时设计",
+      "url": "https://js.design/",
+      "desc": "国产在线UI设计协作工具，Figma文件可导入，矢量编辑实时多人。",
+      "tags": [
+        "UI",
+        "设计",
+        "协作",
+        "国产"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-08-07"
+    },
+    {
+      "id": "tools-image-15",
+      "name": "蓝湖",
+      "url": "https://lanhuapp.com/",
+      "desc": "设计师与开发协作平台，切图标注自动生成，设计稿一键交付。",
+      "tags": [
+        "设计",
+        "协作",
+        "切图",
+        "标注"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-04-25"
+    },
+    {
+      "id": "tools-image-16",
+      "name": "创客贴",
+      "url": "https://www.chuangkit.com/",
+      "desc": "在线平面设计工具，海量中文模板做海报封面，拖拽即出图。",
+      "tags": [
+        "设计",
+        "模板",
+        "海报",
+        "国产"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-06-09"
+    },
+    {
+      "id": "tools-image-17",
+      "name": "图怪兽",
+      "url": "https://www.818ps.com/",
+      "desc": "新手友好的在线作图工具，模板覆盖电商新媒体，快速出图。",
+      "tags": [
+        "作图",
+        "模板",
+        "电商",
+        "新媒体"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-08-31"
+    },
+    {
+      "id": "tools-image-18",
+      "name": "稿定设计",
+      "url": "https://www.gaoding.com/",
+      "desc": "电商新媒体设计平台，智能模板抠图排版，一键生成营销图。",
+      "tags": [
+        "设计",
+        "电商",
+        "营销",
+        "模板"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-09-12"
+    },
+    {
+      "id": "tools-image-19",
+      "name": "美图秀秀",
+      "url": "https://xiuxiu.meitu.com/",
+      "desc": "国民级在线美图工具，人像美容拼图滤镜，网页版免下载。",
+      "tags": [
+        "美图",
+        "人像",
+        "拼图",
+        "滤镜"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2026-02-20"
+    },
+    {
+      "id": "tools-image-20",
+      "name": "Upscale.media",
+      "url": "https://upscale.media/",
+      "desc": "AI图片放大与增强，批量提升分辨率去模糊，电商图救星。",
+      "tags": [
+        "放大",
+        "AI",
+        "批量",
+        "电商"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 2,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-04-30"
+    },
+    {
+      "id": "tools-media-01",
+      "name": "HandBrake",
+      "url": "https://handbrake.fr/",
+      "desc": "开源免费视频转码工具，压制成MP4/MKV并裁剪滤镜，老牌稳定。",
+      "tags": [
+        "视频",
+        "转码",
+        "开源",
+        "免费"
+      ],
+      "cat": "tools",
+      "sub": "media",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-03-21"
+    },
+    {
+      "id": "tools-media-02",
+      "name": "123apps",
+      "url": "https://123apps.com/",
+      "desc": "网页音视频处理套件，剪辑合并转格式录音一站式，免安装。",
+      "tags": [
+        "音视频",
+        "剪辑",
+        "在线",
+        "免安装"
+      ],
+      "cat": "tools",
+      "sub": "media",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-08-09"
+    },
+    {
+      "id": "tools-media-03",
+      "name": "Online Audio Converter",
+      "url": "https://online-audio-converter.com/",
+      "desc": "免费在线音频转换，支持MP3/WAV/FLAC/M4A并调码率。",
+      "tags": [
+        "音频",
+        "转换",
+        "免安装",
+        "免费"
+      ],
+      "cat": "tools",
+      "sub": "media",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-01-30"
+    },
+    {
+      "id": "tools-media-04",
+      "name": "Kapwing",
+      "url": "https://www.kapwing.com/",
+      "desc": "团队协作的在线视频编辑器，裁剪加字幕配音模板，云端协作。",
+      "tags": [
+        "视频",
+        "剪辑",
+        "字幕",
+        "协作"
+      ],
+      "cat": "tools",
+      "sub": "media",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-06-12"
+    },
+    {
+      "id": "tools-media-05",
+      "name": "剪映网页版",
+      "url": "https://www.capcut.com/",
+      "desc": "字节旗下在线视频剪辑，模板丰富自动字幕，手机电脑互通。",
+      "tags": [
+        "视频",
+        "剪辑",
+        "模板",
+        "字幕"
+      ],
+      "cat": "tools",
+      "sub": "media",
+      "hot": 1,
+      "lang": "multi",
+      "free": "freemium",
+      "added": "2024-11-18"
+    },
+    {
+      "id": "tools-media-06",
+      "name": "VEED",
+      "url": "https://www.veed.io/",
+      "desc": "在线视频编辑工具，自动字幕翻译裁剪滤镜，导出无水印便捷。",
+      "tags": [
+        "视频",
+        "字幕",
+        "翻译",
+        "在线"
+      ],
+      "cat": "tools",
+      "sub": "media",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-03-22"
+    },
+    {
+      "id": "tools-media-07",
+      "name": "Clipchamp",
+      "url": "https://clipchamp.com/",
+      "desc": "微软出品的网页视频编辑器，模板素材齐全，导出1080P方便。",
+      "tags": [
+        "视频",
+        "剪辑",
+        "模板",
+        "微软"
+      ],
+      "cat": "tools",
+      "sub": "media",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-09-04"
+    },
+    {
+      "id": "tools-media-08",
+      "name": "WeVideo",
+      "url": "https://www.wevideo.com/",
+      "desc": "云端视频制作平台，绿幕录音素材库，教育创作友好。",
+      "tags": [
+        "视频",
+        "绿幕",
+        "素材",
+        "教育"
+      ],
+      "cat": "tools",
+      "sub": "media",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-02-27"
+    },
+    {
+      "id": "tools-media-09",
+      "name": "Audacity",
+      "url": "https://www.audacityteam.org/",
+      "desc": "开源免费音频编辑录制软件，降噪剪辑多轨，跨平台经典。",
+      "tags": [
+        "音频",
+        "录制",
+        "降噪",
+        "开源"
+      ],
+      "cat": "tools",
+      "sub": "media",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-07-19"
+    },
+    {
+      "id": "tools-media-10",
+      "name": "MP3Cut",
+      "url": "https://mp3cut.net/",
+      "desc": "在线音频裁剪拼接，页面轻量无广告，适合快速截取片段。",
+      "tags": [
+        "音频",
+        "裁剪",
+        "免费",
+        "轻量"
+      ],
+      "cat": "tools",
+      "sub": "media",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-05-08"
+    },
+    {
+      "id": "tools-media-11",
+      "name": "AudioMass",
+      "url": "https://audiomass.co/",
+      "desc": "浏览器内音频编辑器，剪辑淡入淡出格式转换，免上传隐私好。",
+      "tags": [
+        "音频",
+        "编辑",
+        "免上传",
+        "免费"
+      ],
+      "cat": "tools",
+      "sub": "media",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-12-23"
+    },
+    {
+      "id": "tools-media-12",
+      "name": "EZGif",
+      "url": "https://ezgif.com/",
+      "desc": "免费GIF与视频在线工具，裁剪压缩转格式加文字，动图制作利器。",
+      "tags": [
+        "GIF",
+        "视频",
+        "裁剪",
+        "免费"
+      ],
+      "cat": "tools",
+      "sub": "media",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-30"
+    },
+    {
+      "id": "tools-media-13",
+      "name": "Clideo",
+      "url": "https://clideo.com/",
+      "desc": "在线视频编辑套件，支持剪辑、合并、压缩、加字幕与格式转换，浏览器直接处理无需安装。",
+      "tags": [
+        "视频剪辑",
+        "在线",
+        "免费",
+        "无水印"
+      ],
+      "cat": "tools",
+      "sub": "media",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-04-15"
+    },
+    {
+      "id": "tools-media-14",
+      "name": "必剪",
+      "url": "https://bcut.bilibili.com/",
+      "desc": "B站出品在线视频剪辑，投稿模板一键成片，UP主创作友好。",
+      "tags": [
+        "视频",
+        "剪辑",
+        "B站",
+        "模板"
+      ],
+      "cat": "tools",
+      "sub": "media",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-01-12"
+    },
+    {
+      "id": "tools-media-15",
+      "name": "腾讯智影",
+      "url": "https://zenvideo.qq.com/",
+      "desc": "腾讯智能视频创作平台，数字人字幕配音，智能生成短视频。",
+      "tags": [
+        "视频",
+        "数字人",
+        "字幕",
+        "AI"
+      ],
+      "cat": "tools",
+      "sub": "media",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-10-26"
+    },
+    {
+      "id": "tools-media-16",
+      "name": "万兴喵影",
+      "url": "https://www.wondershare.com/",
+      "desc": "国产视频剪辑软件，模板特效丰富，新手也能剪出大片感。",
+      "tags": [
+        "视频",
+        "剪辑",
+        "模板",
+        "国产"
+      ],
+      "cat": "tools",
+      "sub": "media",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-07-11"
+    },
+    {
+      "id": "tools-media-17",
+      "name": "讯飞听见",
+      "url": "https://www.iflyrec.com/",
+      "desc": "科大讯飞语音转写平台，音视频转文字加字幕，识别准确。",
+      "tags": [
+        "语音",
+        "转写",
+        "字幕",
+        "讯飞"
+      ],
+      "cat": "tools",
+      "sub": "media",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-08-02"
+    },
+    {
+      "id": "tools-media-18",
+      "name": "网易见外",
+      "url": "https://www.youdao.com/",
+      "desc": "网易AI音视频转写翻译工具，字幕生成高效，免费额度友好。",
+      "tags": [
+        "转写",
+        "翻译",
+        "字幕",
+        "免费"
+      ],
+      "cat": "tools",
+      "sub": "media",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-03-19"
+    },
+    {
+      "id": "tools-media-19",
+      "name": "OBS Studio",
+      "url": "https://obsproject.com/",
+      "desc": "开源免费录屏直播软件，多场景多路采集，主播标配。",
+      "tags": [
+        "录屏",
+        "直播",
+        "开源",
+        "免费"
+      ],
+      "cat": "tools",
+      "sub": "media",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-05-30"
+    },
+    {
+      "id": "tools-media-20",
+      "name": "Arctime",
+      "url": "https://arctime.net/",
+      "desc": "可视化字幕制作工具，拖拽打轴快速生成字幕，视频必备。",
+      "tags": [
+        "字幕",
+        "打轴",
+        "视频",
+        "可视化"
+      ],
+      "cat": "tools",
+      "sub": "media",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2026-03-18"
+    },
+    {
+      "id": "tools-code-01",
+      "name": "Base64 Decode",
+      "url": "https://www.base64decode.org/",
+      "desc": "在线Base64编解码工具，支持文本文件互转，编码调试常用。",
+      "tags": [
+        "Base64",
+        "编解码",
+        "开发",
+        "调试"
+      ],
+      "cat": "tools",
+      "sub": "code",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-02-08"
+    },
+    {
+      "id": "tools-code-02",
+      "name": "CyberChef",
+      "url": "https://gchq.github.io/CyberChef/",
+      "desc": "GCHQ开源的网络瑞士军刀，编码加密压缩哈希拖拽式组合操作。",
+      "tags": [
+        "编码",
+        "加密",
+        "哈希",
+        "瑞士军刀"
+      ],
+      "cat": "tools",
+      "sub": "code",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-09-15"
+    },
+    {
+      "id": "tools-code-03",
+      "name": "JWT.io",
+      "url": "https://jwt.io/",
+      "desc": "JSON Web Token调试器，在线解码签名校验，开发排查Token利器。",
+      "tags": [
+        "JWT",
+        "调试",
+        "签名",
+        "开发"
+      ],
+      "cat": "tools",
+      "sub": "code",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-01-22"
+    },
+    {
+      "id": "tools-code-04",
+      "name": "Crontab Guru",
+      "url": "https://crontab.guru/",
+      "desc": "可视化Crontab表达式解析，实时翻译执行时间，运维必备。",
+      "tags": [
+        "Crontab",
+        "定时",
+        "运维",
+        "解析"
+      ],
+      "cat": "tools",
+      "sub": "code",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-06-27"
+    },
+    {
+      "id": "tools-code-05",
+      "name": "QR Code Generator",
+      "url": "https://www.qrcode-generator.com/",
+      "desc": "在线二维码生成器，可定制尺寸颜色并导出，支持批量生成。",
+      "tags": [
+        "二维码",
+        "生成",
+        "定制",
+        "批量"
+      ],
+      "cat": "tools",
+      "sub": "code",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-02-03"
+    },
+    {
+      "id": "tools-code-06",
+      "name": "goQR",
+      "url": "https://goqr.me/",
+      "desc": "免费二维码生成与解码工具，支持URL文本WiFi，扫码即读。",
+      "tags": [
+        "二维码",
+        "解码",
+        "WiFi",
+        "免费"
+      ],
+      "cat": "tools",
+      "sub": "code",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-11-11"
+    },
+    {
+      "id": "tools-code-07",
+      "name": "URL Encode",
+      "url": "https://www.urlencoder.org/",
+      "desc": "在线URL编解码，处理特殊字符与查询参数，接口调试常用。",
+      "tags": [
+        "URL",
+        "编解码",
+        "接口",
+        "调试"
+      ],
+      "cat": "tools",
+      "sub": "code",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-04-09"
+    },
+    {
+      "id": "tools-code-08",
+      "name": "UUID Generator",
+      "url": "https://www.uuidgenerator.net/",
+      "desc": "随机UUID生成器，支持v1到v4多版本，批量生成可复制。",
+      "tags": [
+        "UUID",
+        "生成",
+        "批量",
+        "开发"
+      ],
+      "cat": "tools",
+      "sub": "code",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-07-28"
+    },
+    {
+      "id": "tools-code-09",
+      "name": "RegExr",
+      "url": "https://regexr.com/",
+      "desc": "交互式正则表达式学习与测试，实时高亮匹配并附语法速查。",
+      "tags": [
+        "正则",
+        "测试",
+        "高亮",
+        "学习"
+      ],
+      "cat": "tools",
+      "sub": "code",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-10-17"
+    },
+    {
+      "id": "tools-code-10",
+      "name": "JSONLint",
+      "url": "https://jsonlint.com/",
+      "desc": "JSON格式校验与美化工具，快速定位语法错误，API调试常用。",
+      "tags": [
+        "JSON",
+        "校验",
+        "美化",
+        "调试"
+      ],
+      "cat": "tools",
+      "sub": "code",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-05-25"
+    },
+    {
+      "id": "tools-code-11",
+      "name": "Cryptii",
+      "url": "https://cryptii.com/",
+      "desc": "模块化编码加密转换，Base64/AES/凯撒等管道式串联处理。",
+      "tags": [
+        "加密",
+        "编码",
+        "管道",
+        "模块化"
+      ],
+      "cat": "tools",
+      "sub": "code",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-12-29"
+    },
+    {
+      "id": "tools-code-12",
+      "name": "dCode",
+      "url": "https://www.dcode.fr/",
+      "desc": "海量密码学与编码工具集，解码密文分析哈希，极客宝藏站。",
+      "tags": [
+        "密码学",
+        "解码",
+        "哈希",
+        "极客"
+      ],
+      "cat": "tools",
+      "sub": "code",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-08-19"
+    },
+    {
+      "id": "tools-code-13",
+      "name": "菜鸟工具",
+      "url": "https://c.runoob.com/",
+      "desc": "菜鸟教程出品在线工具箱，编解码时间戳JSON等开发小工具齐全。",
+      "tags": [
+        "开发",
+        "工具箱",
+        "编解码",
+        "国产"
+      ],
+      "cat": "tools",
+      "sub": "code",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-03-04"
+    },
+    {
+      "id": "tools-code-14",
+      "name": "站长工具",
+      "url": "https://tool.chinaz.com/",
+      "desc": "站长之家综合工具，IP查询SEO检测编码转换，建站运维常用。",
+      "tags": [
+        "站长",
+        "SEO",
+        "查询",
+        "工具箱"
+      ],
+      "cat": "tools",
+      "sub": "code",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-08-21"
+    },
+    {
+      "id": "tools-code-15",
+      "name": "BEJSON",
+      "url": "https://www.bejson.com/",
+      "desc": "中文开发工具站，JSON格式化校验加密转换，接口调试好帮手。",
+      "tags": [
+        "JSON",
+        "格式化",
+        "校验",
+        "接口"
+      ],
+      "cat": "tools",
+      "sub": "code",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-01-16"
+    },
+    {
+      "id": "tools-code-16",
+      "name": "SOJSON",
+      "url": "https://www.sojson.com/",
+      "desc": "国产开发者工具集，JS加密JSON格式化二维码，前端必备。",
+      "tags": [
+        "前端",
+        "加密",
+        "JSON",
+        "国产"
+      ],
+      "cat": "tools",
+      "sub": "code",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-09-09"
+    },
+    {
+      "id": "tools-code-17",
+      "name": "JSON在线",
+      "url": "https://www.json.cn/",
+      "desc": "中文JSON在线解析格式化，树状折叠校验，接口联调直观。",
+      "tags": [
+        "JSON",
+        "解析",
+        "格式化",
+        "中文"
+      ],
+      "cat": "tools",
+      "sub": "code",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-03-31"
+    },
+    {
+      "id": "tools-code-18",
+      "name": "草料二维码",
+      "url": "https://cli.im/",
+      "desc": "国内主流二维码生成平台，活码管理批量制作，营销常用。",
+      "tags": [
+        "二维码",
+        "活码",
+        "批量",
+        "营销"
+      ],
+      "cat": "tools",
+      "sub": "code",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-06-05"
+    },
+    {
+      "id": "tools-code-19",
+      "name": "CMD5",
+      "url": "https://www.cmd5.com/",
+      "desc": "MD5在线查询与哈希工具，支持多种算法校验，找回明文参考。",
+      "tags": [
+        "MD5",
+        "哈希",
+        "查询",
+        "校验"
+      ],
+      "cat": "tools",
+      "sub": "code",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-13"
+    },
+    {
+      "id": "tools-code-20",
+      "name": "W3Cschool工具",
+      "url": "https://www.w3cschool.cn/",
+      "desc": "编程狮在线工具箱，编解码格式化等前端小工具一应俱全。",
+      "tags": [
+        "前端",
+        "工具箱",
+        "格式化",
+        "编程"
+      ],
+      "cat": "tools",
+      "sub": "code",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-11-28"
+    },
+    {
+      "id": "tools-web-01",
+      "name": "Tool.lu",
+      "url": "https://tool.lu/",
+      "desc": "国产老牌在线工具箱，文本图片开发等数百种小工具聚合免登录。",
+      "tags": [
+        "工具箱",
+        "国产",
+        "聚合",
+        "免登录"
+      ],
+      "cat": "tools",
+      "sub": "web",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-01-29"
+    },
+    {
+      "id": "tools-web-02",
+      "name": "Diffchecker",
+      "url": "https://www.diffchecker.com/",
+      "desc": "文本图片PDF差异对比工具，并排高亮改动，代码审阅高效。",
+      "tags": [
+        "对比",
+        "差异",
+        "文本",
+        "PDF"
+      ],
+      "cat": "tools",
+      "sub": "web",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-05-13"
+    },
+    {
+      "id": "tools-web-03",
+      "name": "WordCounter",
+      "url": "https://wordcounter.net/",
+      "desc": "实时字数统计与阅读时长分析，支持关键词密度，写作好帮手。",
+      "tags": [
+        "字数",
+        "统计",
+        "写作",
+        "密度"
+      ],
+      "cat": "tools",
+      "sub": "web",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-10-02"
+    },
+    {
+      "id": "tools-web-04",
+      "name": "Time and Date",
+      "url": "https://www.timeanddate.com/",
+      "desc": "全球时间日期时区日历查询，世界时钟节日计算一应俱全。",
+      "tags": [
+        "时区",
+        "日历",
+        "时间",
+        "查询"
+      ],
+      "cat": "tools",
+      "sub": "web",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-02-08"
+    },
+    {
+      "id": "tools-web-05",
+      "name": "World Time Buddy",
+      "url": "https://worldtimebuddy.com/",
+      "desc": "可视化时区转换表，跨时区会议排期拖拽比对超直观。",
+      "tags": [
+        "时区",
+        "会议",
+        "排期",
+        "可视化"
+      ],
+      "cat": "tools",
+      "sub": "web",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-07-06"
+    },
+    {
+      "id": "tools-web-06",
+      "name": "Calculator.net",
+      "url": "https://www.calculator.net/",
+      "desc": "各类在线计算器集合，贷款健康单位换算，日常计算齐全。",
+      "tags": [
+        "计算器",
+        "贷款",
+        "换算",
+        "日常"
+      ],
+      "cat": "tools",
+      "sub": "web",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-04-21"
+    },
+    {
+      "id": "tools-web-07",
+      "name": "TinyURL",
+      "url": "https://tinyurl.com/",
+      "desc": "老牌短链接服务，长网址一键缩短，可自定义别名便于分享。",
+      "tags": [
+        "短链",
+        "分享",
+        "自定义",
+        "老牌"
+      ],
+      "cat": "tools",
+      "sub": "web",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-09-18"
+    },
+    {
+      "id": "tools-web-08",
+      "name": "UnitConverters",
+      "url": "https://www.unitconverters.net/",
+      "desc": "单位换算工具，长度重量温度货币等上千种单位实时转换。",
+      "tags": [
+        "单位",
+        "换算",
+        "实时",
+        "聚合"
+      ],
+      "cat": "tools",
+      "sub": "web",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-01-05"
+    },
+    {
+      "id": "tools-web-09",
+      "name": "JSON Editor Online",
+      "url": "https://jsoneditoronline.org/",
+      "desc": "在线JSON编辑树状视图，格式化比对转换，接口调试利器。",
+      "tags": [
+        "JSON",
+        "编辑",
+        "比对",
+        "调试"
+      ],
+      "cat": "tools",
+      "sub": "web",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-11-14"
+    },
+    {
+      "id": "tools-web-10",
+      "name": "ManyTools",
+      "url": "https://manytools.org/",
+      "desc": "免费在线小工具聚合，文本生成编码图像处理，无需注册即用。",
+      "tags": [
+        "小工具",
+        "聚合",
+        "免费",
+        "文本"
+      ],
+      "cat": "tools",
+      "sub": "web",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-03-12"
+    },
+    {
+      "id": "tools-web-11",
+      "name": "SmallSEOTools",
+      "url": "https://smallseotools.com/",
+      "desc": "SEO与文本工具箱，查重语法关键词分析，站长优化常用。",
+      "tags": [
+        "SEO",
+        "文本",
+        "查重",
+        "站长"
+      ],
+      "cat": "tools",
+      "sub": "web",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-08-26"
+    },
+    {
+      "id": "tools-web-12",
+      "name": "爱站工具",
+      "url": "https://www.aizhan.com/",
+      "desc": "爱站网站长工具集，收录查询友链检测WHOIS等建站辅助。",
+      "tags": [
+        "站长",
+        "收录",
+        "WHOIS",
+        "查询"
+      ],
+      "cat": "tools",
+      "sub": "web",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-05-30"
+    },
+    {
+      "id": "tools-web-13",
+      "name": "ProcessOn",
+      "url": "https://www.processon.com/",
+      "desc": "在线流程图思维导图工具，模板丰富团队协作，导出多种格式。",
+      "tags": [
+        "流程图",
+        "思维导图",
+        "协作",
+        "模板"
+      ],
+      "cat": "tools",
+      "sub": "web",
+      "hot": 2,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-06-19"
+    },
+    {
+      "id": "tools-web-14",
+      "name": "幕布",
+      "url": "https://mubu.com/",
+      "desc": "大纲笔记转思维导图工具，层级梳理一键生成导图，写作规划好用。",
+      "tags": [
+        "大纲",
+        "思维导图",
+        "笔记",
+        "写作"
+      ],
+      "cat": "tools",
+      "sub": "web",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-07-04"
+    },
+    {
+      "id": "tools-web-15",
+      "name": "911查",
+      "url": "https://www.911cha.com/",
+      "desc": "综合查询工具站，IP手机归属地快递等生活查询一应俱全。",
+      "tags": [
+        "查询",
+        "IP",
+        "生活",
+        "聚合"
+      ],
+      "cat": "tools",
+      "sub": "web",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-03-27"
+    },
+    {
+      "id": "tools-web-16",
+      "name": "5118",
+      "url": "https://www.5118.com/",
+      "desc": "站长数据挖掘平台，关键词指数竞品分析，SEO运营参考。",
+      "tags": [
+        "SEO",
+        "关键词",
+        "数据挖掘",
+        "运营"
+      ],
+      "cat": "tools",
+      "sub": "web",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-01-09"
+    },
+    {
+      "id": "tools-web-17",
+      "name": "金数据",
+      "url": "https://jinshuju.net/",
+      "desc": "在线表单与数据收集工具，问卷报名自动统计，免开发搭建。",
+      "tags": [
+        "表单",
+        "问卷",
+        "数据",
+        "免开发"
+      ],
+      "cat": "tools",
+      "sub": "web",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-10-11"
+    },
+    {
+      "id": "tools-web-18",
+      "name": "问卷星",
+      "url": "https://www.wjx.cn/",
+      "desc": "主流在线问卷调研工具，模板丰富数据统计，调研发放便捷。",
+      "tags": [
+        "问卷",
+        "调研",
+        "统计",
+        "模板"
+      ],
+      "cat": "tools",
+      "sub": "web",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-22"
+    },
+    {
+      "id": "tools-web-19",
+      "name": "CSDN工具",
+      "url": "https://tool.csdn.net/",
+      "desc": "CSDN开发者工具集，编解码格式化等在线小工具随取随用。",
+      "tags": [
+        "开发者",
+        "工具箱",
+        "编解码",
+        "聚合"
+      ],
+      "cat": "tools",
+      "sub": "web",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-12-05"
+    },
+    {
+      "id": "tools-web-20",
+      "name": "开源中国工具",
+      "url": "https://tool.oschina.net/",
+      "desc": "OSChina在线工具箱，开发常用转换计算工具一站聚合。",
+      "tags": [
+        "开发",
+        "工具箱",
+        "转换",
+        "聚合"
+      ],
+      "cat": "tools",
+      "sub": "web",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-08-28"
+    },
+    {
+      "id": "tools-generate-01",
+      "name": "CSS Gradient",
+      "url": "https://cssgradient.io/",
+      "desc": "在线CSS渐变生成器，实时预览并复制代码，背景配色快捷。",
+      "tags": [
+        "CSS",
+        "渐变",
+        "预览",
+        "代码"
+      ],
+      "cat": "tools",
+      "sub": "generate",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-02-14"
+    },
+    {
+      "id": "tools-generate-02",
+      "name": "UI Gradients",
+      "url": "https://uigradients.com/",
+      "desc": "精选渐变配色集合，一键复制CSS，设计灵感与背景取色方便。",
+      "tags": [
+        "配色",
+        "渐变",
+        "复制",
+        "灵感"
+      ],
+      "cat": "tools",
+      "sub": "generate",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-07-23"
+    },
+    {
+      "id": "tools-generate-03",
+      "name": "Coolors",
+      "url": "https://coolors.co/",
+      "desc": "极速配色方案生成器，空格出方案锁定取色，导出多格式调色板。",
+      "tags": [
+        "配色",
+        "方案",
+        "调色板",
+        "导出"
+      ],
+      "cat": "tools",
+      "sub": "generate",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-01-28"
+    },
+    {
+      "id": "tools-generate-04",
+      "name": "Neumorphism",
+      "url": "https://neumorphism.io/",
+      "desc": "新拟态UI阴影生成器，调节软硬光影实时输出CSS代码。",
+      "tags": [
+        "UI",
+        "阴影",
+        "CSS",
+        "新拟态"
+      ],
+      "cat": "tools",
+      "sub": "generate",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-09-30"
+    },
+    {
+      "id": "tools-generate-05",
+      "name": "Get Waves",
+      "url": "https://getwaves.io/",
+      "desc": "SVG波浪形状生成器，自定义层数颜色导出，装饰分隔超好看。",
+      "tags": [
+        "SVG",
+        "波浪",
+        "形状",
+        "导出"
+      ],
+      "cat": "tools",
+      "sub": "generate",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-03-07"
+    },
+    {
+      "id": "tools-generate-06",
+      "name": "Mockaroo",
+      "url": "https://www.mockaroo.com/",
+      "desc": "假数据生成器，按字段类型批量造JSON/CSV/SQL测试数据。",
+      "tags": [
+        "假数据",
+        "JSON",
+        "CSV",
+        "批量"
+      ],
+      "cat": "tools",
+      "sub": "generate",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-11-06"
+    },
+    {
+      "id": "tools-generate-07",
+      "name": "UUID Tools",
+      "url": "https://uuidtools.com/",
+      "desc": "UUID在线生成与解析，支持多版本批量导出，开发造数据。",
+      "tags": [
+        "UUID",
+        "生成",
+        "批量",
+        "解析"
+      ],
+      "cat": "tools",
+      "sub": "generate",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-04-14"
+    },
+    {
+      "id": "tools-generate-08",
+      "name": "Strong Password Generator",
+      "url": "https://www.strongpasswordgenerator.com/",
+      "desc": "强密码生成器，可定长度与字符集，本地生成更安全。",
+      "tags": [
+        "密码",
+        "生成",
+        "安全",
+        "本地"
+      ],
+      "cat": "tools",
+      "sub": "generate",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-08-12"
+    },
+    {
+      "id": "tools-generate-09",
+      "name": "JSON Generator",
+      "url": "https://www.json-generator.com/",
+      "desc": "按模板批量生成假JSON数据，字段类型丰富，接口测试用。",
+      "tags": [
+        "JSON",
+        "假数据",
+        "模板",
+        "测试"
+      ],
+      "cat": "tools",
+      "sub": "generate",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-02-19"
+    },
+    {
+      "id": "tools-generate-10",
+      "name": "Lorem Ipsum",
+      "url": "https://loremipsum.io/",
+      "desc": "占位文本生成器，按段词句生成假文，排版预览常用。",
+      "tags": [
+        "占位文本",
+        "假文",
+        "排版",
+        "生成"
+      ],
+      "cat": "tools",
+      "sub": "generate",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-06-24"
+    },
+    {
+      "id": "tools-generate-11",
+      "name": "Favicon.io",
+      "url": "https://favicon.io/",
+      "desc": "文字或图片生成网站图标，导出多尺寸ICO/PNG，建站必备。",
+      "tags": [
+        "图标",
+        "Favicon",
+        "ICO",
+        "建站"
+      ],
+      "cat": "tools",
+      "sub": "generate",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-05-16"
+    },
+    {
+      "id": "tools-generate-12",
+      "name": "Blobmaker",
+      "url": "https://blobmaker.app/",
+      "desc": "随机SVG圆润形状生成器，调色导出，做插画背景素材方便。",
+      "tags": [
+        "SVG",
+        "形状",
+        "插画",
+        "生成"
+      ],
+      "cat": "tools",
+      "sub": "generate",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-12-11"
+    },
+    {
+      "id": "tools-generate-13",
+      "name": "中国色",
+      "url": "https://zhongguose.com/",
+      "desc": "中国传统色配色库，色卡名称与十六进制一键复制，国风设计宝藏。",
+      "tags": [
+        "配色",
+        "国风",
+        "色卡",
+        "复制"
+      ],
+      "cat": "tools",
+      "sub": "generate",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-07-21"
+    },
+    {
+      "id": "tools-generate-14",
+      "name": "超级简历",
+      "url": "https://www.wondercv.com/",
+      "desc": "在线简历生成器，模板导向中英简历，导出PDF排版专业。",
+      "tags": [
+        "简历",
+        "模板",
+        "PDF",
+        "中英"
+      ],
+      "cat": "tools",
+      "sub": "generate",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-03-30"
+    },
+    {
+      "id": "tools-generate-15",
+      "name": "墨刀",
+      "url": "https://modao.cc/",
+      "desc": "在线原型设计工具，拖拽组件生成可交互原型，产品演示高效。",
+      "tags": [
+        "原型",
+        "设计",
+        "交互",
+        "协作"
+      ],
+      "cat": "tools",
+      "sub": "generate",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-10-08"
+    },
+    {
+      "id": "tools-generate-16",
+      "name": "秀米",
+      "url": "https://xiumi.us/",
+      "desc": "图文排版与H5制作工具，精美模板一键排版，公众号推文友好。",
+      "tags": [
+        "排版",
+        "H5",
+        "公众号",
+        "模板"
+      ],
+      "cat": "tools",
+      "sub": "generate",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-01-25"
+    },
+    {
+      "id": "tools-generate-17",
+      "name": "易企秀",
+      "url": "https://www.eqxiu.com/",
+      "desc": "H5营销页面生成器，模板动画丰富，活动邀请海报快速出。",
+      "tags": [
+        "H5",
+        "营销",
+        "海报",
+        "动画"
+      ],
+      "cat": "tools",
+      "sub": "generate",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-09-02"
+    },
+    {
+      "id": "tools-generate-18",
+      "name": "MAKA",
+      "url": "https://www.maka.im/",
+      "desc": "在线H5与海报设计生成器，模板海量，企业宣传页拖拽即成。",
+      "tags": [
+        "H5",
+        "海报",
+        "设计",
+        "企业"
+      ],
+      "cat": "tools",
+      "sub": "generate",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-04-28"
+    },
+    {
+      "id": "tools-generate-19",
+      "name": "MasterGo",
+      "url": "https://mastergo.com/",
+      "desc": "国产在线设计协作工具，组件库交付规范，团队设计一站搞定。",
+      "tags": [
+        "UI",
+        "设计",
+        "协作",
+        "国产"
+      ],
+      "cat": "tools",
+      "sub": "generate",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-11-19"
+    },
+    {
+      "id": "tools-generate-20",
+      "name": "Pixso",
+      "url": "https://pixso.cn/",
+      "desc": "国产UI设计协作平台，Figma文件可导入，矢量原型交付一体。",
+      "tags": [
+        "UI",
+        "设计",
+        "协作",
+        "原型"
+      ],
+      "cat": "tools",
+      "sub": "generate",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2026-02-09"
+    },
+    {
+      "id": "tools-convert-x01",
+      "name": "Online Doc Translator",
+      "url": "https://onlinedoctranslator.com/",
+      "desc": "在线文档格式互转并保留排版，支持Word/PDF/Excel等多语言翻译。",
+      "tags": [
+        "文档转换",
+        "翻译",
+        "办公"
+      ],
+      "cat": "tools",
+      "sub": "convert",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-03-12"
+    },
+    {
+      "id": "tools-convert-x02",
+      "name": "DocSmall",
+      "url": "https://docsmall.com/",
+      "desc": "在线压缩与转换图片、PDF、PPT等文件，处理速度快且操作简单。",
+      "tags": [
+        "压缩",
+        "格式转换",
+        "办公"
+      ],
+      "cat": "tools",
+      "sub": "convert",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-05-21"
+    },
+    {
+      "id": "tools-convert-x03",
+      "name": "Online-Convert",
+      "url": "https://online-convert.com/",
+      "desc": "老牌全能格式转换站，支持音视频、文档、图片、电子书互转。",
+      "tags": [
+        "格式转换",
+        "音视频",
+        "文档"
+      ],
+      "cat": "tools",
+      "sub": "convert",
+      "hot": 2,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-01-09"
+    },
+    {
+      "id": "tools-convert-x04",
+      "name": "GroupDocs Apps",
+      "url": "https://groupdocs.app/",
+      "desc": "提供文档、图片、音视频在线转换与查看的免费集合工具箱。",
+      "tags": [
+        "文档转换",
+        "查看器",
+        "办公"
+      ],
+      "cat": "tools",
+      "sub": "convert",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-07-30"
+    },
+    {
+      "id": "tools-convert-x05",
+      "name": "Aspose Apps",
+      "url": "https://aspose.app/",
+      "desc": "基于Aspose引擎的在线转换与编辑工具，覆盖多种文件格式。",
+      "tags": [
+        "格式转换",
+        "编辑",
+        "开发"
+      ],
+      "cat": "tools",
+      "sub": "convert",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-09-14"
+    },
+    {
+      "id": "tools-convert-x06",
+      "name": "PDF to Word",
+      "url": "https://pdftoword.com/",
+      "desc": "专注将PDF高质量转换为可编辑Word文档的轻量在线工具。",
+      "tags": [
+        "PDF",
+        "文档转换",
+        "办公"
+      ],
+      "cat": "tools",
+      "sub": "convert",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-01-18"
+    },
+    {
+      "id": "tools-convert-x07",
+      "name": "Convert.town",
+      "url": "https://convert.town/",
+      "desc": "单位、颜色、文件等日常格式在线换算与转换的小工具集合。",
+      "tags": [
+        "换算",
+        "格式转换",
+        "小工具"
+      ],
+      "cat": "tools",
+      "sub": "convert",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-03-26"
+    },
+    {
+      "id": "tools-convert-x08",
+      "name": "Office Converter",
+      "url": "https://en.office-converter.com/",
+      "desc": "无需注册即可批量转换文档、图片与音视频的在线转换平台。",
+      "tags": [
+        "批量转换",
+        "文档",
+        "音视频"
+      ],
+      "cat": "tools",
+      "sub": "convert",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-05-07"
+    },
+    {
+      "id": "tools-convert-x09",
+      "name": "AllToAll",
+      "url": "https://www.alltoall.net/",
+      "desc": "国产综合文件转换站，支持二百余种格式互转且免费可用。",
+      "tags": [
+        "格式转换",
+        "国产",
+        "免费"
+      ],
+      "cat": "tools",
+      "sub": "convert",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-08-11"
+    },
+    {
+      "id": "tools-image-x01",
+      "name": "Watermarkly",
+      "url": "https://watermarkly.com/",
+      "desc": "在线为图片批量添加文字或图片水印，支持保护版权与微调。",
+      "tags": [
+        "水印",
+        "图片处理",
+        "批量"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-02-15"
+    },
+    {
+      "id": "tools-image-x02",
+      "name": "Watermark.ws",
+      "url": "https://watermark.ws/",
+      "desc": "简洁的在线图片加水印工具，可调整透明度位置并批量处理。",
+      "tags": [
+        "水印",
+        "图片处理",
+        "批量"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-04-22"
+    },
+    {
+      "id": "tools-image-x03",
+      "name": "BIRME",
+      "url": "https://birme.net/",
+      "desc": "批量缩放并智能重命名图片，适合电商与相册素材快速整理。",
+      "tags": [
+        "批量重命名",
+        "缩放",
+        "电商"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-06-19"
+    },
+    {
+      "id": "tools-image-x04",
+      "name": "PicResize",
+      "url": "https://picresize.com/",
+      "desc": "在线裁剪、缩放、旋转并添加边框的老牌图片编辑小工具。",
+      "tags": [
+        "裁剪",
+        "缩放",
+        "编辑"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-08-03"
+    },
+    {
+      "id": "tools-image-x05",
+      "name": "PineTools",
+      "url": "https://pinetools.com/",
+      "desc": "集合拼接、合并、取色等大量图像处理小工具的实用站点。",
+      "tags": [
+        "图片拼接",
+        "取色",
+        "工具箱"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-10-27"
+    },
+    {
+      "id": "tools-image-x06",
+      "name": "Pixilart",
+      "url": "https://www.pixilart.com/",
+      "desc": "在线像素画绘制社区，可制作并分享像素风插画与动画。",
+      "tags": [
+        "像素画",
+        "绘图",
+        "社区"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-12-09"
+    },
+    {
+      "id": "tools-image-x07",
+      "name": "GIFMaker",
+      "url": "https://gifmaker.me/",
+      "desc": "在线将图片或视频合成GIF动画，可调速加文字并循环播放。",
+      "tags": [
+        "GIF",
+        "动图",
+        "制作"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-01-30"
+    },
+    {
+      "id": "tools-image-x08",
+      "name": "PhotoKit",
+      "url": "https://photokit.com/",
+      "desc": "在线PS替代方案，提供智能抠图、修复与一键增强编辑能力。",
+      "tags": [
+        "在线PS",
+        "抠图",
+        "修图"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 2,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-03-15"
+    },
+    {
+      "id": "tools-image-x09",
+      "name": "Image Color Picker",
+      "url": "https://imagecolorpicker.com/",
+      "desc": "上传图片即可取色并获取Hex、RGB等色值，支持调色板提取。",
+      "tags": [
+        "取色",
+        "配色",
+        "色值"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-04-08"
+    },
+    {
+      "id": "tools-image-x10",
+      "name": "EXIF Remove",
+      "url": "https://exifremove.com/",
+      "desc": "一键查看并清除照片中的EXIF拍摄信息，保护隐私防泄露。",
+      "tags": [
+        "EXIF",
+        "隐私",
+        "清除"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-05-22"
+    },
+    {
+      "id": "tools-image-x11",
+      "name": "IMG online",
+      "url": "https://imgonline.com/",
+      "desc": "提供图片切片、分割、拼接等冷门处理的实用在线工具合集。",
+      "tags": [
+        "图片分割",
+        "切片",
+        "处理"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-11"
+    },
+    {
+      "id": "tools-image-x12",
+      "name": "LunaPic",
+      "url": "https://www.lunapic.com/",
+      "desc": "免费在线照片编辑器，支持格式互转、特效与基础绘图。",
+      "tags": [
+        "图片编辑",
+        "格式互转",
+        "特效"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-07-19"
+    },
+    {
+      "id": "tools-image-x13",
+      "name": "BeFunky",
+      "url": "https://www.befunky.com/",
+      "desc": "在线照片编辑与拼贴制作，模板丰富且无需下载安装。",
+      "tags": [
+        "图片编辑",
+        "拼贴",
+        "模板"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-08-25"
+    },
+    {
+      "id": "tools-image-x14",
+      "name": "Optimizilla",
+      "url": "https://imagecompressor.com/",
+      "desc": "智能有损压缩JPG/PNG，在保画质前提下大幅减小体积。",
+      "tags": [
+        "图片压缩",
+        "优化",
+        "体积"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-09-01"
+    },
+    {
+      "id": "tools-image-x15",
+      "name": "Photo Joiner",
+      "url": "https://www.photojoiner.net/",
+      "desc": "在线纵向或网格拼接多张图片，轻松制作长图与拼图。",
+      "tags": [
+        "长图拼接",
+        "拼图",
+        "合并"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-10-14"
+    },
+    {
+      "id": "tools-image-x16",
+      "name": "ResizePixel",
+      "url": "https://www.resizepixel.com/",
+      "desc": "免费在线调整尺寸、转换格式并压缩图片的极简工具站。",
+      "tags": [
+        "格式互转",
+        "缩放",
+        "压缩"
+      ],
+      "cat": "tools",
+      "sub": "image",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-11-28"
+    },
+    {
+      "id": "tools-media-x01",
+      "name": "Flixier",
+      "url": "https://flixier.com/",
+      "desc": "云端在线视频剪辑，支持字幕、配音与多人协作编辑。",
+      "tags": [
+        "视频剪辑",
+        "协作",
+        "字幕"
+      ],
+      "cat": "tools",
+      "sub": "media",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-02-28"
+    },
+    {
+      "id": "tools-media-x02",
+      "name": "Typito",
+      "url": "https://typito.com/",
+      "desc": "为视频快速添加动态文字与品牌元素的在线剪辑工具。",
+      "tags": [
+        "视频剪辑",
+        "字幕",
+        "品牌"
+      ],
+      "cat": "tools",
+      "sub": "media",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-04-10"
+    },
+    {
+      "id": "tools-media-x03",
+      "name": "InVideo",
+      "url": "https://invideo.io/",
+      "desc": "模板化在线视频制作，输入文案即可生成营销短视频。",
+      "tags": [
+        "视频制作",
+        "模板",
+        "营销"
+      ],
+      "cat": "tools",
+      "sub": "media",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-06-02"
+    },
+    {
+      "id": "tools-media-x04",
+      "name": "Animoto",
+      "url": "https://animoto.com/",
+      "desc": "通过模板把照片与片段做成幻灯片式视频的云服务。",
+      "tags": [
+        "视频制作",
+        "幻灯片",
+        "模板"
+      ],
+      "cat": "tools",
+      "sub": "media",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-07-21"
+    },
+    {
+      "id": "tools-media-x05",
+      "name": "FlexClip",
+      "url": "https://www.flexclip.com/",
+      "desc": "在线视频剪辑与动画制作，内置海量模板与素材库。",
+      "tags": [
+        "视频剪辑",
+        "动画",
+        "模板"
+      ],
+      "cat": "tools",
+      "sub": "media",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-09-09"
+    },
+    {
+      "id": "tools-media-x06",
+      "name": "Movavi",
+      "url": "https://www.movavi.com/",
+      "desc": "提供在线与桌面音视频转换、剪辑工具的一站式平台。",
+      "tags": [
+        "音视频",
+        "剪辑",
+        "转换"
+      ],
+      "cat": "tools",
+      "sub": "media",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-11-13"
+    },
+    {
+      "id": "tools-media-x07",
+      "name": "Audiotool",
+      "url": "https://www.audiotool.com/",
+      "desc": "浏览器内专业音乐创作工作站，可连线合成器制作曲目。",
+      "tags": [
+        "音乐制作",
+        "合成器",
+        "创作"
+      ],
+      "cat": "tools",
+      "sub": "media",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-01-05"
+    },
+    {
+      "id": "tools-media-x08",
+      "name": "BandLab",
+      "url": "https://www.bandlab.com/",
+      "desc": "免费在线音乐录制与混音 studio，支持多人远程协作。",
+      "tags": [
+        "音乐",
+        "混音",
+        "协作"
+      ],
+      "cat": "tools",
+      "sub": "media",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-02-19"
+    },
+    {
+      "id": "tools-media-x09",
+      "name": "Soundtrap",
+      "url": "https://www.soundtrap.com/",
+      "desc": "Spotify旗下在线数字音频工作站，跨设备录制编曲。",
+      "tags": [
+        "音频",
+        "录音",
+        "编曲"
+      ],
+      "cat": "tools",
+      "sub": "media",
+      "hot": 2,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-04-01"
+    },
+    {
+      "id": "tools-media-x10",
+      "name": "Online Video Converter",
+      "url": "https://www.onlinevideoconverter.com/",
+      "desc": "将视频链接或文件转换为MP3/MP4等格式的便捷在线工具。",
+      "tags": [
+        "音视频",
+        "转换",
+        "下载"
+      ],
+      "cat": "tools",
+      "sub": "media",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-05-16"
+    },
+    {
+      "id": "tools-media-x11",
+      "name": "Video Candy",
+      "url": "https://videocandy.com/",
+      "desc": "在线视频剪辑、压缩、合并、格式转换等基础处理工具箱。",
+      "tags": [
+        "视频处理",
+        "剪辑",
+        "转换"
+      ],
+      "cat": "tools",
+      "sub": "media",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-30"
+    },
+    {
+      "id": "tools-media-x12",
+      "name": "Auphonic",
+      "url": "https://auphonic.com/",
+      "desc": "智能音频后期处理，自动均衡音量降噪并导出多格式。",
+      "tags": [
+        "音频后期",
+        "降噪",
+        "播客"
+      ],
+      "cat": "tools",
+      "sub": "media",
+      "hot": 2,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-08-07"
+    },
+    {
+      "id": "tools-code-x01",
+      "name": "Base64 Guru",
+      "url": "https://base64.guru/",
+      "desc": "在线Base64编码解码，支持文本、文件与数据的互转。",
+      "tags": [
+        "Base64",
+        "编码",
+        "解码"
+      ],
+      "cat": "tools",
+      "sub": "code",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-03-04"
+    },
+    {
+      "id": "tools-code-x02",
+      "name": "MD5 Online",
+      "url": "https://www.md5online.org/",
+      "desc": "在线计算MD5、SHA等哈希值并支持常见密文比对查询。",
+      "tags": [
+        "MD5",
+        "哈希",
+        "加密"
+      ],
+      "cat": "tools",
+      "sub": "code",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-05-11"
+    },
+    {
+      "id": "tools-code-x03",
+      "name": "HashMall",
+      "url": "https://hashemall.com/",
+      "desc": "一站式哈希校验工具，支持MD5/SHA/CRC等多算法计算。",
+      "tags": [
+        "哈希",
+        "校验",
+        "加密"
+      ],
+      "cat": "tools",
+      "sub": "code",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-07-02"
+    },
+    {
+      "id": "tools-code-x04",
+      "name": "Boxentriq",
+      "url": "https://boxentriq.com/",
+      "desc": "在线密码学谜题破解与古典密码分析，含凯撒维吉尼亚等。",
+      "tags": [
+        "密码",
+        "密文",
+        "解密"
+      ],
+      "cat": "tools",
+      "sub": "code",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-09-23"
+    },
+    {
+      "id": "tools-code-x05",
+      "name": "DevGlan",
+      "url": "https://www.devglan.com/",
+      "desc": "开发者在线工具箱，含JWT解析、Base64与加解密转换器。",
+      "tags": [
+        "开发者",
+        "加解密",
+        "JWT"
+      ],
+      "cat": "tools",
+      "sub": "code",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-01-12"
+    },
+    {
+      "id": "tools-web-x01",
+      "name": "IPInfo",
+      "url": "https://ipinfo.io/",
+      "desc": "查询IP地理位置、ASN与运营商的精准IP信息检索服务。",
+      "tags": [
+        "IP查询",
+        "网络",
+        "地理"
+      ],
+      "cat": "tools",
+      "sub": "web",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-02-08"
+    },
+    {
+      "id": "tools-web-x02",
+      "name": "WhatIsMyIP",
+      "url": "https://www.whatismyip.com/",
+      "desc": "一键查看本机公网IP并附带端口扫描等网络小工具。",
+      "tags": [
+        "IP查询",
+        "网络",
+        "小工具"
+      ],
+      "cat": "tools",
+      "sub": "web",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-04-17"
+    },
+    {
+      "id": "tools-web-x03",
+      "name": "Browserling",
+      "url": "https://www.browserling.com/",
+      "desc": "在线跨浏览器实时测试网页在各类浏览器中的渲染效果。",
+      "tags": [
+        "浏览器测试",
+        "前端",
+        "兼容"
+      ],
+      "cat": "tools",
+      "sub": "web",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-06-25"
+    },
+    {
+      "id": "tools-web-x04",
+      "name": "Carbon",
+      "url": "https://carbon.now.sh/",
+      "desc": "将代码片段生成美观图片，便于分享到社交与文档中。",
+      "tags": [
+        "代码图片",
+        "分享",
+        "美化"
+      ],
+      "cat": "tools",
+      "sub": "web",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-08-14"
+    },
+    {
+      "id": "tools-web-x05",
+      "name": "WebPageTest",
+      "url": "https://www.webpagetest.org/",
+      "desc": "专业网站性能测速工具，提供加载瀑布与优化建议。",
+      "tags": [
+        "网站测速",
+        "性能",
+        "前端"
+      ],
+      "cat": "tools",
+      "sub": "web",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-10-05"
+    },
+    {
+      "id": "tools-web-x06",
+      "name": "URLScan",
+      "url": "https://urlscan.io/",
+      "desc": "提交网址即可安全扫描并查看页面连接与威胁情报。",
+      "tags": [
+        "URL扫描",
+        "安全",
+        "威胁"
+      ],
+      "cat": "tools",
+      "sub": "web",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-12-01"
+    },
+    {
+      "id": "tools-web-x07",
+      "name": "DownForEveryone",
+      "url": "https://downforeveryoneorjustme.com/",
+      "desc": "快速检测某网站是全局宕机还是仅你本地无法访问。",
+      "tags": [
+        "宕机检测",
+        "网站",
+        "监控"
+      ],
+      "cat": "tools",
+      "sub": "web",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-02-23"
+    },
+    {
+      "id": "tools-web-x08",
+      "name": "Pretty Diff",
+      "url": "https://prettydiff.com/",
+      "desc": "在线代码、JSON与文本的差异对比、格式化与美化工具。",
+      "tags": [
+        "差异对比",
+        "格式化",
+        "代码"
+      ],
+      "cat": "tools",
+      "sub": "web",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-04-29"
+    },
+    {
+      "id": "tools-generate-x01",
+      "name": "Angry Tools",
+      "url": "https://angrytools.com/",
+      "desc": "在线生成CSS渐变、阴影、动画等样式的实用工具集合。",
+      "tags": [
+        "CSS",
+        "渐变",
+        "阴影"
+      ],
+      "cat": "tools",
+      "sub": "generate",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-03-18"
+    },
+    {
+      "id": "tools-generate-x02",
+      "name": "CSSMatic",
+      "url": "https://www.cssmatic.com/",
+      "desc": "可视化生成CSS渐变、圆角、阴影与噪点背景的辅助器。",
+      "tags": [
+        "CSS",
+        "渐变",
+        "圆角"
+      ],
+      "cat": "tools",
+      "sub": "generate",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-05-06"
+    },
+    {
+      "id": "tools-generate-x03",
+      "name": "Haikei",
+      "url": "https://app.haikei.design/",
+      "desc": "生成SVG波浪、blob与网格等可定制矢量背景图形。",
+      "tags": [
+        "SVG",
+        "波浪",
+        "矢量"
+      ],
+      "cat": "tools",
+      "sub": "generate",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-07-11"
+    },
+    {
+      "id": "tools-generate-x04",
+      "name": "The QR Code Generator",
+      "url": "https://www.the-qrcode-generator.com/",
+      "desc": "在线生成可定制样式的二维码，支持链接文本与WiFi等。",
+      "tags": [
+        "二维码",
+        "生成",
+        "定制"
+      ],
+      "cat": "tools",
+      "sub": "generate",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-09-02"
+    },
+    {
+      "id": "tools-generate-x05",
+      "name": "BarcodesInc",
+      "url": "https://www.barcodesinc.com/generator/",
+      "desc": "在线生成Code128、UPC、QR等多种条形码图片。",
+      "tags": [
+        "条形码",
+        "生成",
+        "条码"
+      ],
+      "cat": "tools",
+      "sub": "generate",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-10-23"
+    },
+    {
+      "id": "tools-generate-x06",
+      "name": "Password Generator",
+      "url": "https://www.passwordgenerator.net/",
+      "desc": "可定制长度与字符集的强密码在线生成器，支持批量。",
+      "tags": [
+        "密码",
+        "生成",
+        "安全"
+      ],
+      "cat": "tools",
+      "sub": "generate",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-12-15"
+    },
+    {
+      "id": "tools-generate-x07",
+      "name": "GUID Generator",
+      "url": "https://www.guidgenerator.com/",
+      "desc": "在线批量生成UUID/GUID，支持多版本与格式输出。",
+      "tags": [
+        "UUID",
+        "GUID",
+        "生成"
+      ],
+      "cat": "tools",
+      "sub": "generate",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-01-28"
+    },
+    {
+      "id": "tools-generate-x08",
+      "name": "GenerateData",
+      "url": "https://generatedata.com/",
+      "desc": "在线生成结构化测试假数据，支持JSON/CSV/SQL等格式。",
+      "tags": [
+        "假数据",
+        "测试",
+        "CSV"
+      ],
+      "cat": "tools",
+      "sub": "generate",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-03-09"
+    },
+    {
+      "id": "tools-generate-x09",
+      "name": "Logaster",
+      "url": "https://www.logaster.com/",
+      "desc": "输入名称即可在线生成品牌Logo与配套视觉标识方案。",
+      "tags": [
+        "Logo",
+        "图标",
+        "品牌"
+      ],
+      "cat": "tools",
+      "sub": "generate",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-04-21"
+    },
+    {
+      "id": "tools-generate-x10",
+      "name": "Tables Generator",
+      "url": "https://www.tablesgenerator.com/",
+      "desc": "可视化生成Markdown、HTML、LaTeX等格式表格代码。",
+      "tags": [
+        "Markdown",
+        "表格",
+        "代码"
+      ],
+      "cat": "tools",
+      "sub": "generate",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-03"
+    },
+    {
+      "id": "tools-generate-x11",
+      "name": "Regexper",
+      "url": "https://regexper.com/",
+      "desc": "将正则表达式可视化为流程图，帮助理解匹配逻辑。",
+      "tags": [
+        "正则",
+        "可视化",
+        "开发"
+      ],
+      "cat": "tools",
+      "sub": "generate",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-07-14"
+    },
+    {
+      "id": "tools-generate-x12",
+      "name": "SVG Wave",
+      "url": "https://svgwave.in/",
+      "desc": "在线生成好看的SVG波浪分隔背景，可导出为矢量文件。",
+      "tags": [
+        "SVG",
+        "波浪",
+        "背景"
+      ],
+      "cat": "tools",
+      "sub": "generate",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-08-27"
+    },
+    {
+      "id": "tools-generate-x13",
+      "name": "WebGradients",
+      "url": "https://webgradients.com/",
+      "desc": "精选CSS渐变配色方案库，可一键复制并导出为代码。",
+      "tags": [
+        "渐变",
+        "配色",
+        "CSS"
+      ],
+      "cat": "tools",
+      "sub": "generate",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-10-09"
+    },
+    {
+      "id": "tools-generate-x14",
+      "name": "Border Radius",
+      "url": "https://border-radius.com/",
+      "desc": "可视化生成CSS圆角代码，支持四角独立参数设置。",
+      "tags": [
+        "圆角",
+        "CSS",
+        "生成"
+      ],
+      "cat": "tools",
+      "sub": "generate",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-11-19"
+    },
+    {
+      "id": "tools-generate-x15",
+      "name": "gitignore.io",
+      "url": "https://www.toptal.com/developers/gitignore",
+      "desc": "按语言与框架在线生成.gitignore文件，覆盖主流技术栈。",
+      "tags": [
+        "gitignore",
+        "生成",
+        "开发"
+      ],
+      "cat": "tools",
+      "sub": "generate",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-12-30"
+    }
+  ]
+}

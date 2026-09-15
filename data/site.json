@@ -1,0 +1,12 @@
+{
+  "name": "资源方舟",
+  "enName": "ResourceArk",
+  "slogan": "一站式优质网站资源导航库",
+  "author": "我很能忍11",
+  "email": "feedback@example.com",
+  "repo": "https://github.com/your-name/resource-ark",
+  "icp": "",
+  "feedbackEmbedUrl": "",
+  "analytics": "",
+  "_comment": "feedbackEmbedUrl 填入腾讯问卷 / 金数据 / Formspree 等第三方表单地址后，反馈页会自动嵌入；repo 填 GitHub 仓库地址后，反馈页可直接生成 Issue。"
+}

@@ -1,0 +1,2778 @@
+{
+  "category": "media",
+  "resources": [
+    {
+      "id": "media-video-01",
+      "name": "Pexels Videos",
+      "url": "https://www.pexels.com/videos/",
+      "desc": "Pexels 旗下免版权视频库，可按颜色与关键词检索 4K 片段，支持直接下载与商用，无需署名。",
+      "tags": [
+        "免版权",
+        "视频",
+        "4K",
+        "可商用",
+        "素材"
+      ],
+      "cat": "media",
+      "sub": "video",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "media-video-02",
+      "name": "卓特视觉",
+      "url": "https://www.zhuotech.com/",
+      "desc": "卓特视觉提供中国风与商业场景的免版权视频与图片，国内可直连下载，适合本土化短视频创作。",
+      "tags": [
+        "免版权",
+        "视频",
+        "国内可下",
+        "实拍",
+        "商用"
+      ],
+      "cat": "media",
+      "sub": "video",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-03-22"
+    },
+    {
+      "id": "media-video-03",
+      "name": "Mixkit",
+      "url": "https://mixkit.co/",
+      "desc": "Mixkit 提供分类清晰的免版权视频片段与动态背景，全部 CC0 可商用，无需注册即可高速下载。",
+      "tags": [
+        "免版权",
+        "视频",
+        "动态背景",
+        "CC0",
+        "可商用"
+      ],
+      "cat": "media",
+      "sub": "video",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-01-09"
+    },
+    {
+      "id": "media-video-04",
+      "name": "Coverr",
+      "url": "https://coverr.co/",
+      "desc": "Coverr 主打网站与社媒适用的短视频循环背景，每周更新，画质高且完全免费可商用。",
+      "tags": [
+        "免版权",
+        "视频",
+        "循环背景",
+        "社媒",
+        "免费"
+      ],
+      "cat": "media",
+      "sub": "video",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-11-30"
+    },
+    {
+      "id": "media-video-05",
+      "name": "Videvo",
+      "url": "https://www.videvo.net/",
+      "desc": "Videvo 聚合大量免版权视频与动态图形，含 CC 协议与自有授权，支持按分辨率筛选下载。",
+      "tags": [
+        "免版权",
+        "视频",
+        "动态图形",
+        "可商用",
+        "CC"
+      ],
+      "cat": "media",
+      "sub": "video",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-04-15"
+    },
+    {
+      "id": "media-video-06",
+      "name": "Mazwai",
+      "url": "https://mazwai.com/",
+      "desc": "Mazwai 精选电影感免版权航拍与风景视频，由人工策展，适合做高品质片头与背景。",
+      "tags": [
+        "免版权",
+        "航拍",
+        "风景",
+        "电影感",
+        "背景"
+      ],
+      "cat": "media",
+      "sub": "video",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-07-08"
+    },
+    {
+      "id": "media-video-07",
+      "name": "Videezy",
+      "url": "https://www.videezy.com/",
+      "desc": "Videezy 社区型视频素材库，提供 4K 与 AE 模板，免费与付费授权并存，需留意单条许可。",
+      "tags": [
+        "视频",
+        "4K",
+        "AE模板",
+        "免费",
+        "付费"
+      ],
+      "cat": "media",
+      "sub": "video",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-08-21"
+    },
+    {
+      "id": "media-video-08",
+      "name": "Life of Vids",
+      "url": "https://lifeofvids.com/",
+      "desc": "Life of Vids 由工作室维护的免版权视频合集，风格统一偏生活化，可无限免费下载使用。",
+      "tags": [
+        "免版权",
+        "视频",
+        "生活",
+        "免费",
+        "背景"
+      ],
+      "cat": "media",
+      "sub": "video",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-02-14"
+    },
+    {
+      "id": "media-video-09",
+      "name": "Distill",
+      "url": "https://www.distill.video/",
+      "desc": "Distill 每日推送 10 秒免版权视频，画面极具艺术感，适合做循环背景与品牌影像。",
+      "tags": [
+        "免版权",
+        "艺术",
+        "循环",
+        "短视频",
+        "背景"
+      ],
+      "cat": "media",
+      "sub": "video",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-05-03"
+    },
+    {
+      "id": "media-video-10",
+      "name": "CuteStockFootage",
+      "url": "https://cutestockfootage.com/",
+      "desc": "CuteStockFootage 提供卡通化与实拍混合的免版权片段，风格轻松，适合教育与动画项目。",
+      "tags": [
+        "免版权",
+        "卡通",
+        "实拍",
+        "教育",
+        "免费"
+      ],
+      "cat": "media",
+      "sub": "video",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-09-17"
+    },
+    {
+      "id": "media-video-11",
+      "name": "Motion Places",
+      "url": "https://www.motionplaces.com/",
+      "desc": "Motion Places 专注全球城市与旅行免版权空镜，地理分类细致，适合纪录片与 Vlog 背景。",
+      "tags": [
+        "免版权",
+        "旅行",
+        "空镜",
+        "城市",
+        "可商用"
+      ],
+      "cat": "media",
+      "sub": "video",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2026-01-12"
+    },
+    {
+      "id": "media-video-12",
+      "name": "Stock Footage for Free",
+      "url": "https://www.stockfootageforfree.com/",
+      "desc": "该站汇集每日更新的免版权实拍片段，按主题归类，下载无次数限制，可商用。",
+      "tags": [
+        "免版权",
+        "实拍",
+        "主题",
+        "免费",
+        "商用"
+      ],
+      "cat": "media",
+      "sub": "video",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-12-05"
+    },
+    {
+      "id": "media-video-13",
+      "name": "Pond5",
+      "url": "https://www.pond5.com/",
+      "desc": "Pond5 大型商业素材市场，视频质量高、检索专业，按条计费，适合预算充足的成片制作。",
+      "tags": [
+        "视频",
+        "商业",
+        "付费",
+        "高清",
+        "市场"
+      ],
+      "cat": "media",
+      "sub": "video",
+      "hot": 0,
+      "lang": "en",
+      "free": "paid",
+      "added": "2025-03-28"
+    },
+    {
+      "id": "media-video-14",
+      "name": "Shutterstock",
+      "url": "https://www.shutterstock.com/",
+      "desc": "Shutterstock 老牌图库，视频库海量且审核严格，订阅或单买授权，企业级首选。",
+      "tags": [
+        "视频",
+        "商业",
+        "订阅",
+        "企业",
+        "付费"
+      ],
+      "cat": "media",
+      "sub": "video",
+      "hot": 0,
+      "lang": "en",
+      "free": "paid",
+      "added": "2024-06-11"
+    },
+    {
+      "id": "media-video-15",
+      "name": "Adobe Stock",
+      "url": "https://stock.adobe.com/",
+      "desc": "Adobe Stock 与 Premiere/After Effects 深度集成，可直接在剪辑软件内检索授权视频。",
+      "tags": [
+        "视频",
+        "商业",
+        "集成",
+        "付费",
+        "Adobe"
+      ],
+      "cat": "media",
+      "sub": "video",
+      "hot": 0,
+      "lang": "en",
+      "free": "paid",
+      "added": "2025-07-19"
+    },
+    {
+      "id": "media-video-16",
+      "name": "Storyblocks",
+      "url": "https://www.storyblocks.com/",
+      "desc": "Storyblocks 订阅制无限下载视频与音频，素材更新频繁，适合高频产出的团队。",
+      "tags": [
+        "视频",
+        "订阅",
+        "音频",
+        "团队",
+        "无限"
+      ],
+      "cat": "media",
+      "sub": "video",
+      "hot": 0,
+      "lang": "en",
+      "free": "paid",
+      "added": "2026-02-25"
+    },
+    {
+      "id": "media-video-17",
+      "name": "光厂(VJ师)",
+      "url": "https://www.vjshi.com/",
+      "desc": "光厂是国内视频素材与模板交易平台，含大量中文场景实拍，支持按用途购买授权。",
+      "tags": [
+        "视频",
+        "模板",
+        "国内",
+        "交易",
+        "授权"
+      ],
+      "cat": "media",
+      "sub": "video",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-10-02"
+    },
+    {
+      "id": "media-video-18",
+      "name": "新片场素材",
+      "url": "https://stock.xinpianchang.com/",
+      "desc": "新片场旗下商用视频素材库，偏影视广告级画质，提供正版授权与国内发票。",
+      "tags": [
+        "视频",
+        "商业",
+        "实拍",
+        "正版",
+        "国内"
+      ],
+      "cat": "media",
+      "sub": "video",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-09-14"
+    },
+    {
+      "id": "media-video-19",
+      "name": "包图网视频",
+      "url": "https://v.ibaotu.com/",
+      "desc": "包图网提供中文商业视频片段与模板，会员可下载，适合电商与新媒体短视频。",
+      "tags": [
+        "视频",
+        "模板",
+        "电商",
+        "会员",
+        "中文"
+      ],
+      "cat": "media",
+      "sub": "video",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-04-27"
+    },
+    {
+      "id": "media-video-20",
+      "name": "千图网视频",
+      "url": "https://www.58pic.com/video/",
+      "desc": "千图网视频频道含免扣背景与实拍片段，中文界面，适合中小商家快速出片。",
+      "tags": [
+        "视频",
+        "免扣",
+        "实拍",
+        "中文",
+        "新媒体"
+      ],
+      "cat": "media",
+      "sub": "video",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2026-03-09"
+    },
+    {
+      "id": "media-music-01",
+      "name": "Free Music Archive",
+      "url": "https://freemusicarchive.org/",
+      "desc": "FMA 老牌 CC 音乐档案库，按流派与许可筛选，可合法下载用于视频与播客。",
+      "tags": [
+        "免版权",
+        "音乐",
+        "CC",
+        "下载",
+        "播客"
+      ],
+      "cat": "media",
+      "sub": "music",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-05-16"
+    },
+    {
+      "id": "media-music-02",
+      "name": "ccMixter",
+      "url": "https://ccmixter.org/",
+      "desc": "ccMixter 基于 CC 协议的 remix 音乐社区，提供人声与伴奏，可商用需看单条许可。",
+      "tags": [
+        "免版权",
+        "音乐",
+        "remix",
+        "CC",
+        "可商用"
+      ],
+      "cat": "media",
+      "sub": "music",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-02-08"
+    },
+    {
+      "id": "media-music-03",
+      "name": "Freesound",
+      "url": "https://freesound.org/",
+      "desc": "Freesound 海量 CC0 音效与环境音库，支持波形预览与相似检索，适合做拟音。",
+      "tags": [
+        "音效",
+        "免版权",
+        "CC0",
+        "环境音",
+        "拟音"
+      ],
+      "cat": "media",
+      "sub": "music",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-08-23"
+    },
+    {
+      "id": "media-music-04",
+      "name": "Bensound",
+      "url": "https://www.bensound.com/",
+      "desc": "Bensound 提供质感背景音乐，部分免署名可免费使用，商用需购买授权。",
+      "tags": [
+        "音乐",
+        "背景乐",
+        "免费",
+        "商用",
+        "授权"
+      ],
+      "cat": "media",
+      "sub": "music",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-06-30"
+    },
+    {
+      "id": "media-music-05",
+      "name": "爱给网",
+      "url": "https://www.aigei.com/",
+      "desc": "爱给网是国内音效与配乐下载站，含游戏音效与背景乐，免费与 VIP 资源并存。",
+      "tags": [
+        "音效",
+        "配乐",
+        "国内",
+        "下载",
+        "免费"
+      ],
+      "cat": "media",
+      "sub": "music",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-01-19"
+    },
+    {
+      "id": "media-music-06",
+      "name": "Scott Buckley",
+      "url": "https://www.scottbuckley.com.au/",
+      "desc": "Scott Buckley 发布 CC 授权的电影感配乐，质量高且可商用，适合纪录片与预告片。",
+      "tags": [
+        "音乐",
+        "CC",
+        "配乐",
+        "电影感",
+        "免费"
+      ],
+      "cat": "media",
+      "sub": "music",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-10-11"
+    },
+    {
+      "id": "media-music-07",
+      "name": "Uppbeat",
+      "url": "https://uppbeat.io/",
+      "desc": "Uppbeat 面向创作者的免版权音乐平台，与 YouTuber 联动，免费额度可商用。",
+      "tags": [
+        "音乐",
+        "免版权",
+        "YouTuber",
+        "免费",
+        "商用"
+      ],
+      "cat": "media",
+      "sub": "music",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-11-04"
+    },
+    {
+      "id": "media-music-08",
+      "name": "Incompetech",
+      "url": "https://incompetech.com/",
+      "desc": "Kevin MacLeod 的 Incompetech 提供大量 CC 配乐，风格多样，需署名即可免费用。",
+      "tags": [
+        "配乐",
+        "CC",
+        "背景乐",
+        "署名",
+        "免费"
+      ],
+      "cat": "media",
+      "sub": "music",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-03-17"
+    },
+    {
+      "id": "media-music-09",
+      "name": "Epidemic Sound",
+      "url": "https://www.epidemicsound.com/",
+      "desc": "Epidemic Sound 订阅制无版权音乐，曲库庞大且含音效，适合专业频道。",
+      "tags": [
+        "音乐",
+        "订阅",
+        "音效",
+        "专业",
+        "无版权"
+      ],
+      "cat": "media",
+      "sub": "music",
+      "hot": 0,
+      "lang": "en",
+      "free": "paid",
+      "added": "2026-04-02"
+    },
+    {
+      "id": "media-music-10",
+      "name": "Artlist",
+      "url": "https://artlist.io/",
+      "desc": "Artlist 年费无限下载高质量配乐与音效，授权覆盖社媒与商业发布。",
+      "tags": [
+        "音乐",
+        "订阅",
+        "音效",
+        "商业",
+        "授权"
+      ],
+      "cat": "media",
+      "sub": "music",
+      "hot": 0,
+      "lang": "en",
+      "free": "paid",
+      "added": "2024-07-29"
+    },
+    {
+      "id": "media-music-11",
+      "name": "AudioJungle",
+      "url": "https://audiojungle.net/",
+      "desc": "AudioJungle 是 Envato 旗下音乐市场，按首计费，种类全且授权清晰。",
+      "tags": [
+        "音乐",
+        "市场",
+        "按首",
+        "授权",
+        "Envato"
+      ],
+      "cat": "media",
+      "sub": "music",
+      "hot": 0,
+      "lang": "en",
+      "free": "paid",
+      "added": "2025-05-22"
+    },
+    {
+      "id": "media-music-12",
+      "name": "HookSounds",
+      "url": "https://www.hooksounds.com/",
+      "desc": "HookSounds 独家原创免版权音乐，风格现代，订阅后可用于广告与视频。",
+      "tags": [
+        "音乐",
+        "原创",
+        "订阅",
+        "广告",
+        "免版权"
+      ],
+      "cat": "media",
+      "sub": "music",
+      "hot": 0,
+      "lang": "en",
+      "free": "paid",
+      "added": "2024-09-13"
+    },
+    {
+      "id": "media-music-13",
+      "name": "FreePD",
+      "url": "https://freepd.com/",
+      "desc": "FreePD 提供完全 CC0 的公共领域音乐，多为古典与氛围曲，可零限制商用。",
+      "tags": [
+        "音乐",
+        "CC0",
+        "公共领域",
+        "古典",
+        "商用"
+      ],
+      "cat": "media",
+      "sub": "music",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-08-06"
+    },
+    {
+      "id": "media-music-14",
+      "name": "Musopen",
+      "url": "https://musopen.org/",
+      "desc": "Musopen 专注公共领域古典音乐录音，免费下载，适合文化与教育类视频。",
+      "tags": [
+        "古典",
+        "公共领域",
+        "免费",
+        "教育",
+        "录音"
+      ],
+      "cat": "media",
+      "sub": "music",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-03-05"
+    },
+    {
+      "id": "media-music-15",
+      "name": "淘声网",
+      "url": "https://www.tosound.com/",
+      "desc": "淘声网聚合国内外免费音效与配乐，支持中文检索，适合国内创作者快速找素材。",
+      "tags": [
+        "音效",
+        "配乐",
+        "国内",
+        "免费",
+        "检索"
+      ],
+      "cat": "media",
+      "sub": "music",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2026-01-28"
+    },
+    {
+      "id": "media-music-16",
+      "name": "耳聆网",
+      "url": "https://www.ear0.com/",
+      "desc": "耳聆网是国内 CC 音效分享社区，含自然与人工音效，可免费下载并注明出处。",
+      "tags": [
+        "音效",
+        "CC",
+        "社区",
+        "免费",
+        "中文"
+      ],
+      "cat": "media",
+      "sub": "music",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-04-19"
+    },
+    {
+      "id": "media-music-17",
+      "name": "Moby Gratis",
+      "url": "https://mobygratis.com/",
+      "desc": "Moby Gratis 音乐人 Moby 开放的免版权曲库，限非商业与部分商业使用。",
+      "tags": [
+        "音乐",
+        "免版权",
+        "非商业",
+        "Moby",
+        "免费"
+      ],
+      "cat": "media",
+      "sub": "music",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-12-21"
+    },
+    {
+      "id": "media-music-18",
+      "name": "100audio",
+      "url": "https://www.100audio.com/",
+      "desc": "100audio 是国内正版配乐交易站，含免费与商用授权音乐，中文检索方便。",
+      "tags": [
+        "配乐",
+        "正版",
+        "国内",
+        "商用",
+        "交易"
+      ],
+      "cat": "media",
+      "sub": "music",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-11-09"
+    },
+    {
+      "id": "media-music-19",
+      "name": "SoundBible",
+      "url": "https://soundbible.com/",
+      "desc": "SoundBible 提供 CC0 与 CC 音效，单文件小、下载快，适合做剪辑拟音。",
+      "tags": [
+        "音效",
+        "CC0",
+        "CC",
+        "拟音",
+        "免费"
+      ],
+      "cat": "media",
+      "sub": "music",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-06-25"
+    },
+    {
+      "id": "media-music-20",
+      "name": "Zapsplat",
+      "url": "https://www.zapsplat.com/",
+      "desc": "Zapsplat 拥有数十万免版权音效与音乐，免费档需署名，专业档可去标。",
+      "tags": [
+        "音效",
+        "免版权",
+        "专业",
+        "免费",
+        "署名"
+      ],
+      "cat": "media",
+      "sub": "music",
+      "hot": 2,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2026-02-14"
+    },
+    {
+      "id": "media-stock-01",
+      "name": "Unsplash",
+      "url": "https://unsplash.com/",
+      "desc": "Unsplash 高质量免版权摄影库，API 友好，可商用无需署名，是设计常用图源。",
+      "tags": [
+        "免版权",
+        "摄影",
+        "高清",
+        "API",
+        "商用"
+      ],
+      "cat": "media",
+      "sub": "stock",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-02-11"
+    },
+    {
+      "id": "media-stock-02",
+      "name": "Pixabay",
+      "url": "https://pixabay.com/",
+      "desc": "Pixabay 聚合照片、插画与矢量，全部 CC0 可商用，中文界面且支持国内访问。",
+      "tags": [
+        "免版权",
+        "照片",
+        "插画",
+        "CC0",
+        "中文"
+      ],
+      "cat": "media",
+      "sub": "stock",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-01-23"
+    },
+    {
+      "id": "media-stock-03",
+      "name": "Burst",
+      "url": "https://burst.shopify.com/",
+      "desc": "Burst 由 Shopify 推出的免费图库，偏电商与商业场景，可商用且无需署名。",
+      "tags": [
+        "免版权",
+        "电商",
+        "商业",
+        "免费",
+        "署名免"
+      ],
+      "cat": "media",
+      "sub": "stock",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-10-08"
+    },
+    {
+      "id": "media-stock-04",
+      "name": "Kaboompics",
+      "url": "https://kaboompics.com/",
+      "desc": "Kaboompics 提供生活化高清照片与配色方案，CC0 可商用，适合网页与社媒。",
+      "tags": [
+        "免版权",
+        "生活",
+        "配色",
+        "CC0",
+        "网页"
+      ],
+      "cat": "media",
+      "sub": "stock",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-07-04"
+    },
+    {
+      "id": "media-stock-05",
+      "name": "Foodiesfeed",
+      "url": "https://www.foodiesfeed.com/",
+      "desc": "Foodiesfeed 专注美食摄影的免费图库，画质诱人，适合餐饮与食谱类内容。",
+      "tags": [
+        "美食",
+        "摄影",
+        "免费",
+        "餐饮",
+        "高清"
+      ],
+      "cat": "media",
+      "sub": "stock",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-04-30"
+    },
+    {
+      "id": "media-stock-06",
+      "name": "视觉中国",
+      "url": "https://www.vcg.com/",
+      "desc": "视觉中国是国内正版图片交易平台，含海量商业授权摄影，按授权付费使用。",
+      "tags": [
+        "图片",
+        "商业",
+        "正版",
+        "付费",
+        "授权"
+      ],
+      "cat": "media",
+      "sub": "stock",
+      "hot": 0,
+      "lang": "zh",
+      "free": "paid",
+      "added": "2025-09-27"
+    },
+    {
+      "id": "media-stock-07",
+      "name": "StockSnap",
+      "url": "https://stocksnap.io/",
+      "desc": "StockSnap 每日更新 CC0 照片，检索与标签完善，可自由下载与商用。",
+      "tags": [
+        "免版权",
+        "照片",
+        "CC0",
+        "更新",
+        "商用"
+      ],
+      "cat": "media",
+      "sub": "stock",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-08-15"
+    },
+    {
+      "id": "media-stock-08",
+      "name": "Gratisography",
+      "url": "https://gratisography.com/",
+      "desc": "Gratisography 提供脑洞大开的创意搞怪照片，CC0 可商用，适合趣味设计。",
+      "tags": [
+        "创意",
+        "搞怪",
+        "照片",
+        "CC0",
+        "设计"
+      ],
+      "cat": "media",
+      "sub": "stock",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2026-03-18"
+    },
+    {
+      "id": "media-stock-09",
+      "name": "Picjumbo",
+      "url": "https://picjumbo.com/",
+      "desc": "Picjumbo 免费图库含质感照片，可商用，也提供付费高清与原图包。",
+      "tags": [
+        "照片",
+        "免费",
+        "商用",
+        "高清",
+        "付费"
+      ],
+      "cat": "media",
+      "sub": "stock",
+      "hot": 2,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-05-11"
+    },
+    {
+      "id": "media-stock-10",
+      "name": "Stockvault",
+      "url": "https://www.stockvault.net/",
+      "desc": "Stockvault 社区分享的免费照片与纹理，适合做背景与海报素材。",
+      "tags": [
+        "照片",
+        "纹理",
+        "免费",
+        "社区",
+        "背景"
+      ],
+      "cat": "media",
+      "sub": "stock",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-12-09"
+    },
+    {
+      "id": "media-stock-11",
+      "name": "Negative Space",
+      "url": "https://negativespace.co/",
+      "desc": "Negative Space 提供高对比度免费照片并附调色预设，CC0 可商用。",
+      "tags": [
+        "照片",
+        "高对比",
+        "预设",
+        "CC0",
+        "商用"
+      ],
+      "cat": "media",
+      "sub": "stock",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-02-26"
+    },
+    {
+      "id": "media-stock-12",
+      "name": "ISO Republic",
+      "url": "https://isorepublic.com/",
+      "desc": "ISO Republic 提供极简风 CC0 照片与视频，质量稳定，适合品牌视觉。",
+      "tags": [
+        "极简",
+        "照片",
+        "视频",
+        "CC0",
+        "品牌"
+      ],
+      "cat": "media",
+      "sub": "stock",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-06-03"
+    },
+    {
+      "id": "media-stock-13",
+      "name": "Picspree",
+      "url": "https://picspree.com/",
+      "desc": "Picspree 免费图库含商业与人物照片，可商用，无需署名与注册。",
+      "tags": [
+        "照片",
+        "商业",
+        "人物",
+        "免费",
+        "商用"
+      ],
+      "cat": "media",
+      "sub": "stock",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2026-01-07"
+    },
+    {
+      "id": "media-stock-14",
+      "name": "摄图网",
+      "url": "https://699pic.com/",
+      "desc": "摄图网是国内商用图库，中文场景丰富，会员可下载正版授权图片。",
+      "tags": [
+        "图片",
+        "商用",
+        "中文",
+        "会员",
+        "正版"
+      ],
+      "cat": "media",
+      "sub": "stock",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-08-29"
+    },
+    {
+      "id": "media-stock-15",
+      "name": "千库网",
+      "url": "https://588ku.com/",
+      "desc": "千库网提供中文设计素材与图片，含免费与 VIP 资源，适合电商与新媒。",
+      "tags": [
+        "素材",
+        "图片",
+        "中文",
+        "免费",
+        "VIP"
+      ],
+      "cat": "media",
+      "sub": "stock",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-03-19"
+    },
+    {
+      "id": "media-stock-16",
+      "name": "我图网",
+      "url": "https://www.ooopic.com/",
+      "desc": "我图网是原创图片与设计素材交易平台，正版授权清晰，中文检索方便。",
+      "tags": [
+        "图片",
+        "设计",
+        "正版",
+        "交易",
+        "中文"
+      ],
+      "cat": "media",
+      "sub": "stock",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-10-22"
+    },
+    {
+      "id": "media-stock-17",
+      "name": "站酷海洛",
+      "url": "https://www.hellorf.com/",
+      "desc": "站酷海洛是正版图片视频库，含国内外优质摄影，企业授权完善。",
+      "tags": [
+        "图片",
+        "视频",
+        "正版",
+        "企业",
+        "授权"
+      ],
+      "cat": "media",
+      "sub": "stock",
+      "hot": 0,
+      "lang": "zh",
+      "free": "paid",
+      "added": "2024-11-13"
+    },
+    {
+      "id": "media-stock-18",
+      "name": "Getty Images",
+      "url": "https://www.gettyimages.com/",
+      "desc": "Getty Images 顶级商业图库，图片权威且审核严，按授权高价购买。",
+      "tags": [
+        "图片",
+        "商业",
+        "权威",
+        "付费",
+        "图库"
+      ],
+      "cat": "media",
+      "sub": "stock",
+      "hot": 0,
+      "lang": "en",
+      "free": "paid",
+      "added": "2025-06-05"
+    },
+    {
+      "id": "media-stock-19",
+      "name": "123RF",
+      "url": "https://www.123rf.com/",
+      "desc": "123RF 全球微图库，价格亲民、素材海量，适合中小项目批量采购。",
+      "tags": [
+        "图片",
+        "微图",
+        "亲民",
+        "批量",
+        "商用"
+      ],
+      "cat": "media",
+      "sub": "stock",
+      "hot": 0,
+      "lang": "en",
+      "free": "paid",
+      "added": "2026-02-20"
+    },
+    {
+      "id": "media-stock-20",
+      "name": "图虫创意",
+      "url": "https://stock.tuchong.com/",
+      "desc": "图虫创意是字节旗下正版图库，含本土摄影作品，授权灵活可商用。",
+      "tags": [
+        "图片",
+        "正版",
+        "本土",
+        "授权",
+        "摄影"
+      ],
+      "cat": "media",
+      "sub": "stock",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-09-08"
+    },
+    {
+      "id": "media-subtitle-01",
+      "name": "网易见外",
+      "url": "https://jianwai.youdao.com/",
+      "desc": "网易见外提供语音转写与字幕翻译，上传音视频自动出时间轴，支持中英多语。",
+      "tags": [
+        "转写",
+        "字幕",
+        "翻译",
+        "多语",
+        "国内"
+      ],
+      "cat": "media",
+      "sub": "subtitle",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-07-12"
+    },
+    {
+      "id": "media-subtitle-02",
+      "name": "讯飞听见",
+      "url": "https://www.iflyrec.com/",
+      "desc": "讯飞听见基于讯飞语音识别，转写准确率高，可生成字幕与会议纪要，支持导出。",
+      "tags": [
+        "转写",
+        "字幕",
+        "语音识别",
+        "会议",
+        "国内"
+      ],
+      "cat": "media",
+      "sub": "subtitle",
+      "hot": 1,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-03-30"
+    },
+    {
+      "id": "media-subtitle-03",
+      "name": "Arctime",
+      "url": "https://arctime.org/",
+      "desc": "Arctime 是本地字幕压制与时间轴工具，拖拽打轴高效，支持多格式导出。",
+      "tags": [
+        "字幕",
+        "时间轴",
+        "本地",
+        "打轴",
+        "导出"
+      ],
+      "cat": "media",
+      "sub": "subtitle",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-01-25"
+    },
+    {
+      "id": "media-subtitle-04",
+      "name": "SubHD",
+      "url": "https://subhd.tv/",
+      "desc": "SubHD 是国内字幕下载站，提供电影剧集中文字幕，可按片名检索下载。",
+      "tags": [
+        "字幕",
+        "下载",
+        "中文字幕",
+        "影视",
+        "国内"
+      ],
+      "cat": "media",
+      "sub": "subtitle",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-09-08"
+    },
+    {
+      "id": "media-subtitle-05",
+      "name": "OpenSubtitles",
+      "url": "https://www.opensubtitles.org/",
+      "desc": "OpenSubtitles 全球最大字幕索引站，多语言字幕海量，按影片名即可搜到。",
+      "tags": [
+        "字幕",
+        "下载",
+        "多语言",
+        "索引",
+        "全球"
+      ],
+      "cat": "media",
+      "sub": "subtitle",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-11-18"
+    },
+    {
+      "id": "media-subtitle-06",
+      "name": "Happy Scribe",
+      "url": "https://www.happyscribe.com/",
+      "desc": "Happy Scribe 自动语音转写与字幕生成，支持多语言，可导出 SRT 并协作。",
+      "tags": [
+        "转写",
+        "字幕",
+        "多语",
+        "协作",
+        "在线"
+      ],
+      "cat": "media",
+      "sub": "subtitle",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-05-27"
+    },
+    {
+      "id": "media-subtitle-07",
+      "name": "字幕库",
+      "url": "https://www.zimuku.cn/",
+      "desc": "字幕库提供影视中文字幕下载与上传，分类清晰，是国内常用字幕资源站。",
+      "tags": [
+        "字幕",
+        "下载",
+        "中文",
+        "影视",
+        "国内"
+      ],
+      "cat": "media",
+      "sub": "subtitle",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-04-09"
+    },
+    {
+      "id": "media-subtitle-08",
+      "name": "射手网",
+      "url": "https://assrt.net/",
+      "desc": "射手网(assrt)提供影片字幕匹配与下载，支持自动识别视频匹配字幕文件。",
+      "tags": [
+        "字幕",
+        "匹配",
+        "下载",
+        "自动",
+        "国内"
+      ],
+      "cat": "media",
+      "sub": "subtitle",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-01-14"
+    },
+    {
+      "id": "media-subtitle-09",
+      "name": "Amara",
+      "url": "https://amara.org/",
+      "desc": "Amara 是在线字幕协作平台，支持众包翻译与时间轴编辑，适合团队字幕项目。",
+      "tags": [
+        "字幕",
+        "协作",
+        "翻译",
+        "在线",
+        "众包"
+      ],
+      "cat": "media",
+      "sub": "subtitle",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2026-03-22"
+    },
+    {
+      "id": "media-subtitle-10",
+      "name": "飞书妙记",
+      "url": "https://www.feishu.cn/",
+      "desc": "飞书妙记可把会议录音转成带字幕文稿，自动区分说话人，便于复盘整理。",
+      "tags": [
+        "转写",
+        "字幕",
+        "会议",
+        "说话人",
+        "国内"
+      ],
+      "cat": "media",
+      "sub": "subtitle",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-08-26"
+    },
+    {
+      "id": "media-subtitle-11",
+      "name": "阿里云听悟",
+      "url": "https://tingwu.aliyun.com/",
+      "desc": "阿里云听悟提供长音频转写与章节摘要，适合访谈与会议内容的字幕化处理。",
+      "tags": [
+        "转写",
+        "摘要",
+        "长音频",
+        "国内",
+        "云"
+      ],
+      "cat": "media",
+      "sub": "subtitle",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-07-15"
+    },
+    {
+      "id": "media-subtitle-12",
+      "name": "火山引擎",
+      "url": "https://www.volcengine.com/",
+      "desc": "火山引擎语音技术提供转写与翻译 API，识别准、延迟低，可接入视频生产。",
+      "tags": [
+        "转写",
+        "翻译",
+        "API",
+        "语音",
+        "国内"
+      ],
+      "cat": "media",
+      "sub": "subtitle",
+      "hot": 0,
+      "lang": "zh",
+      "free": "paid",
+      "added": "2024-10-31"
+    },
+    {
+      "id": "media-subtitle-13",
+      "name": "Notta",
+      "url": "https://www.notta.ai/",
+      "desc": "Notta 实时语音转文字并生成字幕，支持多语言导入导出，适合访谈记录。",
+      "tags": [
+        "转写",
+        "字幕",
+        "实时",
+        "多语",
+        "笔记"
+      ],
+      "cat": "media",
+      "sub": "subtitle",
+      "hot": 2,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-11-30"
+    },
+    {
+      "id": "media-subtitle-14",
+      "name": "Otter.ai",
+      "url": "https://otter.ai/",
+      "desc": "Otter.ai 自动会议与视频转写，实时字幕加摘要，协作分享方便。",
+      "tags": [
+        "转写",
+        "字幕",
+        "会议",
+        "实时",
+        "摘要"
+      ],
+      "cat": "media",
+      "sub": "subtitle",
+      "hot": 2,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2026-01-18"
+    },
+    {
+      "id": "media-subtitle-15",
+      "name": "Sonix",
+      "url": "https://sonix.ai/",
+      "desc": "Sonix 自动转写翻译并生成字幕，支持批量处理与多语言，面向专业团队。",
+      "tags": [
+        "转写",
+        "翻译",
+        "字幕",
+        "批量",
+        "专业"
+      ],
+      "cat": "media",
+      "sub": "subtitle",
+      "hot": 0,
+      "lang": "en",
+      "free": "paid",
+      "added": "2025-04-03"
+    },
+    {
+      "id": "media-subtitle-16",
+      "name": "Rev",
+      "url": "https://www.rev.com/",
+      "desc": "Rev 提供人工+自动字幕与转写服务，准确率高，按分钟计费交付快。",
+      "tags": [
+        "字幕",
+        "转写",
+        "人工",
+        "付费",
+        "准确"
+      ],
+      "cat": "media",
+      "sub": "subtitle",
+      "hot": 0,
+      "lang": "en",
+      "free": "paid",
+      "added": "2024-06-17"
+    },
+    {
+      "id": "media-subtitle-17",
+      "name": "Trint",
+      "url": "https://trint.com/",
+      "desc": "Trint 把音视频转成可编辑文稿并导出字幕，适合新闻与纪录片工作流。",
+      "tags": [
+        "转写",
+        "文稿",
+        "字幕",
+        "新闻",
+        "纪录片"
+      ],
+      "cat": "media",
+      "sub": "subtitle",
+      "hot": 0,
+      "lang": "en",
+      "free": "paid",
+      "added": "2025-08-12"
+    },
+    {
+      "id": "media-subtitle-18",
+      "name": "Descript",
+      "url": "https://www.descript.com/",
+      "desc": "Descript 以文稿编辑驱动剪辑，自动出字幕并可修正，适合口播类视频。",
+      "tags": [
+        "字幕",
+        "剪辑",
+        "文稿",
+        "口播",
+        "编辑"
+      ],
+      "cat": "media",
+      "sub": "subtitle",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-12-28"
+    },
+    {
+      "id": "media-subtitle-19",
+      "name": "Subtitle Edit",
+      "url": "https://www.nikse.dk/",
+      "desc": "Subtitle Edit 是开源字幕编辑器，支持波形对齐与翻译，桌面端免费强大。",
+      "tags": [
+        "字幕",
+        "编辑",
+        "开源",
+        "波形",
+        "桌面"
+      ],
+      "cat": "media",
+      "sub": "subtitle",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-02-09"
+    },
+    {
+      "id": "media-subtitle-20",
+      "name": "Maestra",
+      "url": "https://maestra.ai/",
+      "desc": "Maestra 自动转写并生成多语言字幕，支持配音与翻译，导出格式齐全。",
+      "tags": [
+        "转写",
+        "字幕",
+        "多语",
+        "配音",
+        "导出"
+      ],
+      "cat": "media",
+      "sub": "subtitle",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2026-02-05"
+    },
+    {
+      "id": "media-template-01",
+      "name": "剪映",
+      "url": "https://www.capcut.cn/",
+      "desc": "剪映提供海量中文短视频模板与特效，手机电脑互通，一键套用即可出片。",
+      "tags": [
+        "模板",
+        "短视频",
+        "中文",
+        "特效",
+        "一键"
+      ],
+      "cat": "media",
+      "sub": "template",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-03-11"
+    },
+    {
+      "id": "media-template-02",
+      "name": "Canva",
+      "url": "https://www.canva.com/",
+      "desc": "Canva 在线设计含视频模板与动画，拖拽排版简单，适合社媒与演示视频。",
+      "tags": [
+        "模板",
+        "设计",
+        "视频",
+        "在线",
+        "社媒"
+      ],
+      "cat": "media",
+      "sub": "template",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-06-19"
+    },
+    {
+      "id": "media-template-03",
+      "name": "Motion Array",
+      "url": "https://motionarray.com/",
+      "desc": "Motion Array 订阅制提供 PR/AE 模板、转场与字体，质量高且更新快。",
+      "tags": [
+        "模板",
+        "PR",
+        "AE",
+        "转场",
+        "订阅"
+      ],
+      "cat": "media",
+      "sub": "template",
+      "hot": 1,
+      "lang": "en",
+      "free": "paid",
+      "added": "2024-09-30"
+    },
+    {
+      "id": "media-template-04",
+      "name": "VideoHive",
+      "url": "https://videohive.net/",
+      "desc": "VideoHive 是 Envato 视频模板市场，片头包装与 AE 工程按件售卖，种类极全。",
+      "tags": [
+        "模板",
+        "片头",
+        "AE",
+        "市场",
+        "付费"
+      ],
+      "cat": "media",
+      "sub": "template",
+      "hot": 1,
+      "lang": "en",
+      "free": "paid",
+      "added": "2025-01-27"
+    },
+    {
+      "id": "media-template-05",
+      "name": "新CG儿",
+      "url": "https://www.newcger.com/",
+      "desc": "新CG儿分享中文 AE/PR 模板与片头，国内可直连下载，适合栏目包装。",
+      "tags": [
+        "模板",
+        "AE",
+        "PR",
+        "片头",
+        "中文"
+      ],
+      "cat": "media",
+      "sub": "template",
+      "hot": 2,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-07-23"
+    },
+    {
+      "id": "media-template-06",
+      "name": "Envato Elements",
+      "url": "https://elements.envato.com/",
+      "desc": "Envato Elements 年费无限下载视频模板、音效与字体，一账通吃多类素材。",
+      "tags": [
+        "模板",
+        "订阅",
+        "音效",
+        "字体",
+        "无限"
+      ],
+      "cat": "media",
+      "sub": "template",
+      "hot": 1,
+      "lang": "en",
+      "free": "paid",
+      "added": "2025-10-15"
+    },
+    {
+      "id": "media-template-07",
+      "name": "Placeit",
+      "url": "https://placeit.net/",
+      "desc": "Placeit 提供在线视频与 mockup 模板，无需软件即可在浏览器生成宣传片。",
+      "tags": [
+        "模板",
+        "在线",
+        "mockup",
+        "宣传片",
+        "浏览器"
+      ],
+      "cat": "media",
+      "sub": "template",
+      "hot": 0,
+      "lang": "en",
+      "free": "paid",
+      "added": "2024-11-25"
+    },
+    {
+      "id": "media-template-08",
+      "name": "Pixflow",
+      "url": "https://pixflow.net/",
+      "desc": "Pixflow 提供免费与付费 AE/PR 模板、特效与 LUT，适合进阶剪辑包装。",
+      "tags": [
+        "模板",
+        "AE",
+        "PR",
+        "特效",
+        "LUT"
+      ],
+      "cat": "media",
+      "sub": "template",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-04-08"
+    },
+    {
+      "id": "media-template-09",
+      "name": "稿定设计",
+      "url": "https://www.gaoding.com/",
+      "desc": "稿定设计提供中文海报与短视频模板，电商新媒体场景丰富，在线一键改。",
+      "tags": [
+        "模板",
+        "中文",
+        "海报",
+        "短视频",
+        "在线"
+      ],
+      "cat": "media",
+      "sub": "template",
+      "hot": 2,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-02-18"
+    },
+    {
+      "id": "media-template-10",
+      "name": "创客贴",
+      "url": "https://www.chuangkit.com/",
+      "desc": "创客贴是在线设计工具，含视频与动图模板，中文模板多，团队协作方便。",
+      "tags": [
+        "模板",
+        "设计",
+        "视频",
+        "中文",
+        "协作"
+      ],
+      "cat": "media",
+      "sub": "template",
+      "hot": 2,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-08-03"
+    },
+    {
+      "id": "media-template-11",
+      "name": "易企秀",
+      "url": "https://www.eqxiu.com/",
+      "desc": "易企秀主打 H5 与短视频模板，营销活动场景丰富，适合企业推广。",
+      "tags": [
+        "模板",
+        "H5",
+        "短视频",
+        "营销",
+        "企业"
+      ],
+      "cat": "media",
+      "sub": "template",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-06-29"
+    },
+    {
+      "id": "media-template-12",
+      "name": "来画",
+      "url": "https://www.laihua.com/",
+      "desc": "来画提供动画与数字人视频模板，手绘风与解说类模板丰富，在线制作。",
+      "tags": [
+        "模板",
+        "动画",
+        "数字人",
+        "解说",
+        "在线"
+      ],
+      "cat": "media",
+      "sub": "template",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2026-01-22"
+    },
+    {
+      "id": "media-template-13",
+      "name": "兔展",
+      "url": "https://www.rabbit.cn/",
+      "desc": "兔展是在线营销内容设计平台，含视频与互动模板，适合品牌传播。",
+      "tags": [
+        "模板",
+        "营销",
+        "视频",
+        "互动",
+        "品牌"
+      ],
+      "cat": "media",
+      "sub": "template",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2025-03-14"
+    },
+    {
+      "id": "media-template-14",
+      "name": "Kapwing",
+      "url": "https://www.kapwing.com/",
+      "desc": "Kapwing 在线视频编辑含字幕与模板，协作方便，无需安装即可出片。",
+      "tags": [
+        "模板",
+        "在线",
+        "字幕",
+        "协作",
+        "剪辑"
+      ],
+      "cat": "media",
+      "sub": "template",
+      "hot": 1,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-10-12"
+    },
+    {
+      "id": "media-template-15",
+      "name": "VEED",
+      "url": "https://veed.io/",
+      "desc": "VEED 在线剪辑器含字幕、滤镜与模板，适合快速制作社媒短视频。",
+      "tags": [
+        "模板",
+        "在线",
+        "字幕",
+        "滤镜",
+        "社媒"
+      ],
+      "cat": "media",
+      "sub": "template",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-07-27"
+    },
+    {
+      "id": "media-template-16",
+      "name": "Flixpress",
+      "url": "https://flixpress.com/",
+      "desc": "Flixpress 提供可定制在线视频模板，输入文字即可生成宣传片头。",
+      "tags": [
+        "模板",
+        "在线",
+        "片头",
+        "定制",
+        "宣传"
+      ],
+      "cat": "media",
+      "sub": "template",
+      "hot": 0,
+      "lang": "en",
+      "free": "paid",
+      "added": "2024-12-04"
+    },
+    {
+      "id": "media-template-17",
+      "name": "Filmora",
+      "url": "https://filmora.wondershare.com/",
+      "desc": "Filmora 万兴喵影提供内置片头与转场模板，新手友好，支持中文界面。",
+      "tags": [
+        "模板",
+        "片头",
+        "转场",
+        "中文",
+        "新手"
+      ],
+      "cat": "media",
+      "sub": "template",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-05-09"
+    },
+    {
+      "id": "media-template-18",
+      "name": "图怪兽",
+      "url": "https://818ps.com/",
+      "desc": "图怪兽含大量中文短视频与封面模板，电商新媒体运营改字换图即出。",
+      "tags": [
+        "模板",
+        "短视频",
+        "封面",
+        "电商",
+        "中文"
+      ],
+      "cat": "media",
+      "sub": "template",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2024-04-21"
+    },
+    {
+      "id": "media-template-19",
+      "name": "凡科快图",
+      "url": "https://www.fkw.com/",
+      "desc": "凡科快图提供营销海报与短视频模板，中小企业推广素材一键生成。",
+      "tags": [
+        "模板",
+        "海报",
+        "短视频",
+        "营销",
+        "企业"
+      ],
+      "cat": "media",
+      "sub": "template",
+      "hot": 0,
+      "lang": "zh",
+      "free": "freemium",
+      "added": "2026-02-28"
+    },
+    {
+      "id": "media-template-20",
+      "name": "Panzoid",
+      "url": "https://panzoid.com/",
+      "desc": "Panzoid 免费在线片头制作器，提供可调节的 3D 片头模板，导出无需水印。",
+      "tags": [
+        "模板",
+        "片头",
+        "在线",
+        "3D",
+        "无水印"
+      ],
+      "cat": "media",
+      "sub": "template",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-09-19"
+    },
+    {
+      "id": "media-player-01",
+      "name": "PotPlayer",
+      "url": "https://potplayer.daum.net/",
+      "desc": "PotPlayer 韩国高兼容播放器，支持几乎所有格式与字幕，快捷键强大无广告。",
+      "tags": [
+        "播放器",
+        "格式全",
+        "字幕",
+        "无广告",
+        "快捷键"
+      ],
+      "cat": "media",
+      "sub": "player",
+      "hot": 1,
+      "lang": "zh",
+      "free": "free",
+      "added": "2024-05-30"
+    },
+    {
+      "id": "media-player-02",
+      "name": "VLC",
+      "url": "https://www.videolan.org/vlc/",
+      "desc": "VLC 跨平台开源播放器，几乎通吃全部音视频编码，无广告且完全免费。",
+      "tags": [
+        "播放器",
+        "开源",
+        "跨平台",
+        "无广告",
+        "免费"
+      ],
+      "cat": "media",
+      "sub": "player",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-02-12"
+    },
+    {
+      "id": "media-player-03",
+      "name": "IINA",
+      "url": "https://iina.io/",
+      "desc": "IINA 是 macOS 原生播放器，界面现代、手势流畅，内置字幕与在线字幕匹配。",
+      "tags": [
+        "播放器",
+        "macOS",
+        "字幕",
+        "现代",
+        "开源"
+      ],
+      "cat": "media",
+      "sub": "player",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-08-07"
+    },
+    {
+      "id": "media-player-04",
+      "name": "MPV",
+      "url": "https://mpv.io/",
+      "desc": "MPV 轻量开源播放器，命令行友好、可高度定制，是高级用户与前端首选。",
+      "tags": [
+        "播放器",
+        "开源",
+        "命令行",
+        "可定制",
+        "轻量"
+      ],
+      "cat": "media",
+      "sub": "player",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-25"
+    },
+    {
+      "id": "media-player-05",
+      "name": "FFmpeg",
+      "url": "https://ffmpeg.org/",
+      "desc": "FFmpeg 是音视频处理底层工具，命令行转码截图抽取，几乎所有播放器都依赖它。",
+      "tags": [
+        "转码",
+        "命令行",
+        "工具",
+        "抽取",
+        "底层"
+      ],
+      "cat": "media",
+      "sub": "player",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-01-16"
+    },
+    {
+      "id": "media-player-06",
+      "name": "FileInfo",
+      "url": "https://fileinfo.com/",
+      "desc": "FileInfo 是在线文件格式查询库，可查扩展名对应的编解码与打开方式。",
+      "tags": [
+        "格式",
+        "查询",
+        "扩展名",
+        "编解码",
+        "在线"
+      ],
+      "cat": "media",
+      "sub": "player",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-10-03"
+    },
+    {
+      "id": "media-player-07",
+      "name": "MediaInfo",
+      "url": "https://mediaarea.net/",
+      "desc": "MediaInfo 查看音视频文件的编码、码率与轨道信息，排查格式兼容很方便。",
+      "tags": [
+        "信息",
+        "编码",
+        "码率",
+        "轨道",
+        "排查"
+      ],
+      "cat": "media",
+      "sub": "player",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-11-09"
+    },
+    {
+      "id": "media-player-08",
+      "name": "KMPlayer",
+      "url": "https://kmplayer.com/",
+      "desc": "KMPlayer 支持 4K 与 3D 播放，内置编解码丰富，界面可换肤多平台可用。",
+      "tags": [
+        "播放器",
+        "4K",
+        "3D",
+        "多平台",
+        "换肤"
+      ],
+      "cat": "media",
+      "sub": "player",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-03-22"
+    },
+    {
+      "id": "media-player-09",
+      "name": "MPC-HC",
+      "url": "https://mpc-hc.org/",
+      "desc": "MPC-HC 轻量开源播放器，占用极低、启动快，适合老机器流畅播放。",
+      "tags": [
+        "播放器",
+        "开源",
+        "轻量",
+        "老机器",
+        "免费"
+      ],
+      "cat": "media",
+      "sub": "player",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-07-02"
+    },
+    {
+      "id": "media-player-10",
+      "name": "5KPlayer",
+      "url": "https://www.5kplayer.com/",
+      "desc": "5KPlayer 支持 4K/5K 与 AirPlay 投屏，同时兼具下载与音乐播放功能。",
+      "tags": [
+        "播放器",
+        "4K",
+        "投屏",
+        "下载",
+        "音乐"
+      ],
+      "cat": "media",
+      "sub": "player",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2026-01-30"
+    },
+    {
+      "id": "media-player-11",
+      "name": "GOM Player",
+      "url": "https://www.gomlab.com/",
+      "desc": "GOM Player 自动搜索缺失字幕与编解码，内置多种滤镜，使用门槛低。",
+      "tags": [
+        "播放器",
+        "字幕",
+        "编解码",
+        "滤镜",
+        "易用"
+      ],
+      "cat": "media",
+      "sub": "player",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-05-14"
+    },
+    {
+      "id": "media-player-12",
+      "name": "SMPlayer",
+      "url": "https://www.smplayer.info/",
+      "desc": "SMPlayer 前端可记忆播放进度与设置，支持 YouTube 与字幕下载，跨平台。",
+      "tags": [
+        "播放器",
+        "进度记忆",
+        "YouTube",
+        "字幕",
+        "跨平台"
+      ],
+      "cat": "media",
+      "sub": "player",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2024-09-19"
+    },
+    {
+      "id": "media-player-13",
+      "name": "DivX Player",
+      "url": "https://www.divx.com/",
+      "desc": "DivX Player 支持 HEVC 与 4K 播放，含转码工具，适合高清影片收藏。",
+      "tags": [
+        "播放器",
+        "HEVC",
+        "4K",
+        "转码",
+        "高清"
+      ],
+      "cat": "media",
+      "sub": "player",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-08-27"
+    },
+    {
+      "id": "media-player-14",
+      "name": "RealPlayer",
+      "url": "https://www.real.com/",
+      "desc": "RealPlayer 老牌播放器，支持格式转换与云端存储，适合整理个人媒体库。",
+      "tags": [
+        "播放器",
+        "转换",
+        "云存储",
+        "媒体库",
+        "老牌"
+      ],
+      "cat": "media",
+      "sub": "player",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-03-08"
+    },
+    {
+      "id": "media-player-15",
+      "name": "Kodi",
+      "url": "https://kodi.tv/",
+      "desc": "Kodi 开源家庭影院中心，可管理本地与网络媒体，插件丰富适合客厅大屏。",
+      "tags": [
+        "播放器",
+        "家庭影院",
+        "插件",
+        "大屏",
+        "开源"
+      ],
+      "cat": "media",
+      "sub": "player",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2026-02-11"
+    },
+    {
+      "id": "media-player-16",
+      "name": "Elmedia Player",
+      "url": "https://www.elmedia-video.com/",
+      "desc": "Elmedia 是 macOS 播放器，支持流媒体与字幕，可投屏到 Apple TV。",
+      "tags": [
+        "播放器",
+        "macOS",
+        "流媒体",
+        "字幕",
+        "投屏"
+      ],
+      "cat": "media",
+      "sub": "player",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-04-25"
+    },
+    {
+      "id": "media-player-17",
+      "name": "CnX Player",
+      "url": "https://www.cnxplayer.com/",
+      "desc": "CnX Player 基于硬件加速，4K HDR 流畅播放，支持多平台与无线投屏。",
+      "tags": [
+        "播放器",
+        "硬件加速",
+        "4K",
+        "HDR",
+        "投屏"
+      ],
+      "cat": "media",
+      "sub": "player",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2024-12-15"
+    },
+    {
+      "id": "media-player-18",
+      "name": "BS.Player",
+      "url": "https://www.bsplayer.com/",
+      "desc": "BS.Player 轻量且支持字幕自动下载，皮肤丰富，是 Windows 经典播放器。",
+      "tags": [
+        "播放器",
+        "字幕",
+        "皮肤",
+        "Windows",
+        "轻量"
+      ],
+      "cat": "media",
+      "sub": "player",
+      "hot": 0,
+      "lang": "en",
+      "free": "freemium",
+      "added": "2025-01-09"
+    },
+    {
+      "id": "media-player-19",
+      "name": "Infuse",
+      "url": "https://firecore.com/",
+      "desc": "Infuse 是 Apple 生态高清播放器，自动匹配海报与字幕，体验精致。",
+      "tags": [
+        "播放器",
+        "Apple",
+        "字幕",
+        "海报",
+        "精致"
+      ],
+      "cat": "media",
+      "sub": "player",
+      "hot": 0,
+      "lang": "en",
+      "free": "paid",
+      "added": "2024-06-21"
+    },
+    {
+      "id": "media-player-20",
+      "name": "Video.js",
+      "url": "https://videojs.com/",
+      "desc": "Video.js 是开源 HTML5 网页播放器，可自定义控件，适合自建视频站点。",
+      "tags": [
+        "播放器",
+        "网页",
+        "HTML5",
+        "开源",
+        "可定制"
+      ],
+      "cat": "media",
+      "sub": "player",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-11-25"
+    },
+    {
+      "id": "media-video-x01",
+      "name": "FootageCrate",
+      "url": "https://footagecrate.com/",
+      "desc": "提供大量免费绿幕素材、特效叠加与动态图形，适用于视频剪辑与特效合成",
+      "tags": [
+        "绿幕",
+        "特效",
+        "VFX"
+      ],
+      "cat": "media",
+      "sub": "video",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "media-video-x02",
+      "name": "Filmstock",
+      "url": "https://filmstock.com/",
+      "desc": "万兴旗下免费视频素材库，含绿幕、动态背景与转场模板，适合剪辑下载使用",
+      "tags": [
+        "绿幕",
+        "动态背景",
+        "转场"
+      ],
+      "cat": "media",
+      "sub": "video",
+      "hot": 0,
+      "lang": "zh",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "media-video-x03",
+      "name": "Ignite Motion",
+      "url": "https://www.ignitemotion.com/",
+      "desc": "免费动态背景与循环视频素材站，适合做 PPT 片头与直播背景画面",
+      "tags": [
+        "动态背景",
+        "循环视频",
+        "片头"
+      ],
+      "cat": "media",
+      "sub": "video",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "media-video-x04",
+      "name": "Beachfront B-Roll",
+      "url": "https://www.beachfrontbroll.com/",
+      "desc": "完全免费可商用的空镜视频素材库，覆盖自然城市等多种场景，高清可下载",
+      "tags": [
+        "空镜",
+        "B-Roll",
+        "CC0"
+      ],
+      "cat": "media",
+      "sub": "video",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "media-video-x05",
+      "name": "VidsPlay",
+      "url": "https://www.vidsplay.com/",
+      "desc": "免费 royalty-free 视频素材聚合站，按分类提供可下载短片与片段",
+      "tags": [
+        "视频素材",
+        "CC0",
+        "聚合"
+      ],
+      "cat": "media",
+      "sub": "video",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "media-video-x06",
+      "name": "美国国家档案馆",
+      "url": "https://www.archives.gov/",
+      "desc": "美国 National Archives 公开影像资料，公共领域历史视频可自由下载使用",
+      "tags": [
+        "政府影像",
+        "公共领域",
+        "历史"
+      ],
+      "cat": "media",
+      "sub": "video",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "media-stock-x01",
+      "name": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/",
+      "desc": "维基共享资源库，海量公共领域与 CC 协议图片视频音频可免费取用",
+      "tags": [
+        "公共领域",
+        "CC0",
+        "聚合"
+      ],
+      "cat": "media",
+      "sub": "stock",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "media-stock-x02",
+      "name": "NASA 图库",
+      "url": "https://www.nasa.gov/",
+      "desc": "NASA 官方图片与影像库，全部公共领域高清太空地球素材免费下载",
+      "tags": [
+        "NASA",
+        "公共领域",
+        "太空"
+      ],
+      "cat": "media",
+      "sub": "stock",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "media-stock-x03",
+      "name": "大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/",
+      "desc": "Met 博物馆开放获取名画高清图，公共领域 artworks 可商用下载",
+      "tags": [
+        "名画",
+        "公共领域",
+        "博物馆"
+      ],
+      "cat": "media",
+      "sub": "stock",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "media-stock-x04",
+      "name": "美国国会图书馆",
+      "url": "https://www.loc.gov/",
+      "desc": "Library of Congress 公共领域历史照片与档案图，免费高清可下载",
+      "tags": [
+        "历史照片",
+        "公共领域",
+        "档案"
+      ],
+      "cat": "media",
+      "sub": "stock",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "media-stock-x05",
+      "name": "Europeana",
+      "url": "https://www.europeana.eu/",
+      "desc": "欧洲文化遗产开放平台，聚合博物馆图书馆公共领域图像资源",
+      "tags": [
+        "文化遗产",
+        "公共领域",
+        "博物馆"
+      ],
+      "cat": "media",
+      "sub": "stock",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "media-stock-x06",
+      "name": "Openverse",
+      "url": "https://openverse.org/",
+      "desc": "WordPress 推出的 CC 素材搜索引擎，聚合海量免费图片音频可检索",
+      "tags": [
+        "CC0",
+        "搜索引擎",
+        "聚合"
+      ],
+      "cat": "media",
+      "sub": "stock",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "media-stock-x07",
+      "name": "Openclipart",
+      "url": "https://openclipart.org/",
+      "desc": "完全公共领域的矢量插画库，SVG 素材可免署名自由使用",
+      "tags": [
+        "矢量",
+        "公共领域",
+        "SVG"
+      ],
+      "cat": "media",
+      "sub": "stock",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "media-stock-x08",
+      "name": "PublicDomainVectors",
+      "url": "https://publicdomainvectors.org/",
+      "desc": "免费公共领域矢量图库，提供 SVG 与 PNG 格式图标素材下载",
+      "tags": [
+        "矢量",
+        "公共领域",
+        "图标"
+      ],
+      "cat": "media",
+      "sub": "stock",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "media-stock-x09",
+      "name": "Nappy",
+      "url": "https://www.nappy.co/",
+      "desc": "免费 CC0 多元人像摄影图库，关注真实人群素材可商用下载",
+      "tags": [
+        "人像",
+        "CC0",
+        "多元"
+      ],
+      "cat": "media",
+      "sub": "stock",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "media-stock-x10",
+      "name": "Free Nature Stock",
+      "url": "https://freenaturestock.com/",
+      "desc": "完全免费 CC0 自然风光与生态摄影图库，可商用无需署名，高清可下载",
+      "tags": [
+        "自然",
+        "CC0",
+        "风光"
+      ],
+      "cat": "media",
+      "sub": "stock",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "media-stock-x11",
+      "name": "Picography",
+      "url": "https://picography.co/",
+      "desc": "免费 CC0 摄影图库，提供高清可商用照片无需署名授权下载",
+      "tags": [
+        "摄影",
+        "CC0",
+        "高清"
+      ],
+      "cat": "media",
+      "sub": "stock",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "media-stock-x12",
+      "name": "Rawpixel",
+      "url": "https://www.rawpixel.com/",
+      "desc": "免费公共领域与设计素材站，含复古照片与可商用图形资源",
+      "tags": [
+        "复古",
+        "公共领域",
+        "设计"
+      ],
+      "cat": "media",
+      "sub": "stock",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "media-stock-x13",
+      "name": "Wellcome Collection",
+      "url": "https://wellcomecollection.org/",
+      "desc": "Wellcome 基金会开放历史科学与医学影像，公共领域可免费下载",
+      "tags": [
+        "历史影像",
+        "公共领域",
+        "科学"
+      ],
+      "cat": "media",
+      "sub": "stock",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "media-stock-x14",
+      "name": "PublicDomainPictures",
+      "url": "https://www.publicdomainpictures.net/",
+      "desc": "免费 CC0 照片分享站，用户上传公共领域图片资源丰富可商用下载",
+      "tags": [
+        "摄影",
+        "CC0",
+        "公共领域"
+      ],
+      "cat": "media",
+      "sub": "stock",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "media-template-x01",
+      "name": "Velosofy",
+      "url": "https://velosofy.com/",
+      "desc": "免费视频模板站，提供 Premiere AE Vegas 片头转场与字幕模板",
+      "tags": [
+        "PR模板",
+        "AE模板",
+        "片头"
+      ],
+      "cat": "media",
+      "sub": "template",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "media-template-x02",
+      "name": "Videobolt",
+      "url": "https://videobolt.net/",
+      "desc": "在线片头与字幕条模板生成器，含免费模板可导出社媒视频",
+      "tags": [
+        "片头",
+        "字幕条",
+        "社媒"
+      ],
+      "cat": "media",
+      "sub": "template",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "media-template-x03",
+      "name": "AEJuice",
+      "url": "https://aejuice.com/",
+      "desc": "免费 AE 与 PR 模板及插件库，含图标动画与包装素材下载",
+      "tags": [
+        "AE模板",
+        "PR模板",
+        "插件"
+      ],
+      "cat": "media",
+      "sub": "template",
+      "hot": 1,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "media-template-x04",
+      "name": "RocketStock",
+      "url": "https://rocketstock.com/",
+      "desc": "免费 After Effects 模板站，提供字幕条与片头包装工程文件",
+      "tags": [
+        "AE模板",
+        "字幕条",
+        "片头"
+      ],
+      "cat": "media",
+      "sub": "template",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "media-template-x05",
+      "name": "MotionElements",
+      "url": "https://www.motionelements.com/",
+      "desc": "免费剪辑模板区，含 AE PR FCP 工程与动态图形可下载使用",
+      "tags": [
+        "AE模板",
+        "PR模板",
+        "动态图形"
+      ],
+      "cat": "media",
+      "sub": "template",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "media-template-x06",
+      "name": "PixelBuddha",
+      "url": "https://pixelbuddha.net/",
+      "desc": "免费设计资源站，提供 PS AE AI 模板与 UI 套件素材下载",
+      "tags": [
+        "PS模板",
+        "AE模板",
+        "UI"
+      ],
+      "cat": "media",
+      "sub": "template",
+      "hot": 2,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "media-template-x07",
+      "name": "FilterGrade",
+      "url": "https://filtergrade.com/",
+      "desc": "免费与付费设计模板库，含 PS 预设与 AE 视频模板资源",
+      "tags": [
+        "PS模板",
+        "AE模板",
+        "预设"
+      ],
+      "cat": "media",
+      "sub": "template",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "media-template-x08",
+      "name": "Freeject",
+      "url": "https://freeject.net/",
+      "desc": "免费 PSD 与 AE 模板下载站，含海报与视频包装素材资源",
+      "tags": [
+        "PSD模板",
+        "AE模板",
+        "海报"
+      ],
+      "cat": "media",
+      "sub": "template",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    },
+    {
+      "id": "media-template-x09",
+      "name": "MediaLoot",
+      "url": "https://medialoot.com/",
+      "desc": "免费设计与前端素材模板站，提供图标字体及 AE 动效模板下载可免费使用",
+      "tags": [
+        "设计模板",
+        "AE模板",
+        "图标"
+      ],
+      "cat": "media",
+      "sub": "template",
+      "hot": 0,
+      "lang": "en",
+      "free": "free",
+      "added": "2025-06-18"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+/* ==========================================================================
+   background.css —— 全局背景插画（黑白动漫少女）
+   --------------------------------------------------------------------------
+   设计要点：
+     1. 固定全屏（position: fixed），滚动时不动，只有一层轻微视差位移
+     2. 高斯模糊 + 低透明度，保证永远是「氛围」而不是「主体」，不抢内容可读性
+     3. 插画本体是透明底的黑线稿：
+          浅色主题 -> 直接相乘叠加（黑线在浅底上自然变淡）
+          深色主题 -> invert 反转成浅色线条（由 html[data-bg-scheme] 驱动）
+     4. 图片在首屏内容稳定后才惰性加载，并带一次淡入，避免抢带宽与突兀感
+     5. 图源已预处理为透明底（tools/build-bg.py），因此无需任何混合模式
+   ========================================================================== */
+
+.bg-figure {
+  position: fixed;
+  inset: 0;
+  z-index: -1;                 /* 压在内容之下、页面底色之上 */
+  overflow: hidden;
+  pointer-events: none;
+  user-select: none;
+
+  /* 可被主题/断点覆盖的显示参数 */
+  --bg-op: .5;                 /* 线条整体不透明度 */
+  --bg-blur: 9px;              /* 高斯模糊半径 */
+  --bg-scale: 1;
+  --bg-py: 0px;                /* 视差纵向位移（JS 写入） */
+  --bg-px: 0px;                /* 鼠标漂移位移（JS 写入） */
+  --bg-invert: 0;              /* 深色主题下反转为 1 */
+
+  /* 让插画从画面下缘自然淡出，避免被视口硬切 */
+  -webkit-mask-image: linear-gradient(180deg, #000 0%, #000 58%, rgba(0, 0, 0, .55) 82%, transparent 100%);
+  mask-image: linear-gradient(180deg, #000 0%, #000 58%, rgba(0, 0, 0, .55) 82%, transparent 100%);
+}
+
+.bg-figure img {
+  position: absolute;
+  right: -7%;
+  bottom: -9%;
+  height: min(116vh, 1160px);
+  width: auto;
+  max-width: none;
+
+  opacity: 0;                  /* 载入完成后由 .is-ready 淡入 */
+  filter: blur(var(--bg-blur)) invert(var(--bg-invert));
+  transform: translate3d(var(--bg-px), var(--bg-py), 0) scale(var(--bg-scale));
+  transform-origin: 68% 78%;
+  will-change: transform, opacity;
+
+  /* 四周径向遮罩：让线条与页面对话，而不是像一张贴纸 */
+  -webkit-mask-image: radial-gradient(72% 64% at 56% 42%, #000 34%, rgba(0, 0, 0, .62) 66%, rgba(0, 0, 0, .12) 88%, transparent 100%);
+  mask-image: radial-gradient(72% 64% at 56% 42%, #000 34%, rgba(0, 0, 0, .62) 66%, rgba(0, 0, 0, .12) 88%, transparent 100%);
+
+  transition: opacity 1.1s var(--ease-out), filter var(--dur) var(--ease);
+}
+
+.bg-figure img.is-ready { opacity: var(--bg-op); }
+
+/* ---------------------------------------------------------------- 深色主题 */
+/* html 上的 data-bg-scheme 由 components/background.js 依据主题的明暗基调写入，
+   未来新增深色主题也会自动生效，不需要再改这里。 */
+[data-bg-scheme="dark"] .bg-figure { --bg-op: .42; }
+[data-bg-scheme="dark"] .bg-figure img { --bg-invert: 1; }
+
+/* 赛博青这类高饱和深色主题，线条再淡一点更稳 */
+[data-theme="cyber"] .bg-figure { --bg-op: .34; }
+
+/* ---------------------------------------------------------------- 响应式 */
+/* 大屏：插画基本完整可见 */
+@media (min-width: 1500px) {
+  .bg-figure img { right: -3%; height: min(110vh, 1180px); }
+}
+
+/* 中等屏幕：缩小并往右推，避免挡住正文 */
+@media (max-width: 1180px) {
+  .bg-figure img { right: -12%; height: min(102vh, 940px); --bg-op: .42; }
+}
+
+/* 平板：进一步缩小、降低存在感 */
+@media (max-width: 900px) {
+  .bg-figure img { right: -18%; height: min(88vh, 780px); --bg-blur: 10px; --bg-op: .34; }
+  [data-bg-scheme="dark"] .bg-figure { --bg-op: .3; }
+}
+
+/* 手机：只保留一点轮廓，绝不干扰阅读 */
+@media (max-width: 640px) {
+  .bg-figure img { right: -26%; bottom: -4%; height: min(70vh, 600px); --bg-blur: 12px; --bg-op: .3; }
+  [data-bg-scheme="dark"] .bg-figure { --bg-op: .26; }
+  .bg-figure {
+    -webkit-mask-image: linear-gradient(180deg, #000 0%, #000 44%, rgba(0, 0, 0, .5) 74%, transparent 100%);
+    mask-image: linear-gradient(180deg, #000 0%, #000 44%, rgba(0, 0, 0, .5) 74%, transparent 100%);
+  }
+}
+
+/* ------------------------------------------------------- 用户偏好与打印 */
+/* 关闭动效时不再做位移动画（JS 也不会写入位移变量），只留静态背景 */
+[data-motion="off"] .bg-figure img { transition: opacity .001ms; }
+
+@media (prefers-reduced-motion: reduce) {
+  .bg-figure img { transition: none; }
+}
+
+@media print {
+  .bg-figure { display: none !important; }
+}

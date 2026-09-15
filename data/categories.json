@@ -1,0 +1,177 @@
+{
+  "version": "1.0.0",
+  "updated": "2026-09-14",
+  "site": {
+    "name": "资源方舟",
+    "enName": "ResourceArk",
+    "slogan": "一站式优质网站资源导航库",
+    "author": "我很能忍11"
+  },
+  "categories": [
+    {
+      "id": "education",
+      "name": "学习教育",
+      "icon": "🎓",
+      "accent": "#6366f1",
+      "desc": "从 K12 到高等教育的在线课程、语言学习与知识百科，搭建可持续的终身学习体系。",
+      "subcategories": [
+        { "id": "courses", "name": "在线课程", "desc": "国内外高校与机构提供的系统化课程平台" },
+        { "id": "language", "name": "语言学习", "desc": "英语、日语等多语种学习与权威词典工具" },
+        { "id": "exam", "name": "K12与考试", "desc": "中小学同步资源、升学考试与职业资格备考" },
+        { "id": "knowledge", "name": "百科知识", "desc": "百科全书、科普内容与知识问答社区" },
+        { "id": "reading", "name": "阅读图书", "desc": "电子书、公版图书与在线图书馆资源" },
+        { "id": "skills", "name": "技能提升", "desc": "职场技能、通识素养与兴趣课堂" }
+      ]
+    },
+    {
+      "id": "coding",
+      "name": "编程开发",
+      "icon": "💻",
+      "accent": "#0ea5e9",
+      "desc": "代码托管、技术文档、在线沙箱与算法训练，开发者日常所需的全部工具箱。",
+      "subcategories": [
+        { "id": "repo", "name": "代码托管", "desc": "Git 托管平台、代码审查与包仓库" },
+        { "id": "learn", "name": "教程文档", "desc": "官方文档、技术教程与系统学习路线" },
+        { "id": "playground", "name": "在线运行", "desc": "云端 IDE、在线编译与代码沙箱" },
+        { "id": "api", "name": "API与开放平台", "desc": "开放接口、聚合服务与第三方能力集成" },
+        { "id": "algorithm", "name": "算法刷题", "desc": "在线判题、算法题库与竞赛训练" },
+        { "id": "devtool", "name": "开发辅助", "desc": "低代码建站、CI/CD、调试与监控工具" }
+      ]
+    },
+    {
+      "id": "design",
+      "name": "设计素材",
+      "icon": "🎨",
+      "accent": "#ec4899",
+      "desc": "配色、图标、插画、字体与 UI 灵感，让每一次视觉创作都有据可依。",
+      "subcategories": [
+        { "id": "color", "name": "配色工具", "desc": "调色板生成、对比度校验与色彩管理" },
+        { "id": "icon", "name": "图标素材", "desc": "矢量图标库、图标搜索与 Icon Font" },
+        { "id": "image", "name": "图片插画", "desc": "免费图库、插画与纹理素材下载" },
+        { "id": "font", "name": "字体资源", "desc": "中英文字体下载、字库识别与字体预览" },
+        { "id": "ui", "name": "UI参考与组件", "desc": "设计规范、组件库与界面灵感收集" },
+        { "id": "tool", "name": "设计工具", "desc": "在线设计、抠图、样机与协作交付工具" }
+      ]
+    },
+    {
+      "id": "office",
+      "name": "办公效率",
+      "icon": "📊",
+      "accent": "#f59e0b",
+      "desc": "文档协作、思维导图、PDF 处理与云端存储，把琐碎事务压缩到最短路径。",
+      "subcategories": [
+        { "id": "doc", "name": "文档协作", "desc": "在线文档、表格与协同编辑平台" },
+        { "id": "mindmap", "name": "思维导图", "desc": "脑图、流程图与白板协作工具" },
+        { "id": "pdf", "name": "PDF工具", "desc": "PDF 转换、编辑、压缩与签署" },
+        { "id": "note", "name": "笔记与任务", "desc": "知识库笔记、待办清单与时间管理" },
+        { "id": "cloud", "name": "云盘与传输", "desc": "网盘存储、大文件传输与图床" },
+        { "id": "template", "name": "模板与简历", "desc": "PPT 模板、简历模板与文档素材" }
+      ]
+    },
+    {
+      "id": "academic",
+      "name": "文献学术",
+      "icon": "📚",
+      "accent": "#8b5cf6",
+      "desc": "论文检索、科研数据、专利标准与开放获取资源，服务科研全流程。",
+      "subcategories": [
+        { "id": "paper", "name": "论文检索", "desc": "文献数据库、引文索引与全文下载入口" },
+        { "id": "data", "name": "科研数据", "desc": "科学数据仓、统计数据库与数据集平台" },
+        { "id": "oa", "name": "开放获取", "desc": "OA 期刊、预印本与机构知识库" },
+        { "id": "scholar", "name": "学术工具", "desc": "文献管理、写作辅助与学术社交" },
+        { "id": "patent", "name": "专利与标准", "desc": "专利检索、标准查询与科技报告" },
+        { "id": "journal", "name": "期刊导航", "desc": "期刊分区、投稿指引与影响因子查询" }
+      ]
+    },
+    {
+      "id": "tools",
+      "name": "工具转换",
+      "icon": "🧰",
+      "accent": "#14b8a6",
+      "desc": "格式转换、图片音视频处理、编码加密与各类在线小工具，用完即走。",
+      "subcategories": [
+        { "id": "convert", "name": "格式转换", "desc": "文档、表格、电子书与数据格式互转" },
+        { "id": "image", "name": "图片处理", "desc": "在线压缩、抠图、放大与批量编辑" },
+        { "id": "media", "name": "音视频处理", "desc": "视频压缩、转码、录屏与音频提取" },
+        { "id": "code", "name": "编码加密", "desc": "编码解码、哈希、加密与二维码工具" },
+        { "id": "web", "name": "在线小工具", "desc": "聚合型工具箱、文本处理与实用查询" },
+        { "id": "generate", "name": "生成器", "desc": "代码片段、文案、样式与图形生成器" }
+      ]
+    },
+    {
+      "id": "news",
+      "name": "资讯数据",
+      "icon": "📰",
+      "accent": "#ef4444",
+      "desc": "科技资讯、财经数据、行业报告与榜单趋势，用信息差换取决策优势。",
+      "subcategories": [
+        { "id": "tech", "name": "科技资讯", "desc": "IT 媒体、产品动态与技术周报" },
+        { "id": "finance", "name": "财经数据", "desc": "行情数据、财报披露与宏观经济指标" },
+        { "id": "report", "name": "行业报告", "desc": "研究机构报告、白皮书与市场洞察" },
+        { "id": "rank", "name": "榜单趋势", "desc": "热搜榜、应用榜与趋势指数查询" },
+        { "id": "rss", "name": "聚合阅读", "desc": "RSS 阅读器、内容聚合与稍后读" },
+        { "id": "community", "name": "社区论坛", "desc": "技术社区、问答平台与兴趣圈子" }
+      ]
+    },
+    {
+      "id": "life",
+      "name": "生活实用",
+      "icon": "🏠",
+      "accent": "#22c55e",
+      "desc": "出行、健康、美食、购物与天气日历，覆盖日常生活的确定性需求。",
+      "subcategories": [
+        { "id": "traffic", "name": "出行交通", "desc": "机票火车票、地图导航与路况查询" },
+        { "id": "health", "name": "健康医疗", "desc": "健康科普、在线问诊与用药查询" },
+        { "id": "food", "name": "美食菜谱", "desc": "菜谱做法、食材数据库与餐厅点评" },
+        { "id": "shop", "name": "购物比价", "desc": "历史价格、优惠比价与好物推荐" },
+        { "id": "weather", "name": "天气日历", "desc": "天气预报、日历排期与节假日查询" },
+        { "id": "service", "name": "生活服务", "desc": "政务办事、快递查询与便民服务" }
+      ]
+    },
+    {
+      "id": "media",
+      "name": "影音素材",
+      "icon": "🎬",
+      "accent": "#f97316",
+      "desc": "视频、音乐、图片与字幕素材库，为内容创作者提供合规可商用的弹药。",
+      "subcategories": [
+        { "id": "video", "name": "视频素材", "desc": "免版权视频片段、空镜与动态背景" },
+        { "id": "music", "name": "音乐音频", "desc": "免版权音乐、音效与环境音库" },
+        { "id": "stock", "name": "图片素材", "desc": "商用图库、摄影作品与矢量素材" },
+        { "id": "subtitle", "name": "字幕与转写", "desc": "字幕下载、语音转写与翻译工具" },
+        { "id": "template", "name": "视频模板", "desc": "剪辑模板、片头包装与设计源文件" },
+        { "id": "player", "name": "播放工具", "desc": "在线播放器、格式兼容与编解码工具" }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "icon": "🐙",
+      "accent": "#64748b",
+      "desc": "自建服务、开源软件、命令行利器与镜像加速，把工具的所有权握在手里。",
+      "subcategories": [
+        { "id": "selfhost", "name": "自建服务", "desc": "可私有化部署的应用与 NAS 生态" },
+        { "id": "software", "name": "开源软件", "desc": "跨平台开源应用与替代方案合集" },
+        { "id": "cli", "name": "命令行工具", "desc": "终端增强、效率脚本与现代 CLI" },
+        { "id": "extension", "name": "浏览器扩展", "desc": "去广告、脚本管理与效率插件" },
+        { "id": "mirror", "name": "镜像与加速", "desc": "软件镜像站、依赖加速与测速工具" },
+        { "id": "awesome", "name": "精选清单", "desc": "Awesome 系列、社区精选与资源汇总" }
+      ]
+    },
+    {
+      "id": "game",
+      "name": "游戏娱乐",
+      "icon": "🎮",
+      "accent": "#d946ef",
+      "desc": "游戏平台、在线小游戏、攻略数据、直播电竞与影音动漫，属于工作之外的那部分时间。",
+      "subcategories": [
+        { "id": "platform", "name": "游戏平台", "desc": "PC / 主机 / 手游的发行商店、启动器与游戏库" },
+        { "id": "play", "name": "在线游戏", "desc": "免安装即点即玩，网页小游戏与休闲对战" },
+        { "id": "guide", "name": "攻略数据", "desc": "攻略 wiki、评分媒体与游戏数据库" },
+        { "id": "live", "name": "直播电竞", "desc": "直播平台、电竞赛事与玩家社区" },
+        { "id": "video", "name": "影音综艺", "desc": "影视观看、评分票务与音乐电台" },
+        { "id": "anime", "name": "动漫二次元", "desc": "番剧、漫画、同人创作与二次元社区" }
+      ]
+    }
+  ]
+}

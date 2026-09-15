@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="light" data-radius="soft" data-motion="on">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>页面走丢了 · 资源方舟</title>
+  <meta name="description" content="你访问的页面不存在，返回资源方舟首页继续浏览。">
+  <meta name="robots" content="noindex">
+  <meta name="author" content="我很能忍11">
+  <meta name="theme-color" content="#f5f6fb">
+  <link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
+
+  <!-- 样式：变量与主题 → 基础 → 组件 → 布局 → 全局背景 → 动效 -->
+  <link rel="stylesheet" href="assets/css/theme.css">
+  <link rel="stylesheet" href="assets/css/base.css">
+  <link rel="stylesheet" href="assets/css/components.css">
+  <link rel="stylesheet" href="assets/css/layout.css">
+  <link rel="stylesheet" href="assets/css/background.css">
+  <link rel="stylesheet" href="assets/css/animations.css">
+
+  <script>
+    (function () {
+      function val(k, d) {
+        try {
+          var v = localStorage.getItem(k);
+          if (v === null) return d;
+          try { return JSON.parse(v); } catch (e) { return v; }
+        } catch (e) { return d; }
+      }
+      var root = document.documentElement;
+      root.setAttribute('data-theme', val('ark.theme', 'light'));
+      root.setAttribute('data-radius', val('ark.radius', 'soft'));
+      root.setAttribute('data-motion', val('ark.motion', true) ? 'on' : 'off');
+      var accent = val('ark.accent', null);
+      if (accent) { root.style.setProperty('--accent', accent); }
+    })();
+  </script>
+</head>
+<body data-page="404">
+
+  <div id="ark-bg" class="bg-figure" aria-hidden="true"></div>
+
+  <!-- 404 是纯静态兜底页：不加载任何数据，只提供回到主站的入口 -->
+  <main class="page main">
+    <div class="wrap" style="max-width:660px;padding-top:13vh">
+      <div class="panel panel-pad">
+        <div class="empty">
+          <div class="ico">
+            <svg viewBox="0 0 24 24" width="46" height="46" fill="none" stroke="currentColor"
+                 stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <circle cx="12" cy="12" r="8.3"/>
+              <path d="m15.3 8.7-1.7 4.9-4.9 1.7 1.7-4.9Z"/>
+            </svg>
+          </div>
+          <p class="empty-t">没有找到这个页面</p>
+          <p class="tiny dim">地址可能拼错了，或者这个页面已经被合并进单页路由。</p>
+          <div class="empty-actions">
+            <a class="btn btn-primary" href="index.html#/">回到首页</a>
+            <a class="btn btn-soft" href="index.html#/search">浏览全部资源</a>
+          </div>
+        </div>
+        <div class="hr"></div>
+        <p class="sm dim" style="margin:0">
+          本站已升级为单页应用（SPA），页面地址形如 <code>index.html#/category?cat=coding</code>。
+        </p>
+      </div>
+      <p class="tiny dim center" style="margin-top:18px">本站由 我很能忍11 制作</p>
+    </div>
+  </main>
+
+</body>
+</html>

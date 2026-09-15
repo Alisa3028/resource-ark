@@ -1,0 +1,106 @@
+/* ==========================================================================
+   animations.css —— 关键帧、滚动淡入、视差、转场
+   ========================================================================== */
+
+/* 页面进场 / 离场 */
+@keyframes pageIn {
+  from { opacity: 0; transform: translateY(16px); }
+  to   { opacity: 1; transform: none; }
+}
+@keyframes pageOut {
+  from { opacity: 1; transform: none; }
+  to   { opacity: 0; transform: translateY(-12px); }
+}
+
+/**
+ * SPA 路由转场
+ * ----------------------------------------------------------------------------
+ * 多页时代每个页面靠 .page 的进场动画；改成单页后 #ark-content 始终存在，
+ * 不会被重新插入文档，动画也就不会自动重播（main.js 的 replay() 会先移除
+ * 再添加 .route-in 并强制重排，从而让动画「看起来像换了一页」）。
+ * 离场用极短的 .route-out，只做视觉上的收束，不阻塞渲染。
+ */
+.route-in  { animation: pageIn .42s var(--ease-out) both; }
+.route-out { animation: pageOut .16s var(--ease) both; }
+
+/* 骨架屏流光 */
+@keyframes shimmer { 100% { transform: translateX(100%); } }
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* 背景光斑漂浮 */
+@keyframes float {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  33%      { transform: translate(26px, -22px) scale(1.06); }
+  66%      { transform: translate(-20px, 16px) scale(.96); }
+}
+
+/* 在线状态小点 */
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50%      { opacity: .55; transform: scale(1.25); }
+}
+
+/* 提示条 */
+@keyframes toastIn {
+  from { opacity: 0; transform: translateY(14px) scale(.94); }
+  to   { opacity: 1; transform: none; }
+}
+@keyframes toastOut {
+  to { opacity: 0; transform: translateY(10px) scale(.94); }
+}
+
+/* 元素淡入上浮（由 IntersectionObserver 加 .in 触发） */
+.reveal {
+  opacity: 0;
+  transform: translateY(22px);
+  transition: opacity .62s var(--ease-out), transform .62s var(--ease-out);
+  will-change: opacity, transform;
+}
+.reveal.in { opacity: 1; transform: none; }
+
+/* 交错延迟：列表批量淡入时错峰出现 */
+.reveal[data-d="1"] { transition-delay: .06s; }
+.reveal[data-d="2"] { transition-delay: .12s; }
+.reveal[data-d="3"] { transition-delay: .18s; }
+.reveal[data-d="4"] { transition-delay: .24s; }
+.reveal[data-d="5"] { transition-delay: .3s; }
+.reveal[data-d="6"] { transition-delay: .36s; }
+
+/* 缩放淡入 */
+.reveal-pop { opacity: 0; transform: scale(.94); transition: opacity .5s var(--ease-out), transform .5s var(--ease-out); }
+.reveal-pop.in { opacity: 1; transform: none; }
+
+/* 左滑淡入 */
+.reveal-x { opacity: 0; transform: translateX(-26px); transition: opacity .6s var(--ease-out), transform .6s var(--ease-out); }
+.reveal-x.in { opacity: 1; transform: none; }
+
+/* 视差分层：由 JS 写入 --py，CSS 负责应用 */
+.parallax { transform: translate3d(0, var(--py, 0px), 0); will-change: transform; }
+
+/* 卡片内元素 hover 联动 */
+.card .card-name { transition: color var(--dur-f) var(--ease); }
+.card:hover .card-name { color: var(--c, var(--accent)); }
+
+/* 图标弹跳（点击反馈） */
+@keyframes pop { 0% { transform: scale(1); } 45% { transform: scale(1.28); } 100% { transform: scale(1); } }
+.pop { animation: pop .34s var(--ease-out); }
+
+/* 随机推荐按钮的旋转骰子 */
+@keyframes roll { to { transform: rotate(360deg); } }
+.rolling { animation: roll .6s var(--ease-out); }
+
+/* 顶部进度条（页面加载时） */
+.topbar {
+  position: fixed; top: 0; left: 0; height: 3px; z-index: 200;
+  background: var(--grad); width: 0;
+  transition: width .3s var(--ease), opacity .4s var(--ease);
+  box-shadow: 0 0 12px var(--accent);
+}
+.topbar.done { opacity: 0; }
+
+/* 主题切换时的整体过渡 */
+.theme-fade { animation: themeFade .42s var(--ease); }
+@keyframes themeFade {
+  0% { filter: saturate(.6) brightness(1.1); }
+  100% { filter: none; }
+}
